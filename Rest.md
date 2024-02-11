@@ -3,7 +3,7 @@ Seven types of rest by Dr. Saundra Dalton-Smith:
 test
 test1
 test2
-
+test3
 
 1. Physical Rest: Can be passive (sleeping, napping) or active (yoga, stretching, massage).
 2. Mental Rest: Take short breaks between tasks and meetings, create a power-down ritual to separate work from personal, meditate.
