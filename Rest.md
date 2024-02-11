@@ -1,6 +1,7 @@
 Seven types of rest by Dr. Saundra Dalton-Smith:
 
 test
+test1
 
 
 1. Physical Rest: Can be passive (sleeping, napping) or active (yoga, stretching, massage).
