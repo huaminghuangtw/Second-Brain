@@ -1,0 +1,5 @@
+- General 4-step cycle
+- Recall (by writing down)
+- Reflect (by reviewing what you wrote down)
+- Refine (by finding insights and takeaways)
+- Respond (by taking actions accordingly)

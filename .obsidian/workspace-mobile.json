@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "acd28400601d143a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bullet Journaling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Rest.md",
+            "file": "Bullet Journaling.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Rest.md",
+            "file": "Bullet Journaling.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Rest.md"
+            "file": "Bullet Journaling.md"
           }
         }
       }
@@ -131,6 +144,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf11681caab459f3",
-  "lastOpenFiles": []
+  "active": "f674625e019985af",
+  "lastOpenFiles": [
+    "Rest.md",
+    "Bullet Journaling.md"
+  ]
 }
