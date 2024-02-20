@@ -1,0 +1,1 @@
+- Money isn’t made in the BUY or the SELL. It’s made in the WAIT.

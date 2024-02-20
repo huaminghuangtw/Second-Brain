@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rest.md",
+                "file": "Business Strategies.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Bullet Journaling.md",
+            "file": "Business Strategies.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Bullet Journaling.md",
+            "file": "Business Strategies.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Bullet Journaling.md"
+            "file": "Business Strategies.md"
           }
         }
       }
@@ -144,9 +143,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acd28400601d143a",
+  "active": "cf11681caab459f3",
   "lastOpenFiles": [
+    "Goodwill.md",
+    "Business Strategies.md",
     "Rest.md",
-    "Bullet Journaling.md"
+    "Bullet Journaling.md",
+    "Goal Setting.md",
+    "The Quad Marketing Calendar.md",
+    "The Psychology of Money.md",
+    "Wealth Creation and Building.md",
+    "The Principal-Agent Problem.md",
+    "Liquid Assets.md",
+    "The Spotlight Effect.md"
   ]
 }
