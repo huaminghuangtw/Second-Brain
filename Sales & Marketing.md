@@ -1,0 +1,14 @@
+- The Low-Ball Technique: making an attractive/appealing initial/primary offer to induce a person to accept the offer and then making the terms less favorable (e.g., increasing the price)
+    - This approach is more successful than when the less favorable request is made directly
+- The Leaky Bucket Marketing Theory suggests that organizations are always losing customers, like water dripping from a leaky bucket. To keep market share, the organizations have to continually bring in new customers to replace the lost customers. This keeps the bucket full – or at least it slows the leak
+- If you want to put your marketing on steroids, reverse engineer it from the group chat message you want people to send
+- Lead Funnel: steps a customer takes from awareness to purchase
+- Marketing is not about which product you sell, but about which story you tell.
+- Word of mouth is the best form of marketing. It spreads like fire.
+- Success in business requires the ability to influence, and anything that reduces your ability to influence limits your ability to succeed.
+    - 5 elements of influence
+        - Pitching
+        - Publish
+        - Product
+        - Profile
+        - Partnership
