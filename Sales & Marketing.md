@@ -12,3 +12,4 @@
         - Product
         - Profile
         - Partnership
+- USP (Unique Selling Proposition/Point)
