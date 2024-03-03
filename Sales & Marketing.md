@@ -13,3 +13,15 @@
         - Profile
         - Partnership
 - USP (Unique Selling Proposition/Point)
+- To generate leads, create demand-supply tension
+- Signal first. Sales second.
+	- Strategies to collect signals of interests
+		- Waiting lists registration
+			- Cybertruck
+		- Discussion groups
+			- FB, WhatsApp
+		- Introduction events/workshops
+			- Zoom
+			- To educate people
+			- "Make intangible tangible"
+		- Scorecards
