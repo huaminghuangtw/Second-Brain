@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "f8e54a03cbfc1600",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e1a78e51dc8252a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab8d53902011c49a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Quad Marketing Calendar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4172ec6c63ac37c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goodwill.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b2c6fd05bd6106d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Liquid Assets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32b0790993081e74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wealth Creation and Building.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d4b271d1db26836",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wealth Creation and Building.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa17cb05b3300d79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goodwill.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b98997df014b768",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sales & Marketing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d4c938b3c85c48f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "歐式麵包.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5aca3fd70428f9bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sales & Marketing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27f8ae86c101fb4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cooking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0906890f05857668",
+    "type": "split",
+    "children": [
+      {
+        "id": "0518e79674aaa968",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89beba9e64f7cb57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bdd6240c42cc3783",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64cf2007ae4d70b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "908b0c967faa2649",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8daf0b1793077d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dd941a6de0053a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cooking.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0a0a0795d0a6d84",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cooking.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5cbe247a7a34e9fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "013c5bcf3fc498b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cooking.md"
+              }
+            }
+          },
+          {
+            "id": "c235f8d15df379fa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "27f8ae86c101fb4b",
+  "lastOpenFiles": [
+    "The Quad Marketing Calendar.md",
+    "Business Strategies.md",
+    "Bullet Journaling.md",
+    "().md",
+    "Cooking.md",
+    "Real Estate.md",
+    "Sales & Marketing.md",
+    "歐式麵包.md",
+    "Goodwill.md",
+    "Wealth Creation and Building.md",
+    "The Principal-Agent Problem.md",
+    "The Psychology of Money.md",
+    "Liquid Assets.md",
+    "The Spotlight Effect.md",
+    "Rest.md",
+    "Goal Setting.md",
+    "New Text Document (5).txt",
+    "New Text Document (4).txt",
+    "New Text Document (3).txt",
+    "New Text Document (2).txt",
+    "New Text Document.txt"
+  ]
+}
