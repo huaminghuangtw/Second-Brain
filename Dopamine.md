@@ -1,2 +1,4 @@
-- 爽痛平衡
+- 爽痛平衡 - 翹翹板的兩端 (爽快 + 痛苦)
 - 聲光效果的刺激
+- 不斷地「盲、茫、忙」
+- "Persons with severe addictions are among those contemporary prophets that we ignore to our own demise, for they show us who we truly are. (重度成癮者是當代的預言家，不把他們當一回事，沒有好下場的是我們，因為他們反映的正是我們真實的面貌)" - Kent Dunnington
