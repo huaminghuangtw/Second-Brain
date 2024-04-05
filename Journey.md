@@ -1,0 +1,1 @@
+- "Turtles all the way down" is an expression of the problem of infinite regress

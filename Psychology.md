@@ -1,0 +1,1 @@
+- Peter Singers’s thought experiment “The Drowning Child in the Pond”
