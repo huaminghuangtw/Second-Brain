@@ -1,4 +1,0 @@
-- Def: the amount of value someone received in excess of what they paid for
-- = customer surplus
-- Goodwill compounds faster than revenue
-- Make people an offer so good they would feel stupid saying no
