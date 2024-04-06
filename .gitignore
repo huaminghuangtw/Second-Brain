@@ -1,1 +1,7 @@
 .obsidian/
+
+# Ignore all dot files
+.*
+
+# Except for .gitignore
+!.gitignore

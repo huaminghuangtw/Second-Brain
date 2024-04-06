@@ -1,0 +1,1 @@
+- Leadership is seeing the greatness in others before they see it in themselves
