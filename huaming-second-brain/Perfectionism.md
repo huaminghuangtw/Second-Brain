@@ -1,0 +1,2 @@
+- History remembers those who got to market first. Getting your creation out into the world is more important than getting it perfect.
+- Done is better than perfect.

@@ -1,0 +1,6 @@
+- [#226 ‒ The science of happiness | Arthur Brooks, Ph.D. - Peter Attia (peterattiamd.com)](https://peterattiamd.com/arthurbrooks/)
+	- The three "macronutrients" of happiness:
+		- Enjoyment: Enjoy your life
+		- Satisfaction: The feeling of reward from a job well done
+		- Purpose: Big picture meaning and significance
+	- To be a happy person, you need to have these three in balance and abundance

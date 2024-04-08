@@ -1,0 +1,1 @@
+Creativity tends to arise in states of relaxation which are preceded by a long period of focused deep thinking

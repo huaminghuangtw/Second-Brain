@@ -1,0 +1,2 @@
+- "The price of anything is the amount of life you exchange for it." — Henry David
+- Anything you do in life is a trade of your finite remaining time for something else. Time is the most precious/valuable asset. Trade it carefully.
