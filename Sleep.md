@@ -1,0 +1,7 @@
+- You can't force sleep. The more you force sleep, the more it resists.
+	- Insomniac delusion: If you can’t fall asleep, just try harder. This will do the opposite.
+- If you find yourself lying awake for more than 20 minutes, get out of bed – read or meditate until sleepy again.
+- Sleeping naked/nude
+- 5g of Glycine before sleep
+- Regularity is key. Try going to bed at the same time every day (+/-30min).
+- Add magnetic tapes to the curtain
