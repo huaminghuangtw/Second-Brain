@@ -1,2 +1,3 @@
 - The Two Arrows: In life, we cannot always control the first arrow. However, the second arrow is our REACTION to the first. The second arrow is always optional.
 - "Between (triggering) stimulus and (emotional) response there is a space (gap). In that space is our power to choose our response. In our response lies our growth and our freedom." — Viktor Frankl
+- "Your living is determined not so much by what life brings to you as by the attitude you bring to life; not so much by what happens to you as by the way your mind looks at what happens." — Khalil Gibran
