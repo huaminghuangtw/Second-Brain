@@ -1,4 +1,4 @@
-- [Mostly undocumented](https://github.com/RPi-Distro/raspi-config/blob/master/raspi-config), non-interactive mode (`nonint`) of `raspi-config` → The non-interactive mode is basically split into two modes: **get** (for checking current settings) and **do** (for writing new settings)
+- [Mostly undocumented](https://github.com/RPi-Distro/raspi-config/blob/master/raspi-config), non-interactive mode (`nonint`) of `raspi-config` &rarr; The non-interactive mode is basically split into two modes: **get** (for checking current settings) and **do** (for writing new settings)
 - https://raspberrypi-guide.github.io
 - RPi is a Single-Board Computer (SBC)
 - **Raspberry Pi Pico** (for embedded projects and low-level programming) v.s **Raspberry Pi Zero[ W]** (for general-purpose computing tasks)

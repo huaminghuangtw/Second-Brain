@@ -44,7 +44,7 @@ GitHub Copilot
 Crypto  
 教中文  
 Preply  
-CMS -> Obsidian (Hua-Ming's vault) (Obsidian for personal knowledge management, Notion for team project collaboration)  
+CMS &rarr; Obsidian (Hua-Ming's vault) (Obsidian for personal knowledge management, Notion for team project collaboration)  
 Tutorial: Danny Hatcher, Linking Your Thinking  
 ❗一張卡片(Note) = 一個想法 (Idea): Atom ⇨ elements/molecules/compounds  
 Multiple windows in parallel  

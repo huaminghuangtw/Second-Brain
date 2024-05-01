@@ -43,7 +43,7 @@
     - xargs reads items from the standard input, delimited by blanks (which can be protected with double or single quotes or a backslash) or newlines, and executes the command (default is echo) one or more times with any initial-arguments followed by items read from standard input. Blank lines on the standard input are ignored.
     - [Use case](https://unix.stackexchange.com/questions/179851/using-a-file-to-install-packages-with-apt-get): using a file to install packages with `apt-get`, similar to `requirements.txt` in python: `xargs --no-run-if-empty --arg-file=mypackages.txt sudo apt-get install -y`
 - `apt-get`
-    - Hide the output of `apt-get install` completely: `sudo apt-get -yq install <package_name> &> /dev/null` (Not recommended) -> `sudo apt-get -yq install <package_name> &> /var/log/apt-install.log` (Recommended)
+    - Hide the output of `apt-get install` completely: `sudo apt-get -yq install <package_name> &> /dev/null` (Not recommended) &rarr; `sudo apt-get -yq install <package_name> &> /var/log/apt-install.log` (Recommended)
         - `-qq` = `-y` (You should never use `-qq` without a no-action modifier such as `-d`, `--print-uris` or `-s` as APT may decided to do something you did not expect.)
     - Make the output of `apt-get install` less noisy:
         - `sudo DEBIAN_FRONTEND=noninteractive && apt-get -yq install [packagename]`

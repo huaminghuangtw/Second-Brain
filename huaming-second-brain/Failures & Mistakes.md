@@ -1,3 +1,3 @@
 - Your goal is not to avoid making mistakes, but to avoid making the *same* mistake
 - Once is a mistake. Twice is a choice. Three times is a decision.
-- 
+-

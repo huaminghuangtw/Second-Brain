@@ -1,8 +1,8 @@
 - 養成在 Code 裡面 Tag #TODO, #FIXME, #BUG, #NOTE, #OPTIMIZE 的習慣
-- Run both `./makeAllTests` and `./security_system_run` binaries -> **execution order** might be also one of the factors
+- Run both `./makeAllTests` and `./security_system_run` binaries &rarr; **execution order** might be also one of the factors
 - Ensure that each Pull Request (PR) out for code review solves one problem, and is small and targeted.
   - This also applies to the Git commits
-- !!! Don't Over-Engineer !!! -> Save Time !!!
+- !!! Don't Over-Engineer !!! &rarr; Save Time !!!
   - Stick to the requirements of today, without trying to solve complex problems of tomorrow
   - Solve only the problems that you have today!
   - Proof of Concept (POC)
@@ -14,11 +14,11 @@
 - Focus on High-level Design Principles
 
   - Moduler Code
-    - Don't Repeat Yourself (DRY) -> consolidate repeatable code into reusable units
+    - Don't Repeat Yourself (DRY) &rarr; consolidate repeatable code into reusable units
     - Functions should only do one thing
-  - Readable Code (i.e., as simple & small as possible) -> Maintainable Code
+  - Readable Code (i.e., as simple & small as possible) &rarr; Maintainable Code
     - "The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code. …[Therefore,] making it easy to read makes it easier to write."
   - Automated Tests
     - Ensure your code is tested with, tons of "unit tests", "integration tests", and some "End to End tests"
       - Write lots of automated tests at the granular level, and fewer of them at the higher level
-    - Testing shouldn't be an aftermath, and should be part of your development process - [The Golden Rules of Test-driven development (TDD)](https://www.nilkanth.com/three-monkeys-of-test-driven-development/) - Don't build what you can't test - Write a test before writing the code and focus on writing only the code necessary to pass the test - Test as you build: TDD constantly repeats the steps of adding test cases that fail (no code written yet), passing them with unit testing (code written), and refactoring (code improved) - "System.NotImplementedException: 'The method or operation is not implemented." in Google Test Framework → `EXPECT_NO_FATAL_FAILURE(FAIL());`
+    - Testing shouldn't be an aftermath, and should be part of your development process - [The Golden Rules of Test-driven development (TDD)](https://www.nilkanth.com/three-monkeys-of-test-driven-development/) - Don't build what you can't test - Write a test before writing the code and focus on writing only the code necessary to pass the test - Test as you build: TDD constantly repeats the steps of adding test cases that fail (no code written yet), passing them with unit testing (code written), and refactoring (code improved) - "System.NotImplementedException: 'The method or operation is not implemented." in Google Test Framework &rarr; `EXPECT_NO_FATAL_FAILURE(FAIL());`

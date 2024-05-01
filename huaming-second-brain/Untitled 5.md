@@ -5,7 +5,7 @@
 
 Life is a video game. Life is an interval workout.
 
-Enjoy the process/journey - Life isn't just about where we’re going, but how we get there
+Enjoy the process/journey - Life isn't just about where we're going, but how we get there
 
 給自己 2-3 年的時間，我要 FIRE (def: trading time for money) before 30!!! 然後 Double Down on (1) Cycling & Traveling (2) Parenting (My Family) (3) Reading/Writing/Thinking
 
@@ -72,7 +72,7 @@ Sports
 	•	Own lots of ASSETS
 	•	Donate 10% of income to child charity
 	•	Owning a distribution is a cheat code—to do business on easy mode
-	•	The biggest living expense is tax → Running your own business can help you become more tax-efficient → Setup a company designed to do nothing more than invest
+	•	The biggest living expense is tax &rarr; Running your own business can help you become more tax-efficient &rarr; Setup a company designed to do nothing more than invest
 	•	爭取到一級車隊的後勤工作機會
 	•	到世界各地旅行/到不同國家比賽參加單車&馬拉松比賽&活動 (UCI Gran Fondo World Series & 北歐五國馬拉松)，累積大量經驗/閱歷
 	•	Use the airport system like the subway system
@@ -113,7 +113,7 @@ The purpose of life is a life of purpose.
 	•	A calm and peaceful mind
 	•	A fit body
 	•	A house full of love (parents, children, partner, friends, self)
-	•	我們每個人對於已經存在 70 億年的宇宙來說，都是倏忽及逝的存在，在人生這段旅程中，沒有一樣東西能永久留下，他們都終將淡去消失→ Live in the Present Moment. Optimize for happiness by relentlessly prioritizing Sleep + Nutrition + Exercise + Sunlight + Relationships
+	•	我們每個人對於已經存在 70 億年的宇宙來說，都是倏忽及逝的存在，在人生這段旅程中，沒有一樣東西能永久留下，他們都終將淡去消失&rarr; Live in the Present Moment. Optimize for happiness by relentlessly prioritizing Sleep + Nutrition + Exercise + Sunlight + Relationships
 	•	極簡生活 (Minimalism)
 	•	🤓 Publish a book based on my evergreen notes that document my life
 	•	Make a positive contribution to humanity: 讓台灣成為世界第一的自行車王國，讓大家知道我們台灣人不是塑膠做的 (很會做腳踏車也很會騎腳踏車!)

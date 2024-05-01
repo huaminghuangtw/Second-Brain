@@ -2,21 +2,21 @@
   - https://www.shellcheck.net/
   - https://github.com/bats-core/bats-core
 - Logging & Redirection
-  - In Unix and Unix-like computer operating systems, every process starts with 3 standard file descriptors (FD): 0 – Standard input (`stdin`); 1 – standard output (`stdout`); 2 – standard error (`stderr`) → [Example](https://stackoverflow.com/a/18462920/10351382)
-  - Logging Levels (in order of fatality): (1) FATAL (2) ERROR (3) WARN (4) INFO (5) DEBUG (6) TRACE → `logger [-p or --priority] [priority]` → The priority may be specified numerically or as a _[facility.level](https://man7.org/linux/man-pages/man1/logger.1.html#FACILITIES_AND_LEVELS)_ pair
+  - In Unix and Unix-like computer operating systems, every process starts with 3 standard file descriptors (FD): 0 – Standard input (`stdin`); 1 – standard output (`stdout`); 2 – standard error (`stderr`) &rarr; [Example](https://stackoverflow.com/a/18462920/10351382)
+  - Logging Levels (in order of fatality): (1) FATAL (2) ERROR (3) WARN (4) INFO (5) DEBUG (6) TRACE &rarr; `logger [-p or --priority] [priority]` &rarr; The priority may be specified numerically or as a _[facility.level](https://man7.org/linux/man-pages/man1/logger.1.html#FACILITIES_AND_LEVELS)_ pair
   - Best Practices
-    - For immediate feedback → write to the console
+    - For immediate feedback &rarr; write to the console
       - `/dev/console`
-    - For long-term record → write to the system log file
+    - For long-term record &rarr; write to the system log file
   - Commands
-    - In the case of most Linux systems, `logger [options] "messages"` writes messages to the system log file `syslog` located at `/var/log` → `sudo tail -f /var/log/syslog`
+    - In the case of most Linux systems, `logger [options] "messages"` writes messages to the system log file `syslog` located at `/var/log` &rarr; `sudo tail -f /var/log/syslog`
     - tee [OPTIONS] (`-a`/`--append`, `-i`/`--ignore-interrupts`) [FILE]
       - for redirecting output of individual commands to a file (while still displaying it on the terminal)
     - script [OPTIONS] (`-q`/`--quiet`) [FILE]
       - for recording complete terminal sessions (will not display output on the terminal)
 - 比較
-  - Check for string emptiness → `-z "$string"` or `${#string} -eq 0`
-  - Check for string non-emptiness → `-n "$string"`
+  - Check for string emptiness &rarr; `-z "$string"` or `${#string} -eq 0`
+  - Check for string non-emptiness &rarr; `-n "$string"`
   - `-n` is the same as `! -z`
 - Both `[` and `test` commands are used interchangeably
 - 比較

@@ -1,6 +1,6 @@
 ### Raymond Chandler's two writing rules
-1. You don’t have to write
-2. You can’t do anything else
+1. You don't have to write
+2. You can't do anything else
 
 If sitting at a computer kills your creativity, talk to your phone (Otter.ai) and transcribe what you say until you have enough ideas to write.
 
@@ -15,7 +15,7 @@ Concise
 Charming  
 Compelling  
 science-based, evidence-based  
-Did you like this post? Here’s how you can support me:  
+Did you like this post? Here's how you can support me:  
 👏 Give me a clap below!  
 ✉️ Follow The Remote Work Experiment on Medium!  
 👊 Connect with me on LinkedIn and Twitter!  
@@ -42,7 +42,7 @@ partner program
 use top tagslimited number of citationstitle in capsListivles  
 Format/Write the content  
 use a subtitleadd a cover photo (no descriptions, only the reference)photos of womenphotos of cute puppies unser Start with a powerful quote from famous people horizontal divider between sectionsput photos sparingly (1 photo for 5 mins)ask relatable questions every 1-2 minutes of reading time, on separate lines, in italic each section = 3-5 paragraphseach paragraph consists of only 2-4 lines use one-line sentences for emotion-grabbing sentencesuse bold for highlights use quote for the main point be conversational AMAP (having a dialogue, not a monologue)actionable or inspiring conclusion drive reader engagement recall headline in the conclusionhave a call-to-action at the bottom placing the time required to read in the subtitle of their articleswrite from your own substantial personal life experience/expertise like you're writing an empathic tutorial that includes insider tips and detailsShare your own perspectivewrite with the reader in mind (You ⇨ Me ⇨ You)  
-Relate everything back to the reader (e.g., “this is what it all means for you” or “how this story affects you”) ⇨ inspire people how to do something how to be someone  
+Relate everything back to the reader (e.g., "this is what it all means for you" or "how this story affects you") ⇨ inspire people how to do something how to be someone  
 Deliberate Publish: consume what you are going to create  
 "Write with a book in mind."  
   
@@ -76,7 +76,7 @@ It doesn't matter if it's already written before, because it hasn't been written
 
 "It was really reading the kind of common knowledge and just presenting it in a new way"
 
-Plagiarism happens when you copy and paste somebody else’s ideas without attribution. That’s not okay. You can avoid it by following two rules: (1) if you use an author’s ideas verbatim, give the original author credit, and (2) when in doubt, acknowledge the source of your ideas.
+Plagiarism happens when you copy and paste somebody else's ideas without attribution. That's not okay. You can avoid it by following two rules: (1) if you use an author's ideas verbatim, give the original author credit, and (2) when in doubt, acknowledge the source of your ideas.
 
 If you insist on being original, aim to create an original premise instead of using only original ideas.
 
