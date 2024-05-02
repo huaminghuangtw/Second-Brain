@@ -1,10 +1,7 @@
 - [比較]
-
   - iOS: Apple's Shortcuts
   - Android: Google's Action Blocks
-
 - Actions
-
   - "Reveal Action" & "Quick Look"
   - "Take Screenshot" + "Extract Text from Image" (for OCR)
   - Get Dictionary Value &rarr; Options: "Value", "**All Keys**", "**All Values**"
@@ -29,7 +26,6 @@
   - "Get Weather Forecast" (&harr; "Get Current Weather")
 	- Hourly: grabs results for the next 24 hours (A list containing 24 items)
 	- Daily: grabs results for the next 10 days (A list containing 10 items)
-
 - Troubleshooting Tips
   - Magic variables
   - Time limitation: a running shortcut will only stay active for a short period of time (around 3 mins) when you are away from the Shortcuts application
