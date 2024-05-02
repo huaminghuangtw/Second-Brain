@@ -1,0 +1,3 @@
+- David Hawkins' Levels of Consciousness (情緒能量表)
+- 內耗
+- There's no such thing as working too hard. There's just being under rested. — Don’t focus on energy output (working too hard). Focus on energy production (recharging activities).

@@ -1,3 +1,11 @@
 - The Two Arrows: In life, we cannot always control the first arrow. However, the second arrow is our REACTION to the first. The second arrow is always optional.
 - "Between (triggering) stimulus and (emotional) response there is a space (gap). In that space is our power to choose our response. In our response lies our growth and our freedom." — Viktor Frankl
+	- When you create space between stimulus and response, you create power in yourself.
+- "Your living is determined not so much by what life brings to you as by the attitude you bring to life; not so much by what happens to you as by the way your mind looks at what happens." — Khalil Gibran
+- "A man is about as big as the things that make him angry." — Winston Churchill
+- 心平氣和
+- Beneath anger there's always fear.
+- "Holding onto anger/resentment is like drinking poison and expecting the other person to die." — Buddha
+	- Forgive and forget. Not for them, but for you.
+- He who blames others has a long way to go on his journey. He who blames himself is halfway there. He who blames no one has arrived.
 - "Your living is determined not so much by what life brings to you as by the attitude you bring to life; not so much by what happens to you as by the way your mind looks at what happens." — Khalil Gibran

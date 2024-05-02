@@ -1,1 +1,0 @@
-- Don't say something to yourself that you wouldn't say to someone else.

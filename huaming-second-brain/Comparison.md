@@ -1,3 +1,3 @@
 - 比較 = 攀比
-- Stop comparing yourself to others. Comparing yourself to your past self.
+- Stop comparing yourself to others. (Stop comparing your day 1 to everyone else's day 1000.) Comparing yourself to your past (yesterday) self.
 - If you want to compare yourself with someone else, study ultra-successful people.

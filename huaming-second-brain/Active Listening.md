@@ -1,0 +1,6 @@
+- "*Are you listening to understand or just waiting to speak?*"
+	- "Me vs. You" positioning (confrontational, waiting to speak) &rarr; "Us vs. Problem" positioning (collaborative, listening to understand)
+- Three levels of listening:
+	1. "Me" Listening: You're having a conversation, but your internal voice is relating everything you hear to something in your own life. Your internal voice runs off on tangents, thinking about your own life while the other person is talking about theirs. You're waiting to speak, not listening to learn. This is the default mode of listening for everyone.
+	2. "You" Listening: You're having a conversation, and you are deeply focused on what the other person is saying. You are present and intently focused. You're not waiting to speak, you're listening to learn.
+	3. "Us" Listening: You're building a "map" of the other person, understanding how all the new information they are sharing fits into that broader map of their life and world. You're listening to understand, considering the layers beneath what the other person is saying.
