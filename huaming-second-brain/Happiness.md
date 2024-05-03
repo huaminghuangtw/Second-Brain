@@ -6,7 +6,7 @@
 		- Purpose: Big picture meaning and significance
 	- To be a happy person, you need to have these three in balance and abundance.
 - 拋棄對每一件事物「正面或負面」的評價，接受他們的本質，就像樂曲裡的「高音或低音」— 沒有絕對的「對或錯」、「好或壞」
-- Accept everything. Don't judge anything. Expect nothing. Appreciate everything.
+	- Accept everything. Don't judge anything. Expect nothing. Appreciate everything.
 - Happiness is when what you think, what you say, and what you do are in harmony.
 - [比較]
 	- Visible metrics &rarr; e.g., money
