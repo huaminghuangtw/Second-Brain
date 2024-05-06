@@ -1,0 +1,5 @@
+- STOP
+	- Stop
+	- Take a breath
+	- Observe
+	- Proceed
