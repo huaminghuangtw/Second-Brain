@@ -1,0 +1,5 @@
+- Beneath anger there's always fear.
+- "Holding onto anger/resentment is like drinking poison and expecting the other person to die." — Buddha
+	- Forgive and forget. Not for them, but for you.
+- "A man is about as big as the things that make him angry." — Winston Churchill
+- Everything that irritates us about others can lead us to an understanding of ourselves.
