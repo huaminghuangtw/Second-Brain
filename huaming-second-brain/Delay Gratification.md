@@ -1,3 +1,11 @@
-- When faced with any key decision, you effectively choose one of two potential characters: Investor or Borrower. The Investor is a long-term thinker who makes an investment to delay gratification, while the Borrower is a short-term thinker who takes out a loan to experience pleasure now. Investments compound positively and the future self cashes in on the rewards. Loans accrue interest negatively and the future self is stuck with the bill.
-- Short-term cost pays long-term dividend.
+- When faced with any key decision, you effectively choose one of two potential characters: ***Investor*** or ***Borrower***.
+	- The Investor is a long-term thinker who makes an investment to delay gratification.
+		- Investments compound positively and the future self cashes in on the rewards. 
+	- The Borrower is a short-term thinker who takes out a loan to experience pleasure now.
+		- Loans accrue interest negatively and the future self is stuck with the bill. 
+- When faced with two options, choose the one that’s more difficult in the short-term.
+	* Short-term pain typically creates compounding long-term gain.
+	- Short-term cost pays long-term dividend.
 - Easy choice, hard life. Hard choice, easy life.
+- The reason most people fail instead of succeed is they trade what they want most for what they want at the moment.
+- Always choose harder right over easier wrong.

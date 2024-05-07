@@ -1,1 +1,2 @@
 - "真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。" — 沈芯菱
+- * Your true wealth is the quality of your attention."

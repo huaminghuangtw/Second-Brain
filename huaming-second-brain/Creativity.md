@@ -27,3 +27,7 @@
     * If you have a visual idea, try to write it.
     * If you have a numerical idea, try to explain it out loud.
     * The process of transforming the idea from one language to another produces a new perspective.
+* The Writing/Drawing Knife Block
+	* If you're struggling to understand something, try writing/drawing it out.
+	* When you write/draw, you expose the gaps that exist in your logic and thinking. Study to fill the gaps.
+	* Writing/Drawing is the ultimate tool to sharpen thinking—use it as a "knife block" for life.
