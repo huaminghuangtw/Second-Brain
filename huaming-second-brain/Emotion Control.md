@@ -9,3 +9,7 @@
 	- Forgive and forget. Not for them, but for you.
 - He who blames others has a long way to go on his journey. He who blames himself is halfway there. He who blames no one has arrived.
 - "Your living is determined not so much by what life brings to you as by the attitude you bring to life; not so much by what happens to you as by the way your mind looks at what happens." — Khalil Gibran
+- You are not your feelings.
+	- Just because you're experiencing anxious feelings doesn't mean it's an inherent part of who you are.
+		- : "I am really anxious." (X)
+		- : "I am experiencing anxiety." (O)
