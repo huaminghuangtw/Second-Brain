@@ -2,6 +2,5 @@
 - Most events in life can be categorized in one of two ways: a good time, or a good story.
 - Make the rest of your life the best of your life.
 - We often hear "Life is short, enjoy it.", but often forget: "Eternity is long, prepare for it."
-- Life is short and finite.
 - "The price of anything is the amount of life you exchange for it." — Henry David
-- Life is short. Don’t take things for granted. Appreciate every day. When you take things for granted, they're gone.—You think you can always write that book, or climb that mountain, or whatever, and then you realize the window has closed. The saddest windows close when other people die.—Their lives are short too.
+- Life is short and finite. Don’t take things for granted. Appreciate every day. When you take things for granted, they're gone.—You think you can always write that book, or climb that mountain, or whatever, and then you realize the window has closed. The saddest windows close when other people die.—Their lives are short too.
