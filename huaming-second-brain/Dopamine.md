@@ -6,6 +6,7 @@
 - Cheap (Fake) Dopamine &rarr; short-term thinking
 	- increases our dopamine baseline levels &rarr; Once they return to normal, we crash. Then we need more dopamine to try and beat the previous dopamine hit/high.
 	- often associated with *struggle*
+	- Greedy Algorithm: operates on the principle of "taking the best option now (Local Maximum)" without considering the long-term consequences
 - Natural (Real) Dopamine &rarr; long-term thinking
 	- **Pleasure-Pain Balance:** Don’t spike dopamine before/after engaging in effort. Learn to spike dopamine from the effort itself.
 	- Reprogram yourself so that uncomfortable is your default setting. Constantly do hard things that make you feel terrified. That's how you grow.
