@@ -5,3 +5,6 @@
 - 5g of Glycine before sleep
 - Regularity is key. Try going to bed at the same time every day (+/-30min).
 - Add magnetic tapes to the curtain
+- 晚睡/睡眠不足會增加刺激飢餓的賀爾蒙 &rarr; Why? When you miss out on rest, your body needs another source of fuel to keep going.
+	- Lack of sleep may increase calorie consumption.
+	- Sleep loss boosts appetite, which may encourage weight gain.
