@@ -1,4 +1,5 @@
 - "Desire is a contract that you make with yourself to be unhappy until you get what you want." — Naval Ravikant
+- Happiness = Health + Relationships + Wealth = Agency + Gratitude = Reality - Expectations
 - [#226 ‒ The science of happiness | Arthur Brooks, Ph.D. - Peter Attia (peterattiamd.com)](https://peterattiamd.com/arthurbrooks/)
 	- The three "macronutrients" of happiness:
 		- Enjoyment: Enjoy your life

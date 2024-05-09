@@ -64,7 +64,7 @@
 - 要為了「幸福感」賺錢，不要為了「饋乏感」賺錢
 - Mindset shift for keeping money:
     - 沒有拿去投資獲得更高獲利的「罰金」(X)
-    - 支付未來幸福生活的「入場費/手續費」(安全邊界) (O)
+    - 支付未來幸福生活的「入場費/手續費」(安全邊界 Margin of Safety) (O)
 - "Savings can be created by spending less. You can spend less if you desire less. And you will desire less if you care less about what others think of you." — Morgan Housel
 - You'll never achieve financial freedom when you play status games, fall into the consumer trap, and let your ego dictate your spending. Less ego, more wealth.
 - Don't focus on saving (fixed mindset, 節流), focus on earning (growth mindset, 開源)
