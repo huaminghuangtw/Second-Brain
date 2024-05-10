@@ -7,3 +7,4 @@
 	- Binge-watching Netflix series or YouTube videos
 	- Binge-eating junk food (= crap food = highly/ultra processed food)
 	- Porn
+- 因小失大
