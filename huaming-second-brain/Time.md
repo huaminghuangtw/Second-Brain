@@ -6,3 +6,4 @@
 * Time is the most precious/valuable asset. Treat time as your ultimate currency—it's all you have and you can never get it back. Trade it carefully. Spend it wisely, with those you love, in ways you'll never regret.
 * When you're young, you are a "Time Billionaire”—Rich with time.
 * Skills get you to a million, character takes you to 100 million, and time brings you to a billion.
+* You can choose to either *invest*, *spend*, or *waste* your time.

@@ -1,4 +1,7 @@
 - "Desire is a contract that you make with yourself to be unhappy until you get what you want." — Naval Ravikant
+- "Happiness is not about positive or negative thoughts — it's about the absence of desire, especially the absence of desire for external things." — Naval Ravikant
+* Happiness is the absence of the striving for happiness.
+* The primary cause of unhappiness is never the situation but your thoughts about it.
 - Happiness = Health + Relationships + Wealth = Agency + Gratitude = Reality - Expectations
 - [#226 ‒ The science of happiness | Arthur Brooks, Ph.D. - Peter Attia (peterattiamd.com)](https://peterattiamd.com/arthurbrooks/)
 	- The three "macronutrients" of happiness:

@@ -6,6 +6,7 @@
 - "Your living is determined not so much by what life brings to you as by the attitude you bring to life; not so much by what happens to you as by the way your mind looks at what happens." — Khalil Gibran
 - 心平氣和
 - Perspective is everything — it's not what happens to you, but how you react to it.
+- Go laugh in the places you have cried — change the narrative.
 - You are not your feelings.
 	- Just because you're experiencing anxious feelings doesn't mean it's an inherent part of who you are.
 		- : "I am really anxious." (X)
