@@ -3,6 +3,3 @@
 - Curiosity is the beginning of knowledge. Action is the beginning of change.
 - Change is the end result of all true learning.
 - The only constant in life is change.
-—-
-aasas—
-—-
