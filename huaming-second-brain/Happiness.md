@@ -9,6 +9,9 @@
 - 拋棄對每一件事物「正面或負面」的評價，接受他們的本質，就像樂曲裡的「高音或低音」— 沒有絕對的「對或錯」、「好或壞」
 	- Accept everything. Don't judge anything. Expect nothing. Appreciate everything.
 - Happiness is when what you think, what you say, and what you do are in harmony.
+- There are two ways to be happier
+	- Change your situation
+	- Change the way you look at it
 - [比較]
 	- Visible metrics &rarr; e.g., money
 	- Hidden metrics &rarr; e.g., time with family, peace of mind

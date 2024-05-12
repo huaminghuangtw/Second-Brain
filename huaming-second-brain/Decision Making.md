@@ -28,6 +28,7 @@
 	        * If a person tells you why their thing (city, relationship, or job) is great, take it with a pinch of salt.
         * If someone downplays their success or happiness, assume it’s double what they claim.
 	        * If a person tells you  why their thing (city, relationship, or job) is terrible, take it like a handful of gold.
+		* Beware of Trojan Horses (特洛伊木馬)
 * The Secretary Problem (The 37 Percent Rule) 撿石子理論
     * It implies that the optimal win probability is always at least 1/e (e is Napier’s Constant or Euler's Number), and that the latter holds even in a much greater generality.
         * 最佳觀察期為整條路段長度的1/e ～ 0.36788 (略大於 1/3)
