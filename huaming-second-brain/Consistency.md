@@ -4,3 +4,4 @@
 - Continuous effort, not strength or intelligence, is the key to unlocking our potential.
 - Everyday is easier than someday.
 - 細水長流
+- Sisyphus
