@@ -1,0 +1,2 @@
+- You may not control the outcome, but you can influence it.
+- <placeholder>
