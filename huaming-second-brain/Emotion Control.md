@@ -7,6 +7,7 @@
 - 心平氣和
 - Perspective is everything — it's not what happens to you, but how you react to it.
 - Go laugh in the places you have cried — change the narrative.
+- Progressive Aggression
 - You are not your feelings.
 	- Just because you're experiencing anxious feelings doesn't mean it's an inherent part of who you are.
 		- : "I am really anxious." (X)
