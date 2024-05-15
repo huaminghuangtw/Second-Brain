@@ -1,3 +1,4 @@
 - Shift Shock
-- testtttttt
-- hello
+- 裸辭
+- 查勤
+- 安靜辭職 (Quiet Quitting)
