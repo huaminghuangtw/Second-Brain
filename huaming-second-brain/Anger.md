@@ -5,3 +5,4 @@
 - "He who angers you conquers you." — Elizabeth Kenny
 	- Everything that irritates us about others can lead us to an understanding of ourselves.
 - Speak when you're angry and you'll make the best speech you'll ever regret.
+- Man who cannot control his words cannot control himself.
