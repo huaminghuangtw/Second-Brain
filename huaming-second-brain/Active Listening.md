@@ -27,7 +27,7 @@ Speak less. Listen more.
 	- The less you speak, the more you listen (and learn).
 	- The more you say, the more likely you are to say something foolish.
 
-- [ ] Remember: You have two ears and one mouth. Therefore, you should listen twice as much as you speak.
+Remember: You have two ears and one mouth. Therefore, you should listen twice as much as you speak.
 
 Always speak less than necessary. Keep your mouth shut as much as possible.
 

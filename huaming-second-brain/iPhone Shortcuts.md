@@ -1,10 +1,14 @@
-- [比較]
+[比較]
   - iOS: Apple's Shortcuts
   - Android: Google's Action Blocks
-- Actions
+
+Actions
   - "Reveal Action" & "Quick Look"
   - "Take Screenshot" + "Extract Text from Image" (for OCR)
-  - Get Dictionary Value &rarr; Options: "Value", "**All Keys**", "**All Values**"
+  - Get Dictionary Value &rarr; Options: "Value", "All Keys", "All Values"
+	  - Often: "Choose from List" + "All Keys"
+		  - **Tip:** "Choose from List" can also be used for a "Dictionary"!
+			  - Get "Value" for "Chosen Item &rarr; ***Name***" from "Dictionary"
   - Get "Item" from List &rarr; Options: "First Item", "Last Item", \*"Random Item", "Item at Index", "Items in Range"
     - \*Get random items from List
       - Single: "Get Item from List" &rarr; Choose "Random Item"
@@ -14,11 +18,12 @@
     - Latter: Is the device connected to a charger that at least is slowing down the rate the battery drains?
       - For Optimized Battery Charging: being connected to a charger but not charging
   - "Add to Variable" &rarr; List
+	  - **Tip:** "Repeat with each item" + "Text" &rarr; "Repeat Results" is already a list of "Text", not need to use "Add to Variable" for each iteration &rarr; simplify code!
   - How to use Boolean variables?
     - Method I: Type = Boolean &rarr; `If "myBooleanVar"`
     - Method II: Type = Text &rarr; `If "myBooleanVar" is Yes/No`
-  - "Run Script over SSH"
-  - "Get Contents of URL" &rarr; make webhook calls
+  - ? "Run Script over SSH"
+  - ? "Get Contents of URL" &rarr; make webhook calls
   - "Open X-Callback URL" (= URL Scheme)
     - Allow you to go beyond "Open App" in Shortcuts
     - They are helpful in the Shortcuts app when the App itself doesn't have any Shortcut Actions support available by default
@@ -26,7 +31,8 @@
   - "Get Weather Forecast" (&harr; "Get Current Weather")
 	- Hourly: grabs results for the next 24 hours (A list containing 24 items)
 	- Daily: grabs results for the next 10 days (A list containing 10 items)
-- Troubleshooting Tips
+
+Troubleshooting Tips
   - Magic variables
   - Time limitation: a running shortcut will only stay active for a short period of time (around 3 mins) when you are away from the Shortcuts application
   - 如何透過 Siri 呼叫 "Ask for Input" (not just "Dictate Text") 指令? Add "Dismiss Siri and Continue" in the very beginning
