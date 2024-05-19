@@ -17,7 +17,7 @@
     * The Hanlon's Razor
         * Never attribute to malice that which can be adequately explained by stupidity.
         * In assessing someone's actions, we shouldn't assume negative intent if there's a viable alternative explanation—different beliefs, lack of intelligence, incompetence, or ignorance.
-        * 永遠不要預設別人是惡意的 (Assume nothing. Do not be judgmental.)
+        * 永遠不要預設別人是惡意的 (Assume good intentions)
 		- When assessing people’s actions, you should not assume that they acted out of a desire to cause harm, as long as there is a reasonable alternative explanation.
 		- "Never attribute to conspiracy that is more easily explained by *incentives* and *incompetence*." — Naval Ravikant
     * The Hitchens' Razor & Newton's Flaming Laser Sword
