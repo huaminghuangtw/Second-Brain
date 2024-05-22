@@ -1,5 +1,5 @@
 - 比起長遠的利益，我們 (未經訓練) 的大腦更偏好馬上就可以得到的快樂和感官享受 (Sensory Pleasures)
-	- **Freud’s Pleasure Principle:** The nature of human motivation is pursuing pleasure and avoiding pain &rarr; the desire to stay in the comfort zone
+	- **Freud's Pleasure Principle:** The nature of human motivation is pursuing pleasure and avoiding pain &rarr; the desire to stay in the comfort zone
 	- Our brains are optimized for energy efficiency, and they only turn on the CPU (Consciousness Processing Unit) when absolutely necessary
 - 我們經常從「壞習慣」中獲得「立刻」的滿足，而且*當下或短期內*並不會產生任何明顯的負面效果，這導致人們常常放任自己、沉溺在壞習慣當中。
 	- Doomscrolling on social media

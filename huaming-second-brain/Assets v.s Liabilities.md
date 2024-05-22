@@ -10,6 +10,6 @@
 	- Car loans
 	- Credit card debt
 	- Student loans
-	- Mortgage (unless it’s for a property you intend to rent out)
+	- Mortgage (unless it's for a property you intend to rent out)
 	- Rent payments
 	- Insurance & maintenance payments (the more expensive your car/tech/house/luxuries, the higher the insurance & maintenance costs)

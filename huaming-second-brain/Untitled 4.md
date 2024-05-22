@@ -1,5 +1,3 @@
-
- 
 CoSchedule headline analyzer  
 
 Blink  

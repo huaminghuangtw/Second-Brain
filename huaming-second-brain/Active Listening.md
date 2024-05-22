@@ -17,7 +17,7 @@ Be a "Loud Listener"
 
 Listen intently before replying. Listening with compassion.
 
-Being able to listen well is a superpower—keep asking people “*Is there more?*”, until there is no more.
+Being able to listen well is a superpower—keep asking people "*Is there more?*", until there is no more.
 
 "When you listen, you learn." — The key to effective communication is not telling people everything that you know, but everything that they need to hear. And the only way to know what they need is to LISTEN.
 

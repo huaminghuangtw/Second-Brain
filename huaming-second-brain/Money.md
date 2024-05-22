@@ -4,7 +4,7 @@
 
 # On spending money
 - Optimize for life fulfilment/experiences, not for money-in-the-bank.
-- The “One in, One out” Rule
+- The "One in, One out" Rule
 
 - Money isn't made in the BUY or the SELL. It's made in the WAIT.
 - "Think of money as information — it's just for resource allocation across time and space" — Elon Musk
@@ -29,7 +29,7 @@
         - Enriching experiences &rarr; The expense of something special is forgotten quickly. The experience lasts a lifetime. (Memory Dividend)
 - Millionaires don't have salaries. They own [[Assets v.s Liabilities#^5bd5b5|assets]].
 - 真正的財務自由是不需要再被困在「時間/勞力換取金錢」的枷鎖裡 (金錢最大的價值是時間的自由, i.e., 選擇權) &rarr; 當「被動收入 (睡後收入)」大於日常開銷，工作就變成一種選項
-- Passive income is actually "less active" income &rarr; Difference: "LEVERAGE”
+- Passive income is actually "less active" income &rarr; Difference: "LEVERAGE"
 	- We all have 24 hours per day.
 	- We all trade time for money at some levels.
 	- We are all being paid per hour rate 
@@ -37,18 +37,18 @@
 - **Financial Freedom/Independence** = passive income exceeds your cost of living
 - **Financial Literacy** = understand how to manage your money
 - "Retirement is when you find a sustainable way to fully live your life in the present moment, without sacrificing any of that time in exchange for future reward." — Ali Abdaal
-- "I find that when people earn their freedom from money constraints, they usually don’t stop working. Instead, they start doing their best work." — [Mr. Money Mustache](https://www.mrmoneymustache.com/2015/04/15/great-news-early-retirement-doesnt-mean-youll-stop-working/)
+- "I find that when people earn their freedom from money constraints, they usually don't stop working. Instead, they start doing their best work." — [Mr. Money Mustache](https://www.mrmoneymustache.com/2015/04/15/great-news-early-retirement-doesnt-mean-youll-stop-working/)
 - ? The 4% Rule
 - Mental Shift: Consumer &rarr; Producer/Creator/Owner/Investor
     - False Belief: "*If I become great at making money, you'll automatically become wealthy.*"
-        - Make Money → Spend Money → Make Money → Spend Money
+        - Make Money &rarr; Spend Money &rarr; Make Money &rarr; Spend Money
         - Money more in = More money out
 	        - **Lifestyle Inflation/Creep:** when your income increases, your expenses increase just as much to upgrade the quality of your life.
 - The only way to make money is to provide value (solve problems); The only way to make passive income is to provide value in a way that is not directly tied to your time.
 	- Specialize if you want to capitalize.
 - Wealth = [[人生賽局#^82829e|positive-sum game]] &harr; Status = [[人生賽局#^8ba442|zero-sum game]]
 - Wealth is not the same as income.
-    - True wealth is the money you’ve not spent.
+    - True wealth is the money you've not spent.
     - Whatever your income, always live below your means.
 - Spending can be a representation of how hard you've worked and how much stress went into earning your pay check
 - Stop thinking about what your money can buy. Start thinking about what your money can earn.
@@ -72,8 +72,8 @@
 	- Saving has limited downside, earning has unlimited upside.
 	- Make your dopamine hit from making money, not spending it.
 - The pleasure of anticipation is often greater than the pleasure of acquisition.
-- Spending any amount of money to "save money”
+- Spending any amount of money to "save money"
 	- Look at the ROI of your expenses, not the price tag.
 	- Buying quality is key. If you buy quality the first time, it can last a lifetime.
 	- Frugal doesn't mean cheap. &rarr; Cheap is saving money in short term, while frugal is making wise choices to save in the long run.
-	- Often, the more expensive item ("Buy It For Life" ) is more frugal than the cheaper item ("Buy Once, Cry Once"), if it is well-made and lasts significantly longer. 
+	- Often, the more expensive item ("Buy It For Life" ) is more frugal than the cheaper item ("Buy Once, Cry Once"), if it is well-made and lasts significantly longer.

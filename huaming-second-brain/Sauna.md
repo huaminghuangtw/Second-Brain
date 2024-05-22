@@ -18,7 +18,7 @@
 	* Unwind: meditation, breathwork, tree pose, sit stretching, etc.
 	* Remove jewelry or watches to avoid damaging them in the heat and moisture
 * After the sauna
-	* Shower and let your body cool completely before getting dressed (or you’re gonna sweat)
+	* Shower and let your body cool completely before getting dressed (or you're gonna sweat)
 	* Drink LOTS of water (Stay hydrated)
 	* Eat after one hour
 * Why no clothes? (only "towel" or "robe")

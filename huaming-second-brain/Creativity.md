@@ -1,7 +1,7 @@
 - Creativity tends to arise in states of relaxation which are preceded by a long period of focused deep thinking
-- "The dangerous man is the one who has only one idea, because then he’ll fight and die for it. The way real science goes is that you come up with lots of ideas, and most of them will be wrong." — Francis Crick
+- "The dangerous man is the one who has only one idea, because then he'll fight and die for it. The way real science goes is that you come up with lots of ideas, and most of them will be wrong." — Francis Crick
 * Boredom Alpha
-    * Your most creative moments come during bouts of boredom. Experiencing regular periods of boredom is a competitive advantage. When you’re bored, your mind wanders, and creative insight strikes.
+    * Your most creative moments come during bouts of boredom. Experiencing regular periods of boredom is a competitive advantage. When you're bored, your mind wanders, and creative insight strikes.
 * The 3B's of Creativity
     * Bus (movement)
     * Bath (leisure)

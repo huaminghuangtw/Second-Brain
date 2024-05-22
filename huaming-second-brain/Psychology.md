@@ -11,13 +11,13 @@
 	- 指鹿為馬的「從眾心理」
 - The Illusory Truth Effect
 	- The tendency to believe false information to be correct after repeated exposure
-* The Centipede’s Dilemma
+* The Centipede's Dilemma
     * How overthinking kills productivity
 * The Confirmation Bias
     * 意識形態
     * 先射箭再畫靶
 * The Cognitive Bias (Fundamental Attribution Error)
-	* Humans tend to: (1) Attribute someone else’s actions to their character—and not to their situation or context. (2) Attribute our actions to our situation and context—and not to our character. We cut ourselves a break, but hold others accountable.
+	* Humans tend to: (1) Attribute someone else's actions to their character—and not to their situation or context. (2) Attribute our actions to our situation and context—and not to our character. We cut ourselves a break, but hold others accountable.
 * The Survivorship Bias
 	* What is unseen often has just as much value as what is seen
     * Fighting The Zebra Effect is hard (but worth it)
@@ -59,4 +59,4 @@
 	* How Choice Overloads Makes Consumers Buy Less (Decision Fatigue/Paralysis)
 * [Loss Aversion](https://en.wikipedia.org/wiki/Loss_aversion)
 * Echo Chamber (同溫層效應 = 迴聲室效應 = 信息繭房)
-* 信使效應 on 壞消息 → shoot the messenger
+* 信使效應 on 壞消息 &rarr; shoot the messenger
