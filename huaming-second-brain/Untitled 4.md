@@ -1,11 +1,6 @@
-Web 3.0 / NFT / Blockchains / Crypto / Ethereum / Cybersecurity / Microeconomics / Game Theory / Copywriting (say more with less words) / High-Ticket Sales / SEO  
+ / 
 Google Survey  
-Canva  
-Stripe  
-Loom  
-[TweetHunter.io](http://TweetHunter.io)  
-Typefully  
-Hypefury  
+
 Survey  
 Typeform  
 Newsletter  
