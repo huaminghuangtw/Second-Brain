@@ -1,19 +1,15 @@
 
  
-Blog Posts  
 CoSchedule headline analyzer  
-Unsplash (cover images)  
-Typeshare  
-Grammarly  
-Twitter: ideas  
-IndeHackers: mid-length forum posts  
-Medium: long-form essays  
+
 Blink  
 SOSreader  
-Maven  
+Maven
+
 假設你的帳號為 LikeCoinID ，你的LikeCoin 個人主頁就是 [https://widget.like.co/LikeCoinID](https://widget.like.co/LikeCoinID)。而你要將 widget 加到 Medium 文章中的話，你只要複製「[https://button.like.co/LikeCoinID](https://button.like.co/LikeCoinID)」加到 Medium 文章中並按下 Enter，LikeCoin widget 就會自動出現。(備註：如果貼上主頁，會出現的是舊版的 widget，這點必須注意。)  
-YouTube  
-TubeBuddy  
+  
+TubeBuddy
+
 Generative AI Tools (We just need to be a prompt master)  
 [Synthesia.ai](http://Synthesia.ai)  
 [Copy.ai](http://Copy.ai)  
@@ -42,20 +38,19 @@ Local data storage (Offline mode)
 Support LaTeX  
 Integration with RMS (e.g., Zotero)  
 Portable due to plain MD text files (allow for easily moving to other note-taking apps)  
-E-commerce store (Automation)  
-Shopify  
+  
 Unlimited  
-Gumroad  
-ConvertKit eCommerce  
+
 Podia  
-Etsy  
+  
 eRank  
-MVP  
-Google Trends  
+
+
 SpyFu  
-Answer the Public  
-Product Market Fit  
-LinkedIn Sales Navigator  
+Answer the Public
+
+LinkedIn Sales Navigator 
+
 MeetAlfred  
-其他  
+
 Ad Revenue
