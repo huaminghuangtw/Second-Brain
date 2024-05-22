@@ -1,14 +1,5 @@
- / 
-Google Survey  
 
-Survey  
-Typeform  
-Newsletter  
-Substack  
-Revue  
-ConvertKit  
-Ghost  
-Pastebin  
+ 
 Blog Posts  
 CoSchedule headline analyzer  
 Unsplash (cover images)  
