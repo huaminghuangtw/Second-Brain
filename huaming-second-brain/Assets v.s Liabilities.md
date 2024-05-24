@@ -1,4 +1,4 @@
-- An **asset** puts money into your pocket ⇨ By investing in assets, you let your money work for you ^5bd5b5
+- An **asset** (資產) puts money into your pocket ⇨ By investing in assets, you let your money work for you ^5bd5b5
 	- Stocks
 	- Real estate
 	- Bonds
@@ -6,7 +6,7 @@
 	- Cryptocurrencies
 	- Commodities
 	- Intellectual Property
-- A **liability** takes money out of your pocket ⇨ By acquiring liabilities, you'll have to keep working hard for money
+- A **liability** (負債) takes money out of your pocket ⇨ By acquiring liabilities, you'll have to keep working hard for money
 	- Car loans
 	- Credit card debt
 	- Student loans
