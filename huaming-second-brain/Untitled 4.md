@@ -1,4 +1,4 @@
-CoSchedule headline analyzer  
+CoSchedule headline analyzer 
 
 Blink  
 SOSreader  

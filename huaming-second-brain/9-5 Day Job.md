@@ -1,7 +1,0 @@
-- Shift Shock
-- 裸辭
-- 查勤
-- 安靜辭職 (Quiet Quitting)
-- hello from my iphone
-- delete for good
-- testtesttest
