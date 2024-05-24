@@ -1,5 +1,5 @@
 Wer
-
+eee
 
 "*Are you listening to understand or just waiting to speak?*"
 	- "Me vs. You" positioning (confrontational, waiting to speak) &rarr; "Us vs. Problem" positioning (collaborative, listening to understand)
