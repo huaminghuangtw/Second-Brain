@@ -28,3 +28,5 @@ nn**nn* nn*Tnn*hnn*enn* nn*Mnn*unn*snn*enn*unn*mnn* nn*onn*fnn* nn*Fnn*ann*inn*l
 * contaact lens sleep shower
 * In my experience, most people underestimate their full capability and overestimate their current delivery.
 * [Creating events and reminders | Apple Developer Documentation](https://developer.apple.com/documentation/eventkit/creating_events_and_reminders)
+* [We are Snailed It! | Snailed It Development Ltd](https://snailedit.dev/)
+* [Soup Chef: Accelerating App Interactions with Shortcuts | Apple Developer Documentation](https://developer.apple.com/documentation/sirikit/soup_chef_accelerating_app_interactions_with_shortcuts)
