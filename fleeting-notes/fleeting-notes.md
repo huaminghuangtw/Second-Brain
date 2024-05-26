@@ -21,3 +21,4 @@ https://strategy.tw/* [Astronomy Picture of the Day API | NASA Open Data Portal]
 * The 20-20-20 rule: Every 20 minutes of screenwork, look at a spot 20 feet away for 20 seconds. This will reduce eye strain
 \n\n* [Work. Walk 5 Minutes. Work. - The New York Times](https://www.nytimes.com/2016/12/28/well/move/work-walk-5-minutes-work.html)
 \n\n* The Boot Up Sequence
+nn**nn* nn*[nn*Snn*tnn*ann*nnn*fnn*onn*rnn*dnn* nn*snn*tnn*unn*dnn*ynn* nn*fnn*inn*nnn*dnn*snn* nn*wnn*ann*lnn*knn*inn*nnn*gnn* nn*inn*mnn*pnn*rnn*onn*vnn*enn*snn* nn*cnn*rnn*enn*ann*tnn*inn*vnn*inn*tnn*ynn* nn*|nn* nn*Snn*tnn*ann*nnn*fnn*onn*rnn*dnn* nn*Rnn*enn*pnn*onn*rnn*tnn*]nn*(nn*hnn*tnn*tnn*pnn*snn*:nn*/nn*/nn*nnn*enn*wnn*snn*.nn*snn*tnn*ann*nnn*fnn*onn*rnn*dnn*.nn*enn*dnn*unn*/nn*snn*tnn*onn*rnn*inn*enn*snn*/nn*2nn*0nn*1nn*4nn*/nn*0nn*4nn*/nn*wnn*ann*lnn*knn*inn*nnn*gnn*-nn*vnn*snn*-nn*snn*inn*tnn*tnn*inn*nnn*gnn*-nn*0nn*4nn*2nn*4nn*1nn*4nn*)nn*
