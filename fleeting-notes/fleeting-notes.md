@@ -17,4 +17,5 @@ https://bizthinking.com.tw/
 https://www.facebook.com/ZHSun6?mibextid=LQQJ4d
 策略思維商學院
 https://strategy.tw/* [Astronomy Picture of the Day API | NASA Open Data Portal](https://data.nasa.gov/Space-Science/Astronomy-Picture-of-the-Day-API/ez2w-t8ua)
-* [JokeAPI - Documentation](https://sv443.net/jokeapi/v2/)
+* [JokeAPI - Documentation](https://sv443.net/jokeapi/v2/)* 滿懷感謝，把內心投射到工作空間，期待下一次再次啟動心流的時刻: Keep your desk and workspace bare. Treat every object as an imposition upon your attention, because it is. A workspace is not a place for storing things. It is a place for accomplishing things.
+* The 20-20-20 rule: Every 20 minutes of screenwork, look at a spot 20 feet away for 20 seconds. This will reduce eye strain
