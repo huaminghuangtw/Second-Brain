@@ -16,4 +16,5 @@ https://bizthinking.com.tw/
 孫治華
 https://www.facebook.com/ZHSun6?mibextid=LQQJ4d
 策略思維商學院
-https://strategy.tw/
+https://strategy.tw/* [Astronomy Picture of the Day API | NASA Open Data Portal](https://data.nasa.gov/Space-Science/Astronomy-Picture-of-the-Day-API/ez2w-t8ua)
+* [JokeAPI - Documentation](https://sv443.net/jokeapi/v2/)
