@@ -32,4 +32,5 @@ https://bizthinking.com.tw/
 https://www.facebook.com/ZHSun6?mibextid=LQQJ4d
 策略思維商學院
 https://strategy.tw/
-
+* The Busy Trap "You waste years by not being able to waste hours."
+* "Rich men use most of their money get richer. Poor men use most of their money to look richer." — Mokokoma Mokhonoana
