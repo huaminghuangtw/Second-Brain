@@ -120,3 +120,5 @@ https://strategy.tw/
 
 ** ghj
 
+* Thanks! I was able to extract the first letter from the text, but now I’m trying to extract it, save it
+
