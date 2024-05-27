@@ -36,3 +36,4 @@ https://strategy.tw/
 * "Rich men use most of their money get richer. Poor men use most of their money to look richer." — Mokokoma Mokhonoana
 
 
+
