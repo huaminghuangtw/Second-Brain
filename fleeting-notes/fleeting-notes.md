@@ -134,3 +134,5 @@ https://strategy.tw/
 
 * 8 Aug 2020 — ... Shortcuts check if that value exists in 
 
+* to use the Dictionary action ... If the Shortcut doesn't requi
+
