@@ -136,3 +136,9 @@ https://strategy.tw/
 
 * to use the Dictionary action ... If the Shortcut doesn't requi
 
+* adjust the values for the target with your own values of your region.
+
+* After each change of the script accepts input must be replaced by with input.
+
+* At the first execution you have to give the shortcut rights
+
