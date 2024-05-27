@@ -130,3 +130,7 @@ https://strategy.tw/
 
 * lhfsd
 
+* Getting value from a dictionary in Data Jar - iOS - Automators Talk
+
+* 8 Aug 2020 — ... Shortcuts check if that value exists in 
+
