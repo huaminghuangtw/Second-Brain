@@ -34,111 +34,16 @@ https://www.facebook.com/ZHSun6?mibextid=LQQJ4d
 https://strategy.tw/
 * The Busy Trap "You waste years by not being able to waste hours."
 * "Rich men use most of their money get richer. Poor men use most of their money to look richer." — Mokokoma Mokhonoana
-* test
 
-* test
+* hello from MacBook
 
-* test
 
-* iop
+* hey
 
-* iop
 
-* iop
+* wonderful
 
-* iop
+* try again
 
-* [jjedk](chcivi)
-
-* dhdbnh ivivikvkhbbbbbbnnnncvbbbbbbbbbb
-
-* vvb
-
-* [jjedk](chcivi)
-
-* dhdbnh ivivikvkhbbbbbbnnnncvbbbbbbbbbb
-
-** vvb
-
-* 游舒帆
-
-* https://www.facebook.com/gipi.net?mibextid=LQQJ4d
-
-* 商業思維學院
-
-* https://bizthinking.com.tw/
-
-* 孫治華
-
-* https://www.facebook.com/ZHSun6?mibextid=LQQJ4d
-
-* 策略思維商學院
-
-* https://strategy.tw/
-
-** hhy
-
-* ghj
-
-* hhj
-
-* [Soup Chef: Accelerating App Interactions with Shortcuts | Apple Developer Documentation](https://developer.apple.com/documentation/sirikit/soup_chef_accelerating_app_interactions_with_shortcuts)
-
-** gffb
-
-* ghj
-
-* ghj
-
-* dhdbnh ivivikvkhbbbbbbnnnncvbbbbbbbbbb
-
-** vvb
-
-* 游舒帆
-
-* https://www.facebook.com/gipi.net?mibextid=LQQJ4d
-
-* 商業思維學院
-
-* https://bizthinking.com.tw/
-
-* 孫治華
-
-* https://www.facebook.com/ZHSun6?mibextid=LQQJ4d
-
-* 策略思維商學院
-
-* https://strategy.tw/
-
-** hhynnnnfgjjjjjjkkkkkkkkkkkkkkkkkkkkkoytttttfffddftffgvgvvhh
-
-* [Soup Chef: Accelerating App Interactions with Shortcuts | Apple Developer Documentation](https://developer.apple.com/documentation/sirikit/soup_chef_accelerating_app_interactions_with_shortcuts)
-
-** gffb
-
-** ghj
-
-** ghj
-
-* Thanks! I was able to extract the first letter from the text, but now I’m trying to extract it, save it
-
-* hjj
-
-* nnn
-
-* jjjj
-
-* lhfsd
-
-* Getting value from a dictionary in Data Jar - iOS - Automators Talk
-
-* 8 Aug 2020 — ... Shortcuts check if that value exists in 
-
-* to use the Dictionary action ... If the Shortcut doesn't requi
-
-* adjust the values for the target with your own values of your region.
-
-* After each change of the script accepts input must be replaced by with input.
-
-* At the first execution you have to give the shortcut rights
+* again
 
