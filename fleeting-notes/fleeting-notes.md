@@ -32,3 +32,4 @@ https://bizthinking.com.tw/
 https://www.facebook.com/ZHSun6?mibextid=LQQJ4d
 策略思維商學院
 https://strategy.tw/
+
