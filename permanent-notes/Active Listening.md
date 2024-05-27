@@ -2,6 +2,8 @@
 	- "Me vs. You" positioning (confrontational, waiting to speak) &rarr; "Us vs. Problem" positioning (collaborative, listening to understand)
 	- Seek first to understand, then to be understood. Make someone else feel *seen*, *heard*, and *remembered*.
 
+Share with someone who wants to listen or listen to someone who wants to share.
+
 Three levels of listening:
 	1. "Me" Listening: You're having a conversation, but your internal voice is relating everything you hear to something in your own life. Your internal voice runs off on tangents, thinking about your own life while the other person is talking about theirs. You're waiting to speak, not listening to learn. This is the default mode of listening for everyone.
 	2. "You" Listening: You're having a conversation, and you are deeply focused on what the other person is saying. You are present and intently focused. You're not waiting to speak, you're listening to learn.
