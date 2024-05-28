@@ -1,5 +1,5 @@
 * Probabilistic Thinking
-* contaact lens sleep shower
+* contact lens sleep shower
 * In my experience, most people underestimate their full capability and overestimate their current delivery.
 * The Museum of Failure
 * Innovation needs failure. All progress, not only technological progress, is built on learning from past failures and mistakes. The museum aims to stimulate productive discussion about failure and inspire us to take meaningful risks.

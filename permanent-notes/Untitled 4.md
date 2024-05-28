@@ -1,12 +1,4 @@
-CoSchedule headline analyzer 
 
-Blink  
-SOSreader  
-Maven
-
-假設你的帳號為 LikeCoinID ，你的LikeCoin 個人主頁就是 [https://widget.like.co/LikeCoinID](https://widget.like.co/LikeCoinID)。而你要將 widget 加到 Medium 文章中的話，你只要複製「[https://button.like.co/LikeCoinID](https://button.like.co/LikeCoinID)」加到 Medium 文章中並按下 Enter，LikeCoin widget 就會自動出現。(備註：如果貼上主頁，會出現的是舊版的 widget，這點必須注意。)  
-  
-TubeBuddy
 
 Generative AI Tools (We just need to be a prompt master)  
 [Synthesia.ai](http://Synthesia.ai)  
@@ -14,9 +6,6 @@ Generative AI Tools (We just need to be a prompt master)
 [Cleanup.pictures](http://Cleanup.pictures)  
 [Photopea.com](http://Photopea.com)  
 DALL-E-2  
-ChatGPT (API): [https://github.com/f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)  
-FakeYou (假聲音)  
-LEX  
 Midjourney  
 Jasper AI  
 GitHub Copilot  
