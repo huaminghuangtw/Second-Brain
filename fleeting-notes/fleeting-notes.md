@@ -33,6 +33,5 @@ https://www.facebook.com/ZHSun6?mibextid=LQQJ4d
 https://strategy.tw/
 * The Busy Trap "You waste years by not being able to waste hours."
 * "Rich men use most of their money get richer. Poor men use most of their money to look richer." — Mokokoma Mokhonoana
-* Fleeting notes are only useful if you review them within a day or so and turn them into proper notes you can use later. 
 - When a person fails to begin a project that they care about, it’s typically due to either a) anxiety about their attempts not being ‘good enough’ or b) confusion about what the first steps of the task are. Not laziness.
 - ? 沉默成本
