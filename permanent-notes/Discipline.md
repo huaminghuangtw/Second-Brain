@@ -1,4 +1,7 @@
-- 「只有紀律嚴明的人，他們的生命才是自由的。如果沒有紀律，你只會成為情緒的奴隸。馬拉松運動不是關於雙腳，這是關於心靈和思想。」— Eliud Kipchoge
-- Discipline is about what you do on the days when you feel like crap.
-- 「自律」只是外在的表面結果，「自願」才是內在真正的驅動力。
-- Discipline equals freedom.
+「只有在生活中紀律嚴明的人才是自由的。如果缺乏紀律，只會成為情緒和激情的奴隸。」(Only the disciplined ones in life are free. If you are undisciplined, you are a slave to your moods and your passions.) — Eliud Kipchoge
+
+Discipline is about what you do on the days when you feel like crap.
+
+「自律」只是外在的表面結果，「自願」才是內在真正的驅動力。
+
+Discipline now, freedom later. Discipline equals freedom.
