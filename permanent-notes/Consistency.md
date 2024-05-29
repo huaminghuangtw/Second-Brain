@@ -5,3 +5,4 @@
 - Everyday is easier than someday.
 - 細水長流
 - Sisyphus
+- The "Consistently Good Rather Than Occasionally Great" Principle
