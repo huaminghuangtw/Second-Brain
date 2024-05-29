@@ -4,6 +4,7 @@ Pocket Porridge
 - Brown sugar
 - Golden syrup
 - Oats
+- Salt
 
 20 minutes for softer and chewy flavors. Add 5 more minutes for crunch flavors.
 
