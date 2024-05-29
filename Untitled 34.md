@@ -1,71 +1,56 @@
-### Raymond Chandler's two writing rules
-1. You don't have to write
-2. You can't do anything else
 
-If sitting at a computer kills your creativity, talk to your phone (Otter.ai) and transcribe what you say until you have enough ideas to write.
 
-Copywriting techniques  
-Make a PROMISE  
-Paint a PICTURE  
-Show your PROOF  
-PUSH to act  
-The 4C's of digital content  
-Clear  
-Concise  
-Charming  
-Compelling  
-science-based, evidence-based  
-Did you like this post? Here's how you can support me:  
-👏 Give me a clap below!  
-✉️ Follow The Remote Work Experiment on Medium!  
-👊 Connect with me on LinkedIn and Twitter!  
-Build your 3 writing pillars:  
-  
-Short-form:  
-  
-• Tweets  
-• Text-only LinkedIn posts  
-• Instagram pic quotes  
-  
-Long-form:  
-  
-• Medium essays  
-• Twitter Threads  
-• Your Wordpress blog  
-  
-Newsletter:  
-  
-• Substack  
-• Or ConvertKit  
-• Or Beehiiv  
-partner program  
-use top tagslimited number of citationstitle in capsListivles  
 Format/Write the content  
-use a subtitleadd a cover photo (no descriptions, only the reference)photos of womenphotos of cute puppies unser Start with a powerful quote from famous people horizontal divider between sectionsput photos sparingly (1 photo for 5 mins)ask relatable questions every 1-2 minutes of reading time, on separate lines, in italic each section = 3-5 paragraphseach paragraph consists of only 2-4 lines use one-line sentences for emotion-grabbing sentencesuse bold for highlights use quote for the main point be conversational AMAP (having a dialogue, not a monologue)actionable or inspiring conclusion drive reader engagement recall headline in the conclusionhave a call-to-action at the bottom placing the time required to read in the subtitle of their articleswrite from your own substantial personal life experience/expertise like you're writing an empathic tutorial that includes insider tips and detailsShare your own perspectivewrite with the reader in mind (You ⇨ Me ⇨ You)  
-Relate everything back to the reader (e.g., "this is what it all means for you" or "how this story affects you") ⇨ inspire people how to do something how to be someone  
+Use a subtitle
+Place reading time in the subtitle 
+Add a cover photo (no descriptions, only the reference)
+Start with a powerful quote from famous people
+Horizontal divider between sections
+Put photos sparingly (1 photo for 5 mins)
+Ask relatable questions every 1-2 minutes of reading time, on separate lines, in italic
+Each section = 3-5 paragraphs; Each paragraph = 2-4 lines
+Use one-line sentences for emotion-grabbing sentences
+Use bold for highlights
+Use quote for the main point
+Be conversational (having a dialogue, not a monologue)
+Actionable or inspiring conclusion drive reader engagement
+Recall headline in the conclusion
+
+have a call-to-action at the bottom of their articles
+
+write from your own substantial personal life experience/expertise like you're writing an empathic tutorial that includes insider tips and details
+Share your own perspective
+write with the reader in mind (You ⇨ Me ⇨ You)  
+Relate everything back to the reader (e.g., "this is what it all means for you" or "how this story affects you") ⇨ inspire people how to do something how to be someone
+
 Deliberate Publish: consume what you are going to create  
-"Write with a book in mind."  
+"Write with a book in mind."
   
 Your posts should be part of a larger idea you're trying to work toward with your writing.  
-Take time to develop your distinct voice (writing style)  
-CRIBS framework (Confusing, Repeated, Interesting, Boring, Surprising)  
+Take time to develop your distinct voice (writing style)
+
 POP = Personal, Observational, Playful  
 Daily Motivation: Micro habits (Health), Quotes, Psychology Theory (storytelling)  
-Write under a pseudonym  
+
+
 👉 Email Newsletters  
 Commit to GitHub
 Landing Pages
 Referral Program (Ali, Sahil)
 5個本週的新發現  
-Weekly Newsletter: 1 YouTube video, 1 Article, 1 Podcast, 1 Quote/Book highlight (Readwise), 1 Twitter thread, 1 Thing I learned this week  
+Weekly Newsletter: 1 YouTube video, 1 Article, 1 Podcast, 1 Quote/Book highlight (Readwise), 1 Twitter thread, 1 Thing I learned this week 
+
 They're not about cramming your best ideas into an email, but more about staying in touch  
-Always share your newsletters to other platforms  
-Write a series of multi-day newsletters as a crash course on a specific topic: X Days of [topic-name] Series  
+Always share your newsletters to other platforms
+Write a series of multi-day newsletters as a crash course on a specific topic: X Days of [topic-name] Series
+
 👉 Visuals/Visualization (1 image = 1000 words)(Harsh Darji)  
+
 👉 Atomic Essay (mini blog posts)  
 Focus on one single idea as the lead magnet (Shiny Dimes) — the smallest/minimum viable idea you can write about — good writing orbits around a single point so as to create constraints/boundaries  
 250 words or less: say more with fewer words  
 Fits into a screenshot  
+
 👉 Remember:  
 Write fast, write bad, and write wrong.  
 If your writing doesn't make you feel naked, it's probably not personal/emotional enough  
@@ -88,23 +73,13 @@ Be observerant and keep a keen eye to notice patterns / see the beauty in small 
 People (people are interested in people)  
 "Do I think this would be interesting/useful to at least 1 person in the world?"  
 "What would I wish I know a week/month/year ago?" (write to former self, I.e., Past You)  
-👉 Niche I write about: (timeless, thoughtful, universal, memorable, I genuinely enjoy)  
-Personal Development (Self-care, Self-improvement, Self-help, Personal Growth, Better Person/Human)
-Life (Happiness, Health (Longevity), Nutrition, Fitness, Relationships)  
-Productivity (work smart, not work hard)  
-Cycling  
-Entrepreneurships  
-Personal Finance  
-👉 Blog Brand Name Ideas (juxtaposition like The War of Art, The Psychology of Money) (Coined Phrases)  
-DEEP THINK  
-DO MORE WITH LESS  
-LESS IS MORE. SLOW IS FAST.  
-快思慢想  
 👉 Webcomic (cartoons)  
 [https://code-cartoons.com/](https://code-cartoons.com/)  
 [https://wizardzines.com/](https://wizardzines.com/)  
 [https://arkwright.github.io/scaling-react-server-side-rendering.html](https://arkwright.github.io/scaling-react-server-side-rendering.html)  
-—  
+
+
+
 Shortcuts for daily routine  
 Binaural Beats with Task Scheduler Automation  
 推薦文: N26 & Revolut & Weward & PayPal & 數位帳戶 (MGM)  

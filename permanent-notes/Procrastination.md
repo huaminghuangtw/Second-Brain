@@ -12,6 +12,10 @@ When you find yourself procrastinating, don't resist. Instead lean into it. Proc
 
 Productive/Positive Procrastination
 
+Nothing Alternatives (禁做他事法) by Raymond Chandler
+* 1. You don't have to do X
+* 2. You can't do anything else other than X during this one focus session
+
 [Laziness Does Not Exist.](https://humanparts.medium.com/laziness-does-not-exist-3af27e312d01)
 > When people procrastinate, there's usually a good reason.
 
