@@ -1,4 +1,8 @@
-- -   Incidental/background sound
+ Spend 5-10 minutes decluttering your workspace at the end of each working day
+	* 滿懷感謝，把內心投射到工作空間，期待下一次再次啟動心流的時刻
+	* Keep your desk and workspace bare. Treat every object as an imposition upon your attention, because it is. A workspace is not a place for storing things. It is a place for accomplishing things.
+
+ -   Incidental/background sound
         
         > Without sound, the brain will have the tendency to wander
         
