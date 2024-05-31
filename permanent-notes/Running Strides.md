@@ -8,6 +8,8 @@ Can be part of recovery runs or drill
 
 It is best to perform strides after warming up (dynamic stretching) with a short, ten-minute run at a conversational pace.
 
-Perform strides at eighty percent of your running capacity for thirty-second intervals
+Perform strides at eighty percent of your running capacity for thirty-second intervals.
 
-Aim to cover fifty to one hundred meters of ground with each stride.
+Aim to cover fifty to one hundred meters of flat ground with each stride.
+
+Accelerate evenly over the stretch of ground, taking care not to reach your maximum effort, then gradually decelerate until you reach the end of your stride.
