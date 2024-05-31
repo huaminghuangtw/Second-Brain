@@ -34,3 +34,4 @@ https://strategy.tw/
 * "Rich men use most of their money get richer. Poor men use most of their money to look richer." — Mokokoma Mokhonoana
 - When a person fails to begin a project that they care about, it’s typically due to either a) anxiety about their attempts not being ‘good enough’ or b) confusion about what the first steps of the task are. Not laziness.
 - ? 沉默成本
+
