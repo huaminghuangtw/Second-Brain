@@ -2,7 +2,7 @@
 
 = striders = accelerations = pickups
 
-Can be part of recovery runs or drill
+Can be hpart of recovery runs or drill
 
 # How?
 
