@@ -13,6 +13,6 @@ Perform strides at eighty percent of your running capacity for thirty-second int
 Aim to cover fifty to one hundred meters of *flat ground with each stride.
 - Variations
 - try running strides on a steady incline.
-- try running strides on a gentle downhill grad. 
+- try running strides on a gentle downhill grade. 
 
 Accelerate evenly over the stretch of ground, taking care not to reach your maximum effort, then gradually decelerate until you reach the end of your stride.
