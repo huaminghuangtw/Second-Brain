@@ -21,5 +21,7 @@ Accelerate evenly over the stretch of ground, taking care not to reach your maxi
 
 At the end of easy run
 
+As a standalone workout
+
 Before a race
 
