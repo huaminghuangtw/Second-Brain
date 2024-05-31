@@ -35,3 +35,5 @@ https://strategy.tw/
 - When a person fails to begin a project that they care about, it’s typically due to either a) anxiety about their attempts not being ‘good enough’ or b) confusion about what the first steps of the task are. Not laziness.
 - ? 沉默成本
 
+* hey
+
