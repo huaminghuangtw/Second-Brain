@@ -19,5 +19,5 @@ Accelerate evenly over the stretch of ground, taking care not to reach your maxi
 
 # When?
 
-Before you finish your easy run practice
+At the end of easy run
 
