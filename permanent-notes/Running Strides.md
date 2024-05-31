@@ -16,3 +16,6 @@ Aim to cover fifty to one hundred meters of *flat ground with each stride.
 - try running strides on a gentle downhill grade. 
 
 Accelerate evenly over the stretch of ground, taking care not to reach your maximum effort, then gradually decelerate until you reach the end of your stride.
+
+# When?
+
