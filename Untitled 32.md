@@ -1,4 +1,3 @@
-
 ❗一張卡片(Note) = 一個想法 (Idea): Atom ⇨ elements/molecules/compounds  
 Multiple windows in parallel  
 Dataview plug-in  

@@ -24,4 +24,3 @@ At the end of easy run
 As a standalone workout
 
 Before a race
-

@@ -6,5 +6,5 @@ There's no such thing as working too hard. There's just being under rested. — 
 energy production (recharging activities).
 
 The Energy Razor
-* If you don’t schedule actions that produce energy, assume they’ll never happen.
-* If you don’t monitor actions that drain energy, assume they’ll keep expanding.
+* If you don't schedule actions that produce energy, assume they'll never happen.
+* If you don't monitor actions that drain energy, assume they'll keep expanding.

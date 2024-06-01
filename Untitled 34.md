@@ -1,5 +1,3 @@
-
-
 Format/Write the content  
 Use a subtitle
 Place reading time in the subtitle 
