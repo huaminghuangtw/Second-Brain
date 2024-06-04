@@ -110,7 +110,7 @@ Sports
 👉 Life Purpose/Meaning/Mission/Aspirations/Pillars/Ikigai
 The purpose of life is a life of purpose.
 	•	Happiness (= Wealth + Health + Relationships)
-	•	A calm and peaceful mind
+		•	A calm and peaceful mind
 	•	A fit body
 	•	A house full of love (parents, children, partner, friends, self)
 	•	我們每個人對於已經存在 70 億年的宇宙來說，都是倏忽及逝的存在，在人生這段旅程中，沒有一樣東西能永久留下，他們都終將淡去消失&rarr; Live in the Present Moment. Optimize for happiness by relentlessly prioritizing Sleep + Nutrition + Exercise + Sunlight + Relationships
