@@ -19,3 +19,8 @@
 	- Visible metrics &rarr; e.g., money
 	- Hidden metrics &rarr; e.g., time with family, peace of mind
 		- The hidden metrics only become visible when it's too late...
+
+If you want happiness for an hour—take a nap.
+If you want happiness for a day—go fishing.
+If you want happiness for a year—inherit a fortune.
+If you want happiness for a lifetime—help someone else.
