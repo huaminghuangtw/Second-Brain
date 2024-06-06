@@ -17,7 +17,7 @@ Be a "Loud Listener"
 
 "A good listener is one who helps us OVERHEAR ourselves."
 
-Listen intently before replying. Listening with compassion.
+Liston to what is not being said. Listen intently before replying. Listening with compassion.
 
 Being able to listen well is a superpower—keep asking people "*Is there more?*", until there is no more.
 

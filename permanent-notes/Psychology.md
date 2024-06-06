@@ -58,5 +58,6 @@
 * 「果醬實驗」(Jam Experiment)
 	* How Choice Overloads Makes Consumers Buy Less (Decision Fatigue/Paralysis)
 * [Loss Aversion](https://en.wikipedia.org/wiki/Loss_aversion)
+	* The pain we feel when we lose outweighs the pleasure we feel when we win.
 * Echo Chamber (同溫層效應 = 迴聲室效應 = 信息繭房)
 * 信使效應 on 壞消息 &rarr; shoot the messenger
