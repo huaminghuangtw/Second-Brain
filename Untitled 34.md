@@ -16,11 +16,6 @@ Recall headline in the conclusion
 
 have a call-to-action at the bottom of their articles
 
-write from your own substantial personal life experience/expertise like you're writing an empathic tutorial that includes insider tips and details
-Share your own perspective
-write with the reader in mind (You ⇨ Me ⇨ You)  
-Relate everything back to the reader (e.g., "this is what it all means for you" or "how this story affects you") ⇨ inspire people how to do something how to be someone
-
 Deliberate Publish: consume what you are going to create  
 "Write with a book in mind."
   
@@ -30,24 +25,6 @@ Take time to develop your distinct voice (writing style)
 POP = Personal, Observational, Playful  
 Daily Motivation: Micro habits (Health), Quotes, Psychology Theory (storytelling)  
 
-
-👉 Email Newsletters  
-Commit to GitHub
-Landing Pages
-Referral Program (Ali, Sahil)
-5個本週的新發現  
-Weekly Newsletter: 1 YouTube video, 1 Article, 1 Podcast, 1 Quote/Book highlight (Readwise), 1 Twitter thread, 1 Thing I learned this week 
-
-They're not about cramming your best ideas into an email, but more about staying in touch  
-Always share your newsletters to other platforms
-Write a series of multi-day newsletters as a crash course on a specific topic: X Days of [topic-name] Series
-
-👉 Visuals/Visualization (1 image = 1000 words)(Harsh Darji)  
-
-👉 Atomic Essay (mini blog posts)  
-Focus on one single idea as the lead magnet (Shiny Dimes) — the smallest/minimum viable idea you can write about — good writing orbits around a single point so as to create constraints/boundaries  
-250 words or less: say more with fewer words  
-Fits into a screenshot  
 
 👉 Remember:  
 Write fast, write bad, and write wrong.  
@@ -64,65 +41,5 @@ Plagiarism happens when you copy and paste somebody else's ideas without attribu
 If you insist on being original, aim to create an original premise instead of using only original ideas.
 
 SLOW Writing: Syllabus, Listen, Observe, Write
-FAST Writing: Find, Assemble, Speak, Teach
+FAST Writing: Find, Assemble, Speak, Teach 
 
-Be observerant and keep a keen eye to notice patterns / see the beauty in small things  
-👉 How to decide what is worth writing about?  
-People (people are interested in people)  
-"Do I think this would be interesting/useful to at least 1 person in the world?"  
-"What would I wish I know a week/month/year ago?" (write to former self, I.e., Past You)  
-👉 Webcomic (cartoons)  
-[https://code-cartoons.com/](https://code-cartoons.com/)  
-[https://wizardzines.com/](https://wizardzines.com/)  
-[https://arkwright.github.io/scaling-react-server-side-rendering.html](https://arkwright.github.io/scaling-react-server-side-rendering.html)  
-
-
-
-Shortcuts for daily routine  
-Binaural Beats with Task Scheduler Automation  
-推薦文: N26 & Revolut & Weward & PayPal & 數位帳戶 (MGM)  
-Promote Cycling Sports  
-別人問過我的問題  
-The One Non-Negotiable Exercise I Do Every Single Time I Hit The Gym  
-德國留學  
-[Amazon.de](http://Amazon.de) tips  
-CoMe  
-Write about successful people  
-Tim Ferriss  
-Ali Abdaal  
-Naval Ravikant  
-Ryan Holiday  
-Anything you answered multiple times through email  
-Something you are just a few steps ahead of others  
-Things that work and didn't work for you  
-A list of links to other blog posts/articles that you like, and write brief summaries/highlights what you particularly like about them  
-The Art of Solitude  
-Personal Productivity System  
-Personal Knowledge Management System  
-Book/Conference/Course Summary  
-Share your stories to others, even if it's scary to — be happy to be vulnerable  
-What Happened After I Quitted Instagram  
-Smartphone Addiction (iPhone setup)  
-Active Procrastination  
-知識焦慮 / FOMO / Information Overwhelm / Second Brain / Note-taking  
-Overthinking / Self-doubting  
-Perfectionism  
-Life  
-Life Hacks  
-Life Lessons  
-Life Pro Tips  
-The Game of Life  
-The School of Life  
-Lifestyle Design/Optimization  
-Designing a LifeOS (habits/routines/frameworks)  
-Micro Habits  
-A Day in the Life  
-──────────────  
-第二階段  
-Submit your essays to publications on Medium (e.g., Better Humans, The Startup)  
-Repurpose content / Rewrite old stories (rather than edit them)  
-寫完一篇部落格文章後:  
-(1) 將內容錄製成 podcast 並上架⁣⁣  
-(2) 將段落中的金句做成圖卡，發佈在社群媒體⁣⁣  
-(3) 節錄內容製作成電子報⁣⁣  
-(4) 把文章簡化為一張 PPT 簡報，讓大家領取⁣⁣
