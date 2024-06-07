@@ -77,3 +77,4 @@
 	- Buying quality is key. If you buy quality the first time, it can last a lifetime.
 	- Frugal doesn't mean cheap. &rarr; Cheap is saving money in short term, while frugal is making wise choices to save in the long run.
 	- Often, the more expensive item ("Buy It For Life" ) is more frugal than the cheaper item ("Buy Once, Cry Once"), if it is well-made and lasts significantly longer.
+- Marginal Utility: Beyond a certain point, having more money will not lead to more security, freedom, and happiness. &rarr; In fact, these things do not come from more money. They come from knowing when to stop.
