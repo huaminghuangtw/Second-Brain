@@ -5,14 +5,16 @@ Take ALL advice with a grain of salt. Be comfortable with **ignoring** advice. A
 - there is really no "right way" of doing things, especially [[Information Overwhelm|in the age of infinite information on the internet]]. Finding a [[Self-awareness|personalised]] approach is key.
 
 Be careful WHO you're getting advice from.
-- Don't take advice from the person who hasn't done the thing you want to do.
-- Don’t take opinions from unsuccessful people (**including family and friends**) on the sideline.
+- Don't
+	- take advice from the person who hasn't done the thing you want to do.
+	- listen to the opinions of those that haven't achieved what you want to achieve.
+	- take opinions from people on the sideline (**including family and friends**).
 
-When some one gives you advice, sandbox it and ask:
+When some one gives ou advice, sandbox it and ask:
 - "Will this work for me?"
 - "What does this mean to me?"
 
-Subtract incentives from advice.
+Subtract [[incentives]] from advice.
 - Don't ask your barber if you need a haircut.
 - Don't ask your doctor what you should do. (Instead, ask him what he would do if he were in your place.)
 ---

@@ -6,8 +6,6 @@
     * The Arena Razor
         * When faced with two paths, choose the path that puts you in the arena.
         * It's easy to throw rocks from the sidelines. It's scary and lonely in the arena—but it's where growth happens.
-        * Once you're in the arena, never take advice from people on the sidelines / with a grain of salt (inlcuding family and friends).
-            * Be careful listening to the opinions of those that haven't achieved what you want to achieve.
     * The Duck Test
         * If it looks like a duck, swims like a duck, and quacks like a duck, it's probably a duck.
         * You can determine a lot about a person by observing their habitual actions and characteristics.
