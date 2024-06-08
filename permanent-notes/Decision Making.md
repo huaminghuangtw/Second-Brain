@@ -1,5 +1,3 @@
-* Incentives are the most fundamental concept in decision-making.
-    * People respond to incentives like Pavlov's dogs, and they are more likely to act in their own self-interest, even if it contradicts their moral values.
 * Razors = principles that amplify your decisions
     * The Rooms Razor
         * If you have a choice between entering two rooms, choose the room where you're more likely to be the dumbest one in the room.
