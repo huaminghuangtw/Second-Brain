@@ -26,3 +26,7 @@ If you want happiness for a year—inherit a fortune.
 If you want happiness for a lifetime—help someone else.
 
 People are often not present to what they are doing (the mismatch between being in an activity and having our mind elsewhere), and that is a great source of unhappiness, even if their thoughts are those of happy, joyful thoughts. But equally, if not more important, is to have the ability to be fully engaged in what you are doing at a given moment. That is the strongest predictor of being happy.
+
+A human mind is a wandering mind, and a wandering mind is an unhappy mind.
+
+The ability to think about what is not happening in a moment is a cognitive achievement that comes at an emotional cost.
