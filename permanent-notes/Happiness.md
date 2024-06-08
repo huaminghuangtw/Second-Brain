@@ -25,4 +25,4 @@ If you want happiness for a day—go fishing.
 If you want happiness for a year—inherit a fortune.
 If you want happiness for a lifetime—help someone else.
 
-People are often not present to what they are doing, and that is a great source of unhappiness, even if their thoughts are those of happy, joyful thoughts. (In other words, the mismatch between being in an activity and having our mind elsewhere.)But equally, if not more important, is to have the ability to be fully engaged in what you are doing at a given moment. That is the strongest predictor of being happy.
+People are often not present to what they are doing (the mismatch between being in an activity and having our mind elsewhere), and that is a great source of unhappiness, even if their thoughts are those of happy, joyful thoughts. But equally, if not more important, is to have the ability to be fully engaged in what you are doing at a given moment. That is the strongest predictor of being happy.
