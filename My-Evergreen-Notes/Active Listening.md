@@ -34,3 +34,7 @@ Remember: You have two ears and one mouth. Therefore, you should listen twice as
 Always speak less than necessary. Keep your mouth shut as much as possible.
 
 Be still. Be less chatty.
+
+---
+# References
+- 
