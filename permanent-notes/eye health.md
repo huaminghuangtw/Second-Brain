@@ -12,4 +12,4 @@ Lutein (葉黃素)
 角膜塑型鏡片
 一種硬式眼鏡
 週邊離焦理論 (Peripheral Defocus Theory)
-Goal: 減少眼軸被拉長的距離 (正圓形 → 橢圓形)
+Goal: 減少眼軸被拉長的距離 (正圓形 &rarr; 橢圓形)

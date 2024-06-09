@@ -41,5 +41,4 @@ Plagiarism happens when you copy and paste somebody else's ideas without attribu
 If you insist on being original, aim to create an original premise instead of using only original ideas.
 
 SLOW Writing: Syllabus, Listen, Observe, Write
-FAST Writing: Find, Assemble, Speak, Teach 
-
+FAST Writing: Find, Assemble, Speak, Teach
