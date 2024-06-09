@@ -1,1 +1,1 @@
-延遲性肌肉痠痛（英語：delayed onset muscle soreness，DOMS）是一種運動之後24–72小時出現的肌肉痠痛或不舒適
+延遲性肌肉痠痛（Delayed Onset Muscle Soreness = DOMS）是一種運動之後24–72小時出現的肌肉痠痛或不舒適 &rarr; 和「乳酸堆積」 (ㄐㄧˊ
