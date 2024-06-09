@@ -29,6 +29,7 @@
     * Franeworks/Methods for Information Organisation
         * LATCH (Location, Alphabet, Time, Category, Hierarchy) by Richard Saul Wurman (founder of TED)
         * Orthagonal Categories: categories are orthagonal when they are both mutually exclusive and collectively exhaustive
+	* The Laundry Cycle Theory: Think about the areas of your life where you are placing unnecessary pressure on yourself to have everything in a "completed" state, e.g., to-read pile (Read-It-Later &rarr; Never-Read-It). Perhaps that area is better viewed as a RIVER than as a BUCKET — as a cycle, not a fixed state.
 * Remember
     * You're only as smart as the information you consume
     * What digital content we consume is as important as what we eat

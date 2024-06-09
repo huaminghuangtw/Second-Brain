@@ -8,3 +8,5 @@ energy production (recharging activities).
 The Energy Razor
 * If you don't schedule actions that produce energy, assume they'll never happen.
 * If you don't monitor actions that drain energy, assume they'll keep expanding.
+
+So often people focus all their energy on the summits—but completely fail to recognise that 99% of life is spent on the climb.
