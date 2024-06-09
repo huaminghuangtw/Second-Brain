@@ -1,7 +1,7 @@
 ### Positive Compounding
 - Little things add up
 - 冰凍三尺，非一日之寒
-- The Butterfly/Ripple Effect
+- The Butterfly/Ripple/Domino Effect: the cumulative effect produced when one event sets off a series of similar or related events, a form of chain reaction.
 ### Negative Compounding
 - How to avoid compound mistake?
 	1. Create Space
