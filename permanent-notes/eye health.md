@@ -1,4 +1,4 @@
-Visual Training Execise (https://www.youtube.com/c/VisualExercises/)
+Visual Training Exercise (https://www.youtube.com/c/VisualExercises/)
 Smooth Pursuit Eye Task
 Near-Far Exercises
 
