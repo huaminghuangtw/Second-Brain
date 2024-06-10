@@ -7,8 +7,6 @@
 * Don't buy CDs for people. They have Spotify. Buy them merch from a band they like instead. It’s more personal and the band gets more money.
 
 * Replace Fabric Softener with White Vinegar
-	1. Metal fan with ice blocks on the back, parallel to the direction of airflow
-	2. Metal fan with wet towels hanging in the front (evaporative cooling)
 	1. Cheap
 	2. Natural (more eco-friendly)
 	3. Not only a clothing softener, but also a clothing deodorizer (especially good for towels!)
@@ -22,13 +20,6 @@
 * Record a video interview with your parents. Ask them questions and have them tell stories about their childhood, adventures, hopes, dreams, and fears. Our time with them is finite, but we often fail to recognize it until it's too late. These recordings will last forever.
 
 * Invest in things you use for a significant fraction of your life (long-term possessions). You will thank yourself later.
-	1. Metal fan with ice blocks on the back, parallel to the direction of airflow
-	2. Metal fan with wet towels hanging in the front (evaporative cooling)
-	1. Cheap
-	2. Natural (more eco-friendly)
-	3. Not only a clothing softener, but also a clothing deodorizer (especially good for towels!)
-	4. Will remove hard water deposits in your washing machine as well
-	5. DO NOT MIX VINEGAR AND CHLORINE BLEACH OR COLOR SAFE BLEACH EVER!!!! THEY WILL PRODUCE DANGEROUS CHEMICALS!
 	1. bed
 	2. office chair
 	3. mattress, pillow, blanket, etc.
@@ -43,19 +34,6 @@
 * When googling a recipe, precede it with "best". You’ll find better recipes.
 
 * 果醬玻璃罐的用途
-	1. Metal fan with ice blocks on the back, parallel to the direction of airflow
-	2. Metal fan with wet towels hanging in the front (evaporative cooling)
-	1. Cheap
-	2. Natural (more eco-friendly)
-	3. Not only a clothing softener, but also a clothing deodorizer (especially good for towels!)
-	4. Will remove hard water deposits in your washing machine as well
-	5. DO NOT MIX VINEGAR AND CHLORINE BLEACH OR COLOR SAFE BLEACH EVER!!!! THEY WILL PRODUCE DANGEROUS CHEMICALS!
-	1. bed
-	2. office chair
-	3. mattress, pillow, blanket, etc.
-	4. shoes
-	5. phone
-	6. laptop, monitor, keyboard, mouse, etc.
 	1. 泡鍊條
 	2. 做冷泡燕麥粥
 	3. 分裝現打蔬果昔
@@ -66,26 +44,7 @@
 * Shop on the outer perimeter of the grocery store. This is (usually) where all the whole, unprocessed foods are. The aisles have most of the processed junk.
 
 * How to say NO with grace and style?
-	1. Metal fan with ice blocks on the back, parallel to the direction of airflow
-	2. Metal fan with wet towels hanging in the front (evaporative cooling)
-	1. Cheap
-	2. Natural (more eco-friendly)
-	3. Not only a clothing softener, but also a clothing deodorizer (especially good for towels!)
-	4. Will remove hard water deposits in your washing machine as well
-	5. DO NOT MIX VINEGAR AND CHLORINE BLEACH OR COLOR SAFE BLEACH EVER!!!! THEY WILL PRODUCE DANGEROUS CHEMICALS!
-	1. bed
-	2. office chair
-	3. mattress, pillow, blanket, etc.
-	4. shoes
-	5. phone
-	6. laptop, monitor, keyboard, mouse, etc.
-	1. 泡鍊條
-	2. 做冷泡燕麥粥
-	3. 分裝現打蔬果昔
-	4. 做咖啡奶泡 (with 微波爐)
-	5. 裝堅果、椰棗 etc. (better than 保鮮盒)
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
+	- General Principle: Don’t lie. People value honesty.—Just say “I don’t feel like doing X. / I don’t want to do X. (And I don’t have to offer you an excuse and no should be a sufficient enough answer.)”
 	1. The awkward pause: just pause, raise an eyebrow, and look at them in silence—Oftentimes when you tell someone you can’t do x because of y, people will give you all kinds of suggestions of how to cancel/postpone x and do y instead. People will try to “solve” the problem of why you can’t do something because they see what they want you to do as more important than what’s already on your agenda
 	2. Say it with humor
 	3. The soft “no” (“no but”, “thank you but”)
@@ -109,35 +68,6 @@
 * When we ask someone to do us a favor we will be more successful if we provide a reason. People simply like to have reasons for what they do.
 
 * How to not forget your keys?
-	1. Metal fan with ice blocks on the back, parallel to the direction of airflow
-	2. Metal fan with wet towels hanging in the front (evaporative cooling)
-	1. Cheap
-	2. Natural (more eco-friendly)
-	3. Not only a clothing softener, but also a clothing deodorizer (especially good for towels!)
-	4. Will remove hard water deposits in your washing machine as well
-	5. DO NOT MIX VINEGAR AND CHLORINE BLEACH OR COLOR SAFE BLEACH EVER!!!! THEY WILL PRODUCE DANGEROUS CHEMICALS!
-	1. bed
-	2. office chair
-	3. mattress, pillow, blanket, etc.
-	4. shoes
-	5. phone
-	6. laptop, monitor, keyboard, mouse, etc.
-	1. 泡鍊條
-	2. 做冷泡燕麥粥
-	3. 分裝現打蔬果昔
-	4. 做咖啡奶泡 (with 微波爐)
-	5. 裝堅果、椰棗 etc. (better than 保鮮盒)
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	1. The awkward pause: just pause, raise an eyebrow, and look at them in silence—Oftentimes when you tell someone you can’t do x because of y, people will give you all kinds of suggestions of how to cancel/postpone x and do y instead. People will try to “solve” the problem of why you can’t do something because they see what they want you to do as more important than what’s already on your agenda
-	2. Say it with humor
-	3. The soft “no” (“no but”, “thank you but”)
-	4. Use e-mail bounce backs (like the auto response when someone is out of the office)
-	5. “Let me check my calendar and get back to you.”
-	6. “Sounds very interesting, but I will pass it at the moment”
-	7. “Yes, but what should I deprioritize?”
-	8. “You are welcome to X. I am willing to Y.”
-	9. "I can’t do it, but X might be interested."
 	1. Always put the keys first thing into the backpack/luggage if you plan to leave home at a later time
 	2. Insert the keys into the door lock
 	3. Put the keys on your shoes or under whatever you need to take with you leaving home
@@ -156,39 +86,6 @@
 * Whenever you sit, make sure your butt flush with the backrest to avoid back pain
 
 * Whenever brushing your teeth:
-	1. Metal fan with ice blocks on the back, parallel to the direction of airflow
-	2. Metal fan with wet towels hanging in the front (evaporative cooling)
-	1. Cheap
-	2. Natural (more eco-friendly)
-	3. Not only a clothing softener, but also a clothing deodorizer (especially good for towels!)
-	4. Will remove hard water deposits in your washing machine as well
-	5. DO NOT MIX VINEGAR AND CHLORINE BLEACH OR COLOR SAFE BLEACH EVER!!!! THEY WILL PRODUCE DANGEROUS CHEMICALS!
-	1. bed
-	2. office chair
-	3. mattress, pillow, blanket, etc.
-	4. shoes
-	5. phone
-	6. laptop, monitor, keyboard, mouse, etc.
-	1. 泡鍊條
-	2. 做冷泡燕麥粥
-	3. 分裝現打蔬果昔
-	4. 做咖啡奶泡 (with 微波爐)
-	5. 裝堅果、椰棗 etc. (better than 保鮮盒)
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	1. The awkward pause: just pause, raise an eyebrow, and look at them in silence—Oftentimes when you tell someone you can’t do x because of y, people will give you all kinds of suggestions of how to cancel/postpone x and do y instead. People will try to “solve” the problem of why you can’t do something because they see what they want you to do as more important than what’s already on your agenda
-	2. Say it with humor
-	3. The soft “no” (“no but”, “thank you but”)
-	4. Use e-mail bounce backs (like the auto response when someone is out of the office)
-	5. “Let me check my calendar and get back to you.”
-	6. “Sounds very interesting, but I will pass it at the moment”
-	7. “Yes, but what should I deprioritize?”
-	8. “You are welcome to X. I am willing to Y.”
-	9. "I can’t do it, but X might be interested."
-	1. Always put the keys first thing into the backpack/luggage if you plan to leave home at a later time
-	2. Insert the keys into the door lock
-	3. Put the keys on your shoes or under whatever you need to take with you leaving home
-	4. Trick/Train yourself into not locking the door with the knob, but only with the keys
 	1. use your non-dominant hand
 	2. balance on one leg in the morning and the other leg in the evening (例如: 早上用左手刷牙&右腳站立，早上用右手刷牙&左腳站立)
 
@@ -205,170 +102,18 @@
 * Attach water-saving tap aerator to toilet/kitchen faucets
 
 * How to choose mouthwash/mouthrinse (Mundspülung)?
-	1. Metal fan with ice blocks on the back, parallel to the direction of airflow
-	2. Metal fan with wet towels hanging in the front (evaporative cooling)
-	1. Cheap
-	2. Natural (more eco-friendly)
-	3. Not only a clothing softener, but also a clothing deodorizer (especially good for towels!)
-	4. Will remove hard water deposits in your washing machine as well
-	5. DO NOT MIX VINEGAR AND CHLORINE BLEACH OR COLOR SAFE BLEACH EVER!!!! THEY WILL PRODUCE DANGEROUS CHEMICALS!
-	1. bed
-	2. office chair
-	3. mattress, pillow, blanket, etc.
-	4. shoes
-	5. phone
-	6. laptop, monitor, keyboard, mouse, etc.
-	1. 泡鍊條
-	2. 做冷泡燕麥粥
-	3. 分裝現打蔬果昔
-	4. 做咖啡奶泡 (with 微波爐)
-	5. 裝堅果、椰棗 etc. (better than 保鮮盒)
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	1. The awkward pause: just pause, raise an eyebrow, and look at them in silence—Oftentimes when you tell someone you can’t do x because of y, people will give you all kinds of suggestions of how to cancel/postpone x and do y instead. People will try to “solve” the problem of why you can’t do something because they see what they want you to do as more important than what’s already on your agenda
-	2. Say it with humor
-	3. The soft “no” (“no but”, “thank you but”)
-	4. Use e-mail bounce backs (like the auto response when someone is out of the office)
-	5. “Let me check my calendar and get back to you.”
-	6. “Sounds very interesting, but I will pass it at the moment”
-	7. “Yes, but what should I deprioritize?”
-	8. “You are welcome to X. I am willing to Y.”
-	9. "I can’t do it, but X might be interested."
-	1. Always put the keys first thing into the backpack/luggage if you plan to leave home at a later time
-	2. Insert the keys into the door lock
-	3. Put the keys on your shoes or under whatever you need to take with you leaving home
-	4. Trick/Train yourself into not locking the door with the knob, but only with the keys
-	1. use your non-dominant hand
-	2. balance on one leg in the morning and the other leg in the evening (例如: 早上用左手刷牙&右腳站立，早上用右手刷牙&左腳站立)
 	1. Has fluoride (cavity prevention)
 	2. No alcohol (dries your tissues out)
 
 * How to correctly use the 3 compartments in a washing machine tray/drawer?
-	1. Metal fan with ice blocks on the back, parallel to the direction of airflow
-	2. Metal fan with wet towels hanging in the front (evaporative cooling)
-	1. Cheap
-	2. Natural (more eco-friendly)
-	3. Not only a clothing softener, but also a clothing deodorizer (especially good for towels!)
-	4. Will remove hard water deposits in your washing machine as well
-	5. DO NOT MIX VINEGAR AND CHLORINE BLEACH OR COLOR SAFE BLEACH EVER!!!! THEY WILL PRODUCE DANGEROUS CHEMICALS!
-	1. bed
-	2. office chair
-	3. mattress, pillow, blanket, etc.
-	4. shoes
-	5. phone
-	6. laptop, monitor, keyboard, mouse, etc.
-	1. 泡鍊條
-	2. 做冷泡燕麥粥
-	3. 分裝現打蔬果昔
-	4. 做咖啡奶泡 (with 微波爐)
-	5. 裝堅果、椰棗 etc. (better than 保鮮盒)
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	1. The awkward pause: just pause, raise an eyebrow, and look at them in silence—Oftentimes when you tell someone you can’t do x because of y, people will give you all kinds of suggestions of how to cancel/postpone x and do y instead. People will try to “solve” the problem of why you can’t do something because they see what they want you to do as more important than what’s already on your agenda
-	2. Say it with humor
-	3. The soft “no” (“no but”, “thank you but”)
-	4. Use e-mail bounce backs (like the auto response when someone is out of the office)
-	5. “Let me check my calendar and get back to you.”
-	6. “Sounds very interesting, but I will pass it at the moment”
-	7. “Yes, but what should I deprioritize?”
-	8. “You are welcome to X. I am willing to Y.”
-	9. "I can’t do it, but X might be interested."
-	1. Always put the keys first thing into the backpack/luggage if you plan to leave home at a later time
-	2. Insert the keys into the door lock
-	3. Put the keys on your shoes or under whatever you need to take with you leaving home
-	4. Trick/Train yourself into not locking the door with the knob, but only with the keys
-	1. use your non-dominant hand
-	2. balance on one leg in the morning and the other leg in the evening (例如: 早上用左手刷牙&右腳站立，早上用右手刷牙&左腳站立)
-	1. Has fluoride (cavity prevention)
-	2. No alcohol (dries your tissues out)
 	1. Slot I is for the pre-wash cycle followed by a main wash cycle if you have it on, but remember to fill Slot II every time as well
 	2. It's not recommended to put the detergent directly on top of the clothes because it may not disperse evenly or rinse out with lower water levels
 
 * How to deal with Body Odor?
-	1. Metal fan with ice blocks on the back, parallel to the direction of airflow
-	2. Metal fan with wet towels hanging in the front (evaporative cooling)
-	1. Cheap
-	2. Natural (more eco-friendly)
-	3. Not only a clothing softener, but also a clothing deodorizer (especially good for towels!)
-	4. Will remove hard water deposits in your washing machine as well
-	5. DO NOT MIX VINEGAR AND CHLORINE BLEACH OR COLOR SAFE BLEACH EVER!!!! THEY WILL PRODUCE DANGEROUS CHEMICALS!
-	1. bed
-	2. office chair
-	3. mattress, pillow, blanket, etc.
-	4. shoes
-	5. phone
-	6. laptop, monitor, keyboard, mouse, etc.
-	1. 泡鍊條
-	2. 做冷泡燕麥粥
-	3. 分裝現打蔬果昔
-	4. 做咖啡奶泡 (with 微波爐)
-	5. 裝堅果、椰棗 etc. (better than 保鮮盒)
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	1. The awkward pause: just pause, raise an eyebrow, and look at them in silence—Oftentimes when you tell someone you can’t do x because of y, people will give you all kinds of suggestions of how to cancel/postpone x and do y instead. People will try to “solve” the problem of why you can’t do something because they see what they want you to do as more important than what’s already on your agenda
-	2. Say it with humor
-	3. The soft “no” (“no but”, “thank you but”)
-	4. Use e-mail bounce backs (like the auto response when someone is out of the office)
-	5. “Let me check my calendar and get back to you.”
-	6. “Sounds very interesting, but I will pass it at the moment”
-	7. “Yes, but what should I deprioritize?”
-	8. “You are welcome to X. I am willing to Y.”
-	9. "I can’t do it, but X might be interested."
-	1. Always put the keys first thing into the backpack/luggage if you plan to leave home at a later time
-	2. Insert the keys into the door lock
-	3. Put the keys on your shoes or under whatever you need to take with you leaving home
-	4. Trick/Train yourself into not locking the door with the knob, but only with the keys
-	1. use your non-dominant hand
-	2. balance on one leg in the morning and the other leg in the evening (例如: 早上用左手刷牙&右腳站立，早上用右手刷牙&左腳站立)
-	1. Has fluoride (cavity prevention)
-	2. No alcohol (dries your tissues out)
-	1. Slot I is for the pre-wash cycle followed by a main wash cycle if you have it on, but remember to fill Slot II every time as well
-	2. It's not recommended to put the detergent directly on top of the clothes because it may not disperse evenly or rinse out with lower water levels
 	1. Use Exfoliating Gloves to very gently exfoliate skin on your armpits once a week
 	2. Apply "The Ordinary Glycolic Acid 7% Toning Solution" all over your body (include armpits) after every shower before lotion
 
 * How to deal with Sweaty/Stinky Feet?
-	1. Metal fan with ice blocks on the back, parallel to the direction of airflow
-	2. Metal fan with wet towels hanging in the front (evaporative cooling)
-	1. Cheap
-	2. Natural (more eco-friendly)
-	3. Not only a clothing softener, but also a clothing deodorizer (especially good for towels!)
-	4. Will remove hard water deposits in your washing machine as well
-	5. DO NOT MIX VINEGAR AND CHLORINE BLEACH OR COLOR SAFE BLEACH EVER!!!! THEY WILL PRODUCE DANGEROUS CHEMICALS!
-	1. bed
-	2. office chair
-	3. mattress, pillow, blanket, etc.
-	4. shoes
-	5. phone
-	6. laptop, monitor, keyboard, mouse, etc.
-	1. 泡鍊條
-	2. 做冷泡燕麥粥
-	3. 分裝現打蔬果昔
-	4. 做咖啡奶泡 (with 微波爐)
-	5. 裝堅果、椰棗 etc. (better than 保鮮盒)
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	1. The awkward pause: just pause, raise an eyebrow, and look at them in silence—Oftentimes when you tell someone you can’t do x because of y, people will give you all kinds of suggestions of how to cancel/postpone x and do y instead. People will try to “solve” the problem of why you can’t do something because they see what they want you to do as more important than what’s already on your agenda
-	2. Say it with humor
-	3. The soft “no” (“no but”, “thank you but”)
-	4. Use e-mail bounce backs (like the auto response when someone is out of the office)
-	5. “Let me check my calendar and get back to you.”
-	6. “Sounds very interesting, but I will pass it at the moment”
-	7. “Yes, but what should I deprioritize?”
-	8. “You are welcome to X. I am willing to Y.”
-	9. "I can’t do it, but X might be interested."
-	1. Always put the keys first thing into the backpack/luggage if you plan to leave home at a later time
-	2. Insert the keys into the door lock
-	3. Put the keys on your shoes or under whatever you need to take with you leaving home
-	4. Trick/Train yourself into not locking the door with the knob, but only with the keys
-	1. use your non-dominant hand
-	2. balance on one leg in the morning and the other leg in the evening (例如: 早上用左手刷牙&右腳站立，早上用右手刷牙&左腳站立)
-	1. Has fluoride (cavity prevention)
-	2. No alcohol (dries your tissues out)
-	1. Slot I is for the pre-wash cycle followed by a main wash cycle if you have it on, but remember to fill Slot II every time as well
-	2. It's not recommended to put the detergent directly on top of the clothes because it may not disperse evenly or rinse out with lower water levels
-	1. Use Exfoliating Gloves to very gently exfoliate skin on your armpits once a week
-	2. Apply "The Ordinary Glycolic Acid 7% Toning Solution" all over your body (include armpits) after every shower before lotion
 	1. Choose the right socks: Smartwool® Merino wool socks
 	2. Avoid wearing the same pair of socks/shoes on 2 consecutive days. Air out your shoes outside.
 	3. Wash your feet at least once, if not twice, a day, using antibacterial soaps. → Dry the feet thoroughly, especially in between the toes. → (1) Apply a light dusting of anti-fungal foot powder/cornstarch/baby powder before slipping on cotton socks and breathable shoes. (2) Use antiperspirant (止汗劑) after showering in the evening (better than in the morning). Repeat this for another 3 or 4 consecutive nights and then switch to using it once or twice a week.
@@ -377,157 +122,15 @@
 * You can lower energy costs on freezers by keeping them full. (Why? Air is expensive to cool down. Water/ice has a very high heat capacity so it's resistant to temperature changes.) Fill the empty space in your freezer with bottles of water to make large blocks of ice, which is useful for many occasions, such as power outages. Or ever better: filling it with empty containers that have only air in them -> Empty bottles of air take much less energy to cool down initially (compared to empty bottles of water), and also keep the cold air from falling out when you open the door of the freezer.
 
 * When it comes to buying things, there is good, fast, and cheap—You can pick 2 but not all three.
-	1. Metal fan with ice blocks on the back, parallel to the direction of airflow
-	2. Metal fan with wet towels hanging in the front (evaporative cooling)
-	1. Cheap
-	2. Natural (more eco-friendly)
-	3. Not only a clothing softener, but also a clothing deodorizer (especially good for towels!)
-	4. Will remove hard water deposits in your washing machine as well
-	5. DO NOT MIX VINEGAR AND CHLORINE BLEACH OR COLOR SAFE BLEACH EVER!!!! THEY WILL PRODUCE DANGEROUS CHEMICALS!
-	1. bed
-	2. office chair
-	3. mattress, pillow, blanket, etc.
-	4. shoes
-	5. phone
-	6. laptop, monitor, keyboard, mouse, etc.
-	1. 泡鍊條
-	2. 做冷泡燕麥粥
-	3. 分裝現打蔬果昔
-	4. 做咖啡奶泡 (with 微波爐)
-	5. 裝堅果、椰棗 etc. (better than 保鮮盒)
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	1. The awkward pause: just pause, raise an eyebrow, and look at them in silence—Oftentimes when you tell someone you can’t do x because of y, people will give you all kinds of suggestions of how to cancel/postpone x and do y instead. People will try to “solve” the problem of why you can’t do something because they see what they want you to do as more important than what’s already on your agenda
-	2. Say it with humor
-	3. The soft “no” (“no but”, “thank you but”)
-	4. Use e-mail bounce backs (like the auto response when someone is out of the office)
-	5. “Let me check my calendar and get back to you.”
-	6. “Sounds very interesting, but I will pass it at the moment”
-	7. “Yes, but what should I deprioritize?”
-	8. “You are welcome to X. I am willing to Y.”
-	9. "I can’t do it, but X might be interested."
-	1. Always put the keys first thing into the backpack/luggage if you plan to leave home at a later time
-	2. Insert the keys into the door lock
-	3. Put the keys on your shoes or under whatever you need to take with you leaving home
-	4. Trick/Train yourself into not locking the door with the knob, but only with the keys
-	1. use your non-dominant hand
-	2. balance on one leg in the morning and the other leg in the evening (例如: 早上用左手刷牙&右腳站立，早上用右手刷牙&左腳站立)
-	1. Has fluoride (cavity prevention)
-	2. No alcohol (dries your tissues out)
-	1. Slot I is for the pre-wash cycle followed by a main wash cycle if you have it on, but remember to fill Slot II every time as well
-	2. It's not recommended to put the detergent directly on top of the clothes because it may not disperse evenly or rinse out with lower water levels
-	1. Use Exfoliating Gloves to very gently exfoliate skin on your armpits once a week
-	2. Apply "The Ordinary Glycolic Acid 7% Toning Solution" all over your body (include armpits) after every shower before lotion
-	1. Choose the right socks: Smartwool® Merino wool socks
-	2. Avoid wearing the same pair of socks/shoes on 2 consecutive days. Air out your shoes outside.
-	3. Wash your feet at least once, if not twice, a day, using antibacterial soaps. → Dry the feet thoroughly, especially in between the toes. → (1) Apply a light dusting of anti-fungal foot powder/cornstarch/baby powder before slipping on cotton socks and breathable shoes. (2) Use antiperspirant (止汗劑) after showering in the evening (better than in the morning). Repeat this for another 3 or 4 consecutive nights and then switch to using it once or twice a week.
-	4. Soak your feet: add a few drops of an antibacterial solution (like sodium hypochloride, aka chlorox 次氯酸鈉/漂白水, or white vinegar) to a bucket/basin of warm water (+ epsom salt + tea tree/eucalyptus oil) → Pro Tip: do this while watching TV.
 	1. Good + Cheap: There are places to trade time for quality while keeping costs down.
 	2. Good + Fast: There are times when you have to pay through the nose because you need it done fast and good.
 
 * How to organize plastic bags?
-	1. Metal fan with ice blocks on the back, parallel to the direction of airflow
-	2. Metal fan with wet towels hanging in the front (evaporative cooling)
-	1. Cheap
-	2. Natural (more eco-friendly)
-	3. Not only a clothing softener, but also a clothing deodorizer (especially good for towels!)
-	4. Will remove hard water deposits in your washing machine as well
-	5. DO NOT MIX VINEGAR AND CHLORINE BLEACH OR COLOR SAFE BLEACH EVER!!!! THEY WILL PRODUCE DANGEROUS CHEMICALS!
-	1. bed
-	2. office chair
-	3. mattress, pillow, blanket, etc.
-	4. shoes
-	5. phone
-	6. laptop, monitor, keyboard, mouse, etc.
-	1. 泡鍊條
-	2. 做冷泡燕麥粥
-	3. 分裝現打蔬果昔
-	4. 做咖啡奶泡 (with 微波爐)
-	5. 裝堅果、椰棗 etc. (better than 保鮮盒)
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	1. The awkward pause: just pause, raise an eyebrow, and look at them in silence—Oftentimes when you tell someone you can’t do x because of y, people will give you all kinds of suggestions of how to cancel/postpone x and do y instead. People will try to “solve” the problem of why you can’t do something because they see what they want you to do as more important than what’s already on your agenda
-	2. Say it with humor
-	3. The soft “no” (“no but”, “thank you but”)
-	4. Use e-mail bounce backs (like the auto response when someone is out of the office)
-	5. “Let me check my calendar and get back to you.”
-	6. “Sounds very interesting, but I will pass it at the moment”
-	7. “Yes, but what should I deprioritize?”
-	8. “You are welcome to X. I am willing to Y.”
-	9. "I can’t do it, but X might be interested."
-	1. Always put the keys first thing into the backpack/luggage if you plan to leave home at a later time
-	2. Insert the keys into the door lock
-	3. Put the keys on your shoes or under whatever you need to take with you leaving home
-	4. Trick/Train yourself into not locking the door with the knob, but only with the keys
-	1. use your non-dominant hand
-	2. balance on one leg in the morning and the other leg in the evening (例如: 早上用左手刷牙&右腳站立，早上用右手刷牙&左腳站立)
-	1. Has fluoride (cavity prevention)
-	2. No alcohol (dries your tissues out)
-	1. Slot I is for the pre-wash cycle followed by a main wash cycle if you have it on, but remember to fill Slot II every time as well
-	2. It's not recommended to put the detergent directly on top of the clothes because it may not disperse evenly or rinse out with lower water levels
-	1. Use Exfoliating Gloves to very gently exfoliate skin on your armpits once a week
-	2. Apply "The Ordinary Glycolic Acid 7% Toning Solution" all over your body (include armpits) after every shower before lotion
-	1. Choose the right socks: Smartwool® Merino wool socks
-	2. Avoid wearing the same pair of socks/shoes on 2 consecutive days. Air out your shoes outside.
-	3. Wash your feet at least once, if not twice, a day, using antibacterial soaps. → Dry the feet thoroughly, especially in between the toes. → (1) Apply a light dusting of anti-fungal foot powder/cornstarch/baby powder before slipping on cotton socks and breathable shoes. (2) Use antiperspirant (止汗劑) after showering in the evening (better than in the morning). Repeat this for another 3 or 4 consecutive nights and then switch to using it once or twice a week.
-	4. Soak your feet: add a few drops of an antibacterial solution (like sodium hypochloride, aka chlorox 次氯酸鈉/漂白水, or white vinegar) to a bucket/basin of warm water (+ epsom salt + tea tree/eucalyptus oil) → Pro Tip: do this while watching TV.
-	1. Good + Cheap: There are places to trade time for quality while keeping costs down.
-	2. Good + Fast: There are times when you have to pay through the nose because you need it done fast and good.
 	1. Flatten your bag, then fold it in half twice.
 	2. Start from the hand-holding end and fold it in a triangular pattern, until you reach the end of your bag.
 	3. Once you are at the end, tuck the end tab into the folds, and you have your bag in a small triangle.
 
 * How to get maximum cooling in your home during summer?
-	1. Metal fan with ice blocks on the back, parallel to the direction of airflow
-	2. Metal fan with wet towels hanging in the front (evaporative cooling)
-	1. Cheap
-	2. Natural (more eco-friendly)
-	3. Not only a clothing softener, but also a clothing deodorizer (especially good for towels!)
-	4. Will remove hard water deposits in your washing machine as well
-	5. DO NOT MIX VINEGAR AND CHLORINE BLEACH OR COLOR SAFE BLEACH EVER!!!! THEY WILL PRODUCE DANGEROUS CHEMICALS!
-	1. bed
-	2. office chair
-	3. mattress, pillow, blanket, etc.
-	4. shoes
-	5. phone
-	6. laptop, monitor, keyboard, mouse, etc.
-	1. 泡鍊條
-	2. 做冷泡燕麥粥
-	3. 分裝現打蔬果昔
-	4. 做咖啡奶泡 (with 微波爐)
-	5. 裝堅果、椰棗 etc. (better than 保鮮盒)
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	1. The awkward pause: just pause, raise an eyebrow, and look at them in silence—Oftentimes when you tell someone you can’t do x because of y, people will give you all kinds of suggestions of how to cancel/postpone x and do y instead. People will try to “solve” the problem of why you can’t do something because they see what they want you to do as more important than what’s already on your agenda
-	2. Say it with humor
-	3. The soft “no” (“no but”, “thank you but”)
-	4. Use e-mail bounce backs (like the auto response when someone is out of the office)
-	5. “Let me check my calendar and get back to you.”
-	6. “Sounds very interesting, but I will pass it at the moment”
-	7. “Yes, but what should I deprioritize?”
-	8. “You are welcome to X. I am willing to Y.”
-	9. "I can’t do it, but X might be interested."
-	1. Always put the keys first thing into the backpack/luggage if you plan to leave home at a later time
-	2. Insert the keys into the door lock
-	3. Put the keys on your shoes or under whatever you need to take with you leaving home
-	4. Trick/Train yourself into not locking the door with the knob, but only with the keys
-	1. use your non-dominant hand
-	2. balance on one leg in the morning and the other leg in the evening (例如: 早上用左手刷牙&右腳站立，早上用右手刷牙&左腳站立)
-	1. Has fluoride (cavity prevention)
-	2. No alcohol (dries your tissues out)
-	1. Slot I is for the pre-wash cycle followed by a main wash cycle if you have it on, but remember to fill Slot II every time as well
-	2. It's not recommended to put the detergent directly on top of the clothes because it may not disperse evenly or rinse out with lower water levels
-	1. Use Exfoliating Gloves to very gently exfoliate skin on your armpits once a week
-	2. Apply "The Ordinary Glycolic Acid 7% Toning Solution" all over your body (include armpits) after every shower before lotion
-	1. Choose the right socks: Smartwool® Merino wool socks
-	2. Avoid wearing the same pair of socks/shoes on 2 consecutive days. Air out your shoes outside.
-	3. Wash your feet at least once, if not twice, a day, using antibacterial soaps. → Dry the feet thoroughly, especially in between the toes. → (1) Apply a light dusting of anti-fungal foot powder/cornstarch/baby powder before slipping on cotton socks and breathable shoes. (2) Use antiperspirant (止汗劑) after showering in the evening (better than in the morning). Repeat this for another 3 or 4 consecutive nights and then switch to using it once or twice a week.
-	4. Soak your feet: add a few drops of an antibacterial solution (like sodium hypochloride, aka chlorox 次氯酸鈉/漂白水, or white vinegar) to a bucket/basin of warm water (+ epsom salt + tea tree/eucalyptus oil) → Pro Tip: do this while watching TV.
-	1. Good + Cheap: There are places to trade time for quality while keeping costs down.
-	2. Good + Fast: There are times when you have to pay through the nose because you need it done fast and good.
-	1. Flatten your bag, then fold it in half twice.
-	2. Start from the hand-holding end and fold it in a triangular pattern, until you reach the end of your bag.
-	3. Once you are at the end, tuck the end tab into the folds, and you have your bag in a small triangle.
 	1. In the evening, pick a window on the upper floor, or at the farthest point from your bedroom.
 	2. Open all the windows in the house.
 	3. Wait until the temperature outside drops below the interior temperature.
@@ -535,187 +138,15 @@
 	5. In the morning, as the temperatures rise, close all the windows again. You will be amazed at how much cooling effect you will have without resorting to air conditioning.
 
 * Best fan placement to move air through the house
-	1. Metal fan with ice blocks on the back, parallel to the direction of airflow
-	2. Metal fan with wet towels hanging in the front (evaporative cooling)
-	1. Cheap
-	2. Natural (more eco-friendly)
-	3. Not only a clothing softener, but also a clothing deodorizer (especially good for towels!)
-	4. Will remove hard water deposits in your washing machine as well
-	5. DO NOT MIX VINEGAR AND CHLORINE BLEACH OR COLOR SAFE BLEACH EVER!!!! THEY WILL PRODUCE DANGEROUS CHEMICALS!
-	1. bed
-	2. office chair
-	3. mattress, pillow, blanket, etc.
-	4. shoes
-	5. phone
-	6. laptop, monitor, keyboard, mouse, etc.
-	1. 泡鍊條
-	2. 做冷泡燕麥粥
-	3. 分裝現打蔬果昔
-	4. 做咖啡奶泡 (with 微波爐)
-	5. 裝堅果、椰棗 etc. (better than 保鮮盒)
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	1. The awkward pause: just pause, raise an eyebrow, and look at them in silence—Oftentimes when you tell someone you can’t do x because of y, people will give you all kinds of suggestions of how to cancel/postpone x and do y instead. People will try to “solve” the problem of why you can’t do something because they see what they want you to do as more important than what’s already on your agenda
-	2. Say it with humor
-	3. The soft “no” (“no but”, “thank you but”)
-	4. Use e-mail bounce backs (like the auto response when someone is out of the office)
-	5. “Let me check my calendar and get back to you.”
-	6. “Sounds very interesting, but I will pass it at the moment”
-	7. “Yes, but what should I deprioritize?”
-	8. “You are welcome to X. I am willing to Y.”
-	9. "I can’t do it, but X might be interested."
-	1. Always put the keys first thing into the backpack/luggage if you plan to leave home at a later time
-	2. Insert the keys into the door lock
-	3. Put the keys on your shoes or under whatever you need to take with you leaving home
-	4. Trick/Train yourself into not locking the door with the knob, but only with the keys
-	1. use your non-dominant hand
-	2. balance on one leg in the morning and the other leg in the evening (例如: 早上用左手刷牙&右腳站立，早上用右手刷牙&左腳站立)
-	1. Has fluoride (cavity prevention)
-	2. No alcohol (dries your tissues out)
-	1. Slot I is for the pre-wash cycle followed by a main wash cycle if you have it on, but remember to fill Slot II every time as well
-	2. It's not recommended to put the detergent directly on top of the clothes because it may not disperse evenly or rinse out with lower water levels
-	1. Use Exfoliating Gloves to very gently exfoliate skin on your armpits once a week
-	2. Apply "The Ordinary Glycolic Acid 7% Toning Solution" all over your body (include armpits) after every shower before lotion
-	1. Choose the right socks: Smartwool® Merino wool socks
-	2. Avoid wearing the same pair of socks/shoes on 2 consecutive days. Air out your shoes outside.
-	3. Wash your feet at least once, if not twice, a day, using antibacterial soaps. → Dry the feet thoroughly, especially in between the toes. → (1) Apply a light dusting of anti-fungal foot powder/cornstarch/baby powder before slipping on cotton socks and breathable shoes. (2) Use antiperspirant (止汗劑) after showering in the evening (better than in the morning). Repeat this for another 3 or 4 consecutive nights and then switch to using it once or twice a week.
-	4. Soak your feet: add a few drops of an antibacterial solution (like sodium hypochloride, aka chlorox 次氯酸鈉/漂白水, or white vinegar) to a bucket/basin of warm water (+ epsom salt + tea tree/eucalyptus oil) → Pro Tip: do this while watching TV.
-	1. Good + Cheap: There are places to trade time for quality while keeping costs down.
-	2. Good + Fast: There are times when you have to pay through the nose because you need it done fast and good.
-	1. Flatten your bag, then fold it in half twice.
-	2. Start from the hand-holding end and fold it in a triangular pattern, until you reach the end of your bag.
-	3. Once you are at the end, tuck the end tab into the folds, and you have your bag in a small triangle.
-	1. In the evening, pick a window on the upper floor, or at the farthest point from your bedroom.
-	2. Open all the windows in the house.
-	3. Wait until the temperature outside drops below the interior temperature.
-	4. Turn on that fan and blow the air out of the house through a single window, to take in cool air from the outside.
-	5. In the morning, as the temperatures rise, close all the windows again. You will be amazed at how much cooling effect you will have without resorting to air conditioning.
 	1. Blowing air out of the window, not into the room
 	2. 1-1.5 meter from an open window
 
 * Good phone charging habits to maximize battery lifespan
-	1. Metal fan with ice blocks on the back, parallel to the direction of airflow
-	2. Metal fan with wet towels hanging in the front (evaporative cooling)
-	1. Cheap
-	2. Natural (more eco-friendly)
-	3. Not only a clothing softener, but also a clothing deodorizer (especially good for towels!)
-	4. Will remove hard water deposits in your washing machine as well
-	5. DO NOT MIX VINEGAR AND CHLORINE BLEACH OR COLOR SAFE BLEACH EVER!!!! THEY WILL PRODUCE DANGEROUS CHEMICALS!
-	1. bed
-	2. office chair
-	3. mattress, pillow, blanket, etc.
-	4. shoes
-	5. phone
-	6. laptop, monitor, keyboard, mouse, etc.
-	1. 泡鍊條
-	2. 做冷泡燕麥粥
-	3. 分裝現打蔬果昔
-	4. 做咖啡奶泡 (with 微波爐)
-	5. 裝堅果、椰棗 etc. (better than 保鮮盒)
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	1. The awkward pause: just pause, raise an eyebrow, and look at them in silence—Oftentimes when you tell someone you can’t do x because of y, people will give you all kinds of suggestions of how to cancel/postpone x and do y instead. People will try to “solve” the problem of why you can’t do something because they see what they want you to do as more important than what’s already on your agenda
-	2. Say it with humor
-	3. The soft “no” (“no but”, “thank you but”)
-	4. Use e-mail bounce backs (like the auto response when someone is out of the office)
-	5. “Let me check my calendar and get back to you.”
-	6. “Sounds very interesting, but I will pass it at the moment”
-	7. “Yes, but what should I deprioritize?”
-	8. “You are welcome to X. I am willing to Y.”
-	9. "I can’t do it, but X might be interested."
-	1. Always put the keys first thing into the backpack/luggage if you plan to leave home at a later time
-	2. Insert the keys into the door lock
-	3. Put the keys on your shoes or under whatever you need to take with you leaving home
-	4. Trick/Train yourself into not locking the door with the knob, but only with the keys
-	1. use your non-dominant hand
-	2. balance on one leg in the morning and the other leg in the evening (例如: 早上用左手刷牙&右腳站立，早上用右手刷牙&左腳站立)
-	1. Has fluoride (cavity prevention)
-	2. No alcohol (dries your tissues out)
-	1. Slot I is for the pre-wash cycle followed by a main wash cycle if you have it on, but remember to fill Slot II every time as well
-	2. It's not recommended to put the detergent directly on top of the clothes because it may not disperse evenly or rinse out with lower water levels
-	1. Use Exfoliating Gloves to very gently exfoliate skin on your armpits once a week
-	2. Apply "The Ordinary Glycolic Acid 7% Toning Solution" all over your body (include armpits) after every shower before lotion
-	1. Choose the right socks: Smartwool® Merino wool socks
-	2. Avoid wearing the same pair of socks/shoes on 2 consecutive days. Air out your shoes outside.
-	3. Wash your feet at least once, if not twice, a day, using antibacterial soaps. → Dry the feet thoroughly, especially in between the toes. → (1) Apply a light dusting of anti-fungal foot powder/cornstarch/baby powder before slipping on cotton socks and breathable shoes. (2) Use antiperspirant (止汗劑) after showering in the evening (better than in the morning). Repeat this for another 3 or 4 consecutive nights and then switch to using it once or twice a week.
-	4. Soak your feet: add a few drops of an antibacterial solution (like sodium hypochloride, aka chlorox 次氯酸鈉/漂白水, or white vinegar) to a bucket/basin of warm water (+ epsom salt + tea tree/eucalyptus oil) → Pro Tip: do this while watching TV.
-	1. Good + Cheap: There are places to trade time for quality while keeping costs down.
-	2. Good + Fast: There are times when you have to pay through the nose because you need it done fast and good.
-	1. Flatten your bag, then fold it in half twice.
-	2. Start from the hand-holding end and fold it in a triangular pattern, until you reach the end of your bag.
-	3. Once you are at the end, tuck the end tab into the folds, and you have your bag in a small triangle.
-	1. In the evening, pick a window on the upper floor, or at the farthest point from your bedroom.
-	2. Open all the windows in the house.
-	3. Wait until the temperature outside drops below the interior temperature.
-	4. Turn on that fan and blow the air out of the house through a single window, to take in cool air from the outside.
-	5. In the morning, as the temperatures rise, close all the windows again. You will be amazed at how much cooling effect you will have without resorting to air conditioning.
-	1. Blowing air out of the window, not into the room
-	2. 1-1.5 meter from an open window
 	1. Always keep the battery level in between 20% and 80%
 	2. Don’t put the phone on charge until next morning (overnight) → This doesn’t matter as long as the “Optimized Battery Charging” feature is enabled (default for most modern devices)
 	3. Avoid using third-party chargers and cables → Or, at least MFI-certified
 
 * What to do with used, air/oven-dried coffee grounds?
-	1. Metal fan with ice blocks on the back, parallel to the direction of airflow
-	2. Metal fan with wet towels hanging in the front (evaporative cooling)
-	1. Cheap
-	2. Natural (more eco-friendly)
-	3. Not only a clothing softener, but also a clothing deodorizer (especially good for towels!)
-	4. Will remove hard water deposits in your washing machine as well
-	5. DO NOT MIX VINEGAR AND CHLORINE BLEACH OR COLOR SAFE BLEACH EVER!!!! THEY WILL PRODUCE DANGEROUS CHEMICALS!
-	1. bed
-	2. office chair
-	3. mattress, pillow, blanket, etc.
-	4. shoes
-	5. phone
-	6. laptop, monitor, keyboard, mouse, etc.
-	1. 泡鍊條
-	2. 做冷泡燕麥粥
-	3. 分裝現打蔬果昔
-	4. 做咖啡奶泡 (with 微波爐)
-	5. 裝堅果、椰棗 etc. (better than 保鮮盒)
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	1. The awkward pause: just pause, raise an eyebrow, and look at them in silence—Oftentimes when you tell someone you can’t do x because of y, people will give you all kinds of suggestions of how to cancel/postpone x and do y instead. People will try to “solve” the problem of why you can’t do something because they see what they want you to do as more important than what’s already on your agenda
-	2. Say it with humor
-	3. The soft “no” (“no but”, “thank you but”)
-	4. Use e-mail bounce backs (like the auto response when someone is out of the office)
-	5. “Let me check my calendar and get back to you.”
-	6. “Sounds very interesting, but I will pass it at the moment”
-	7. “Yes, but what should I deprioritize?”
-	8. “You are welcome to X. I am willing to Y.”
-	9. "I can’t do it, but X might be interested."
-	1. Always put the keys first thing into the backpack/luggage if you plan to leave home at a later time
-	2. Insert the keys into the door lock
-	3. Put the keys on your shoes or under whatever you need to take with you leaving home
-	4. Trick/Train yourself into not locking the door with the knob, but only with the keys
-	1. use your non-dominant hand
-	2. balance on one leg in the morning and the other leg in the evening (例如: 早上用左手刷牙&右腳站立，早上用右手刷牙&左腳站立)
-	1. Has fluoride (cavity prevention)
-	2. No alcohol (dries your tissues out)
-	1. Slot I is for the pre-wash cycle followed by a main wash cycle if you have it on, but remember to fill Slot II every time as well
-	2. It's not recommended to put the detergent directly on top of the clothes because it may not disperse evenly or rinse out with lower water levels
-	1. Use Exfoliating Gloves to very gently exfoliate skin on your armpits once a week
-	2. Apply "The Ordinary Glycolic Acid 7% Toning Solution" all over your body (include armpits) after every shower before lotion
-	1. Choose the right socks: Smartwool® Merino wool socks
-	2. Avoid wearing the same pair of socks/shoes on 2 consecutive days. Air out your shoes outside.
-	3. Wash your feet at least once, if not twice, a day, using antibacterial soaps. → Dry the feet thoroughly, especially in between the toes. → (1) Apply a light dusting of anti-fungal foot powder/cornstarch/baby powder before slipping on cotton socks and breathable shoes. (2) Use antiperspirant (止汗劑) after showering in the evening (better than in the morning). Repeat this for another 3 or 4 consecutive nights and then switch to using it once or twice a week.
-	4. Soak your feet: add a few drops of an antibacterial solution (like sodium hypochloride, aka chlorox 次氯酸鈉/漂白水, or white vinegar) to a bucket/basin of warm water (+ epsom salt + tea tree/eucalyptus oil) → Pro Tip: do this while watching TV.
-	1. Good + Cheap: There are places to trade time for quality while keeping costs down.
-	2. Good + Fast: There are times when you have to pay through the nose because you need it done fast and good.
-	1. Flatten your bag, then fold it in half twice.
-	2. Start from the hand-holding end and fold it in a triangular pattern, until you reach the end of your bag.
-	3. Once you are at the end, tuck the end tab into the folds, and you have your bag in a small triangle.
-	1. In the evening, pick a window on the upper floor, or at the farthest point from your bedroom.
-	2. Open all the windows in the house.
-	3. Wait until the temperature outside drops below the interior temperature.
-	4. Turn on that fan and blow the air out of the house through a single window, to take in cool air from the outside.
-	5. In the morning, as the temperatures rise, close all the windows again. You will be amazed at how much cooling effect you will have without resorting to air conditioning.
-	1. Blowing air out of the window, not into the room
-	2. 1-1.5 meter from an open window
-	1. Always keep the battery level in between 20% and 80%
-	2. Don’t put the phone on charge until next morning (overnight) → This doesn’t matter as long as the “Optimized Battery Charging” feature is enabled (default for most modern devices)
-	3. Avoid using third-party chargers and cables → Or, at least MFI-certified
 	1. Use them as deodorizer for stinky garbage bags
 	2. Layer them at the bottom of biodegradable bins to absorb some liquid that seeps out of the food scraps/waste
 
@@ -724,68 +155,6 @@
 * Always ask/negotiate for what you want. Many people are happy to help—if the request is direct and specific. But never expect people to say yes.
 
 * When you're busy, do "micro-meditation":
-	1. Metal fan with ice blocks on the back, parallel to the direction of airflow
-	2. Metal fan with wet towels hanging in the front (evaporative cooling)
-	1. Cheap
-	2. Natural (more eco-friendly)
-	3. Not only a clothing softener, but also a clothing deodorizer (especially good for towels!)
-	4. Will remove hard water deposits in your washing machine as well
-	5. DO NOT MIX VINEGAR AND CHLORINE BLEACH OR COLOR SAFE BLEACH EVER!!!! THEY WILL PRODUCE DANGEROUS CHEMICALS!
-	1. bed
-	2. office chair
-	3. mattress, pillow, blanket, etc.
-	4. shoes
-	5. phone
-	6. laptop, monitor, keyboard, mouse, etc.
-	1. 泡鍊條
-	2. 做冷泡燕麥粥
-	3. 分裝現打蔬果昔
-	4. 做咖啡奶泡 (with 微波爐)
-	5. 裝堅果、椰棗 etc. (better than 保鮮盒)
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	1. The awkward pause: just pause, raise an eyebrow, and look at them in silence—Oftentimes when you tell someone you can’t do x because of y, people will give you all kinds of suggestions of how to cancel/postpone x and do y instead. People will try to “solve” the problem of why you can’t do something because they see what they want you to do as more important than what’s already on your agenda
-	2. Say it with humor
-	3. The soft “no” (“no but”, “thank you but”)
-	4. Use e-mail bounce backs (like the auto response when someone is out of the office)
-	5. “Let me check my calendar and get back to you.”
-	6. “Sounds very interesting, but I will pass it at the moment”
-	7. “Yes, but what should I deprioritize?”
-	8. “You are welcome to X. I am willing to Y.”
-	9. "I can’t do it, but X might be interested."
-	1. Always put the keys first thing into the backpack/luggage if you plan to leave home at a later time
-	2. Insert the keys into the door lock
-	3. Put the keys on your shoes or under whatever you need to take with you leaving home
-	4. Trick/Train yourself into not locking the door with the knob, but only with the keys
-	1. use your non-dominant hand
-	2. balance on one leg in the morning and the other leg in the evening (例如: 早上用左手刷牙&右腳站立，早上用右手刷牙&左腳站立)
-	1. Has fluoride (cavity prevention)
-	2. No alcohol (dries your tissues out)
-	1. Slot I is for the pre-wash cycle followed by a main wash cycle if you have it on, but remember to fill Slot II every time as well
-	2. It's not recommended to put the detergent directly on top of the clothes because it may not disperse evenly or rinse out with lower water levels
-	1. Use Exfoliating Gloves to very gently exfoliate skin on your armpits once a week
-	2. Apply "The Ordinary Glycolic Acid 7% Toning Solution" all over your body (include armpits) after every shower before lotion
-	1. Choose the right socks: Smartwool® Merino wool socks
-	2. Avoid wearing the same pair of socks/shoes on 2 consecutive days. Air out your shoes outside.
-	3. Wash your feet at least once, if not twice, a day, using antibacterial soaps. → Dry the feet thoroughly, especially in between the toes. → (1) Apply a light dusting of anti-fungal foot powder/cornstarch/baby powder before slipping on cotton socks and breathable shoes. (2) Use antiperspirant (止汗劑) after showering in the evening (better than in the morning). Repeat this for another 3 or 4 consecutive nights and then switch to using it once or twice a week.
-	4. Soak your feet: add a few drops of an antibacterial solution (like sodium hypochloride, aka chlorox 次氯酸鈉/漂白水, or white vinegar) to a bucket/basin of warm water (+ epsom salt + tea tree/eucalyptus oil) → Pro Tip: do this while watching TV.
-	1. Good + Cheap: There are places to trade time for quality while keeping costs down.
-	2. Good + Fast: There are times when you have to pay through the nose because you need it done fast and good.
-	1. Flatten your bag, then fold it in half twice.
-	2. Start from the hand-holding end and fold it in a triangular pattern, until you reach the end of your bag.
-	3. Once you are at the end, tuck the end tab into the folds, and you have your bag in a small triangle.
-	1. In the evening, pick a window on the upper floor, or at the farthest point from your bedroom.
-	2. Open all the windows in the house.
-	3. Wait until the temperature outside drops below the interior temperature.
-	4. Turn on that fan and blow the air out of the house through a single window, to take in cool air from the outside.
-	5. In the morning, as the temperatures rise, close all the windows again. You will be amazed at how much cooling effect you will have without resorting to air conditioning.
-	1. Blowing air out of the window, not into the room
-	2. 1-1.5 meter from an open window
-	1. Always keep the battery level in between 20% and 80%
-	2. Don’t put the phone on charge until next morning (overnight) → This doesn’t matter as long as the “Optimized Battery Charging” feature is enabled (default for most modern devices)
-	3. Avoid using third-party chargers and cables → Or, at least MFI-certified
-	1. Use them as deodorizer for stinky garbage bags
-	2. Layer them at the bottom of biodegradable bins to absorb some liquid that seeps out of the food scraps/waste
 	1. Accept things as they are
 	2. Stop wishing things were different
 	3. Stop labeling, descibring, judging
@@ -799,75 +168,10 @@
 * When a friend is upset, ask them one simple question before saying anything else: "Do you want to talk about it or do you want to be distracted from it?"
 
 * 催眠語法
-	1. Metal fan with ice blocks on the back, parallel to the direction of airflow
-	2. Metal fan with wet towels hanging in the front (evaporative cooling)
-	1. Cheap
-	2. Natural (more eco-friendly)
-	3. Not only a clothing softener, but also a clothing deodorizer (especially good for towels!)
-	4. Will remove hard water deposits in your washing machine as well
-	5. DO NOT MIX VINEGAR AND CHLORINE BLEACH OR COLOR SAFE BLEACH EVER!!!! THEY WILL PRODUCE DANGEROUS CHEMICALS!
-	1. bed
-	2. office chair
-	3. mattress, pillow, blanket, etc.
-	4. shoes
-	5. phone
-	6. laptop, monitor, keyboard, mouse, etc.
-	1. 泡鍊條
-	2. 做冷泡燕麥粥
-	3. 分裝現打蔬果昔
-	4. 做咖啡奶泡 (with 微波爐)
-	5. 裝堅果、椰棗 etc. (better than 保鮮盒)
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	1. The awkward pause: just pause, raise an eyebrow, and look at them in silence—Oftentimes when you tell someone you can’t do x because of y, people will give you all kinds of suggestions of how to cancel/postpone x and do y instead. People will try to “solve” the problem of why you can’t do something because they see what they want you to do as more important than what’s already on your agenda
-	2. Say it with humor
-	3. The soft “no” (“no but”, “thank you but”)
-	4. Use e-mail bounce backs (like the auto response when someone is out of the office)
-	5. “Let me check my calendar and get back to you.”
-	6. “Sounds very interesting, but I will pass it at the moment”
-	7. “Yes, but what should I deprioritize?”
-	8. “You are welcome to X. I am willing to Y.”
-	9. "I can’t do it, but X might be interested."
-	1. Always put the keys first thing into the backpack/luggage if you plan to leave home at a later time
-	2. Insert the keys into the door lock
-	3. Put the keys on your shoes or under whatever you need to take with you leaving home
-	4. Trick/Train yourself into not locking the door with the knob, but only with the keys
-	1. use your non-dominant hand
-	2. balance on one leg in the morning and the other leg in the evening (例如: 早上用左手刷牙&右腳站立，早上用右手刷牙&左腳站立)
-	1. Has fluoride (cavity prevention)
-	2. No alcohol (dries your tissues out)
-	1. Slot I is for the pre-wash cycle followed by a main wash cycle if you have it on, but remember to fill Slot II every time as well
-	2. It's not recommended to put the detergent directly on top of the clothes because it may not disperse evenly or rinse out with lower water levels
-	1. Use Exfoliating Gloves to very gently exfoliate skin on your armpits once a week
-	2. Apply "The Ordinary Glycolic Acid 7% Toning Solution" all over your body (include armpits) after every shower before lotion
-	1. Choose the right socks: Smartwool® Merino wool socks
-	2. Avoid wearing the same pair of socks/shoes on 2 consecutive days. Air out your shoes outside.
-	3. Wash your feet at least once, if not twice, a day, using antibacterial soaps. → Dry the feet thoroughly, especially in between the toes. → (1) Apply a light dusting of anti-fungal foot powder/cornstarch/baby powder before slipping on cotton socks and breathable shoes. (2) Use antiperspirant (止汗劑) after showering in the evening (better than in the morning). Repeat this for another 3 or 4 consecutive nights and then switch to using it once or twice a week.
-	4. Soak your feet: add a few drops of an antibacterial solution (like sodium hypochloride, aka chlorox 次氯酸鈉/漂白水, or white vinegar) to a bucket/basin of warm water (+ epsom salt + tea tree/eucalyptus oil) → Pro Tip: do this while watching TV.
-	1. Good + Cheap: There are places to trade time for quality while keeping costs down.
-	2. Good + Fast: There are times when you have to pay through the nose because you need it done fast and good.
-	1. Flatten your bag, then fold it in half twice.
-	2. Start from the hand-holding end and fold it in a triangular pattern, until you reach the end of your bag.
-	3. Once you are at the end, tuck the end tab into the folds, and you have your bag in a small triangle.
-	1. In the evening, pick a window on the upper floor, or at the farthest point from your bedroom.
-	2. Open all the windows in the house.
-	3. Wait until the temperature outside drops below the interior temperature.
-	4. Turn on that fan and blow the air out of the house through a single window, to take in cool air from the outside.
-	5. In the morning, as the temperatures rise, close all the windows again. You will be amazed at how much cooling effect you will have without resorting to air conditioning.
-	1. Blowing air out of the window, not into the room
-	2. 1-1.5 meter from an open window
-	1. Always keep the battery level in between 20% and 80%
-	2. Don’t put the phone on charge until next morning (overnight) → This doesn’t matter as long as the “Optimized Battery Charging” feature is enabled (default for most modern devices)
-	3. Avoid using third-party chargers and cables → Or, at least MFI-certified
-	1. Use them as deodorizer for stinky garbage bags
-	2. Layer them at the bottom of biodegradable bins to absorb some liquid that seeps out of the food scraps/waste
-	1. Accept things as they are
-	2. Stop wishing things were different
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
+	- (1) 臆測: 我知道 + 範疇夠大的歸類詞語 (e.g., 我知道你有夢想; 我知道你是個善良的人)
+	- (2) 預設立場: e.g., 在聽我的節目之前，你知道收穫會這麼大嗎?
+	- (3) 選擇性違反限制 (擬人/物法): e.g., 叫小孩子不要亂丟玩具 → 哎呀! 玩具好痛、好可憐呀!; 一個女生不好意思直接拒絕追求者送的鮮花 → 哎呀! 我的貓不喜歡花...
+	- (4) 附加問句: 徵求對方同意的簡短問句，以沖淡直述句的命令祈使語氣 (e.g., 小華，要記得寫作業呀! 寫作業是學生的本分! → 小華，你可以按時完成作業的，不是嗎?; 老張，其實你可以把工作做得更好，不是嗎?)
 
 * Ask follow-up questions (打蛇隨棍上)
 
@@ -878,76 +182,7 @@
 * Speak confidently. Listen carefully.
 
 * "What's your favorite TY show/book/movie?" → "What's the TV show you are into *recently*?", "What's the *last* book you read?", "What's the movie you are *currently enjoying most*?"
-	1. Metal fan with ice blocks on the back, parallel to the direction of airflow
-	2. Metal fan with wet towels hanging in the front (evaporative cooling)
-	1. Cheap
-	2. Natural (more eco-friendly)
-	3. Not only a clothing softener, but also a clothing deodorizer (especially good for towels!)
-	4. Will remove hard water deposits in your washing machine as well
-	5. DO NOT MIX VINEGAR AND CHLORINE BLEACH OR COLOR SAFE BLEACH EVER!!!! THEY WILL PRODUCE DANGEROUS CHEMICALS!
-	1. bed
-	2. office chair
-	3. mattress, pillow, blanket, etc.
-	4. shoes
-	5. phone
-	6. laptop, monitor, keyboard, mouse, etc.
-	1. 泡鍊條
-	2. 做冷泡燕麥粥
-	3. 分裝現打蔬果昔
-	4. 做咖啡奶泡 (with 微波爐)
-	5. 裝堅果、椰棗 etc. (better than 保鮮盒)
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	1. The awkward pause: just pause, raise an eyebrow, and look at them in silence—Oftentimes when you tell someone you can’t do x because of y, people will give you all kinds of suggestions of how to cancel/postpone x and do y instead. People will try to “solve” the problem of why you can’t do something because they see what they want you to do as more important than what’s already on your agenda
-	2. Say it with humor
-	3. The soft “no” (“no but”, “thank you but”)
-	4. Use e-mail bounce backs (like the auto response when someone is out of the office)
-	5. “Let me check my calendar and get back to you.”
-	6. “Sounds very interesting, but I will pass it at the moment”
-	7. “Yes, but what should I deprioritize?”
-	8. “You are welcome to X. I am willing to Y.”
-	9. "I can’t do it, but X might be interested."
-	1. Always put the keys first thing into the backpack/luggage if you plan to leave home at a later time
-	2. Insert the keys into the door lock
-	3. Put the keys on your shoes or under whatever you need to take with you leaving home
-	4. Trick/Train yourself into not locking the door with the knob, but only with the keys
-	1. use your non-dominant hand
-	2. balance on one leg in the morning and the other leg in the evening (例如: 早上用左手刷牙&右腳站立，早上用右手刷牙&左腳站立)
-	1. Has fluoride (cavity prevention)
-	2. No alcohol (dries your tissues out)
-	1. Slot I is for the pre-wash cycle followed by a main wash cycle if you have it on, but remember to fill Slot II every time as well
-	2. It's not recommended to put the detergent directly on top of the clothes because it may not disperse evenly or rinse out with lower water levels
-	1. Use Exfoliating Gloves to very gently exfoliate skin on your armpits once a week
-	2. Apply "The Ordinary Glycolic Acid 7% Toning Solution" all over your body (include armpits) after every shower before lotion
-	1. Choose the right socks: Smartwool® Merino wool socks
-	2. Avoid wearing the same pair of socks/shoes on 2 consecutive days. Air out your shoes outside.
-	3. Wash your feet at least once, if not twice, a day, using antibacterial soaps. → Dry the feet thoroughly, especially in between the toes. → (1) Apply a light dusting of anti-fungal foot powder/cornstarch/baby powder before slipping on cotton socks and breathable shoes. (2) Use antiperspirant (止汗劑) after showering in the evening (better than in the morning). Repeat this for another 3 or 4 consecutive nights and then switch to using it once or twice a week.
-	4. Soak your feet: add a few drops of an antibacterial solution (like sodium hypochloride, aka chlorox 次氯酸鈉/漂白水, or white vinegar) to a bucket/basin of warm water (+ epsom salt + tea tree/eucalyptus oil) → Pro Tip: do this while watching TV.
-	1. Good + Cheap: There are places to trade time for quality while keeping costs down.
-	2. Good + Fast: There are times when you have to pay through the nose because you need it done fast and good.
-	1. Flatten your bag, then fold it in half twice.
-	2. Start from the hand-holding end and fold it in a triangular pattern, until you reach the end of your bag.
-	3. Once you are at the end, tuck the end tab into the folds, and you have your bag in a small triangle.
-	1. In the evening, pick a window on the upper floor, or at the farthest point from your bedroom.
-	2. Open all the windows in the house.
-	3. Wait until the temperature outside drops below the interior temperature.
-	4. Turn on that fan and blow the air out of the house through a single window, to take in cool air from the outside.
-	5. In the morning, as the temperatures rise, close all the windows again. You will be amazed at how much cooling effect you will have without resorting to air conditioning.
-	1. Blowing air out of the window, not into the room
-	2. 1-1.5 meter from an open window
-	1. Always keep the battery level in between 20% and 80%
-	2. Don’t put the phone on charge until next morning (overnight) → This doesn’t matter as long as the “Optimized Battery Charging” feature is enabled (default for most modern devices)
-	3. Avoid using third-party chargers and cables → Or, at least MFI-certified
-	1. Use them as deodorizer for stinky garbage bags
-	2. Layer them at the bottom of biodegradable bins to absorb some liquid that seeps out of the food scraps/waste
-	1. Accept things as they are
-	2. Stop wishing things were different
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
+	- This lets the other person say whatever first comes to mind without the pressure of having to choose a single favorite. They’ll almost always have one and be able to talk about it.
 
 * How to hand out flyers/brochures? → Say "here you go" / "you're welcome"
 
@@ -1008,7 +243,12 @@
 * If you're stuck on an annoying call, put your phone on airplane mode instead of just hanging up. The other person will see "call failed" instead of
 "call ended".
 
+* If you're stuck on an annoying call, put your phone on airplane mode instead of just hanging up. The other person will see "call failed" instead of
+"call ended".
+
 * 把「人工皮」當「痘痘貼」使用 -> 好處: (1) 可以任意剪裁所需的尺寸大小 (2) 單位面積價格較便宜 (3) 較傳統痘痘貼厚，效果更好
+
+* 吃冰棒的技巧:「一邊從頂部小口咬，一邊從根部往上舔」(Why? 冰棒都是從最上端開始融化，這樣做可以讓往下滴的水量減到最少)
 
 * 吃冰棒的技巧:「一邊從頂部小口咬，一邊從根部往上舔」(Why? 冰棒都是從最上端開始融化，這樣做可以讓往下滴的水量減到最少)
 
@@ -1021,79 +261,11 @@
 * Strategic Incompetence: The best way to make sure that you are never asked to do something again is to royally screw it up the first time you are asked to do it. Saying "no" to your boss by simply asking: "How am I supposed to do that?"
 
 * Whenever you think something nice about someone, let them know IMMEDIATELY. → Find the best in others. Compliment people more.
-	1. Metal fan with ice blocks on the back, parallel to the direction of airflow
-	2. Metal fan with wet towels hanging in the front (evaporative cooling)
-	1. Cheap
-	2. Natural (more eco-friendly)
-	3. Not only a clothing softener, but also a clothing deodorizer (especially good for towels!)
-	4. Will remove hard water deposits in your washing machine as well
-	5. DO NOT MIX VINEGAR AND CHLORINE BLEACH OR COLOR SAFE BLEACH EVER!!!! THEY WILL PRODUCE DANGEROUS CHEMICALS!
-	1. bed
-	2. office chair
-	3. mattress, pillow, blanket, etc.
-	4. shoes
-	5. phone
-	6. laptop, monitor, keyboard, mouse, etc.
-	1. 泡鍊條
-	2. 做冷泡燕麥粥
-	3. 分裝現打蔬果昔
-	4. 做咖啡奶泡 (with 微波爐)
-	5. 裝堅果、椰棗 etc. (better than 保鮮盒)
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	1. The awkward pause: just pause, raise an eyebrow, and look at them in silence—Oftentimes when you tell someone you can’t do x because of y, people will give you all kinds of suggestions of how to cancel/postpone x and do y instead. People will try to “solve” the problem of why you can’t do something because they see what they want you to do as more important than what’s already on your agenda
-	2. Say it with humor
-	3. The soft “no” (“no but”, “thank you but”)
-	4. Use e-mail bounce backs (like the auto response when someone is out of the office)
-	5. “Let me check my calendar and get back to you.”
-	6. “Sounds very interesting, but I will pass it at the moment”
-	7. “Yes, but what should I deprioritize?”
-	8. “You are welcome to X. I am willing to Y.”
-	9. "I can’t do it, but X might be interested."
-	1. Always put the keys first thing into the backpack/luggage if you plan to leave home at a later time
-	2. Insert the keys into the door lock
-	3. Put the keys on your shoes or under whatever you need to take with you leaving home
-	4. Trick/Train yourself into not locking the door with the knob, but only with the keys
-	1. use your non-dominant hand
-	2. balance on one leg in the morning and the other leg in the evening (例如: 早上用左手刷牙&右腳站立，早上用右手刷牙&左腳站立)
-	1. Has fluoride (cavity prevention)
-	2. No alcohol (dries your tissues out)
-	1. Slot I is for the pre-wash cycle followed by a main wash cycle if you have it on, but remember to fill Slot II every time as well
-	2. It's not recommended to put the detergent directly on top of the clothes because it may not disperse evenly or rinse out with lower water levels
-	1. Use Exfoliating Gloves to very gently exfoliate skin on your armpits once a week
-	2. Apply "The Ordinary Glycolic Acid 7% Toning Solution" all over your body (include armpits) after every shower before lotion
-	1. Choose the right socks: Smartwool® Merino wool socks
-	2. Avoid wearing the same pair of socks/shoes on 2 consecutive days. Air out your shoes outside.
-	3. Wash your feet at least once, if not twice, a day, using antibacterial soaps. → Dry the feet thoroughly, especially in between the toes. → (1) Apply a light dusting of anti-fungal foot powder/cornstarch/baby powder before slipping on cotton socks and breathable shoes. (2) Use antiperspirant (止汗劑) after showering in the evening (better than in the morning). Repeat this for another 3 or 4 consecutive nights and then switch to using it once or twice a week.
-	4. Soak your feet: add a few drops of an antibacterial solution (like sodium hypochloride, aka chlorox 次氯酸鈉/漂白水, or white vinegar) to a bucket/basin of warm water (+ epsom salt + tea tree/eucalyptus oil) → Pro Tip: do this while watching TV.
-	1. Good + Cheap: There are places to trade time for quality while keeping costs down.
-	2. Good + Fast: There are times when you have to pay through the nose because you need it done fast and good.
-	1. Flatten your bag, then fold it in half twice.
-	2. Start from the hand-holding end and fold it in a triangular pattern, until you reach the end of your bag.
-	3. Once you are at the end, tuck the end tab into the folds, and you have your bag in a small triangle.
-	1. In the evening, pick a window on the upper floor, or at the farthest point from your bedroom.
-	2. Open all the windows in the house.
-	3. Wait until the temperature outside drops below the interior temperature.
-	4. Turn on that fan and blow the air out of the house through a single window, to take in cool air from the outside.
-	5. In the morning, as the temperatures rise, close all the windows again. You will be amazed at how much cooling effect you will have without resorting to air conditioning.
-	1. Blowing air out of the window, not into the room
-	2. 1-1.5 meter from an open window
-	1. Always keep the battery level in between 20% and 80%
-	2. Don’t put the phone on charge until next morning (overnight) → This doesn’t matter as long as the “Optimized Battery Charging” feature is enabled (default for most modern devices)
-	3. Avoid using third-party chargers and cables → Or, at least MFI-certified
-	1. Use them as deodorizer for stinky garbage bags
-	2. Layer them at the bottom of biodegradable bins to absorb some liquid that seeps out of the food scraps/waste
-	1. Accept things as they are
-	2. Stop wishing things were different
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
+	- Many people have trouble thinking of themselves as smart, or pretty, or kind, unless told by someone else. You can help them out.
 
 * Don't throw out fruit that is going to bad, especially bananas gone brown. Instead, freeze it and make great smoothie!
+
+* Break up effervescent tablets into half with your hand before adding to water. It dissolves quicker due to the increased surface area. Stirring it also quickens up the process.
 
 * Break up effervescent tablets into half with your hand before adding to water. It dissolves quicker due to the increased surface area. Stirring it also quickens up the process.
 
@@ -1108,77 +280,6 @@
 * You can search the photos on your iPhone by just typing in people, items, months, years, seasons, places you want to see, text in screenshots, etc.
 
 * Frozen (Greek) Yogurt (soft & fluffy) = Healthy Ice Cream (crystalized)
-	1. Metal fan with ice blocks on the back, parallel to the direction of airflow
-	2. Metal fan with wet towels hanging in the front (evaporative cooling)
-	1. Cheap
-	2. Natural (more eco-friendly)
-	3. Not only a clothing softener, but also a clothing deodorizer (especially good for towels!)
-	4. Will remove hard water deposits in your washing machine as well
-	5. DO NOT MIX VINEGAR AND CHLORINE BLEACH OR COLOR SAFE BLEACH EVER!!!! THEY WILL PRODUCE DANGEROUS CHEMICALS!
-	1. bed
-	2. office chair
-	3. mattress, pillow, blanket, etc.
-	4. shoes
-	5. phone
-	6. laptop, monitor, keyboard, mouse, etc.
-	1. 泡鍊條
-	2. 做冷泡燕麥粥
-	3. 分裝現打蔬果昔
-	4. 做咖啡奶泡 (with 微波爐)
-	5. 裝堅果、椰棗 etc. (better than 保鮮盒)
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	1. The awkward pause: just pause, raise an eyebrow, and look at them in silence—Oftentimes when you tell someone you can’t do x because of y, people will give you all kinds of suggestions of how to cancel/postpone x and do y instead. People will try to “solve” the problem of why you can’t do something because they see what they want you to do as more important than what’s already on your agenda
-	2. Say it with humor
-	3. The soft “no” (“no but”, “thank you but”)
-	4. Use e-mail bounce backs (like the auto response when someone is out of the office)
-	5. “Let me check my calendar and get back to you.”
-	6. “Sounds very interesting, but I will pass it at the moment”
-	7. “Yes, but what should I deprioritize?”
-	8. “You are welcome to X. I am willing to Y.”
-	9. "I can’t do it, but X might be interested."
-	1. Always put the keys first thing into the backpack/luggage if you plan to leave home at a later time
-	2. Insert the keys into the door lock
-	3. Put the keys on your shoes or under whatever you need to take with you leaving home
-	4. Trick/Train yourself into not locking the door with the knob, but only with the keys
-	1. use your non-dominant hand
-	2. balance on one leg in the morning and the other leg in the evening (例如: 早上用左手刷牙&右腳站立，早上用右手刷牙&左腳站立)
-	1. Has fluoride (cavity prevention)
-	2. No alcohol (dries your tissues out)
-	1. Slot I is for the pre-wash cycle followed by a main wash cycle if you have it on, but remember to fill Slot II every time as well
-	2. It's not recommended to put the detergent directly on top of the clothes because it may not disperse evenly or rinse out with lower water levels
-	1. Use Exfoliating Gloves to very gently exfoliate skin on your armpits once a week
-	2. Apply "The Ordinary Glycolic Acid 7% Toning Solution" all over your body (include armpits) after every shower before lotion
-	1. Choose the right socks: Smartwool® Merino wool socks
-	2. Avoid wearing the same pair of socks/shoes on 2 consecutive days. Air out your shoes outside.
-	3. Wash your feet at least once, if not twice, a day, using antibacterial soaps. → Dry the feet thoroughly, especially in between the toes. → (1) Apply a light dusting of anti-fungal foot powder/cornstarch/baby powder before slipping on cotton socks and breathable shoes. (2) Use antiperspirant (止汗劑) after showering in the evening (better than in the morning). Repeat this for another 3 or 4 consecutive nights and then switch to using it once or twice a week.
-	4. Soak your feet: add a few drops of an antibacterial solution (like sodium hypochloride, aka chlorox 次氯酸鈉/漂白水, or white vinegar) to a bucket/basin of warm water (+ epsom salt + tea tree/eucalyptus oil) → Pro Tip: do this while watching TV.
-	1. Good + Cheap: There are places to trade time for quality while keeping costs down.
-	2. Good + Fast: There are times when you have to pay through the nose because you need it done fast and good.
-	1. Flatten your bag, then fold it in half twice.
-	2. Start from the hand-holding end and fold it in a triangular pattern, until you reach the end of your bag.
-	3. Once you are at the end, tuck the end tab into the folds, and you have your bag in a small triangle.
-	1. In the evening, pick a window on the upper floor, or at the farthest point from your bedroom.
-	2. Open all the windows in the house.
-	3. Wait until the temperature outside drops below the interior temperature.
-	4. Turn on that fan and blow the air out of the house through a single window, to take in cool air from the outside.
-	5. In the morning, as the temperatures rise, close all the windows again. You will be amazed at how much cooling effect you will have without resorting to air conditioning.
-	1. Blowing air out of the window, not into the room
-	2. 1-1.5 meter from an open window
-	1. Always keep the battery level in between 20% and 80%
-	2. Don’t put the phone on charge until next morning (overnight) → This doesn’t matter as long as the “Optimized Battery Charging” feature is enabled (default for most modern devices)
-	3. Avoid using third-party chargers and cables → Or, at least MFI-certified
-	1. Use them as deodorizer for stinky garbage bags
-	2. Layer them at the bottom of biodegradable bins to absorb some liquid that seeps out of the food scraps/waste
-	1. Accept things as they are
-	2. Stop wishing things were different
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
 	1. 一小時攪拌一次，重複3遍，或是冷凍取出後在室溫放5分鐘，會讓口感更綿密
 	2. Options for ingredients: milk, strawberries, etc.
 
@@ -1189,79 +290,6 @@
 * 自製捕果蠅/蒼蠅 (玻璃) 罐: 醋 + 糖 + 洗碗精 (增加表面張力，讓蟲子跑不出去) + 一小段香蕉 → 最上面用保鮮膜蓋住 & 戳洞
 
 * Steeping minutes for a cup of good tea:
-	1. Metal fan with ice blocks on the back, parallel to the direction of airflow
-	2. Metal fan with wet towels hanging in the front (evaporative cooling)
-	1. Cheap
-	2. Natural (more eco-friendly)
-	3. Not only a clothing softener, but also a clothing deodorizer (especially good for towels!)
-	4. Will remove hard water deposits in your washing machine as well
-	5. DO NOT MIX VINEGAR AND CHLORINE BLEACH OR COLOR SAFE BLEACH EVER!!!! THEY WILL PRODUCE DANGEROUS CHEMICALS!
-	1. bed
-	2. office chair
-	3. mattress, pillow, blanket, etc.
-	4. shoes
-	5. phone
-	6. laptop, monitor, keyboard, mouse, etc.
-	1. 泡鍊條
-	2. 做冷泡燕麥粥
-	3. 分裝現打蔬果昔
-	4. 做咖啡奶泡 (with 微波爐)
-	5. 裝堅果、椰棗 etc. (better than 保鮮盒)
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	6. 裝巧克力可可粉、肌酸粉、咖啡粉 etc.
-	1. The awkward pause: just pause, raise an eyebrow, and look at them in silence—Oftentimes when you tell someone you can’t do x because of y, people will give you all kinds of suggestions of how to cancel/postpone x and do y instead. People will try to “solve” the problem of why you can’t do something because they see what they want you to do as more important than what’s already on your agenda
-	2. Say it with humor
-	3. The soft “no” (“no but”, “thank you but”)
-	4. Use e-mail bounce backs (like the auto response when someone is out of the office)
-	5. “Let me check my calendar and get back to you.”
-	6. “Sounds very interesting, but I will pass it at the moment”
-	7. “Yes, but what should I deprioritize?”
-	8. “You are welcome to X. I am willing to Y.”
-	9. "I can’t do it, but X might be interested."
-	1. Always put the keys first thing into the backpack/luggage if you plan to leave home at a later time
-	2. Insert the keys into the door lock
-	3. Put the keys on your shoes or under whatever you need to take with you leaving home
-	4. Trick/Train yourself into not locking the door with the knob, but only with the keys
-	1. use your non-dominant hand
-	2. balance on one leg in the morning and the other leg in the evening (例如: 早上用左手刷牙&右腳站立，早上用右手刷牙&左腳站立)
-	1. Has fluoride (cavity prevention)
-	2. No alcohol (dries your tissues out)
-	1. Slot I is for the pre-wash cycle followed by a main wash cycle if you have it on, but remember to fill Slot II every time as well
-	2. It's not recommended to put the detergent directly on top of the clothes because it may not disperse evenly or rinse out with lower water levels
-	1. Use Exfoliating Gloves to very gently exfoliate skin on your armpits once a week
-	2. Apply "The Ordinary Glycolic Acid 7% Toning Solution" all over your body (include armpits) after every shower before lotion
-	1. Choose the right socks: Smartwool® Merino wool socks
-	2. Avoid wearing the same pair of socks/shoes on 2 consecutive days. Air out your shoes outside.
-	3. Wash your feet at least once, if not twice, a day, using antibacterial soaps. → Dry the feet thoroughly, especially in between the toes. → (1) Apply a light dusting of anti-fungal foot powder/cornstarch/baby powder before slipping on cotton socks and breathable shoes. (2) Use antiperspirant (止汗劑) after showering in the evening (better than in the morning). Repeat this for another 3 or 4 consecutive nights and then switch to using it once or twice a week.
-	4. Soak your feet: add a few drops of an antibacterial solution (like sodium hypochloride, aka chlorox 次氯酸鈉/漂白水, or white vinegar) to a bucket/basin of warm water (+ epsom salt + tea tree/eucalyptus oil) → Pro Tip: do this while watching TV.
-	1. Good + Cheap: There are places to trade time for quality while keeping costs down.
-	2. Good + Fast: There are times when you have to pay through the nose because you need it done fast and good.
-	1. Flatten your bag, then fold it in half twice.
-	2. Start from the hand-holding end and fold it in a triangular pattern, until you reach the end of your bag.
-	3. Once you are at the end, tuck the end tab into the folds, and you have your bag in a small triangle.
-	1. In the evening, pick a window on the upper floor, or at the farthest point from your bedroom.
-	2. Open all the windows in the house.
-	3. Wait until the temperature outside drops below the interior temperature.
-	4. Turn on that fan and blow the air out of the house through a single window, to take in cool air from the outside.
-	5. In the morning, as the temperatures rise, close all the windows again. You will be amazed at how much cooling effect you will have without resorting to air conditioning.
-	1. Blowing air out of the window, not into the room
-	2. 1-1.5 meter from an open window
-	1. Always keep the battery level in between 20% and 80%
-	2. Don’t put the phone on charge until next morning (overnight) → This doesn’t matter as long as the “Optimized Battery Charging” feature is enabled (default for most modern devices)
-	3. Avoid using third-party chargers and cables → Or, at least MFI-certified
-	1. Use them as deodorizer for stinky garbage bags
-	2. Layer them at the bottom of biodegradable bins to absorb some liquid that seeps out of the food scraps/waste
-	1. Accept things as they are
-	2. Stop wishing things were different
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
-	3. Stop labeling, descibring, judging
-	1. 一小時攪拌一次，重複3遍，或是冷凍取出後在室溫放5分鐘，會讓口感更綿密
-	2. Options for ingredients: milk, strawberries, etc.
 	1. 3 mins for green tea
 	2. 4 mins for black tea
 	3. 5 mins for herbal tea
