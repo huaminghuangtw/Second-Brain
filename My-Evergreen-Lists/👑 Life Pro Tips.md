@@ -4,7 +4,7 @@
 	1. Metal fan with ice blocks on the back, parallel to the direction of airflow
 	2. Metal fan with wet towels hanging in the front (evaporative cooling)
 
-* Don't buy CDs for people. They have Spotify. Buy them merch from a band they like instead. It’s more personal and the band gets more money.
+* Don't buy CDs for people. They have Spotify. Buy them merch from a band they like instead. It's more personal and the band gets more money.
 
 * Replace Fabric Softener with White Vinegar
 	1. Cheap
@@ -13,7 +13,7 @@
 	4. Will remove hard water deposits in your washing machine as well
 	5. DO NOT MIX VINEGAR AND CHLORINE BLEACH OR COLOR SAFE BLEACH EVER!!!! THEY WILL PRODUCE DANGEROUS CHEMICALS!
 
-* If you want to find out about people’s opinions on a product, google "<product> reddit". You’ll get real people arguing, as compared to the SEO Google results.
+* If you want to find out about people's opinions on a product, google "<product> reddit". You'll get real people arguing, as compared to the SEO Google results.
 
 * Learn one funny dance move
 
@@ -29,9 +29,9 @@
 
 * Use a microfiber (超細纖維) bath towel, they're about the same price and get you so much drier so much faster!
 
-* When buying things, time and money trade-off against each other.—If you’re low on money, take more time to find deals. If you’re low on time, stop looking for great deals and just buy things quickly online.
+* When buying things, time and money trade-off against each other.—If you're low on money, take more time to find deals. If you're low on time, stop looking for great deals and just buy things quickly online.
 
-* When googling a recipe, precede it with "best". You’ll find better recipes.
+* When googling a recipe, precede it with "best". You'll find better recipes.
 
 * 果醬玻璃罐的用途
 	1. 泡鍊條
@@ -44,16 +44,16 @@
 * Shop on the outer perimeter of the grocery store. This is (usually) where all the whole, unprocessed foods are. The aisles have most of the processed junk.
 
 * How to say NO with grace and style?
-	- General Principle: Don’t lie. People value honesty.—Just say “I don’t feel like doing X. / I don’t want to do X. (And I don’t have to offer you an excuse and no should be a sufficient enough answer.)”
-	1. The awkward pause: just pause, raise an eyebrow, and look at them in silence—Oftentimes when you tell someone you can’t do x because of y, people will give you all kinds of suggestions of how to cancel/postpone x and do y instead. People will try to “solve” the problem of why you can’t do something because they see what they want you to do as more important than what’s already on your agenda
+	- General Principle: Don't lie. People value honesty.—Just say "I don't feel like doing X. / I don't want to do X. (And I don't have to offer you an excuse and no should be a sufficient enough answer.)"
+	1. The awkward pause: just pause, raise an eyebrow, and look at them in silence—Oftentimes when you tell someone you can't do x because of y, people will give you all kinds of suggestions of how to cancel/postpone x and do y instead. People will try to "solve" the problem of why you can't do something because they see what they want you to do as more important than what's already on your agenda
 	2. Say it with humor
-	3. The soft “no” (“no but”, “thank you but”)
+	3. The soft "no" ("no but", "thank you but")
 	4. Use e-mail bounce backs (like the auto response when someone is out of the office)
-	5. “Let me check my calendar and get back to you.”
-	6. “Sounds very interesting, but I will pass it at the moment”
-	7. “Yes, but what should I deprioritize?”
-	8. “You are welcome to X. I am willing to Y.”
-	9. "I can’t do it, but X might be interested."
+	5. "Let me check my calendar and get back to you."
+	6. "Sounds very interesting, but I will pass it at the moment"
+	7. "Yes, but what should I deprioritize?"
+	8. "You are welcome to X. I am willing to Y."
+	9. "I can't do it, but X might be interested."
 
 * Ask someone to do you a small favour, so that he or she can ask you to do a big one in the future.
 
@@ -91,11 +91,11 @@
 
 * Never do grocery shopping when you are hungry!
 
-* Whenever you are on a Zoom call, put your headphones or AirPods in, then open up YouTube, and find an ambient soundtrack that you play at 5% volume (e.g., [Lord of the Rings ambience](https://www.youtube.com/watch?v=30b7_S0paCQ&ab_channel=AmbientWorlds), [Harry Potter ambience](https://www.youtube.com/watch?v=pQdTu0IeVho&ab_channel=AmbientWorlds), etc.). This way, as you are taking the call, there’s a soft, inspiring soundtrack playing in the background. The soundtrack makes anything anyone says feel more relaxed, more warm, and more energizing.
+* Whenever you are on a Zoom call, put your headphones or AirPods in, then open up YouTube, and find an ambient soundtrack that you play at 5% volume (e.g., [Lord of the Rings ambience](https://www.youtube.com/watch?v=30b7_S0paCQ&ab_channel=AmbientWorlds), [Harry Potter ambience](https://www.youtube.com/watch?v=pQdTu0IeVho&ab_channel=AmbientWorlds), etc.). This way, as you are taking the call, there's a soft, inspiring soundtrack playing in the background. The soundtrack makes anything anyone says feel more relaxed, more warm, and more energizing.
 
-* Whenever doing research before purchasing any consumer electronics, watch “Review After 1 Year” YouTube videos instead of “Unboxing” ones
+* Whenever doing research before purchasing any consumer electronics, watch "Review After 1 Year" YouTube videos instead of "Unboxing" ones
 
-* When people mock you for not having an opinion on trending events, and label you as ignorant, start asking them about the current situation in Djibouti (吉布地，一個位於非洲東北部的國家) or Eswatini (史瓦帝尼，一個位於非洲南部的國家). It will reveal they aren't up to date on the current situation in those countries - but that they also didn't even know those countries existed. Peak ignorance. → "People shaming others for being ignorant are often the most ignorant because they are ignorant of their own ignorance."
+* When people mock you for not having an opinion on trending events, and label you as ignorant, start asking them about the current situation in Djibouti (吉布地，一個位於非洲東北部的國家) or Eswatini (史瓦帝尼，一個位於非洲南部的國家). It will reveal they aren't up to date on the current situation in those countries - but that they also didn't even know those countries existed. Peak ignorance. &rarr; "People shaming others for being ignorant are often the most ignorant because they are ignorant of their own ignorance."
 
 * How to heal dry, cracked fingertips? Use Vaseline (or O'Keeffe's Working Hands Hand Cream) before bed and put socks or (disposable, polyethylene PE, plastic, foodservice) gloves on hands for sleeping.
 
@@ -116,10 +116,10 @@
 * How to deal with Sweaty/Stinky Feet?
 	1. Choose the right socks: Smartwool® Merino wool socks
 	2. Avoid wearing the same pair of socks/shoes on 2 consecutive days. Air out your shoes outside.
-	3. Wash your feet at least once, if not twice, a day, using antibacterial soaps. → Dry the feet thoroughly, especially in between the toes. → (1) Apply a light dusting of anti-fungal foot powder/cornstarch/baby powder before slipping on cotton socks and breathable shoes. (2) Use antiperspirant (止汗劑) after showering in the evening (better than in the morning). Repeat this for another 3 or 4 consecutive nights and then switch to using it once or twice a week.
-	4. Soak your feet: add a few drops of an antibacterial solution (like sodium hypochloride, aka chlorox 次氯酸鈉/漂白水, or white vinegar) to a bucket/basin of warm water (+ epsom salt + tea tree/eucalyptus oil) → Pro Tip: do this while watching TV.
+	3. Wash your feet at least once, if not twice, a day, using antibacterial soaps. &rarr; Dry the feet thoroughly, especially in between the toes. &rarr; (1) Apply a light dusting of anti-fungal foot powder/cornstarch/baby powder before slipping on cotton socks and breathable shoes. (2) Use antiperspirant (止汗劑) after showering in the evening (better than in the morning). Repeat this for another 3 or 4 consecutive nights and then switch to using it once or twice a week.
+	4. Soak your feet: add a few drops of an antibacterial solution (like sodium hypochloride, aka chlorox 次氯酸鈉/漂白水, or white vinegar) to a bucket/basin of warm water (+ epsom salt + tea tree/eucalyptus oil) &rarr; Pro Tip: do this while watching TV.
 
-* You can lower energy costs on freezers by keeping them full. (Why? Air is expensive to cool down. Water/ice has a very high heat capacity so it's resistant to temperature changes.) Fill the empty space in your freezer with bottles of water to make large blocks of ice, which is useful for many occasions, such as power outages. Or ever better: filling it with empty containers that have only air in them -> Empty bottles of air take much less energy to cool down initially (compared to empty bottles of water), and also keep the cold air from falling out when you open the door of the freezer.
+* You can lower energy costs on freezers by keeping them full. (Why? Air is expensive to cool down. Water/ice has a very high heat capacity so it's resistant to temperature changes.) Fill the empty space in your freezer with bottles of water to make large blocks of ice, which is useful for many occasions, such as power outages. Or ever better: filling it with empty containers that have only air in them &rarr; Empty bottles of air take much less energy to cool down initially (compared to empty bottles of water), and also keep the cold air from falling out when you open the door of the freezer.
 
 * When it comes to buying things, there is good, fast, and cheap—You can pick 2 but not all three.
 	1. Good + Cheap: There are places to trade time for quality while keeping costs down.
@@ -143,8 +143,8 @@
 
 * Good phone charging habits to maximize battery lifespan
 	1. Always keep the battery level in between 20% and 80%
-	2. Don’t put the phone on charge until next morning (overnight) → This doesn’t matter as long as the “Optimized Battery Charging” feature is enabled (default for most modern devices)
-	3. Avoid using third-party chargers and cables → Or, at least MFI-certified
+	2. Don't put the phone on charge until next morning (overnight) &rarr; This doesn't matter as long as the "Optimized Battery Charging" feature is enabled (default for most modern devices)
+	3. Avoid using third-party chargers and cables &rarr; Or, at least MFI-certified
 
 * What to do with used, air/oven-dried coffee grounds?
 	1. Use them as deodorizer for stinky garbage bags
@@ -170,21 +170,21 @@
 * 催眠語法
 	- (1) 臆測: 我知道 + 範疇夠大的歸類詞語 (e.g., 我知道你有夢想; 我知道你是個善良的人)
 	- (2) 預設立場: e.g., 在聽我的節目之前，你知道收穫會這麼大嗎?
-	- (3) 選擇性違反限制 (擬人/物法): e.g., 叫小孩子不要亂丟玩具 → 哎呀! 玩具好痛、好可憐呀!; 一個女生不好意思直接拒絕追求者送的鮮花 → 哎呀! 我的貓不喜歡花...
-	- (4) 附加問句: 徵求對方同意的簡短問句，以沖淡直述句的命令祈使語氣 (e.g., 小華，要記得寫作業呀! 寫作業是學生的本分! → 小華，你可以按時完成作業的，不是嗎?; 老張，其實你可以把工作做得更好，不是嗎?)
+	- (3) 選擇性違反限制 (擬人/物法): e.g., 叫小孩子不要亂丟玩具 &rarr; 哎呀! 玩具好痛、好可憐呀!; 一個女生不好意思直接拒絕追求者送的鮮花 &rarr; 哎呀! 我的貓不喜歡花...
+	- (4) 附加問句: 徵求對方同意的簡短問句，以沖淡直述句的命令祈使語氣 (e.g., 小華，要記得寫作業呀! 寫作業是學生的本分! &rarr; 小華，你可以按時完成作業的，不是嗎?; 老張，其實你可以把工作做得更好，不是嗎?)
 
 * Ask follow-up questions (打蛇隨棍上)
 
-* When someone is going through hell, just saying "I’m with you" is the most powerful thing you can do — Advice, perspectives, or offers to help/fix issues are minimally impactful. — The notion that someone is with you is 10x more powerful. Be the "darkest hour friend" to those you love.
+* When someone is going through hell, just saying "I'm with you" is the most powerful thing you can do — Advice, perspectives, or offers to help/fix issues are minimally impactful. — The notion that someone is with you is 10x more powerful. Be the "darkest hour friend" to those you love.
 
-* 等一下 → 馬上來
+* 等一下 &rarr; 馬上來
 
 * Speak confidently. Listen carefully.
 
-* "What's your favorite TY show/book/movie?" → "What's the TV show you are into *recently*?", "What's the *last* book you read?", "What's the movie you are *currently enjoying most*?"
-	- This lets the other person say whatever first comes to mind without the pressure of having to choose a single favorite. They’ll almost always have one and be able to talk about it.
+* "What's your favorite TY show/book/movie?" &rarr; "What's the TV show you are into *recently*?", "What's the *last* book you read?", "What's the movie you are *currently enjoying most*?"
+	- This lets the other person say whatever first comes to mind without the pressure of having to choose a single favorite. They'll almost always have one and be able to talk about it.
 
-* How to hand out flyers/brochures? → Say "here you go" / "you're welcome"
+* How to hand out flyers/brochures? &rarr; Say "here you go" / "you're welcome"
 
 * A person's favorite sound is their name
 
@@ -214,9 +214,9 @@
 
 * When in bed, meditate. Either you will have a deep relaxation, or fall asleep. It's a win-win.
 
-* If you can afford to, delegate it. If you can’t yet afford to, automate it. Time is the most precious resource.
+* If you can afford to, delegate it. If you can't yet afford to, automate it. Time is the most precious resource.
 
-* Get a small trampoline. It’s fun to bounce on & activates your lymphatic system to rid your body of toxins.
+* Get a small trampoline. It's fun to bounce on & activates your lymphatic system to rid your body of toxins.
 
 * When you meet people, show real appreciation, then genuine curiosity.
 
@@ -226,9 +226,9 @@
 
 * When travelling with airplanes, order four double Gin Tonic (琴通寧) as soon as the flight attendants are walking about, consume swiftly, and fall asleep for the remainder of the flight.
 
-* Read 3-star or 6/10 reviews on Amazon, Google Maps, etc. → That's where a review could be the best and most helpful.
+* Read 3-star or 6/10 reviews on Amazon, Google Maps, etc. &rarr; That's where a review could be the best and most helpful.
 
-* Hide in a headphone: One of the best and easiest ways to avoid distractions in the workplace is to be wearing those cute little IPod earbud headphones (or any other headphones of your choice). People, for some reason, feel much worse interrupting you if you are wearing headphones than if you’re not. This is great because most of the time they didn’t actually need to talk to you. Here’s the best part: you don’t even have to actually be listening to anything.
+* Hide in a headphone: One of the best and easiest ways to avoid distractions in the workplace is to be wearing those cute little IPod earbud headphones (or any other headphones of your choice). People, for some reason, feel much worse interrupting you if you are wearing headphones than if you're not. This is great because most of the time they didn't actually need to talk to you. Here's the best part: you don't even have to actually be listening to anything.
 
 * Use "(doctor, flat viewing) appointment" when talking to co-workers about your time off
 
@@ -246,7 +246,7 @@
 * If you're stuck on an annoying call, put your phone on airplane mode instead of just hanging up. The other person will see "call failed" instead of
 "call ended".
 
-* 把「人工皮」當「痘痘貼」使用 -> 好處: (1) 可以任意剪裁所需的尺寸大小 (2) 單位面積價格較便宜 (3) 較傳統痘痘貼厚，效果更好
+* 把「人工皮」當「痘痘貼」使用 &rarr; 好處: (1) 可以任意剪裁所需的尺寸大小 (2) 單位面積價格較便宜 (3) 較傳統痘痘貼厚，效果更好
 
 * 吃冰棒的技巧:「一邊從頂部小口咬，一邊從根部往上舔」(Why? 冰棒都是從最上端開始融化，這樣做可以讓往下滴的水量減到最少)
 
@@ -256,11 +256,11 @@
 
 * Avoid long exposure to direct sunlight for ANYTHING (例外: 廚房「砧板」&「 菜瓜布」)
 
-* 眼鏡布 → 擦眼鏡鏡片 (X) 擦手機螢幕 (O)
+* 眼鏡布 &rarr; 擦眼鏡鏡片 (X) 擦手機螢幕 (O)
 
 * Strategic Incompetence: The best way to make sure that you are never asked to do something again is to royally screw it up the first time you are asked to do it. Saying "no" to your boss by simply asking: "How am I supposed to do that?"
 
-* Whenever you think something nice about someone, let them know IMMEDIATELY. → Find the best in others. Compliment people more.
+* Whenever you think something nice about someone, let them know IMMEDIATELY. &rarr; Find the best in others. Compliment people more.
 	- Many people have trouble thinking of themselves as smart, or pretty, or kind, unless told by someone else. You can help them out.
 
 * Don't throw out fruit that is going to bad, especially bananas gone brown. Instead, freeze it and make great smoothie!
@@ -273,9 +273,9 @@
 
 * 讓下次可以快速取用膠帶的方法: (1) 摺一角 (2) 黏在桌邊
 
-* Master the "gift of goodbye." Successful & happy people simply say goodbye without giving reasons. → Exit gracefully: "It was so great meeting you, I look forward to seeing you again soon!"
+* Master the "gift of goodbye." Successful & happy people simply say goodbye without giving reasons. &rarr; Exit gracefully: "It was so great meeting you, I look forward to seeing you again soon!"
 
-* "What do you do?" -> "What are you most excited about right now?"
+* "What do you do?" &rarr; "What are you most excited about right now?"
 
 * You can search the photos on your iPhone by just typing in people, items, months, years, seasons, places you want to see, text in screenshots, etc.
 
@@ -283,25 +283,25 @@
 	1. 一小時攪拌一次，重複3遍，或是冷凍取出後在室溫放5分鐘，會讓口感更綿密
 	2. Options for ingredients: milk, strawberries, etc.
 
-* 衣物車縫處脫線 → 打火機轉小火，點脫線處，弄熄，線頭就燒成小黑球 (= 打結)衣物車縫處脫線 → 打火機轉小火，輕點脫線處，弄熄，線頭就燒成小黑球 (= 打結)
+* 衣物車縫處脫線 &rarr; 打火機轉小火，點脫線處，弄熄，線頭就燒成小黑球 (= 打結)衣物車縫處脫線 &rarr; 打火機轉小火，輕點脫線處，弄熄，線頭就燒成小黑球 (= 打結)
 
-* If you’re looking for your good X, you have bad Xs. Throw those out.
+* If you're looking for your good X, you have bad Xs. Throw those out.
 
-* 自製捕果蠅/蒼蠅 (玻璃) 罐: 醋 + 糖 + 洗碗精 (增加表面張力，讓蟲子跑不出去) + 一小段香蕉 → 最上面用保鮮膜蓋住 & 戳洞
+* 自製捕果蠅/蒼蠅 (玻璃) 罐: 醋 + 糖 + 洗碗精 (增加表面張力，讓蟲子跑不出去) + 一小段香蕉 &rarr; 最上面用保鮮膜蓋住 & 戳洞
 
 * Steeping minutes for a cup of good tea:
 	1. 3 mins for green tea
 	2. 4 mins for black tea
 	3. 5 mins for herbal tea
 
-* When googling a recipe, precede it with "best". You’ll find better recipes.
+* When googling a recipe, precede it with "best". You'll find better recipes.
 
-* When googling a product review, succeed it with "reddit". You’ll get real people arguing, as compared to the SEO'd Google results.
+* When googling a product review, succeed it with "reddit". You'll get real people arguing, as compared to the SEO'd Google results.
 
-* If you bus to other cities, consider finding a car/ride-share instead. It’s cheaper, faster, and leads to interesting conversations.
+* If you bus to other cities, consider finding a car/ride-share instead. It's cheaper, faster, and leads to interesting conversations.
 
 * How to make a Post-it® note (N次貼) lie flawlessly against a surface, without a giant air bubble? Instead of peeling sticky notes from the bottom up, rip sticky notes *from the side, right below where the sticky part ends.*
 
-* 洗完澡後，先站著不動約 30 秒 (讓水滴下來)，繼續留在浴缸/淋浴間「內」用毛巾擦身體 → 乾溼分離
+* 洗完澡後，先站著不動約 30 秒 (讓水滴下來)，繼續留在浴缸/淋浴間「內」用毛巾擦身體 &rarr; 乾溼分離
 
 * Always strive to give value before you ask for value.
