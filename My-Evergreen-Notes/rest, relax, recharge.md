@@ -1,4 +1,10 @@
-- testesttttt
+- The STOP Framework
+	- Stop
+	- Take a breath
+	- Observe
+	- Proceed
+- Sometimes the best way to recharge is to unplug.
+- There’s a simple algorithm for identifying the highest leverage relaxation for yourself: (Energy produced ÷ Time it takes)
 - Stop treating rest as a reward and start treating it as a critical part of your high performance routine.
 - Learn to rest, not to quit.
 - Seven types of rest by Dr. Saundra Dalton-Smith:
