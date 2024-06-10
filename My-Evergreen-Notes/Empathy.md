@@ -1,1 +1,0 @@
-- The emptiest head rattles the loudest.

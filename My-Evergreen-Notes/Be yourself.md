@@ -1,2 +1,0 @@
-- Maintain your distinctiveness
-- Run your own race

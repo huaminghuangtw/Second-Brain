@@ -1,3 +1,0 @@
-- Never never never complain, criticize, or blame others.
-	- "He who blames others has a long way to go on his journey. He who blames himself is halfway there. He who blames no one has arrived."
-- Never waste energy complaining about the prior season or worrying about some future season. Just embrace the current season for its imperfections and opportunities, we find a way to thrive.

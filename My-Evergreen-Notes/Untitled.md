@@ -1,4 +1,0 @@
-Happy building!
----
-# References
--

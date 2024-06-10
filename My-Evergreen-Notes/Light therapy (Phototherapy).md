@@ -1,3 +1,0 @@
-- Blue light
-	- Philips goLITE BLU
-- Red light
