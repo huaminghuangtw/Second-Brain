@@ -3,4 +3,5 @@
 	- Take a breath
 	- Observe
 	- Proceed
+
 - Sometimes the best way to recharge is to unplug.

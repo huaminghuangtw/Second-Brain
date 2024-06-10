@@ -61,3 +61,4 @@
 	* The pain we feel when we lose outweighs the pleasure we feel when we win.
 * Echo Chamber (同溫層效應 = 迴聲室效應 = 信息繭房)
 * 信使效應 on 壞消息 &rarr; shoot the messenger
+* 鴕鳥心態 (Ostrich Effect): 指一種人類因為不敢面對現實而逃避問題，以求得心理上安全感的懦弱行為
