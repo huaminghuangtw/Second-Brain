@@ -5,7 +5,11 @@ You don't find motivation to start. You need to start to find motivation.
 You don't find the time to do something; you make the time to do things.
 
 One Day or Day One
+
+The None-Zero Day Principle — becoming one is non-zero
+
 Now, Not How!
+
 Soon is not as good as now.
 
 When you find yourself procrastinating, don't resist. Instead lean into it. Procrastinate 100%. Try to do absolutely nothing for 5 minutes. Make it your job. You'll fail. After 5 minutes, you'll be ready and eager to work.
