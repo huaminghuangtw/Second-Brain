@@ -1,6 +1,6 @@
 "There are two ways to live: you can live as if nothing is a miracle; you can live as if everything is a miracle." — Albert Einstein
 
-Most events in life can be categorized in one of two ways: a good time, or a good story.
+Most events in life can be categorised in one of two ways: a good time, or a good story.
 
 Life is neither a problem to be solved nor a game to be won.
 
