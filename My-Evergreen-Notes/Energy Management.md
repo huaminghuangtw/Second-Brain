@@ -10,6 +10,8 @@ The Energy Razor
 
 So often people focus all their energy on the summits—but completely fail to recognise that 99% of life is spent on the climb.
 
-Never waste energy complaining about the prior season or worrying about some future season. Just embrace the current season for its imperfections and opportunities, we find a way to thrive.
-
 Josh Waitzkin has this concept called the “Simmering Six”: Most people in high-stress, decision-making industries are always operating at this kind of simmering six, as opposed to the undulation between just deep relaxation and being at a 10. Being at a 10 is millions of times better than being at a 6. It’s just in a different universe.
+
+---
+# References
+- 
