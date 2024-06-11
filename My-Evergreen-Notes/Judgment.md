@@ -1,1 +1,1 @@
-- Judge a man by his questions rather than his answers
+- Judge a man by his questions rather than his answers.

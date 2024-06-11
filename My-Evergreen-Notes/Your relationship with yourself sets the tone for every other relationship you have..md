@@ -2,9 +2,11 @@ The relationship you have with yourself sets the tone for the relationship you h
 
 To fall in love with yourself is the first secret to [[happiness]].
 
+The hardest respect to earn is one's own.
+
 做自己的太陽，你就能當別人的光；讓自己發光，就能照亮別人。
 
-Self-care isn't selfish. A starving chef can't feed anyone.
+Self-care is giving the world the best of you instead of what's left of you. Self-care isn't selfish. A starving chef can't feed anyone.
 
 People respect you, only as much as you respect yourself. Others treat you the way you treat yourself.
 

@@ -21,7 +21,9 @@ The "Consistently Good Rather Than Occasionally Great" Principle
 
 The Mamba Mentality by Kobe Bryant: try to get 1% better at what your are doing every single day
 
-持續修正，不斷嘗試、試錯，重點是一次比一次更好的迭代過程
+The Business and Life Philosophy of "Marginal Gains" by David Brailsford — a belief that paying attention to every little detail, and then trying to improve it by 1%, will have massive compound benefits when added together in the long run.
+
+持續修正，不斷嘗試、試錯，重點是一次比一次更好的迭代過程。
 
 Growth/Infinite/Grow-the-pie Mindset
 
