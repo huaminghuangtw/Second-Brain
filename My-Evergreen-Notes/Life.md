@@ -2,7 +2,7 @@
 
 Most events in life can be categorized in one of two ways: a good time, or a good story.
 
-Make the rest of your life the best of your life.
+Life is neither a problem to be solved nor a game to be won.
 
 We often hear "Life is short, enjoy it.", but often forget: "Eternity is long, prepare for it."
 
@@ -14,7 +14,7 @@ We often hear "Life is short, enjoy it.", but often forget: "Eternity is long, p
 
 > Relentlessly prune bullshit, don't wait to do things that matter and important to you, and savor the time you have. That's what you do when life is short.
 
-我們每個人對於已經存在 70 億年的宇宙雃而言，都是倏忽及逝的存在。在人生這段旅程中，沒有一樣東西能永久留下，他們都終將淡去消失、煙灰雲散。
+ 我們每個人對於已經存在 137 億年的宇宙而言，都是倏忽及逝的存在。在人生這段旅程中，沒有一樣東西能永久留下，他們都終將淡去消失、煙灰雲散。&rarr; The great use of life is to spend it for something that outlasts it.
 
 "Kalachakra" (= The Wheel of Time/History = The Cyclicality of Life) &rarr; Time goes through a natural three-part cycle:
 1. Creation (growth)

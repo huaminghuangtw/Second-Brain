@@ -2,6 +2,10 @@ The relationship you have with yourself sets the tone for the relationship you h
 
 To fall in love with yourself is the first secret to [[happiness]].
 
+做自己的太陽，你就能當別人的光；讓自己發光，就能照亮別人。
+
+Self-care isn't selfish. A starving chef can't feed anyone.
+
 People respect you, only as much as you respect yourself. Others treat you the way you treat yourself.
 
 Take care of yourself before taking care of others, so that you can give them your best self. (先自強，再助人)

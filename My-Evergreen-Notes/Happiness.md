@@ -18,9 +18,6 @@ Happiness
 		3. Purpose: Big picture meaning and significance
 	To be a happy person, you need to have these three in balance and abundance.
 
-拋棄對每一件事物「正面或負面」的評價，接受他們的本質，就像樂曲裡的「高音或低音」— 沒有絕對的「對或錯」、「好或壞」
-	Accept everything. Don't judge anything. Expect nothing. Appreciate everything.
-
 Happiness is when what you think, what you say, and what you do are in harmony.
 
 There are two ways to be happier:
@@ -39,10 +36,14 @@ If you want happiness for a lifetime—help someone else.
 
 People are often not present to what they are doing (the mismatch between being in an activity and having our mind elsewhere), and that is a great source of unhappiness, even if their thoughts are those of happy, joyful thoughts. But equally, if not more important, is to have the ability to be fully engaged in what you are doing at a given moment. That is the strongest predictor of being happy.
 
-A human mind is a wandering mind, and a wandering mind is an unhappy mind.
+[A human mind is a wandering mind, and a wandering mind is an unhappy mind.](https://www.science.org/doi/10.1126/science.1192439)
 
 The ability to think about what is not happening in a moment is a cognitive achievement that comes at an emotional cost.
 
 Normal behavior is forgotten. Only weird behavior survives. — Nobody tells stories of when you did the expected — they only tell stories when you did the unexpected. Normalize being weird. Weirdness is what sets us apart, gets us hired. Be your unapologetically weird self. **In fact, being weird may even find you the ultimate happiness.**
 
 Normal behavior is forgotten. Only weird behavior survives. — Nobody tells stories of when you did the expected — they only tell stories when you did the unexpected. Normalize being weird. Weirdness is what sets us apart, gets us hired. Be your unapologetically weird self. In fact, being weird may even find you the ultimate happiness.
+
+---
+# References
+- https://www.hubermanlab.com/episode/science-based-tools-for-increasing-happiness
