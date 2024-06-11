@@ -12,6 +12,8 @@ The Two Arrows
 Perspective is everything — it's not what happens to you, but how you react to it.
 Go laugh in the places you have cried — change the narrative.
 
+It's not what you *look at* that matters. It's what you *see* that matters.
+
 Progressive Aggression
 
 You are not your feelings.

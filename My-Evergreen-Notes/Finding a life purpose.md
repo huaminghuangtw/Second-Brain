@@ -1,3 +1,11 @@
+Find something more important than you are, and dedicate your life to it.
+
+Fulfilment is found through connection to something bigger than the self.
+
+Not to find the meaning of life, but to use your life to make things that are meaningful.
+
+"Joy can only be real if people look upon their life as a service and have a definite object in life outside themselves and their personal happiness." — Leo Tolstoy
+
 In April of 1958, Hunter S. Thompson was 22 years old when he wrote a letter (found in [Letters of Note](https://fantastic-ounce-694.notion.site/Hunter-S-Thompson-on-Finding-Your-Life-Purpose-beca85a66c624275b80ffb4faae2b44c)) to his friend Hume Logan in response to a request for life advice:
 
 > April 22, 1958
@@ -49,4 +57,4 @@ In April of 1958, Hunter S. Thompson was 22 years old when he wrote a letter (fo
 
 ---
 # References
--
+- 
