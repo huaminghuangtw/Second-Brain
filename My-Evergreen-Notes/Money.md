@@ -15,18 +15,6 @@
 * Skills get you to a million, character/charisma takes you to 100 million, and time brings you to a billion.
 * Stop trading/renting time for money, so money can create more time for you.
 	* MONEY and TIME is a balancing act.
-- Investing in yourself is the single most important investment (with the highest ROI) you'll ever make in your life.
-	- S&P 500 &rarr; S&ME
-	- Never think twice about investments in yourself (提高自己的身價，因為賺錢的能力增加) &rarr; They pay long-term dividends (投資自己穩賺不賠)
-        - Books
-        - Mentors
-        - Courses
-        - Quality food
-        - Physical health (Fitness)
-        - Mental health (Wellbeing)
-        - Things that save you time
-        - Traveling
-        - Enriching experiences &rarr; The expense of something special is forgotten quickly. The experience lasts a lifetime. (Memory Dividend)
 - Millionaires don't have salaries. They own [[Assets v.s Liabilities#^5bd5b5|assets]].
 - 真正的財務自由是不需要再被困在「時間/勞力換取金錢」的枷鎖裡 (金錢最大的價值是時間的自由, i.e., 選擇權) &rarr; 當「被動收入 (睡後收入)」大於日常開銷，工作就變成一種選項
 - Passive income is actually "less active" income &rarr; Difference: "LEVERAGE"

@@ -4,6 +4,8 @@
 
 Happiness is the absence of the striving for happiness.
 
+Reward prediction error = actual reward – expected reward &rarr; Expect nothing!
+
 Happiness is not a destination you reach by hitting an arbitrary set of goals, but rather an accumulation of the small choices you make every day.
 
 The primary cause of unhappiness is never the situation but your thoughts about it.

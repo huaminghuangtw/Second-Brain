@@ -1,2 +1,3 @@
-- Maintain your distinctiveness
-- Run your own race
+Maintain your distinctiveness
+
+Run your own race

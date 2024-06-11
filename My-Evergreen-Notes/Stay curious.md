@@ -11,3 +11,5 @@ There are two types of people:
 2. Those who want to defend what they already know
 
 Curiosity = What The F*ck Is That?
+
+"The cure for boredom is curiosity. There is no cure for curiosity." — Dorothy Parker

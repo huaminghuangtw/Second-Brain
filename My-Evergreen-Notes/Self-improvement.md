@@ -1,1 +1,0 @@
-- It doesn't matter where you are today—whether you're young or old—there's no such thing as "falling behind" on a path based on continuous improvement. Wherever you are, you just need to make one good decision, one tiny incremental improvement, and go/start from where you are today.
