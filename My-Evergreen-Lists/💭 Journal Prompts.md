@@ -186,7 +186,7 @@
 
 * What is one dream I have always had but never pursued? Why is it a dream for me? What has stopped me from pursuing it?
 
-* I am attending the TED conference, and everyone in the audience (including me) is deeply moved and inspired by what the speaker is talking about. The speaker is me, 20 years in the future. What is "Me + 20 Years" talking about, and what is so inspiring about it?
+* I am attending the TED conference, and everyone in the audience (including me) is deeply moved and inspired by what the speaker is talking about. The speaker is me, 20 years in the future. What is ”Me + 20 Years” talking about, and what is so inspiring about it?
 
 * If I had all the money and time in the world, how would I use my talents to serve others?
 
