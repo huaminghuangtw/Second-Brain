@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My-Evergreen-Notes/人生賽局.md",
+                "file": "My-Evergreen-Notes/existential crisis.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -56,7 +56,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "winner",
+            "query": "existen",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +85,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "b716c9e755767b30",
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "My-Evergreen-Notes/人生賽局.md",
+            "file": "My-Evergreen-Notes/existential crisis.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "My-Evergreen-Notes/人生賽局.md",
+            "file": "My-Evergreen-Notes/existential crisis.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "My-Evergreen-Notes/人生賽局.md"
+            "file": "My-Evergreen-Notes/existential crisis.md"
           }
         }
       }
@@ -145,6 +145,8 @@
   },
   "active": "f3123edbb04e6f2f",
   "lastOpenFiles": [
+    "My-Evergreen-Notes/人生賽局.md",
+    "My-Evergreen-Notes/existential crisis.md",
     "My-Evergreen-Notes/The 1 Percent Rule.md",
     "My-Evergreen-Notes/The Winner-Take-All Effects.md",
     "My-Evergreen-Notes/The Matthew Effect.md",
@@ -173,8 +175,6 @@
     "My-Evergreen-Notes/Sunlight viewing.md",
     "My-Evergreen-Notes/Death.md",
     "My-Evergreen-Notes/feedback.md",
-    "My-Evergreen-Notes/Python.md",
-    "My-Evergreen-Notes/second-order thinking.md",
     "My-Evergreen-Notes",
     "Weekly-Mindware-Update",
     "Daily-Bullet-Journal",
