@@ -1,4 +1,6 @@
-There’s no fixed path—you create your own.
+It's okay to be lost sometimes.
+
+There’s no such a fixed path—you create your own.
 
 It doesn't matter where you are today—whether you're young or old—there's no such thing as "falling behind" on a path based on [[consistency|continuous improvement]]. Wherever you are, you just need to make one good decision, one tiny incremental improvement, and go/start from where you are today.
 
