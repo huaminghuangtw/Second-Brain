@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "52739fdc8a136456",
+    "type": "split",
+    "children": [
+      {
+        "id": "f61a55bee69862e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf11681caab459f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business Strategies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acd28400601d143a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bullet Journaling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54abf323dc69068e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f674625e019985af",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d5a2c3c5b17f956d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "bcaa7575f132cace",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "5b2fd7518ff1c475",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "805818cb859577d2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1fd2e3e62653ee5b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Business Strategies.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3f5aae0b7848ca9d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Business Strategies.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4ada352b0af54cc6",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Business Strategies.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cf11681caab459f3",
+  "lastOpenFiles": [
+    "Goodwill.md",
+    "Business Strategies.md",
+    "Rest.md",
+    "Bullet Journaling.md",
+    "Goal Setting.md",
+    "The Quad Marketing Calendar.md",
+    "The Psychology of Money.md",
+    "Wealth Creation and Building.md",
+    "The Principal-Agent Problem.md",
+    "Liquid Assets.md",
+    "The Spotlight Effect.md"
+  ]
+}
