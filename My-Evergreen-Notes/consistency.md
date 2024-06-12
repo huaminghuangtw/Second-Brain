@@ -2,6 +2,8 @@
 
 It's easier to keep up than to catch up. Find the lifelong rhythm.
 
+Perseverance is not a long race; it is many short races one after another.
+
 Continuous effort, not strength or intelligence, is the key to unlocking our potential.
 
 Doing a thing once is nothing special. You're only a legend if you can do it back to back to back with thousands of hours of meticulous preparation.

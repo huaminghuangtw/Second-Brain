@@ -9,7 +9,7 @@
 	- Greedy Algorithm: operates on the principle of "taking the best option now (Local Maximum)" without considering the long-term consequences
 - Natural (Real) Dopamine &rarr; long-term thinking
 	- **Pleasure-Pain Balance:** Don't spike dopamine before/after engaging in effort. Learn to spike dopamine from the effort itself.
-	- Reprogram yourself so that uncomfortable is your default setting. Constantly [[do hard things]] that make you feel terrified. That's how you grow.
+	- Reprogram yourself so that uncomfortable is your default setting. Constantly [[Do hard things]] that make you feel terrified. That's how you grow.
 - 多巴胺斷食法/數位排毒 (Dopamine/Technology/Digital Detox)
 	- Different implementations:
 		- Weekly &rarr; 每周選擇一天或一段時間暫時戒除掉所有會誘發多巴胺分泌的事物 (No-Internet)，只進行例如閱讀、寫作、冥想及散步等活動，目的是消除平時過多的外來刺激和噪音，讓人更容易聽見內心深處的聲音，進而反思、充電以及重新評估生活，認清對自己而言真正重要的東西。

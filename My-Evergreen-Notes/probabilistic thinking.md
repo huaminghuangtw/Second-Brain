@@ -1,6 +1,7 @@
 &harr; Deterministic Thinking (絕對型思維)
 
 is having a willingness to always ask questions like "*What else might happen?*", "*What could happen next?*", "*What if we're wrong?*" and to look at the full range of possibilities that might come to pass rather than to assume that things will go as planned.
+- Disconfirming Evidence — evidence that proves your existing ideas wrong — is exponentially more valuable than Confirming Evidence
 
 Hope for the best. Prepare for the worst.
 

@@ -6,7 +6,9 @@ Discipline is about what you do on the days when you feel like crap.
 
 Discipline now, freedom later. Discipline equals freedom.
 
-Discipline Eats Motivation For Breakfast.
+Discipline eats motivation for breakfast.
+
+Excellence translates across disciplines.
 
 ---
 # References

@@ -12,4 +12,6 @@ When you're young, you are a "Time Billionaire"—Rich with time.
 
 Skills get you to a million, character takes you to 100 million, and time brings you to a billion.
 
+The rich invest in time. The poor invest in money.
+
 You can choose to either *invest*, *spend*, or *waste* your time.

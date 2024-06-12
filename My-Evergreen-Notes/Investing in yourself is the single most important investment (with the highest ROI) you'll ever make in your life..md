@@ -2,6 +2,8 @@ S&P 500 &rarr; S&ME
 
 Never think twice about investments in yourself (提高自己的身價，因為賺錢的能力增加) &rarr; They pay long-term dividends (投資自己穩賺不賠)
 
+"An investment in knowledge pays the best interest." — Benjamin Franklin
+
 Examples
 - Books
 - Mentors
