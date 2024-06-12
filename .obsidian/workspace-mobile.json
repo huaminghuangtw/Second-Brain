@@ -1,47 +1,47 @@
 {
   "main": {
-    "id": "52739fdc8a136456",
+    "id": "15073b22eba07364",
     "type": "split",
     "children": [
       {
-        "id": "f61a55bee69862e5",
+        "id": "926cd39d5f3030f0",
         "type": "tabs",
         "children": [
           {
-            "id": "cf11681caab459f3",
+            "id": "6cd710374bf31b04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Business Strategies.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/Pasted image 20240516094404.png"
               }
             }
           },
           {
-            "id": "acd28400601d143a",
+            "id": "f3123edbb04e6f2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bullet Journaling.md",
+                "file": "My-Evergreen-Notes/人生賽局.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "54abf323dc69068e",
+    "id": "078594a38ce0769b",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "f674625e019985af",
+        "id": "84164c44fcfbe694",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -51,12 +51,12 @@
         }
       },
       {
-        "id": "d5a2c3c5b17f956d",
+        "id": "74c55b28c7f48742",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "winner",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -66,7 +66,7 @@
         }
       },
       {
-        "id": "bcaa7575f132cace",
+        "id": "b12823fad447c4aa",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -77,7 +77,7 @@
         }
       },
       {
-        "id": "5b2fd7518ff1c475",
+        "id": "4b71f8f9a7843907",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -88,16 +88,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "805818cb859577d2",
+    "id": "b716c9e755767b30",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "1fd2e3e62653ee5b",
+        "id": "c25dac87d642f2d1",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Business Strategies.md",
+            "file": "My-Evergreen-Notes/人生賽局.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,24 +109,24 @@
         }
       },
       {
-        "id": "3f5aae0b7848ca9d",
+        "id": "683053d2b29e7686",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Business Strategies.md",
+            "file": "My-Evergreen-Notes/人生賽局.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "4ada352b0af54cc6",
+        "id": "86349d25a5fc2aa5",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Business Strategies.md"
+            "file": "My-Evergreen-Notes/人生賽局.md"
           }
         }
       }
@@ -143,18 +143,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf11681caab459f3",
+  "active": "f3123edbb04e6f2f",
   "lastOpenFiles": [
-    "Goodwill.md",
-    "Business Strategies.md",
-    "Rest.md",
-    "Bullet Journaling.md",
-    "Goal Setting.md",
-    "The Quad Marketing Calendar.md",
-    "The Psychology of Money.md",
-    "Wealth Creation and Building.md",
-    "The Principal-Agent Problem.md",
-    "Liquid Assets.md",
-    "The Spotlight Effect.md"
+    "My-Evergreen-Notes/The 1 Percent Rule.md",
+    "My-Evergreen-Notes/The Winner-Take-All Effects.md",
+    "My-Evergreen-Notes/The Matthew Effect.md",
+    "My-Evergreen-Lists/👑 Life Pro Tips.md",
+    "My-Evergreen-Notes/Untitled.md",
+    "Attachments/Pasted image 20240516094404.png",
+    "My-Evergreen-Lists/💭 Journal Prompts.md",
+    "My-Evergreen-Lists",
+    "Existential Angst/Existential Crisis.md",
+    "Existential Angst",
+    "Untitled 34.md",
+    "README.md",
+    "Templates/note_template.md",
+    "Templates",
+    "My-Evergreen-Notes/failures & mistakes.md",
+    "My-Evergreen-Notes/consistency.md",
+    "My-Evergreen-Notes/Rewire your brain or Reframe your thinking.md",
+    "My-Evergreen-Notes/optimism.md",
+    "My-Evergreen-Notes/內在成就.md",
+    "My-Evergreen-Notes/The Small-World Phenomenon.md",
+    "My-Evergreen-Notes/Running Strides.md",
+    "My-Evergreen-Notes/You are the average of the five people you associate with most.md",
+    "My-Evergreen-Notes/Light therapy (Phototherapy).md",
+    "My-Evergreen-Notes/The Principal-Agent Problem.md",
+    "My-Evergreen-Notes/Shell_Scripting.md",
+    "My-Evergreen-Notes/Sunlight viewing.md",
+    "My-Evergreen-Notes/Death.md",
+    "My-Evergreen-Notes/feedback.md",
+    "My-Evergreen-Notes/Python.md",
+    "My-Evergreen-Notes/second-order thinking.md",
+    "My-Evergreen-Notes",
+    "Weekly-Mindware-Update",
+    "Daily-Bullet-Journal",
+    "Attachments/Persoanl Development/The_Most_Powerful_Decision-making_Razors/The_Braggers_Razor.jpeg",
+    "Attachments/Persoanl Development/The_Most_Powerful_Decision-making_Razors/The_Invested_versus_Spent_Test.jpeg",
+    "Attachments/Persoanl Development/The_Most_Powerful_Decision-making_Razors/The_Young_and_Old_Test.jpeg",
+    "Attachments/Persoanl Development/The_Most_Powerful_Decision-making_Razors/The_Optimist_Razor.jpeg",
+    "Attachments/Persoanl Development/The_Most_Powerful_Decision-making_Razors/The_Feynman_Razor.jpeg",
+    "Attachments/Persoanl Development/The_Most_Powerful_Decision-making_Razors/The_Opinion_Razor.jpeg",
+    "Attachments/Persoanl Development/The_Most_Powerful_Decision-making_Razors/Taleb's_Look-the-Part_Test.jpeg",
+    "Attachments/Persoanl Development/The_Most_Powerful_Decision-making_Razors/The_Occam's_Razor_Principle_Law_of_Parsimony.jpeg",
+    "Attachments/Persoanl Development/The_Most_Powerful_Decision-making_Razors/The_Luck_Razor.jpeg",
+    "Attachments/Persoanl Development/The_Most_Powerful_Decision-making_Razors",
+    "Attachments/Productivity/Eisenhower-Matrix.pptx",
+    "Attachments/Persoanl Development",
+    "Attachments/Productivity"
   ]
 }
