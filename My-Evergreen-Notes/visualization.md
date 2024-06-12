@@ -8,4 +8,4 @@ Negative Visualization (Mental Contrasting) (Fantasy Realization Theory)
 
 ---
 # References
-- 
+-

@@ -13,4 +13,4 @@ The Stockdale Paradox
 
 ---
 # References
-- 
+-

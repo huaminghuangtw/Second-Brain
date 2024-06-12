@@ -1,6 +1,6 @@
 Your goal is not to avoid making mistakes, but to avoid making the *same* mistake.
 
-“Make mistakes, just don’t make them permanent.” – James Clear
+"Make mistakes, just don't make them permanent." – James Clear
 
 Once is a mistake. Twice is a choice. Three times is a decision.
 

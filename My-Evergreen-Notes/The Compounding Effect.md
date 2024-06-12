@@ -39,4 +39,4 @@ Charlie Munger
 
 ---
 # References
-- 
+-

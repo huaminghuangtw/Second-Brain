@@ -8,7 +8,7 @@ To follow up an error with a foolish reaction is to lose twice.
 
 You are not the cause of everything that happens to you, but you are responsible for how you respond to everything that happens to you.
 
-“Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.” ― Viktor E. Frankl
+"Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances, to choose one's own way." ― Viktor E. Frankl
 
 "Between (triggering) stimulus and (emotional) response there is a space (gap). In that space is our power to choose our response. In our response lies our growth and our freedom." — Viktor E. Frankl
 - When you create space between stimulus and response, you create power in yourself.
@@ -29,4 +29,4 @@ You are not your feelings. Just because you're experiencing anxious feelings doe
 
 ---
 # References
-- 
+-

@@ -23,4 +23,4 @@ The "Consistently Good Rather Than Occasionally Great" Principle
 
 ---
 # References
-- 
+-

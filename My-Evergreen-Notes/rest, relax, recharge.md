@@ -6,7 +6,7 @@ The STOP Framework
 
 Sometimes the best way to recharge is to unplug.
 
-There’s a simple formula for identifying the highest leverage relaxation for yourself = Energy produced ÷ Time it takes
+There's a simple formula for identifying the highest leverage relaxation for yourself = Energy produced ÷ Time it takes
 
 Stop treating rest as a reward and start treating it as a critical part of your high performance routine.
 - Breaks aren't a special treat. They're an absolute necessity.

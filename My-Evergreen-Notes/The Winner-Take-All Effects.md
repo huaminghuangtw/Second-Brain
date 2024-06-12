@@ -18,4 +18,4 @@ You only win by [[The 1 Percent Rule|1 percent or 1 second or 1 dollar]], but yo
 
 ---
 # References
-- 
+-

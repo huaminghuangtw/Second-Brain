@@ -19,5 +19,4 @@ HCs = Habits of Mind and Foundational Concepts in Minerva University
 
 ---
 # References
-- 
-
+-

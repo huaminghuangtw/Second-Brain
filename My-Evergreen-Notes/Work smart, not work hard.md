@@ -6,4 +6,4 @@ Fight battles you are destined to win.
 
 ---
 # References
-- 
+-
