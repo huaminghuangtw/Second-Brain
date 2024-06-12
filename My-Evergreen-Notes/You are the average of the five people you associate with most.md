@@ -4,6 +4,8 @@ Some people come into your life as blessings. Other people come into your life a
 
 Some people talk to you in their free time and some people free their time to talk to you.
 
+A true friend never gets in your way unless you happen to be going down. — Arnold H. Glasow
+
 ---
 # References
 - 
