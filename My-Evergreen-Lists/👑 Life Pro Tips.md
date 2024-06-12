@@ -315,3 +315,5 @@
 * 冷凍法省時烤地瓜: 先將地瓜放進冷凍庫不多不少 45 分鐘左右後，「直接」放進烤箱用 200 度烤 30 分鐘，可破壞地瓜細胞壁，加速熱傳導，節省至少一半以上的烘烤時間。這個做法烤出來的地瓜內部組織是綿密的，且依然有著用烤箱長時間烘烤才有的濃郁風味
 
 * 蜂蜜不能用熱水沖泡 &rarr; 建議沖泡溫度低於 60℃，較能夠保留完整的營養價值
+
+* People can't read your thoughts. If you think something, say something. Don't expect people to guess your thoughts and feelings. Don't hold a grudge when people didn't predict what you wanted them to do. Just tell them.
