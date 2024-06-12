@@ -8,7 +8,6 @@ Not to find the meaning of life, but to use your life to make things that are me
 
 Working hard for something we don't care about is called **stress**. Working hard for something we love is called **passion**.
 
-
 Successful people don't have a career, they have a mission. Most of them are terrible procrastinators and find it almost impossible to make themselves do anything they're not genuinely interested in.
 
 In April of 1958, Hunter S. Thompson was 22 years old when he wrote a letter (found in [Letters of Note](https://fantastic-ounce-694.notion.site/Hunter-S-Thompson-on-Finding-Your-Life-Purpose-beca85a66c624275b80ffb4faae2b44c)) to his friend Hume Logan in response to a request for life advice:

@@ -6,6 +6,8 @@
 
 The Butterfly/Ripple/Domino Effect: the cumulative effect produced when one event sets off a series of similar or related events, a form of chain reaction.
 
+[[The Matthew Effect]]
+
 ---
 
 # Negative Compounding

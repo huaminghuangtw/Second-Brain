@@ -3,6 +3,9 @@ It's okay to be lost sometimes.
 There’s no such a fixed path—you create your own.
 
 It doesn't matter where you are today—whether you're young or old—there's no such thing as "falling behind" on a path based on [[consistency|continuous improvement]]. Wherever you are, you just need to make one good decision, one tiny incremental improvement, and go/start from where you are today.
+- "Start where you are. Use what you have. Do what you can." — Arthur Ashe
+- "Do what you can. If you can't do something you wanted to do, then you will be forgiven, but if you don't want to try to do anything, you will not be forgiven." — Nikolai Vavilov
+- "As you start to walk on the way, the way appears." — Rumi
 
 You can’t predict when you find your *thing* in life. You may find it at 20, or it may take until you’re 50+.
 

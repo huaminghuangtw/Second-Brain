@@ -25,7 +25,7 @@ Being able to listen well is a superpower—keep asking people "*Is there more?*
 
 Speak confidently. Listen carefully.
 
-Speak less. Listen more.
+多聽少說 (Listen more. Speak less.)
 - The less you speak, the more you listen (and learn).
 - The more you say, the more likely you are to say something foolish.
 
