@@ -2,7 +2,7 @@
 
 Some people come into your life as blessings. Other people come into your life as lessons.
 
-Some people talk to you in their free time and some people free their time to talk to you. &rarr; Make sure you know the difference.
+Some people talk to you in their free time and some people free their time to talk to you.
 
 ---
 # References

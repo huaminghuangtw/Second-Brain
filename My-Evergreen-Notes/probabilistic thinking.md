@@ -2,6 +2,8 @@
 
 is having a willingness to always ask questions like "*What else might happen?*", "*What could happen next?*", "*What if we're wrong?*" and to look at the full range of possibilities that might come to pass rather than to assume that things will go as planned.
 
+Hope for the best. Prepare for the worst.
+
 The Stockdale Paradox
 > 一方面對於前途保持堅定的信心，另一方面以務實和實際的態度認清殘酷的現實
 
