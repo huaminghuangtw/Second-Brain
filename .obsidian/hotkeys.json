@@ -20,12 +20,20 @@
   "templater-obsidian:create-new-note-from-template": [
     {
       "modifiers": [
+        "Ctrl",
         "Mod"
       ],
       "key": "N"
     }
   ],
-  "file-explorer:new-file": [],
+  "file-explorer:new-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
   "templater-obsidian:templates/note_template.md": [
     {
       "modifiers": [
@@ -50,17 +58,16 @@
       "key": "D"
     }
   ],
-  "find-unlinked-files:find-unlinked-files": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "O"
-    }
-  ],
   "workspace:goto-last-tab": [],
   "templater-obsidian:Templates/note_template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
+  ],
+  "templater-obsidian:Templates/T_Literature_Note.md": [
     {
       "modifiers": [
         "Alt"

@@ -8,7 +8,7 @@
     ]
   ],
   "trigger_on_file_creation": false,
-  "auto_jump_to_cursor": false,
+  "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
@@ -22,10 +22,9 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": true,
   "enabled_templates_hotkeys": [
-    "Templates/note_template.md"
+    "Templates/T_Literature_Note.md"
   ],
   "startup_templates": [
-    "Templates/note_template.md",
     ""
   ],
   "enable_ribbon_icon": true
