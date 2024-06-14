@@ -31,19 +31,6 @@
             }
           },
           {
-            "id": "a172ea60e12c867f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/2024/06-June/2024_Jun_13.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d40af88d94d341b2",
             "type": "leaf",
             "state": {
@@ -58,7 +45,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +111,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily-Bullet-Journal/2024/06-June/2024_Jun_13.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -141,7 +127,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily-Bullet-Journal/2024/06-June/2024_Jun_13.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -170,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a172ea60e12c867f",
+  "active": "84164c44fcfbe694",
   "lastOpenFiles": [
     "Daily-Bullet-Journal/2024/06-June/2024_Jun_14.md",
     "My-Evergreen-Lists/👑 Life Pro Tips.md",
