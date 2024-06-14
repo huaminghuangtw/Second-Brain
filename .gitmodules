@@ -1,3 +1,6 @@
 [submodule "Daily-Bullet-Journal"]
 	path = Daily-Bullet-Journal
 	url = git@github.com:huaminghuangtw/Daily-Bullet-Journal.git
+[submodule "Weekly-Mindware-Update"]
+	path = Weekly-Mindware-Update
+	url = git@github.com:huaminghuangtw/Weekly-Mindware-Update.git

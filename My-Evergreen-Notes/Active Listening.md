@@ -34,3 +34,7 @@ Remember: You have two ears and one mouth. Therefore, you should listen twice as
 Always speak less than necessary. Keep your mouth shut as much as possible.
 
 Be still. Be less chatty. You always own the option of having no opinion.
+
+git submodule-remove Weekly-Mindware-Update && git submodule-add git@github.com:huaminghuangtw/Weekly-Mindware-Update.git
+
+git submodule-remove Weekly-Mindware-Update && git submodule-add git@github.com:huaminghuangtw/Weekly-Mindware-Update.git && git save && git p -f && git submodule-status
