@@ -111,6 +111,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "My-Evergreen-Notes/Bullet Journaling.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,6 +128,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "My-Evergreen-Notes/Bullet Journaling.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,7 +140,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily-Bullet-Journal/2024/06-June/2024_Jun_13.md"
+            "file": "My-Evergreen-Notes/Bullet Journaling.md"
           }
         }
       }
@@ -155,15 +157,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84164c44fcfbe694",
+  "active": "f3123edbb04e6f2f",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240516094404.png",
     "Daily-Bullet-Journal/2024/06-June/2024_Jun_14.md",
     "My-Evergreen-Lists/👑 Life Pro Tips.md",
     "My-Evergreen-Notes/relationships.md",
     "My-Evergreen-Notes/Bullet Journaling.md",
     "My-Evergreen-Notes/Do hard things.md",
     "My-Evergreen-Notes/Alcohol.md",
-    "Attachments/Pasted image 20240516094404.png",
     "My-Evergreen-Notes/first-principle thinking.md",
     "My-Evergreen-Notes/mental models.md",
     "My-Evergreen-Notes/second-order thinking.md",
@@ -186,7 +188,6 @@
     "My-Evergreen-Notes/consistency.md",
     "My-Evergreen-Notes/Rewire your brain or Reframe your thinking.md",
     "My-Evergreen-Notes/optimism.md",
-    "My-Evergreen-Notes/內在成就.md",
     "My-Evergreen-Notes",
     "Weekly-Mindware-Update",
     "Daily-Bullet-Journal",
