@@ -83,7 +83,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "relationships",
+            "query": "segment",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
