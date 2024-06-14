@@ -21,12 +21,9 @@
             "id": "f3123edbb04e6f2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "My-Evergreen-Notes/Bullet Journaling.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Attachments/Productivity/Benjamin_Franklin_Daily_Routine.jpeg"
               }
             }
           },
@@ -111,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "My-Evergreen-Notes/Bullet Journaling.md",
+            "file": "Attachments/Productivity/Benjamin_Franklin_Daily_Routine.jpeg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -128,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "My-Evergreen-Notes/Bullet Journaling.md",
+            "file": "Attachments/Productivity/Benjamin_Franklin_Daily_Routine.jpeg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -140,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "My-Evergreen-Notes/Bullet Journaling.md"
+            "file": "Attachments/Productivity/Benjamin_Franklin_Daily_Routine.jpeg"
           }
         }
       }
@@ -159,11 +156,11 @@
   },
   "active": "f3123edbb04e6f2f",
   "lastOpenFiles": [
+    "My-Evergreen-Notes/Bullet Journaling.md",
     "Attachments/Pasted image 20240516094404.png",
     "Daily-Bullet-Journal/2024/06-June/2024_Jun_14.md",
     "My-Evergreen-Lists/👑 Life Pro Tips.md",
     "My-Evergreen-Notes/relationships.md",
-    "My-Evergreen-Notes/Bullet Journaling.md",
     "My-Evergreen-Notes/Do hard things.md",
     "My-Evergreen-Notes/Alcohol.md",
     "My-Evergreen-Notes/first-principle thinking.md",
