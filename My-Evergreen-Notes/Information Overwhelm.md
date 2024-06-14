@@ -35,4 +35,4 @@
 # Remember
 * You're only as smart as the information you consume
 * What digital content we consume is as important as what we eat
-* 24 hours each day isn't enough to consume 0.0001% of the world's events.
+* 24 hours each day isn't enough to consume 0.0001% of the world's events
