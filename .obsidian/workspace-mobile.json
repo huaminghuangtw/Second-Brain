@@ -83,7 +83,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": " seg",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
