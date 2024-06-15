@@ -36,3 +36,6 @@ Troubleshooting Tips
   - Magic variables
   - Time limitation: a running shortcut will only stay active for a short period of time (around 3 mins) when you are away from the Shortcuts application
   - 如何透過 Siri 呼叫 "Ask for Input" (not just "Dictate Text") 指令? Add "Dismiss Siri and Continue" in the very beginning
+About Spotify: Ask Siri to ‘play the songs or playlists u want in Spotify’ first, then it’ll automatically show the things up in shortcuts app
+
+And make sure you turn this button off like the photo down below. In this way, you don’t need to unlock your phone to run this shortcut
