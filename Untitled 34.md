@@ -42,3 +42,5 @@ If you insist on being original, aim to create an original premise instead of us
 
 SLOW Writing: Syllabus, Listen, Observe, Write
 FAST Writing: Find, Assemble, Speak, Teach
+
+cd "/Users/huaminghuang/Library/Mobile Documents/com~apple~CloudDocs/Hua-Ming's Vault/Daily-Bullet-Journal" && git st && git save && git p; cd "/Users/huaminghuang/Library/Mobile Documents/com~apple~CloudDocs/Hua-Ming's Vault/Weekly-Mindware-Update" && git st && git save && git p; cd "/Users/huaminghuang/Library/Mobile Documents/com~apple~CloudDocs/Hua-Ming's Vault/Second-Brain" && git st && git sbst && git save && git up
