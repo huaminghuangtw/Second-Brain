@@ -21,7 +21,7 @@
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": true,
   "showedMobileNotice": true,
-  "refreshSourceControlTimer": 7000,
+  "refreshSourceControlTimer": 3000,
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
