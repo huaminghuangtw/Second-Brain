@@ -70,7 +70,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "PoP",
+            "query": "miracle",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -157,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3123edbb04e6f2f",
+  "active": "74c55b28c7f48742",
   "lastOpenFiles": [
     "My-Evergreen-Notes/iPhone Shortcuts.md",
     "Attachments/Productivity/Benjamin_Franklin_Daily_Routine.jpeg",
