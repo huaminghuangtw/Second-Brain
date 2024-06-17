@@ -254,7 +254,7 @@
 
 * Whenever you hug someone, be the last to let go.
 
-* Avoid long exposure to direct sunlight for ANYTHING (例外: 廚房「砧板」&「 菜瓜布」)
+* Avoid long exposure to direct sunlight for ANYTHING (例外: 廚房「砧板」 & 「菜瓜布」)
 
 * 眼鏡布 → 擦眼鏡鏡片 (X) 擦手機螢幕 (O)
 
@@ -275,7 +275,7 @@
 
 * Master the "gift of goodbye." Successful & happy people simply say goodbye without giving reasons. → Exit gracefully: "It was so great meeting you, I look forward to seeing you again soon!"
 
-* "What do you do?" -> "What are you most excited about right now?"
+* "What do you do?" → "What are you most excited about right now?"
 
 * You can search the photos on your iPhone by just typing in people, items, months, years, seasons, places you want to see, text in screenshots, etc.
 
@@ -323,5 +323,5 @@
 * "This is a courtesy/kind reminder that..."
 
 * [Chef Tip: How to peel and segment a grapefruit?](https://www.youtube.com/watch?v=whkgVWWJijE)
-	1. [You only cut the rind twice](https://www.youtube.com/watch?v=H_erG7HSK0A&t=418s): (1) Start at stem, cut entirely. (2) Rotate a 90°angle to the first cut, but this time only cut deep enough to go through the rind 外皮，外殼; 硬皮 and pith [the white skin under the rind] 襯皮; 木髓, then peel around the core while unrolling the grapefriut.
+	1. [You only cut the rind twice](https://www.youtube.com/watch?v=H_erG7HSK0A&t=419s): (1) Start at stem, cut entirely. (2) Rotate a 90°angle to the first cut, but this time only cut deep enough to go through the rind 外皮，外殼; 硬皮 and pith [the white skin under the rind] 襯皮; 木髓, then peel around the core while unrolling the grapefriut.
 	2. Once you peel away the whole rind, cut down one edge of the wedge, but stop at the middle and with your knifes edge, gently push up towards the other side of the wedge. This will peel the wedge from the inner pith. And repeat until all wedges are out.
