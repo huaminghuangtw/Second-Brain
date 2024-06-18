@@ -4,6 +4,8 @@
 
 Don't limit your challenges. Challenge your limits.
 
+"Don't do what you can do. Try what you can't do." — William Faulkner
+
 Never say never because limits, like fears, are often just an illusion.
 
 "The garden of the world has no limits, except in your mind." — Rumi &rarr; The only limits in life are the ones you create for yourself.

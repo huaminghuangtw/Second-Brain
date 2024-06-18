@@ -23,8 +23,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly-Mindware-Update/2024/2024_Week_04.md",
-                "mode": "preview",
+                "file": "My-Evergreen-Notes/Self-sabotage.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -70,7 +70,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "never forget",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -99,7 +99,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "b716c9e755767b30",
@@ -111,7 +111,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Weekly-Mindware-Update/2024/2024_Week_04.md",
+            "file": "My-Evergreen-Notes/Self-sabotage.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Weekly-Mindware-Update/2024/2024_Week_04.md",
+            "file": "My-Evergreen-Notes/Self-sabotage.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -140,7 +140,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Weekly-Mindware-Update/2024/2024_Week_04.md"
+            "file": "My-Evergreen-Notes/Self-sabotage.md"
           }
         }
       }
@@ -157,10 +157,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3123edbb04e6f2f",
+  "active": "74c55b28c7f48742",
   "lastOpenFiles": [
-    "My-Evergreen-Notes/iPhone Shortcuts.md",
     "Weekly-Mindware-Update/2024/2024_Week_04.md",
+    "Daily-Bullet-Journal",
+    "My-Evergreen-Notes/iPhone Shortcuts.md",
     "Attachments/Pasted image 20240516094404.png",
     "Attachments/Productivity/Benjamin_Franklin_Daily_Routine.jpeg",
     "My-Evergreen-Notes/Bullet Journaling.md",
@@ -189,10 +190,8 @@
     "Templates",
     "My-Evergreen-Notes/failures & mistakes.md",
     "My-Evergreen-Notes/consistency.md",
-    "My-Evergreen-Notes/Rewire your brain or Reframe your thinking.md",
     "My-Evergreen-Notes",
     "Weekly-Mindware-Update",
-    "Daily-Bullet-Journal",
     "Attachments/Persoanl Development/The_Most_Powerful_Decision-making_Razors/The_Braggers_Razor.jpeg",
     "Attachments/Persoanl Development/The_Most_Powerful_Decision-making_Razors/The_Invested_versus_Spent_Test.jpeg",
     "Attachments/Persoanl Development/The_Most_Powerful_Decision-making_Razors/The_Young_and_Old_Test.jpeg",
