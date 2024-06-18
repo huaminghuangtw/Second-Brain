@@ -70,7 +70,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "run short",
+            "query": "賽",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -157,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3123edbb04e6f2f",
+  "active": "74c55b28c7f48742",
   "lastOpenFiles": [
     "My-Evergreen-Notes/Self-sabotage.md",
     "Weekly-Mindware-Update/2024/2024_Week_04.md",
