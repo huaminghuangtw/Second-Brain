@@ -42,3 +42,6 @@ If you insist on being original, aim to create an original premise instead of us
 
 SLOW Writing: Syllabus, Listen, Observe, Write
 FAST Writing: Find, Assemble, Speak, Teach
+
+
+TEST
