@@ -280,8 +280,8 @@
 * You can search the photos on your iPhone by just typing in people, items, months, years, seasons, places you want to see, text in screenshots, etc.
 
 * Frozen (Greek) Yogurt (soft & fluffy) = Healthy Ice Cream (crystalized)
-	1. 一小時攪拌一次，重複3遍，或是冷凍取出後在室溫放5分鐘，會讓口感更綿密
-	2. Options for ingredients: milk, strawberries, etc.
+	1. 一小時攪拌一次，重複3遍，或是冷凍取出後於室溫中靜置5分鐘，會讓口感更綿密
+	2. Options for ingredients: milk, raisins, strawberries, etc.
 
 * 衣物車縫處脫線 → 打火機轉小火，點脫線處，弄熄，線頭就燒成小黑球 (= 打結)衣物車縫處脫線 → 打火機轉小火，輕點脫線處，弄熄，線頭就燒成小黑球 (= 打結)
 
