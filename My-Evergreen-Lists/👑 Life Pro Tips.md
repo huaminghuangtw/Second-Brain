@@ -243,14 +243,13 @@
 * If you're stuck on an annoying call, put your phone on airplane mode instead of just hanging up. The other person will see "call failed" instead of
 "call ended".
 
-* If you're stuck on an annoying call, put your phone on airplane mode instead of just hanging up. The other person will see "call failed" instead of
-"call ended".
+* [How to Seal a Bag of Chips without a Clip](https://youtu.be/AdhUifjOahs)
 
 * 把「人工皮」當「痘痘貼」使用 -> 好處: (1) 可以任意剪裁所需的尺寸大小 (2) 單位面積價格較便宜 (3) 較傳統痘痘貼厚，效果更好
 
 * 吃冰棒的技巧:「一邊從頂部小口咬，一邊從根部往上舔」(Why? 冰棒都是從最上端開始融化，這樣做可以讓往下滴的水量減到最少)
 
-* 吃冰棒的技巧:「一邊從頂部小口咬，一邊從根部往上舔」(Why? 冰棒都是從最上端開始融化，這樣做可以讓往下滴的水量減到最少)
+* 「水滾七分鐘」  -> 溫泉蛋
 
 * Whenever you hug someone, be the last to let go.
 
@@ -267,7 +266,7 @@
 
 * Break up effervescent tablets into half with your hand before adding to water. It dissolves quicker due to the increased surface area. Stirring it also quickens up the process.
 
-* Break up effervescent tablets into half with your hand before adding to water. It dissolves quicker due to the increased surface area. Stirring it also quickens up the process.
+* **The 48-Hour Rule** (to avoid impulse purchases that you might regret): Whenever you’d like to buy something (online or in a store), take a pause of at least 48 hours. In most cases, your desire to make the purchase will be gone by the time the 48 hours are over.—if you still want it, it's a sign the purchase might be well worth it anyway, then go ahead to complete the order.
 
 * Looking at the UNIT price on the shelf tags at the grocery store.
 
@@ -323,5 +322,5 @@
 * "This is a courtesy/kind reminder that..."
 
 * [Chef Tip: How to peel and segment a grapefruit?](https://www.youtube.com/watch?v=whkgVWWJijE)
-	1. [You only cut the rind twice](https://www.youtube.com/watch?v=H_erG7HSK0A&t=419s): (1) Start at stem, cut entirely. (2) Rotate a 90°angle to the first cut, but this time only cut deep enough to go through the rind 外皮，外殼; 硬皮 and pith [the white skin under the rind] 襯皮; 木髓, then peel around the core while unrolling the grapefriut.
+	1. [You only cut the rind twice](https://www.youtube.com/watch?v=H_erG7HSK0A&t=419s): (1) Start at stem, cut entirely. (2) Rotate a 90°angle to the first cut, but this time only cut deep enough to go through the rind 外皮，外殼; 硬皮 and pith [the white skin under the rind] 襯皮; 木髓 (吃起來會苦 bitter 的白色纖維), then peel around the core while unrolling the grapefriut.
 	2. Once you peel away the whole rind, cut down one edge of the wedge, but stop at the middle and with your knifes edge, gently push up towards the other side of the wedge. This will peel the wedge from the inner pith. And repeat until all wedges are out.
