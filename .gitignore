@@ -1,9 +1,10 @@
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-
 # Ignore all dot files
 .*
 
 # Exception
 !.gitignore
 !.obsidian
+
+.gitmodules
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json

@@ -25,7 +25,7 @@
 		* BS Asymmetry Principle
 			* The energy required to refute bullshit is much larger than the energy required to produce it.
 			* This is why BS spreads so easily—especially on social media.
-	* Your diet isn't just about what you eat, but also what you read, watch, listen to, as well as who you follow on social platforms
+	* Your diet isn't just about what you eat (the food you put into your body), but also what you read, watch, listen to (the information you take in), as well as who you follow on social platforms & the friends you hang around.
 * The Concept of "Brain Attic" by Sherlock Holmes: being your own cognitive curator; you decide what goes in and what stays out, making sure that you're not wasting valuable mental space and energy on things that aren't aligned with your goals.
 * Strategic Ignorance &rarr; Ignorance is bliss
 * Franeworks/Methods for Information Organisation

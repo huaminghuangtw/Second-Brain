@@ -31,6 +31,12 @@ Actions
     - _Run Shortcut_ v.s *URL Scheme*
 	    - [[iOS Tip] How the shortcuts://run-shortcut URL scheme works : r/shortcuts (reddit.com)](https://www.reddit.com/r/shortcuts/comments/y31gix/ios_tip_how_the_shortcutsrunshortcut_url_scheme/)
 	    - [[iOS] Running two shortcuts at the same time : r/shortcuts (reddit.com)](https://www.reddit.com/r/shortcuts/comments/w9arji/ios_running_two_shortcuts_at_the_same_time/)
+	    - [Run a shortcut using a URL scheme on iPhone or iPad](https://support.apple.com/en-gb/guide/shortcuts/apd624386f42/ios)
+	- List
+		- Comma-separated text
+		- Each item is encoded
+	- Dictionary
+		- JSON string
   - "Get Weather Forecast" (&harr; "Get Current Weather")
 	- Hourly: grabs results for the next 24 hours (A list containing 24 items)
 	- Daily: grabs results for the next 10 days (A list containing 10 items)
