@@ -5,6 +5,5 @@
 !.gitignore
 !.obsidian
 
-.gitmodules
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
