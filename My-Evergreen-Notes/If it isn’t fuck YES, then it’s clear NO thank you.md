@@ -7,6 +7,10 @@ When you say 'yes' to others, make sure you are not saying 'no' to yourself.
 "Say Yes, Then No"
 > You should say yes frequently as you explore the possibilities, and then say no frequently as you double down on what works.
 
----
-# References
--
+Two types of opportunities
+- "Glass Doors"
+	- Opportunities where you can see exactly what's there
+	- It's obvious win, with a tangible payoff
+- "Wooden Doors"
+	- Opportunities where you can't see what's on the other side until you put in the effort to knock and go through them
+	- It's opaque upfront, with only the potential for an outsized payoff
