@@ -7,7 +7,7 @@
   "focusOnNewInstance": true,
   "hideStatusBar": "focused",
   "language": "",
-  "newInstanceBehavior": "newHorizontalSplit",
+  "newInstanceBehavior": "newTab",
   "noticeTimeout": 5,
   "openChangelogOnUpdate": true,
   "pinNewInstance": true,
