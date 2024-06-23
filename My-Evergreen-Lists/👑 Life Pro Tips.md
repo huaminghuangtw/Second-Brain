@@ -192,7 +192,7 @@
 
 * Send one message a day to a person you admire because you never know when you'll get a response back.
 
-* Waiting 30-60 seconds to dry off after you turn off your shower significantly decreases the volume of water soaked up by your towel, thus your towel will need less time to dry by its next use.
+* Waiting 30-60 seconds （or 原地踏步） to dry off after you turn off your shower significantly decreases the volume of water soaked up by your towel, thus your towel will need less time to dry by its next use.
 
 * If you want your kids to listen when you have something important to say, speak very quietly. Yelling doesn't work, but a whisper grabs their attention.
 
@@ -253,7 +253,8 @@
 
 * Whenever you hug someone, be the last to let go.
 
-* Avoid long exposure to direct sunlight for ANYTHING (例外: 廚房「砧板」 & 「菜瓜布」)
+* Avoid long exposure to direct sunlight for ANYTHING
+	- 例外: 砧板、菜瓜布、浴室、毛/浴巾、眼罩、枕頭套
 
 * 眼鏡布 → 擦眼鏡鏡片 (X) 擦手機螢幕 (O)
 
