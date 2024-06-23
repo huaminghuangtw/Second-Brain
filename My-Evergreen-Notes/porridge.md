@@ -1,7 +1,7 @@
-= Oat Meal
+= [[Oat]] Meal
 # Hot
 - Ingredients
-	- Cacao Powder
+	- Cacao Powder (5g)
 	- Dates * 2-3
 	- Cinnamon
 	- Salt
