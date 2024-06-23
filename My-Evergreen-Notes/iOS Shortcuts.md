@@ -32,6 +32,8 @@ Actions
 	    - [[iOS Tip] How the shortcuts://run-shortcut URL scheme works : r/shortcuts (reddit.com)](https://www.reddit.com/r/shortcuts/comments/y31gix/ios_tip_how_the_shortcutsrunshortcut_url_scheme/)
 	    - [[iOS] Running two shortcuts at the same time : r/shortcuts (reddit.com)](https://www.reddit.com/r/shortcuts/comments/w9arji/ios_running_two_shortcuts_at_the_same_time/)
 	    - [Run a shortcut using a URL scheme on iPhone or iPad](https://support.apple.com/en-gb/guide/shortcuts/apd624386f42/ios)
+		- Difference
+			- *URL Scheme* requires to open the Shortcuts app, while _Run Shortcut_ doesn't.
 	- List
 		- Comma-separated text
 		- Each item is encoded
