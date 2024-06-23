@@ -8,7 +8,7 @@ Speak with integrity. Say only what you mean.
 
 Silence is more eloquent than words.
 
-“Understanding is the heartwood of well-spoken words.” — Buddha
+"Understanding is the heartwood of well-spoken words." — Buddha
 
 ==TODO==
 THINK before you SPEAK(, and READ before you THINK.)
@@ -20,7 +20,3 @@ Some questions to consider before you speak:
  - "*Does this need to be said?*"
  - "*Does this need to be said by me?*"
  - "*Does this need to be said by me right now?*"
-
----
-# References
--
