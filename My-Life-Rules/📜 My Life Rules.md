@@ -10,7 +10,7 @@ Try to be legendary in your own way. Few people get remembered hundreds of years
 
 Do not limit or cage yourself. You are capable of much more than you could imagine. Identify your capability gap and then work relentlessly to close it!
 
-Never say never. You don't know what you don't know.
+Never say never. You don't know what you don't know, the unknown unknowns.
 
 Believe in yourself. Have almost too much self-belief.
 
@@ -68,7 +68,7 @@ Keep your identity small. Listen to constructive negative feedback. No ego. Be h
 
 Life goes on. You got to keep going, keep moving, keep improving, keep exploring, and keep experimenting. Life can only be understood backwards, but it must be lived forwards.
 
-Explore, Discover, Try, Fail, Disappoint, Get lost, Ask, Get feedback, Learn, Grow, Iterate, and Repeat. You can't connect the dots looking forward; you can only connect them looking backwards.
+Explore, Discover, Try, Fail, Disappoint, Get lost, Suffer, Ask, Get feedback, Learn, Grow, Iterate, and Repeat. You can't connect the dots looking forward; you can only connect them looking backwards.
 
 Leave your comfort zone. Take as much risk as you can afford. Step into the unknown. Sit with the discomfort. Remember, if you are not failing occasionally, you are probably being too conservative.
 
@@ -88,7 +88,7 @@ Your daily behaviours shape your future. Day by day, what you think and what you
 
 Every effort counts. Anything above zero compounds. Start with small baby steps. Small things become big things. Ordinary becomes extraordinary. Drops of water make an ocean. Every focus session is a building block of a big pyramid. The little things really do count. Over time, things will add up and lead to giant leaps. Remember to always focus on how far you have come, not how far you have to go.
 
-Be very biased toward execution. Set 5-year goals, but take 10-minute actions. Think in terms of decades, but act in terms of days. Focus on the effort, not outcomes. Be patient with results, but inpatient with actions. If you are not taking action consistently, then you are not practicing patience —you are just waiting.
+Be very biased toward execution. Set 5-year goals, but take 10-minute actions. Think in terms of decades, but act in terms of days. Think like a man of action, and act like a man of thought. Focus on the effort, not outcomes. Be patient with results, but inpatient with actions. If you are not taking action consistently, then you are not practicing patience—you are just waiting.
 
 Knowledge is useless until you act on it. It's not enough to know something. You have to turn that knowledge into action. Everything good in life is a byproduct of action. Information is abundant, action is hard. Ideas are easy. It's the execution of ideas that really separates the sheep from the goats.
 
@@ -172,9 +172,9 @@ Think deeply. Think in a different time frame, horizon, scale, and dimension.
 
 Try to make as many right and wise choices as you possibly can. Try to make as many great decisions that your eighty-year-old self and ten-year-old self would be proud of. Your decisions are investments you make into your future. Your future self is the most important stakeholder in your life. Take care of your future self, because you will become that person one day, and that person is the one who ultimately has to deal with whatever you do TODAY. No one cares more about your actions in the present than your future self. Bring the after into the before.
 
-Guard your time and take care of your brain and body — they are all you have on this planet. Make it non-negotiable to prioritize your sleep, exercise, and nutrition.
+Guard your time and take care of your brain (the software) and body (the hardware) — they are all you have on this planet. Make it non-negotiable to prioritise your sleep, exercise, and nutrition.
 
-Never ever sacrifice your sleep. Don't limit sleep length. Sleep as much as your body needs. Listen to your body. Always make sure you get enough of eight hours of sleep each night.
+Never ever sacrifice your sleep. Don't limit sleep length. Sleep as much as your body needs. Sleep is the best legal performance enhancing drug on the planet. Listen to your body. Always make sure you get enough of eight hours of sleep each night.
 
 Move your body. Free your mind. Meditate, go for a walk or do exercises throughout the day.
 
@@ -210,7 +210,9 @@ Spend as much of your time as possible doing activities that will provide you wi
 
 Be mindful and intentional. Live life by design, not default. Live in the present. Let past go. Look towards the future. Anything outside of this present moment is just an imagination. Only NOW is the reality. Nothing lasts forever.
 
-Surround yourself only with people you love and admire. Find people who are genuinely rooting for you to succeed and truly wanting to see you to win. Reach out to people who are going to lift you higher and living the life you want to live. You are the average of the five people you associate with most. The quality of your experiences will be largely determined by the people you surround yourself with. Hold on to these people like your life depends on it.
+Surround yourself only with people you love and admire. Reach out to people who are going to lift you higher and living the life you want to live. Find people who are genuinely rooting for you to succeed and truly wanting to see you to win. Hold on to these people like your life depends on it.
+
+You are the average of the five people you associate with most. The quality of your experiences will be largely determined by the people you surround yourself with.
 
 Life is short. Savor close relationships. Treasure "inner circle" friendships. Tell those human you love that you love them while they are still alive. Create memories with them.
 
