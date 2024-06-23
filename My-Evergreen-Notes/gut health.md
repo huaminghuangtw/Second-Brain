@@ -7,7 +7,7 @@
 - Boost brain function
 - Environmentally-friendly
 
-  
+
 腸腦軸 (Gut-Brain Axis): connected by vagus nerve (迷走神經)
 
 ---

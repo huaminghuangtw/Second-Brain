@@ -20,7 +20,7 @@
 - Passive income is actually "less active" income &rarr; Difference: "LEVERAGE"
 	- We all have 24 hours per day.
 	- We all trade time for money at some levels.
-	- We are all being paid per hour rate 
+	- We are all being paid per hour rate
 - **FIRE** = Financial Independence, Retire Early
 - **Financial Freedom/Independence** = passive income exceeds your cost of living
 - **Financial Literacy** = understand how to manage your money

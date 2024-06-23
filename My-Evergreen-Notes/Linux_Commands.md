@@ -51,7 +51,8 @@
 - `tr`: Translate characters, transformations including uppercase to lowercase, squeezing repeating characters, deleting specific characters, basic find, and replace/substitution
         - Flags/Options
         - Examples
-            - `tr '\n' ' '`: Replace newline characters with spaces
+            - `tr '
+' ' '`: Replace newline characters with spaces
 - `grep`
 - `sed`
 - `awk`

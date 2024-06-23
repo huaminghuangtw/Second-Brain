@@ -1,6 +1,6 @@
-Format/Write the content  
+Format/Write the content
 Use a subtitle
-Place reading time in the subtitle 
+Place reading time in the subtitle
 Add a cover photo (no descriptions, only the reference)
 Start with a powerful quote from famous people
 Horizontal divider between sections
@@ -16,23 +16,23 @@ Recall headline in the conclusion
 
 have a call-to-action at the bottom of their articles
 
-Deliberate Publish: consume what you are going to create  
+Deliberate Publish: consume what you are going to create
 "Write with a book in mind."
-  
-Your posts should be part of a larger idea you're trying to work toward with your writing.  
+
+Your posts should be part of a larger idea you're trying to work toward with your writing.
 Take time to develop your distinct voice (writing style)
 
-POP = Personal, Observational, Playful  
-Daily Motivation: Micro habits (Health), Quotes, Psychology Theory (storytelling)  
+POP = Personal, Observational, Playful
+Daily Motivation: Micro habits (Health), Quotes, Psychology Theory (storytelling)
 
 
-👉 Remember:  
-Write fast, write bad, and write wrong.  
-If your writing doesn't make you feel naked, it's probably not personal/emotional enough  
-Expression is compression  
-You don't need to have all the answers if you know how to take readers on a journey  
-Share half-baked ideas (feedback-driven writing > data-driven writing)  
-It doesn't matter if it's already written before, because it hasn't been written by you — think about there has been 1010 biographics of Winston Churchill — do it in your own way and just cite the sources  
+👉 Remember:
+Write fast, write bad, and write wrong.
+If your writing doesn't make you feel naked, it's probably not personal/emotional enough
+Expression is compression
+You don't need to have all the answers if you know how to take readers on a journey
+Share half-baked ideas (feedback-driven writing > data-driven writing)
+It doesn't matter if it's already written before, because it hasn't been written by you — think about there has been 1010 biographics of Winston Churchill — do it in your own way and just cite the sources
 
 "It was really reading the kind of common knowledge and just presenting it in a new way"
 
