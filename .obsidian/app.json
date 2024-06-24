@@ -1,9 +1,3 @@
 {
-  "promptDelete": false,
-  "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Attachments",
-  "trashOption": "system",
-  "newFileLocation": "folder",
-  "newFileFolderPath": "My-Evergreen-Notes",
-  "showRibbon": true
+  "alwaysUpdateLinks": true
 }
