@@ -1,4 +1,4 @@
-"*Are you listening to understand or just waiting to speak?*"
+"*Are you listening to understand or just waiting to speak？xxx"
 - "Me vs. You" positioning (confrontational, waiting to speak) &rarr; "Us vs. Problem" positioning (collaborative, listening to understand)
 - Seek first to understand, then to be understood. Make someone else feel *seen*, *heard*, and *remembered*.
 
