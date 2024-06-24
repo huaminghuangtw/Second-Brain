@@ -1,1 +1,8 @@
-~~Carrot~~
+- 3-4 Eggs
+- Butter
+- Milk
+- Salt
+- Linseed
+- Pepper + Turmeric
+- Frozen Carrot
+- 3 mins
