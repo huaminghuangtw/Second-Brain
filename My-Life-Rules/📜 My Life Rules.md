@@ -18,7 +18,7 @@ Always dream big and think big. If your dreams don't scare you, you are not drea
 
 Deliberately train yourself to be very good at suffering, uncommonly resilient, and have a very high level of pain tolerance. Develop world-class resilience and adaptability.
 
-All greatness comes good character. And that character isn't formed out of smart people. It's formed from people who suffered.
+All greatness comes good character. And that character isn’t formed out of smart people. It’s formed from people who suffered.
 
 Act as if today is your last day on Earth. Learn as if you were to live forever. If you are not growing, you are dying.
 
@@ -46,7 +46,7 @@ You get one life. One chance. One go. You make yourself either miserable or stro
 
 Never forget your childhood dreams. Have the courage to follow your own heart and intuition — they somehow already know what you truly want to become — everything else is secondary. Life shrinks or expands in proportion to one's courage. Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.
 
-Don't let the noise of others' opinions drown out your own inner voice. A lion doesn't concern himself with the opinions of the sheep. Your time is so limited. Don't waste it living someone else's life.
+Don't let the noise of others' opinions drown out your own inner voice. A lion doesn't concern himself with the opinions of the sheep. Your time is so limited. Don’t waste it living someone else’s life.
 
 Be your true self. Your job, throughout your entire life, is to disappoint as many people as it takes to avoid disappointing yourself. Live according to your values Live your life, unapologetically. In the end, that's ALL you can do.
 
@@ -114,7 +114,7 @@ Your time will finally come. The things you've been waiting for will finally com
 
 You are always just one good decision away from being in a better place tomorrow—just focus on the next decision.
 
-Life is cyclic. Bad things happen dramatically. Good things happen gradually, and don't feel like "news". Hope for the best. Prepare for the worst. Never let success get into your head. Never let failure get into your heart.
+Life is cyclic. Bad things happen dramatically. Good things happen gradually, and don’t feel like "news". Hope for the best. Prepare for the worst. Never let success get into your head. Never let failure get into your heart.
 
 Optimize for long term growth over short term gains. Optimize for fun and joy over money.
 
@@ -162,11 +162,11 @@ When you say something, make sure it benefits all parties involved and contribut
 
 Always be aware of how you are using the word, and be impeccable with your word. Avoid using the word to speak against yourself or to gossip about others. Remember: The most powerful word is the one you use to talk to yourself.
 
-Don't lie. Be honest and authentic, especially with yourself. Speak with integrity. Say only what you mean.
+Don’t lie. Be honest and authentic, especially with yourself. Speak with integrity. Say only what you mean.
 
 Know who you are. Love yourself. Value yourself. Forgive yourself. Make time for yourself.
 
-Don't take anything personally. Never let any words hurt you. Don't care what other people might think of you. If you try to please everyone—you will please no one.
+Don’t take anything personally. Never let any words hurt you. Don’t care what other people might think of you. If you try to please everyone—you will please no one.
 
 Think deeply. Think in a different time frame, horizon, scale, and dimension.
 
@@ -182,7 +182,7 @@ Take more breaks, but not too long. Use yoga, stretching, and foam roller massag
 
 Learn to rest, but not quit. Learn to rest before you are tired.
 
-Fast as often as you can. Don't eat too much. Only eat when you are hungry. Stop eating when you are eighty percent full. Be wholeheartedly appreciative whenever you are feeding yourself. No craving. Don't use eating as a form of procrastination.
+Fast as often as you can. Don’t eat too much. Only eat when you are hungry. Stop eating when you are eighty percent full. Be wholeheartedly appreciative whenever you are feeding yourself. No craving. Don't use eating as a form of procrastination.
 
 Eat real whole food only. No junk. Eat mostly plants. Drink lots of water and tea. Limit coffee. No added sugar. No alcohol, except white or red wine.
 
@@ -192,19 +192,19 @@ Accept everything. Judge nothing. Expect nothing. Find beauty in everything.
 
 Happiness comes from being grateful for what you already have. Being upset over what you don't have is to waste what you do have. Never let the things you want make you forget the things you have. Remember that what you now have was once among the things you only hoped for. Your life is already amazing, and it's lucky that you even exist and breathe right now.
 
-Don't let the pursuit of more stop you from enjoying what you already have. Never let the quest for more distract you from the beauty of enough. Enough is enough. Moderation/Harmony is key.
+Don’t let the pursuit of more stop you from enjoying what you already have. Never let the quest for more distract you from the beauty of enough. Enough is enough. Moderation/Harmony is key.
 
-If you're going to pursue "more", remember to keep your life balanced, especially in terms of your health and relationships.
+If you’re going to pursue “more”, remember to keep your life balanced, especially in terms of your health and relationships.
 
 There is no such achievement you could possibly achieve that will make you any happier than you are right now—you are already as perfect as you are now.
 
 Life is only 4000 weeks long. Make the rest of your life the best of your life. Don't live the same year 75 times and call it a life. Inject some planned spontaneity and adventures into your days. Every time you do something that is one less time you could do it — cherish every moment of your life like it is your last — because it very well might be. Every single thing you do today is something that your ninety-year-old self would wish they could go back and do. The good old days are happening RIGHT NOW.
 
-Smile often. Laugh more. A day without laughter is a day wasted. Be funny. Be playful. Be cheerful. Chill out. Don't panic. Do not take things so seriously. Take a deep breath. Relax. Enjoy each moment in life. Let shit go. Choose to be happy. You can't wait until life isn't hard anymore, before you decide to be happy. You live longer once you realise that any time spent being unhappy is wasted.
+Smile often. Laugh more. A day without laughter is a day wasted. Be funny. Be playful. Be cheerful. Chill out. Don’t panic. Do not take things so seriously. Take a deep breath. Relax. Enjoy each moment in life. Let shit go. Choose to be happy. You can't wait until life isn’t hard anymore, before you decide to be happy. You live longer once you realise that any time spent being unhappy is wasted.
 
 Be optimistic. Stop being afraid of what could go wrong, and start being positive about what could go right. Focus on the positives.
 
-Don't worry about bullshit and nonsense. Remember: If it's not gonna matter in 5 years, don't spend more than 5 minutes upset about it. Focus on the outcomes, not the obstacles. The outcome is the only option here. Never waste your precious time, energy, and attention. They are your ultimate currencies. Trade them wisely and carefully.
+Don't worry about bullshit and nonsense. Remember: If it’s not gonna matter in 5 years, don’t spend more than 5 minutes upset about it. Focus on the outcomes, not the obstacles. The outcome is the only option here. Never waste your precious time, energy, and attention. They are your ultimate currencies. Trade them wisely and carefully.
 
 Spend as much of your time as possible doing activities that will provide you with nostalgia in the future. Create stories that you will be excited to tell your kids about, and your grandchildren will love to hear someday. Live the truth you want your descendants to embrace.
 
@@ -218,7 +218,7 @@ Life is short. Savor close relationships. Treasure "inner circle" friendships. T
 
 Don't avoid hard conversations. Any effort you spend on cultivating deep relationships will pay major dividends.
 
-Don't hate anyone. Don't insult anyone. Only take shots at things, not people. Do no harm, but take no shit and crap. Set boundaries.
+Don’t hate anyone. Don't insult anyone. Only take shots at things, not people. Do no harm, but take no shit and crap. Set boundaries.
 
 Humanise the people around you. Do not put them on pedestals. The adults do not exist. There is just giant children figuring things out.
 
@@ -234,7 +234,7 @@ The quality of a person is almost always viewed through how they touched the liv
 
 At the end of your life, God will only assess you based on how well you help other people be better people. Life is people.
 
-Ultimately, your success in life can be measured by the number of uncomfortable actions you are willing to take, the number of uncomfortable conversations you are willing to initiate, and the number of conversations you finish with "I love you."
+Ultimately, your success in life can be measured by the number of uncomfortable actions you are willing to take, the number of uncomfortable conversations you are willing to initiate, and the number of conversations you finish with “I love you.”
 
 Peace.
 
