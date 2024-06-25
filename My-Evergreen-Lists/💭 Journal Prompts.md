@@ -7,7 +7,7 @@
 
 
 * 🤔 On "Miscellaneous"
-	> _If everything were to stay the same, what's the one tiny change that would have the greatest positive impact in my life?_
+	> _If everything were to stay the same, what’s the one tiny change that would have the greatest positive impact in my life?_
 
 	> _If everything else stays the same, what one variable could create the biggest positive change on my situation?_
 
@@ -163,7 +163,7 @@
 
 	> _If I had all the money and time in the world, how would I use my talents to serve others?_
 
-	> _I am attending the TED conference, and everyone in the audience (including me) is deeply moved and inspired by what the speaker is talking about. The speaker is me, 20 years in the future. What is "Me + 20 Years" talking about, and what is so inspiring about it?_
+	> _I am attending the TED conference, and everyone in the audience (including me) is deeply moved and inspired by what the speaker is talking about. The speaker is me, 20 years in the future. What is ”Me + 20 Years” talking about, and what is so inspiring about it?_
 
 	> _What is one dream I have always had but never pursued? Why is it a dream for me? What has stopped me from pursuing it?_
 
