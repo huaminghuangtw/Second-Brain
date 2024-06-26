@@ -4,6 +4,8 @@
 
 Happiness is the absence of the striving for happiness.
 
+Happiness is a choice/practice.
+
 Reward prediction error = actual reward – expected reward &rarr; Expect nothing!
 
 Happiness is not a destination you reach by hitting an arbitrary set of goals, but rather an accumulation of the small choices you make every day.
@@ -44,4 +46,4 @@ People are often not [[活在當下|present]] to what they are doing (the mismat
 
 The ability to think about what is not happening in a moment is a cognitive achievement that comes at an emotional cost.
 
-Normal behavior is forgotten. Only weird behavior survives. — Nobody tells stories of when you did the expected — they only tell stories when you did the unexpected. Normalize being weird. Weirdness is what sets us apart, gets us hired. Be your unapologetically weird self. **In fact, being weird may even find you the ultimate happiness.**
+Normal behavior is forgotten. Only weird behavior survives. — Nobody tells stories of when you did the expected — they only tell stories when you did the unexpected. Normalize being weird. Weirdness is what sets us apart, gets us hired. Be your unapologetically weird self. In fact, being weird may even find you the ultimate happiness.

@@ -48,7 +48,7 @@ Never forget your childhood dreams. Have the courage to follow your own heart an
 
 Don't let the noise of others' opinions drown out your own inner voice. A lion doesn't concern himself with the opinions of the sheep. Your time is so limited. Don’t waste it living someone else’s life.
 
-Be your true self. Your job, throughout your entire life, is to disappoint as many people as it takes to avoid disappointing yourself. Live according to your values Live your life, unapologetically. In the end, that's ALL you can do.
+Be your true self. Your job, throughout your entire life, is to disappoint as many people as it takes to avoid disappointing yourself. Live according to your values. Live your life, unapologetically. In the end, that's ALL you can do.
 
 Do not try to be the man your father would want you to be. Be the man you would like your son to be.
 
@@ -176,7 +176,7 @@ Guard your time and take care of your brain (the software) and body (the hardwar
 
 Never ever sacrifice your sleep. Don't limit sleep length. Sleep as much as your body needs. Sleep is the best legal performance enhancing drug on the planet. Listen to your body. Always make sure you get enough of eight hours of sleep each night.
 
-Move your body. Free your mind. Meditate, go for a walk or do exercises throughout the day.
+Move your body. Free your mind. Meditate, journal, go for a walk or do micro exercises throughout the day.
 
 Take more breaks, but not too long. Use yoga, stretching, and foam roller massage as often when necessary. They reduce your tension, anxiety, or stress, and help you to relax for better productivity and creativity.
 
