@@ -10,5 +10,5 @@
 - The reason most people fail instead of succeed is they trade what they want most for what they want at the moment.
 - When faced with a difficult decision, ask yourself what your 80-year-old self would want you to do.
 - Often, what we resist the most, holds us the biggest rewards.
-- "Hard choices, easy life. Easy choices, hard life." — Jerzy Gregorek
+- "Easy choices, hard life. Hard choices, easy life." — Jerzy Gregorek
 	-  Always choose harder right over easier wrong.
