@@ -1,0 +1,1 @@
+If you could just literally sit in a room by yourself for 30 minutes and be happy, then you are successful.

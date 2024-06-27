@@ -30,6 +30,12 @@ There are two ways to be happier:
 1. Change your situation.
 2. Change the way you look at it.
 
+You always have 3 options in any circumstance/situation in life — that is:
+- You can change it.
+- You can accept it.
+- You can leave it.
+*But the worst option is sitting around, wishing you would change it but not changing it, or wishing you would leave it but not leaving and not accepting it. This is the struggle that is responsible for most of our misery, anger, and unhappiness.*
+
 [比較]
 - Visible metrics &rarr; e.g., money
 - Hidden metrics &rarr; e.g., time with family, peace of mind
