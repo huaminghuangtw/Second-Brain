@@ -1,8 +1,8 @@
 - 3-4 Eggs
-- Butter
-- Milk
+- Butter (very important!!!)
+- Milk (no water!!!)
 - Salt
 - Linseed
 - Pepper + Turmeric
 - Frozen Carrot
-- 3 mins
+- Microwave Timer: 3 minutes

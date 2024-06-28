@@ -8,6 +8,7 @@
 	- Banana
 	- Almond (nuts & sliced)
 - Tips
+	- Microwave Timer: 4 minutes
 # Cold
 * Ingredients
 	* (Same as above)
