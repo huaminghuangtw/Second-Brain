@@ -13,7 +13,7 @@
 	4. Will remove hard water deposits in your washing machine as well
 	5. DO NOT MIX VINEGAR AND CHLORINE BLEACH OR COLOR SAFE BLEACH EVER!!!! THEY WILL PRODUCE DANGEROUS CHEMICALS!
 
-* If you want to find out about people’s opinions on a product, google "\<product\> reddit". You’ll get real people arguing, as compared to the SEO Google results.
+* If you want to find out about people’s opinions on a product, google "<product> reddit". You’ll get real people arguing, as compared to the SEO Google results.
 
 * Learn one funny dance move.
 

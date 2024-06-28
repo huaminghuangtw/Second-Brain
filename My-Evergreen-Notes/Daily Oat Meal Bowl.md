@@ -1,4 +1,4 @@
-= [[Oat]] Meal
+[[Oats]] (100g)
 # Hot
 - Ingredients
 	- Cacao Powder (5g)

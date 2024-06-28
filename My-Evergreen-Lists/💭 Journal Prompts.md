@@ -321,8 +321,6 @@
 
 	> _How can I do less, but better?_
 
-	> _Am I hunting antelope or field mice?_
-
 	> _How is cheap becoming expensive in my life?_
 
 
@@ -369,6 +367,8 @@
 
 
 * 🤔 On "Prioritisation"
+	> _Which undone item, if done, would liberate the most energy for me personally?_
+
 	> _What is the ONE highest-leverage thing I can do XXX that'll take the largest load off my shoulders?_
 
 	> _What is the big, critical, high-impact task that'll make my XXX successful?_
@@ -381,6 +381,8 @@
 
 
 * 🤔 On "Evening Reflection"
+	> _Did I spend today chasing mice or hunting antelope?_
+
 	> _Which moments are the most important?_
 
 	> _Which moments are the most useful?_

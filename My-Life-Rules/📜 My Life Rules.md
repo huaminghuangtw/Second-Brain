@@ -80,9 +80,11 @@ If you don't like something, change it. If you can't change it, change your atti
 
 Don't just dream for winning. Train for it. Pursue your goals aggressively and relentlessly. There is no compromise. Don't ask for any permission. Just tap yourself on the shoulder and do the work directly. If you live for people's approval, you will die from their rejection.
 
-Show up every day. Be a habit and routine machine.
+Show up every day. Be a habit and routine machine. Do a little more of
 
-Do a little more of what you want to do every single day, until your vision becomes reality. Make consistent daily tiny actions. Make everyday count. Never miss a day. Everyday you start at zero. Each morning you are born again. What you do today is what matters most. The days are long, but the decades are short. No time wasted. Every single minutes matters. Ten minutes, once gone, are gone for good.
+what you want to do every single day, until your vision becomes reality. It's those little bits of good put together that overwhelm the world.
+
+Make consistent daily tiny actions. Make everyday count. Never miss a day. Everyday you start at zero. Each morning you are born again. What you do today is what matters most. The days are long, but the decades are short. No time wasted. Every single minutes matters. Ten minutes, once gone, are gone for good.
 
 Your daily behaviours shape your future. Day by day, what you think and what you do is who you become. A good day of training is worth little on its own, but a good year was worth plenty. Your final results are merely a reflection of your prior commitments. All success is a lagging indicator.
 
@@ -110,9 +112,7 @@ Do things no one cares about but you. Do the old fashioned things well. Do fooli
 
 worth it in the end, because once you get there, you can move mountains and the world.
 
-Your time will finally come. The things you've been waiting for will finally come. Just keep persevering and be patient. Remember: A man who is a master of patience is master of everything else.
-
-You are always just one good decision away from being in a better place tomorrow—just focus on the next decision.
+Start where you are. Use what you have. Do what you can. Focus on what you can control. Your time will finally come. The things you've been waiting for will finally come. Just keep persevering and be patient. Remember: A man who is a master of patience is master of everything else. You are always just one good decision away from being in a better place tomorrow—just focus on the next decision.
 
 Life is cyclic. Bad things happen dramatically. Good things happen gradually, and don’t feel like "news". Hope for the best. Prepare for the worst. Never let success get into your head. Never let failure get into your heart.
 
