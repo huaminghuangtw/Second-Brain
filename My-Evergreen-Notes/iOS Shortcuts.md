@@ -34,6 +34,10 @@ Actions
 	    - [Run a shortcut using a URL scheme on iPhone or iPad](https://support.apple.com/en-gb/guide/shortcuts/apd624386f42/ios)
 		- Difference
 			- *URL Scheme* requires to open the Shortcuts app, while _Run Shortcut_ doesn't.
+		- Command-line version of `shortcuts://run-shortcut` from Terminal
+			- Run Shell Script
+				- Select shell as `bin/bash`
+				- Enter the command: `shortcuts run <YOUR_SHORTCUT_NAME>`
 	- List
 		- Comma-separated text
 		- Each item is encoded
