@@ -12,3 +12,5 @@ Keep quiet about your... (不要張揚這些事)
 - Family Issues
 
 "As you gain fame, as you gain fortune, as you gain position and seniority, people will treat you better. — They will hold doors open for you. They will get you a cup of tea and coffee without you even asking. — None of that stuff is meant for you. That stuff is meant for the position you hold. It is meant to the level you have achieved of leader or success or whatever you want to call it, but remember: you will always deserve a Styrofoam cup." — Simon Sinek
+
+"You want to be rich and anonymous, not poor and famous." — Naval Ravikant
