@@ -5,7 +5,6 @@
 
 # How?
 
-- It is best to perform strides after warming up (dynamic stretching) with a short, ten-minute run at a conversational pace.
 - Perform strides at eighty percent of your running capacity for thirty-second intervals.
 - Aim to cover fifty to one hundred meters of *flat* ground with each stride.
 	- Variations
@@ -15,9 +14,7 @@
 
 # When?
 
+- After warming up (dynamic stretching) with a short, ten-minute run at a conversational pace
 - At the end of easy run
 - As a standalone workout
 - Before a race
----
-# References
--
