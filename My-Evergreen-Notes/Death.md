@@ -1,9 +1,13 @@
+Live for death.
+「學會死亡，你就學會活著......」
+
 Death is scary.
 It's uncomfortable to think about.
 So we tend to avoid it.
 But when we use it as a frame of reference like this, it can be a powerful tool for clarity.
 
 * 最大化快樂，最小化後悔/遺憾
+* "Every man has two lives, and the second starts when he realizes he has just one" — Confucius
 * "I don't want to get to the end of my life and find that I just lived the length of it. I want to live the width of it as well." — Diane Ackerman
 * It's not about the years in your life—it's about the life in your years.
 * The Reverse Obituary Technique: write down what you want your obituary to say, then figure out how to live up to it
