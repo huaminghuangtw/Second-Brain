@@ -6,9 +6,9 @@
 
 "Luck has nothing to do with it, because I have spent many, many hours, countless hours, on the court working for my one moment in time, not knowing when it would come." — Serena William
 
-# The 4 Types of Luck [^the_four_types_of_luck]
+# The 4 Types of Luck [^the_4_types_of_luck]
 
-[^the_four_types_of_luck]: James H. Austin classifies four types of chances (the word Austin uses for luck) in his book *Chase, Chance, and Creativity: The Lucky Art of Novelty*.
+[^the_4_types_of_luck]: James H. Austin classifies four types of chances (the word Austin uses for luck) in his book *Chase, Chance, and Creativity: The Lucky Art of Novelty*.
 
 1. Blind Luck &rarr; uncontrollable
 2. Active Luck (Luck from Motion) &rarr; controllable

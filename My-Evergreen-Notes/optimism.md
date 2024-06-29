@@ -7,3 +7,5 @@ Optimist v.s Pessimist 的形式作風 & 決策風格
 - P: 認為大部分事物都是靠機率&運氣，要盡可能地小步迭代，所有東西都要做全面性的實驗
 
 "We should be optimistic not because we believe that our problems are smaller than we thought. We should be optimistic because we believe that our capacity to solve problems is greater than we thought." — from TED Talk "The Future Will Be Shaped by Optimists" by Kevin Kelly
+
+"Cynicism is easy. Mimicry is easy. Optimistic contrarians are the rarest breed." — Naval Ravikant
