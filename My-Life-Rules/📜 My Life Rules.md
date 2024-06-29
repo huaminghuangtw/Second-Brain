@@ -176,7 +176,7 @@ Guard your time and take care of your brain (the software) and body (the hardwar
 
 Never ever sacrifice your sleep. Don't limit sleep length. Sleep as much as your body needs. Sleep is the best legal performance enhancing drug on the planet. Listen to your body. Always make sure you get enough of eight hours of sleep each night.
 
-Move your body. Free your mind. Meditate, journal, go for a walk or do micro exercises throughout the day.
+Move your body. Tame your mind. Meditate, journal, go for a walk or do micro exercises throughout the day.
 
 Take more breaks, but not too long. Use yoga, stretching, and foam roller massage as often when necessary. They reduce your tension, anxiety, or stress, and help you to relax for better productivity and creativity.
 
