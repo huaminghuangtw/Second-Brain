@@ -3,7 +3,3 @@ Variants of spaghetti pasta:
 2. Rotini
 
 [How to Measure Spaghetti?](https://www.wikihow.com/Measure-Spaghetti)
-
----
-# References
--
