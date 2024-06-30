@@ -19,7 +19,3 @@ Principles Outlive Tactics
 	- Play Stealers
 
 Start with Why, then How, and then What
-
----
-# References
--
