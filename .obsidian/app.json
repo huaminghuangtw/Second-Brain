@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "My-Evergreen-Notes"
+  "newFileFolderPath": "My-Evergreen-Notes",
+  "promptDelete": false
 }

@@ -1,0 +1,129 @@
+## General
+- <a href="https://click.convertkit-mail4.com/27urr0vqd5hohvwxmdwf3hr5ok744/qvh8h7hrqeog2ptl/aHR0cHM6Ly93d3cucm9iZXJ0d2FsZGluZ2VyLmNvbQ==" rel="noopener" class="external-link" target="_blank"><u>Dr. Robert Waldinger</u></a>
+	- Relationship satisfaction at age 50 was the single greatest predictor of physical health at age 80.
+	- Ambivalent relationships—those that are sometimes supportive and sometimes demeaning—are the most toxic.
+- "The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other's light." — James Baldwin
+- 位置不同，少言為貴；認知不同，不爭不辯；三觀不合，浪費口舌！
+- Every relationship in your life can be placed within a 2x2 matrix based upon:
+	1. How healthy it is
+	1. How enjoyable it is
+- The "Helped, Heard, or Hugged" Framework
+- The "Go-First" Principle
+	- I think a lot of people, myself included, can sometimes get stuck. Like ‘They haven’t called me, so I’m not going to call them.’ If you want to talk to your friend just call them. You don’t have to play chicken about who’s going to take the first step.
+	- Be the lead organiser of social events for your friends. They all want to hang out, they just suck at organising things.
+	- Organize regular activities like Sunday dinners or [Saturday brunch](x-apple-data-detectors://embedded-result/1075) clubs to bring friends together consistently.
+- Good "inner circle" friendships must be treasured
+- Never leave a conversation without asking "how can I help you?" Everyone subconsciously values reciprocity and aid.
+- Share with someone who wants to listen or listen to someone who wants to share.
+- The 4 stages of attraction
+	- Admiration
+	- Connection
+	- Commitment
+	- Compatibility (Do we share the same core values?)
+- Send THANK YOU notes to people you love by regularly scrolling through recent text messages instead of scrolling on social media as a form of procrastination
+- No friends > Bad friends
+- A friend to all is a friend to none.
+- 比較
+	- Treadmill Friends: friends that give you energy 
+	- Sofa Friends: friends that drain your energy 
+- Keep your circle small. Keep your circle solid.
+- Robin Dunbar: humans are able to maintain ~150 relationships at once (Dunbar's Number)
+- Money compounds fast but trust compounds even more
+- While small talk has its place, real bonding/conversation happens through sharing *vulnerability* or ambition.
+	- What’s your biggest struggle right now?
+	- What are your top 3 life goals?
+	- What gives you energy in your work?
+- Shared Struggle
+	- builds unbreakable bonds that transcend time and distance.
+	- releases oxytocin, a chemical that creates feelings of love and connection.
+	- "Trouble shared is trouble halved." — Lee Iacocca
+	- "Nothing makes one feel so strong as a call for help." — Pope Paul VI
+- If you’re trying to make conversation with someone that you are intimidated by, ask what they're currently working on that they're most excited about. It's a simple question, but it gets them talking and animated. Ask follow ups and listen intently.
+- Most of your friends aren't really your friends. Real friends are there for you when you have nothing to offer in return. Cherish them.
+- Most of us need fewer friends and more intellectual sparring partners. Friends are easy to come by. Intellectual sparring partners are harder to find. They will call you on your BS, question your assumptions, and push you to think deeply.
+- Find your Foxhole/Yes Friends.
+- Four different ways to respond when someone shares news: active constructive, passive constructive, passive destructive, and active destructive. Active constructive responses, which involve genuine engagement and building on the person's news, are found to be the most energizing
+- There are three types of people in your life (by Tyler Perry):
+	- <u>Leaves</u>: These are the people that are only around from time to time when the weather is good. They blow around as the winds change. They provide shade during the summer, but as soon as winter comes, they fall off the tree and disappear.
+	- <u>Branches</u>: These are the people who are more present and stable than the leaves, but they aren't permanent. They look strong, but if you try to stand on them or pull yourself up from them, they may break under your weight.
+	- <u>Roots</u>: These are the people who are permanent. They are deep and wide. They are there in the summer and the winter, they are unperturbed by the changing seasons. The leaves and branches may come and go, but the roots are there forever.
+- Surround yourself with 3 types of people
+	- Peers you can grow with
+	- Mentors you can learn from
+	- Mentees you can teach
+- Surround yourself with people you'd want to spend your last day of life with.
+	- Take the time to think about who we would want to spend our last day of life with—and then spend "tomorrow" with them.
+	- Don’t wait until your "last day" to spend time with the people who truly matter—because you never know when that last day will come.
+- There are two types of friends:
+	- Summer Friends are the ones who are there for you when it's warm and sunny, but disappear when the weather starts to turn. They are the seasonal tourists, not the locals.
+		- Most people in your life are Summer Friends, and when winter inevitably comes, they are gone.
+	- Winter Friends are the ones who are there for you when it's cold and dark. They are the locals, who have the wisdom to know that the seasons come and go.
+		- The Winter Friends are the relationships that you really need to cultivate. Those are the people who will be there for you throughout the different seasons of your life.
+- How to overcome <span style="font-family:SFUIText-Bold;"><b>the</b></span> **straw man argument**? use **the steelman argument**: Instead of going on the attack, we help our opponent to build the *strongest possible version* of their argument, and then engage with *that*.
+	1. **Paraphrase their point (and check to see that the agree)** - *So, if I understand you correctly, you're saying _____. Is that right?*
+	1. **Strengthen their point (and ask if they agree)** - *Interesting. You could even take it a bit further and say _____.*
+	2. **Only then, engage with the argument** - *That's a compelling perspective. But, I find myself disagreeing with _____. What do you think?*
+- The Principles of Connected Conversation
+	- Principle 1: Create Doorknobs (that lead to a story rather than end the conversation)
+	- Principle 2: Be a Loud Listener
+		- <u>Sounds</u>: Saying "yes" or "uh-huh" or "hmm" to signal listening and encourage continued energy from the speaker.
+		- <u>Facial Expressions</u>: Changing facial expressions to react physically to the story being told.
+		- <u>Body Language</u>: Forward lean posture towards the speaker signals engagement and positive energy. Never turn away or sideways, as it signals you are trying to leave a conversation and immediately hurts the energy of a moment.
+	- Principle 3: Repeat & Follow
+		- Repeating key points back to the speaker in your own words and following on with an additional insight, story, or doorknob.
+	- Principle 4: Make Situational Eye Contact
+		- Deep and connected while they speak.
+		- Organic while you speak - It’s ok to gaze off while you think, but use eye contact to emphasize key points and moments in a story.
+- The RASA Framework
+	- Receive: focus your attention on what the person is saying.
+	- Appreciate: show signs of appreciation.
+	- Summarize: sum up in a few words what the person was telling you.
+	- Ask a good question.
+- **The Vampire Test**
+	- “Whatever excites you, go do it. Whatever drains you, stop doing it” - Derek Sivers
+	- If, after hanging out with someone you feel worn out and depleted, that person is a vampire.
+	- If, after hanging out with someone you still feel full of energy, that person is not a vampire.
+- Communication is not about saying what we think. Communication is about ensuring others hear what we mean.
+- The ideal dynamic relationship involves two people who are independently strong but come together to create a deeply connected, emotionally safe, and attached bond. This is in contrast to a toxic relationship where individuals focus solely on making themselves happy and then expecting to be happy together.
+- While you can't control an interrupter, what you can do is turn it into a learning experience - Rather than being offended, any time someone interrupts you, see it as a positive opportunity. Stop and hone in, understanding that this is an important issue for them.
+- The 2 Pillars of Strong Relationships
+	- High expectations
+	- High support
+	- High Support without High Expectations is a recipe for mediocrity.
+	- High Expectations without High Support is a recipe for disaster.
+	- Mean to your face but nice behind your back.
+- **Mel Robbins' Text Message Challenge:** If you want to improve any relationship in your life, pull out your phone and send this message to that person: **"What can I do to be a better _______ to you?"** (partner, friend, son, etc.)
+- There are two red flags to avoid almost all dangerous people:
+	- The perpetually aggrieved
+	- The angry
+- You don't know a person until:
+	- You travel with them.
+	- Money is involved.
+	- You deal with them when they're angry.
+	- You live with them.
+- 1/3 的人「喜歡你」，1/3 的人「討厭你」，1/3 的人「隨便你」
+- People can't read the thoughts in your head, they can only react to your actions. Say what you mean and mean what you say.
+	- If you think something, say something. Don't expect people to guess your thoughts and feelings. Don't hold a grudge when people didn't predict what you wanted them to do. Just tell them.
+
+## Romantic Relationships
+- Significant other = Life partner = Soulmate = Best friend = Loved/Plus one
+- Unconditional love
+- Mutual understanding
+- We waste time looking for the perfect lover, instead of creating the perfect love.
+- Love does not consist of gazing at each other but in looking outward together in the same direction.
+- Love is a verb, not a permanent state of enthusiasm
+- Don't make assumptions about your partner's feelings — just ask
+- *Any time my husband irritated me or annoyed me, which is often, I would think of something positive about him that I admire and appreciate — and there are many! It really, really changed our relationship for the better, which makes both of us happier. (*https://www.huffpost.com/entry/small-things-that-people-say-made-them-drastically-happier_l_661426fbe4b02bf8071858dc)
+- When you find someone you’re willing to give up your natural/innate selfishness for, you’ve found your person.
+- Who you choose as a partner is the most important decision you'll ever make in your life.
+- Find someone you genuinely enjoy spending time with doing nothing. Life isn't about the glamorous moments—most of long-term relationships are spent just chilling—quietly sitting around and doing nothing.
+- Find a life partner/spouse with complementary skills, but the same moral compass as you.
+- Don't marry someone who doesn't understand that you need to work, or sees your work as competition for your attention. If you're ambitious, you need to work; it's almost like a medical condition; so someone who won't let you work either doesn't understand you, or does and doesn't care.
+- 楊絳先生說：這世界上最不缺的就是，隨處可見的漂亮妞，隨處可見的有錢人和隨處泛濫的愛情。卻唯獨缺少了愛情裡，本不該缺失的那份責任感、安全感還有忠誠。一個人有多好，一點都不重要，一個人對你有多好，才重要。在這個放蕩不羈又充滿誘惑的世界裡，如果有一個人能給你安全感和忠誠，為你承擔那份責任，那他—定比這個世界更迷人。
+- 喜歡是為了得到，愛是為了付出。
+- 喜歡一個人是例外，不喜歡一個人才是常態。
+- **Is this relationship making me fulfilled or just less lonely?**
+	- If a relationship isn't creating feelings of fulfillment, it won't last.
+	- Find the rare people who fill your cup: Who are willing to crawl through the mud with you, to grow with you, and to build with you.
+	- Find the people who create your fulfillment, not just reduce your loneliness.
+- When arguing, the goal is come to a consensus, not to "win"

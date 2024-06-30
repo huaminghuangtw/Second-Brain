@@ -1,0 +1,19 @@
+- Neurocircuit
+- Neuroplasticity
+- 人類的腦部其實是三位一體的腦，由三個重要的腦組合連結在一起，共同合作而形成
+- 首先是腦幹，位於大腦中最深處的部分，主要負責人的維生功能，如呼吸、心跳、戰逃反應、生存本能，這部分的腦是最古老的腦，在演化上，從古至今沒有太大的改變。因此有時也被形容為爬蟲類腦（reptilian brain）。
+- 第二部分的腦稱為緣腦（limbic brain），包括杏仁核、海馬迴、下視丘等，為處理情緒、記憶的中樞，因此也被稱為情緒腦或哺乳動物的腦。由於位在腦幹邊緣，有時也被稱為邊緣系統（limbic system）
+- 第三個部分的腦稱為皮質（cortex），皮質是人類最後演化出來的部分，它像樹皮一樣層層疊疊包覆在大腦外面。皮質層負責高等的腦部功能，例如、計畫、思考、語言功能都在這裡發生。
+- Working Memory v.s Long-term Memory
+- Limbic Friction: (1) the energy needed to overcome anxiety, procrastination, and fatigue (2) the sluggishness that our mind has to overcome to get into a focused and productive zone
+- Phenethylamine (PEA)
+- Introduction to Human Brain
+	- 大腦主要由神經元和膠質細胞組成，兩者的數量約為1 : 1
+		- 神經元執行神經訊號的傳遞和整合功能
+		- 膠質細胞則扮演重要的支撐和營養作用
+- Techniques
+	- 腦神經回饋訓練 (EEG-Neurofeedback)
+	- Functional magnetic resonance imaging (fMRI)
+- Products
+	- [BrainTap - Your Brain Fitness App](https://braintap.com/)
+	- [Touch Therapy Band for Stress, Sleep & Performance | Apollo Neuro](https://apolloneuro.com/)

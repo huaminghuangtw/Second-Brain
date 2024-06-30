@@ -7,5 +7,7 @@
   "oz-image-plugin",
   "obsidian-minimal-settings",
   "templater-obsidian",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-importer",
+  "convert-url-to-iframe"
 ]

@@ -1,0 +1,3 @@
+- All success is a lagging indicator. (Ryan Holiday)
+- Success is the sum of small efforts day in and day out. (Robert Collier)
+- Success is all about doing the right thing at the right time in the right way/order.

@@ -1,0 +1,7 @@
+- There are two types of decision-makers: (1) Maximizers: People who want the absolute best option. They may leave happiness on the table. (2) Satisficers: People who want the "good enough" option. They may leave achievement on the table.
+- The 1-Second Decision by David Goggins: When you are doing something hard in life, you are making a second by second decision to keep going. If you lose one of those seconds, you've lost. Each second is an opportunity to keep going or to quit.
+- (James Clear) One filter I use for making decisions: "How much can I influence the outcome after the initial choice is made?"
+	- When I can do a lot to influence the outcome, I'm less worried about risk. Even if the choice appears risky on the surface, I can likely create a good outcome with effort.
+	- When I can't do much to influence the outcome, I'm more risk averse. Even my best effort won't move the needle.
+	- Your ability to influence the outcome after a decision is made is a crucial thing to consider.
+- "If you want to make the wrong decision, ask everyone." — Naval Ravikant

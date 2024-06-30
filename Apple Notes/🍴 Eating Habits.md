@@ -1,0 +1,127 @@
+```
+Your gut is your second brain.
+```
+- [ ] Identify the difference between **hunger** **(****n****e****ed****)** and **craving** **(w****ant****)**
+- Apple Test: If you are not hungry enough to eat an apple, you aren't hungry. The apple could be replaced with other healthy snacks.
+- I won't eat anything unless I know I will actually enjoy it.
+- I don't force myself to eat. I will only eat whenever I actually feel hungry.
+- If you aren't hungry, you aren't hungry.
+- Feeling good is better than that “third” slice of pizza.
+- Kuchisabishii (口寂しい): When you're not hungry, but you eat because your mouth is lonely.
+- [ ] If you think you want a snack, drink a glass of water first.
+- [ ] Eat protein with every single meal to increase satiety and build muscle. → 1-1.2g/pound or 2.2g/kg of bodyweight per day.
+- [ ] Mindful eating trick: putting down the cutlery between bites. Chew properly, swallow, then have your next bite. → Instead of focusing on what my next bite will be, I focus on the food I’m chewing → Chewing your food gives your body time to signal when you've had enough.
+- [ ] Eating highly-processed junk food will just set you up for eating more highly-processed junk food (永遠吃不飽)
+- [ ] Eat Less Often → Do not use eating as a form of procrastination! Stop eating food as drugs. Food is literally just there to fuel your brain. Nothing else. Nothing more.→ Food = Fuel: Eat for energy & vitality, not taste.
+- [ ] Do not eat 4 hours before sleep
+- First meal 1 - 2 hrs upon waking (low-carbs & high-protein)
+- Last meal 3 - 5 hrs before sleeping (low-protein & high-carbs)
+	- Your body follows what is called a "diurnal rhythm". This means that the body is awake during the day and as the sun goes down it prepares for sleep.
+	- Digestion takes a ton of energy so making your body digest right before it's time to sleep can wreck your natural rhythms.
+	- This is why we should stop eating at least 3 to 5 hours before going to bed. Be okay with going to bed a bit hungry.
+- [ ] It's better to implement the eating window earlier in the day than later → 省略晚餐比省略早餐好 (Food is more 'useful' for the body when consumed in the morning than in the afternoon or evening)
+- Why?
+	- Early energy/calories/food load/intake can be directly used after these meal moments. An evening meal, on the other hand, will usually be a couple of hours before bed, possibly causing a leftover of energy.
+	- Morning food is usually better because throughout the day your body is in more of a catabolic (breaking down) state as you are more active. Also if you body is using energy to digest as you sleep the quality of sleep is less effective.
+	- The theory is that your body is engaging in glycogenesis first thing in the morning - it needs to load up on glycogen. And since that is an energy intense process, your body's metabolism is spending alot of the energy you take in in the morning for that process.
+- [ ] Normalize “Bland Diet”
+- [ ] 多喝水沒事，沒事多喝水 (Be a sponge)
+- Sometimes when you feel hungry, you're actually thirsty
+- Don't drink your calories. Drink water instead.
+- Drink 2000ml of water per day (集中在早上，下午過後只能啜飲)
+- Have a cup of water before meals
+- [ ] Eat Light: 只吃到八分飽
+- Learn how to better manage/control portion size by using your hands (or a kitchen scale)
+	- At least a palm-sized amount of protein (it works best with meat or fish)
+	- At least a fist-sized amount of veggies (the more the better)
+	- Roughly one cupped-hand portion of complex carbs (potatoes, **brown rice**, **quinoa**, oats, etc.)
+		- No white rice
+		- 煮完放冰箱隔夜，製造抗性澱粉，吸收速度較慢
+	- Roughly one thumb-sized portion of fat (butter, olive oil, nuts, seeds)
+- The Rule of Thirds; 1/3 Carbs + 1/3 Protein + 1/3 Fruit or Vegetable
+- 211 餐盤
+	- 2 個拳頭大小: 蔬菜
+	- 1 個拳頭大小: 蛋白質
+	- 1 個拳頭大小: 碳水化合物
+- [ ] Temperance: eat not to dullness; drink not to elevation.
+- [ ] Protein for sleep quality; Carbs for sleep quantity (避免睡眠中斷)
+- [ ] Eat Right: No foods rich in **carbs**, **fat**, and **sugar**
+- Intake 150-200g of protein per day → more stable insulin / blood sugar level (more stable mood as well) → less hungry (curb appetite) → eat less → good for gut health because it has time to rest → all the energy that has gone into digestion is going into repairing body tissues and brain → longevity
+- Focus on <span style="font-family:SFUIText-Bold;"><b>Eggs</b></span> + <span style="font-family:SFUIText-Bold;"><b>Avocado</b></span> + <span style="font-family:SFUIText-Bold;"><b>Salmon</b></span> + <span style="font-family:SFUIText-Bold;"><b>Tofu</b></span> + <span style="font-family:SFUIText-Bold;"><b>Banana</b></span>
+	- Salmon → Beef (> 羊肉 > 雞肉), Shrimp, Scallops
+	- ***Surf and turf*** or ***surf 'n' turf*** is a main course combining seafood and red meat (海陸雙拼)
+	- Red meat only causes diabetes if it's in a bun with a soda and fries
+		- 鹿肉 (EN: Venison, DE: Hirsch) is the most nutrient-dense and protein-rich red meat
+	- Avoid anything white (to avoid starches)
+- The Elimination Diet — stop eating one or more potential problem foods for several weeks
+- Fructose
+	- Focus on glucose and fructose, mostly glucose, typically at least a two or three to one ratio of glucose to fructose.
+	- Fructose is addictive and activates the brain's reward center, similar to drugs like cocaine, heroin, nicotine, and alcohol. Fructose is completely unnecessary for vertebrate life and there are no biological reactions that require dietary fructose. The human body has a limited capacity to process fructose, similar to metabolizing alcohol. Fructose has no function in the human body and is not needed for a healthy diet.
+	- Generally speaking: Fructose -> phosphate glycerol -> more body fat
+	- Fruit is okay because of the fiber, which mitigates the absorption. So when you consume the fructose with fiber, you are feeding your microbiome. The fructose wasn't for you.
+	- The fructose molecule is the same, whether it's in a berry, banana, or a coca-cola. But fiber concentration: berry > banana > coca-cola
+	- Do not eat too much fruit — it's not the worst thing for your body, but also not the best thing either (because of the fructose)
+	- Eating local, seasonal fruit is ideal
+	- ❗加工食品裡的「高果糖糖漿 (high-fructose corn syrup)」❗
+- [ ] Eat zero sugar
+- In reality, our body doesn't even need a spoon of sugar at all
+- To avoid insulin resistance, inflammation, and blood sugar swings/fluctuations → stable energy levels with a high baseline throughout the day
+	- Sugar/sweeteners can make you hungry
+		- Insulin resistance means the cells of the body can no longer sufficiently absorb sugar from the bloodstream
+		- As a results, more and more sugar are needed to achieve the same reward effect in the brain
+- Salt is sugar
+- [ ] Eat as many minimally processed foods as possible (以原型食物為主)
+- Eat food from farms not factories
+- The more food you eat that doesn't have an ingredient list, the healthier you'll be
+- Don't eat anything your great grandmother wouldn't recognize as food.
+- [ ] Eat a diverse range of plants (The Mediterranean Diet or The Pescatarian Diet, not The Western Diet)
+- 要注意種植方式
+- [ ] Food can be cheap, healthy, tasty, and relatively quick to prepare.
+- [ ] Food is medicine. (食療)
+- [ ] 1 day of 24+ hrs pure water-only fasting per week for autophagy to occur
+- Eating is a stress on your body; The less often you can eat, the healthier you’ll be.
+- 24 → <span style="font-family:SFUIText-Bold;"><b>*36 (晚餐 → 早餐)</b></span> → 40 → 48 → 72
+- During fasting, the brain not only sends signals that stimulate the organism to eat; when energy levels are low, neurons also trigger the release of the hormone corticosterone, which causes cells in the liver to recycle cellular waste. It could be that this newly discovered mechanism in the brain contributes to the positive effects of fasting.
+- 復食: 從一些簡單、負擔輕的食物開始，像是水煮蛋、蒸蛋、清蒸魚、雞胸肉等等，讓自己的消化系統重新開機暖身一下，大約過一小時後再正常進食一餐
+- [ ] OMAD (one meal a day)
+- Seven meals every week, just dinner → Jack Dorsey
+- A really big meal
+	- Protein: fish, chicken or steak
+	- Greens: arugula (芝麻菜) or spinach salad, asparagus or Brussels sprouts (抱子甘藍)
+	- Dessert: mixed berries, dark chocolate
+- [ ] 一天一杯綜合蔬果昔 (Fruit/Green Smoothie)
+	- Squeeze a lemon over frozen veggies after heating them. The vitamin C in lemon juice can help: (1) replenish any lost vitamin C during blanching (2) make veggies brighter and fresher tasting
+	- Frozen Fruits instead of Ice + Fresh Fruits
+		- Don't throw out fruit that is going to bad (especially bananas gone brown) → Freeze it and make great smoothie!
+	- Ingredients
+		- Protein Powder
+		- Almond/Coconut Milk
+- [ ] Instead of mayonnaise-based dips and sauces, opt for yoghurt dips (such as raita) or tomato sauce
+- [ ] Instead of opening the container of snack food and start snacking, only put the desired amount on a plate. It will prevent you from eating more than intended.
+- Dark Chocolate
+	- The recommended daily dose: 1-2 ounces or 30-60g
+- [ ] Batch meal prepping once a week
+- Batch cooking for a week's worth of "grab and go" meals
+- Eat the same meals for the entire week
+- [ ] About Fat & Oil
+- 高溫烹調: 選擇飽和脂肪酸比例高的奶油、豬/牛油 (動物性脂肪，要注意飼養方式，牧草飼養為佳)、椰子油、酪梨油
+- 低溫涼拌: 橄欖油
+	- Avoid anything under 10 euro/L since it's unlikely to be decent
+- 好油
+	- 紫蘇油、苦茶油、Leinöl 亞麻油 (Flaxseed Oil)、MCT 油
+- 壞油
+	- 棕櫚油、葵花油、菜籽油、大豆花生油
+- No seed oil!!! (盡量減少品質不好的精煉植物油)
+- Myths
+	- 飽和油脂 (低溫下會凝固) 是好的
+	- 低脂不一定健康
+- 建議從堅果 or 酪梨 (牛油果) 直接攝取油脂 (最少加工程序)
+	- The recommended daily intake of nuts: ~30 grams (ca. one handful)
+- [ ] 餐盤食用順序: 先吃蛋白質/脂質/蔬菜，再吃碳水化合物/澱粉
+- [ ] 吃飯前喝 (稀釋) 醋，並使用玻璃吸管，以免長期下來腐蝕牙齒
+	- [ ] 巴薩米克醋 (Balsamic Vinegar / Aceto Balsamico)
+	- [ ] 蘋果酒醋 (Apple Cider Vinegar)
+- [ ] 多吃發酵 or 鹽漬 or 醃製食物 (Fermented Foods)
+- 韓國泡菜 Kimchi
+- 德國酸菜 Sauerkraut
+- 希臘優格 (SKYR, ≠ 希臘式優格) 製作的過程中需要「過濾」和「濃縮」，增加製作成本，但營養價值高比希臘式優格高出許多

@@ -1,0 +1,41 @@
+- Notice/identify/recognize/acknowledge these feelings/thought patterns and let them guide you ⇨ They are your compass toward growth ⇨ Don't ruminate/dwell on negative thoughts
+- 哭很好，難過很棒，生氣也沒關係
+- Embrace the whole range of your emotions. To feel is to be alive.
+- When your thinking is contaminated by negative emotions, make as few decisions and engage in as few interactions as possible. This keeps these emotions from spilling over into your life and prevents you from making hasty decisions.
+	- The HALT Method for Decisions: Before making an important decision ask: "Am I hungry, angry, lonely, or tired?" If you answer "yes" to any of them, address it before making any decisions.
+	- You never regret taking a night to sleep on an emotional response. But you do regret ones done in the moment.
+- If you’re about to take an emotion-induced action, take more deep breaths and wait 24 hours
+
+Negative thoughts/emotions in life are like a glass of water. &rarr; The absolute weight doesn't matter. It depends on how long you hold it. &rarr; Think about them for a while, nothing happens. Think about them a bit longer, they will begin to hurt. Think about them all day long, you will feel paralyzed and incapable of doing anything.
+
+## Examples
+- 壓力 (Stressful)
+	- Ask yourself: "will this crisis really matter one year from now?"
+	- Two types of stress
+		- Eustress
+		- Distress
+- 不安 (Discomfort)
+- 自我懷疑 (Self-doubt)
+- 悲觀 (Pessimism)
+- 失望 (Depression & Frustration)
+- 失去信心/沮喪 (Frustration)
+- 羨慕 (Envy)
+- 忌妒 (Jealous)
+- 炫耀
+- 自私 (Selfishness)
+- 在意別人的想法
+- 拿自己和別人比較 (Comparison)
+	- Compare yourself to who you were yesterday (positive sum game), not to who someone else is today (zero sum game).
+	- Don’t compare yourself to others. As Chris Sacca once said: “Be your unapologetically weird self.”
+- 害怕&恐懼&心魔 (Fear) 
+- 擔心 (Worry)
+- 焦慮 (Anxiety)
+- 抱怨 (Complain)
+- 憤怒 (Anger/Irritation)
+	- Anger is what fear and pain look like when they show themselves in public.
+	- It's okay to be sad, disappointed, or get lost, but don't be angry. Anger is never the answer.
+- 不安 (Uncertainty/Insecurity)
+- 羞愧 (Shame)
+	- We cannot grow when we are in shame, and we can't use shame to change ourselves or others.
+- 憎恨/惡 (Hatred/Resentment)
+- 傷心 (Sorrow/Sadness)

@@ -1,0 +1,3 @@
+- The Monkeys & Pedestals mental model by Annie Duke
+- Invert the problem (Inversion)
+	- Reverse engineering

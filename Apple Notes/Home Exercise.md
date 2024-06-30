@@ -1,0 +1,16 @@
+- [ ] Superman (手或腳出力時，肩膀不要往上抬太多)
+- [ ] Bird dog
+- [ ] Side plank with rotation
+- [ ] Mountain climber
+- [ ] Spider climber
+- [ ] Plank saw
+- [ ] Reverse table
+- [ ] 高低棒式
+- [ ] 腳踏車
+- [ ] 棒式側點腳
+- [ ] 左右交替摸腳踝
+- [ ] 三頭稱體
+- [ ] **** 平衡板 *** (<u>https://www.youtube.com/watch?v=9nf-uCnKtl4&ab_channel=Gesundheitsfreaks</u>)
+- [ ] Standing side leg raise with resistance band
+- [ ] Side band walk
+- [ ] Scapular press

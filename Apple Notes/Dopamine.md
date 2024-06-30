@@ -1,0 +1,9 @@
+- Dopamine is not about the pursuit of happiness, it is about the happiness of pursuit.
+- Dopamine is about wanting and anticipation of rewards.
+- How to increase the baseline level of dopamine for a long period of time?
+	- Dopamine Reward & Motivation Pathway
+	- Goal: stable dopamine/glucose level (smooth our peaks and trouphs) throughout the day
+- Feel unmotivated? Procrastination?
+	- Solutions
+		- Passive: wait for dopamine replenishment
+		- Active: put yourself into a painful/uncomfortable state to teach your brain to do hard things
