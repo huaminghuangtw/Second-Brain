@@ -20,7 +20,3 @@ Sisyphus
 The "Consistently Good Rather Than Occasionally Great" Principle
 
 "You don't try to build a wall. You don't start by saying, I'm going to build the biggest, baddest wall that's ever been built. You say, I'm going to lay this brick as perfectly as a brick can be laid. You do that every single day, and soon you have a wall." — The Bricklayer Mentality by Will Smith
-
----
-# References
--
