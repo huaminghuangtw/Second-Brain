@@ -17,7 +17,3 @@ Examples
 	- The expense of something special is forgotten quickly. The experience lasts a lifetime.
 	- Memory Dividend: the continued tail of "payouts" you receive from re-experiencing an experience in the future
 	- Nostalgia: to intentionally have experiences
-
----
-# References
--

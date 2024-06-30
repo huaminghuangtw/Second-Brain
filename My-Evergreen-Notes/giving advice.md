@@ -13,7 +13,3 @@ Don't give unsolicited advice people don't ask for.
 
  [Letters of Note](https://fantastic-ounce-694.notion.site/Hunter-S-Thompson-on-Finding-Your-Life-Purpose-beca85a66c624275b80ffb4faae2b44c)
 > I am not a fool, but I respect your sincerity in asking my advice. I ask you though, in listening to what I say, to remember that all advice can only be a product of the man who gives it. ***What is truth to one may be disaster to another.*** I do not see life through your eyes, nor you through mine. ***If I were to attempt to give you specific advice, it would be too much like the blind leading the blind.***
-
----
-# References
--
