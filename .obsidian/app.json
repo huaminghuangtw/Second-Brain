@@ -3,5 +3,7 @@
   "showUnsupportedFiles": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "My-Evergreen-Notes",
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "Attachments",
+  "trashOption": "local"
 }
