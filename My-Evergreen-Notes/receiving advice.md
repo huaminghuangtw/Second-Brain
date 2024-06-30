@@ -19,5 +19,3 @@ When some one gives ou advice, sandbox it and ask:
 Subtract [[incentives]] from advice.
 - Don't ask your barber if you need a haircut.
 - Don't ask your doctor what you should do. (Instead, ask him what he would do if he were in your place.)
----
-# References
