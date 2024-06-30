@@ -10,7 +10,3 @@ The Stockdale Paradox
 
 自信的謙虛 (Confident Humility) — 不是自大，而是自信 (Be Confident, But Humble)
 > 相信自己能夠在未來實現某個目標，同時抱持謙虛的態度質疑自己現在的方法是否得當
-
----
-# References
--
