@@ -3,7 +3,3 @@
 - Staying in the same place is falling behind.
 
 The RQE is a race you can't win by running ***faster***. You have to [[work smart, not work hard|run smarter]].
-
----
-# References
--
