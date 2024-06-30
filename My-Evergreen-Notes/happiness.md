@@ -1,5 +1,7 @@
 "Desire is a contract that you make with yourself to be unhappy until you get what you want." — Naval Ravikant
 
+"Happiness is a state where nothing is missing." — Naval Ravikant
+
 "Happiness is not about positive or negative thoughts — it's about the absence of desire, especially the absence of desire for external things." — Naval Ravikant
 
 Happiness is the absence of the striving for happiness.
