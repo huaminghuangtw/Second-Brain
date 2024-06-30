@@ -9,7 +9,3 @@ Discipline now, freedom later. Discipline equals freedom.
 Discipline eats motivation for breakfast.
 
 Excellence translates across disciplines.
-
----
-# References
--
