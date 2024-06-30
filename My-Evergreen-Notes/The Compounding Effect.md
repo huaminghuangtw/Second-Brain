@@ -36,7 +36,3 @@ Charlie Munger
 > All I want to know is where I'm going to die, so I'll never go there.
 
 > I just try to avoid being stupid. I have a way of handling a lot of problems—I put them in what I call my 'too hard pile,' and just leave them there. I'm not trying to succeed in my too hard pile.
-
----
-# References
--
