@@ -15,7 +15,3 @@ You only win by [[The 1 Percent Rule|1 percent or 1 second or 1 dollar]], but yo
 "Any decision that involves using a limited / the same resource like ([[energy management|energy]], attention, )[[time]] or money will naturally result in a winner-take-all situation." — James Clear
 
 "For all those who have, more will be given, and they will have an abundance; but from those who have nothing, even what they have will be taken away." — The Bible
-
----
-# References
--
