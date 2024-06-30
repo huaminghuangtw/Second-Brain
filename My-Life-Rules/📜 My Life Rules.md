@@ -208,9 +208,11 @@ Don't worry about bullshit and nonsense. Remember: If it’s not gonna matter in
 
 Spend as much of your time as possible doing activities that will provide you with nostalgia in the future. Create stories that you will be excited to tell your kids about, and your grandchildren will love to hear someday. Live the truth you want your descendants to embrace.
 
-Be mindful and intentional. Live life by design, not default. Live in the present. Let past go. Look towards the future. Anything outside of this present moment is just an imagination. Only NOW is the reality. Nothing lasts forever.
+Be mindful and intentional. Live life by design, not default. Run your brain in debug mode and watch every thought. Always ask, why am I having this thought?
 
-Surround yourself only with people you love and admire. Reach out to people who are going to lift you higher and living the life you want to live. Find people who are genuinely rooting for you to succeed and truly wanting to see you to win. Hold on to these people like your life depends on it.
+Live in the present. Let past go. Look towards the future. Anything outside of this present moment is just an imagination. Only NOW is the reality. Nothing lasts forever.
+
+Surround yourself only with people you love and admire. Put yourself into rooms with a high density of value-aligned individuals. Reach out to people who are going to uplift you higher and living the life you want to live. Find people who are genuinely rooting for you to succeed and truly wanting to see you to win. Hold on to these people like your life depends on it.
 
 You are the average of the five people you associate with most. The quality of your experiences will be largely determined by the people you surround yourself with.
 
