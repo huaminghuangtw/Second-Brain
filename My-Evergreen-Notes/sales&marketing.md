@@ -42,7 +42,3 @@
 		* Newer market
 		* Produce market segments without competition (monopoly)
 		* Create and attract new demand
-
----
-# References
--
