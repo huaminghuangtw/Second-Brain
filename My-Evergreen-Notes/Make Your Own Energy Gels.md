@@ -6,5 +6,3 @@ How to carry it?
 - For short runs, I used a small 3-oz shampoo travel container. For longer runs, I fill as much as I need in one of the 10-oz handheld running water bottles on my water belt.
 - [Gel Flask](https://hammernutrition.com/collections/all-gear/products/hammer-flask)
 - [Refillable Squeeze Soft Tubes from AliExpress](https://www.aliexpress.com/w/wholesale-refillable-squeeze-tubes.html)
----
-# References
