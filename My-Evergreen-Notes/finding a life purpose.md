@@ -58,7 +58,3 @@ In April of 1958, Hunter S. Thompson was 22 years old when he wrote a letter (fo
 >
 > your friend,
 > Hunter
-
----
-# References
--
