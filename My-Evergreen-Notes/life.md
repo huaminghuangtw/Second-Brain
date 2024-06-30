@@ -20,7 +20,3 @@ We often hear "Life is short, enjoy it.", but often forget: "Eternity is long, p
 1. Creation (growth)
 2. Destruction (struggle)
 3. Rebirth (new beginnings)
-
----
-# References
--
