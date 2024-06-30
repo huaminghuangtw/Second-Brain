@@ -1,4 +1,4 @@
-[[Oats]] (100g)
+[[Oat]] (100g)
 # Hot
 - Ingredients
 	- Cacao Powder (5g)
