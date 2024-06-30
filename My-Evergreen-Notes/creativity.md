@@ -47,7 +47,3 @@ The Writing/Drawing Knife Block
 - If you're struggling to understand something, try writing/drawing it on a paper.
 - When you write/draw, you expose the gaps that exist in your logic and thinking. Study to fill the gaps.
 - Writing/Drawing is the ultimate tool to sharpen thinking—use it as a "knife block" for life.
-
----
-# References
--
