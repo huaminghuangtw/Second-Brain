@@ -63,6 +63,6 @@
 * 信使效應 on 壞消息 &rarr; shoot the messenger
 * 鴕鳥心態 (Ostrich Effect): 指一種人類因為不敢面對現實而逃避問題，以求得心理上安全感的懦弱行為
 * The Cocktail Party Effect
-	* refers to the ability to focus one’s attention a particular stimulus while filtering out a range of other stimuli (i.e., noise)
+	* refers to the ability to focus one's attention a particular stimulus while filtering out a range of other stimuli (i.e., noise)
 	* Human Brain Paradox: Your brain is a supercomputer, but it can only have 1 thought / really focus on 1 thing at a time.
 	* Action: Only do one task at a time in sequence. Do not multi-task in parallel.

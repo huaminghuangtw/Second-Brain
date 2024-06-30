@@ -18,10 +18,10 @@ https://www.youtube.com/watch?v=H_erG7HSK0A&pp=ygUnMTAwIEZvb2QgSGFja3MgSSBMZWFyb
 ## Meat
 - Following fat lines when cutting meat 
 - Saving and collecting excess fat trimmings from meat in the freezer to make custom ground meat or grind them all to make sausages, burgers, or meatballs later
-- Cure meat with salt or other spices overnight for juicier results and better flavor → put it on a small sheet tray/pan with a wire rack
+- Cure meat with salt or other spices overnight for juicier results and better flavor &rarr; put it on a small sheet tray/pan with a wire rack
 	- Season high for maximum surface area coverage
 	- Salt throw for concentrated seasoning
-- Always temper 靜置 meat (which involves allowing it to come to room temperature) before cooking → prevents it from becoming tough
+- Always temper 靜置 meat (which involves allowing it to come to room temperature) before cooking &rarr; prevents it from becoming tough
 - Rest meat longer than you think to retain moisture (10-12 minutes)
 - Slice steak against (instead of with) the grain
 
@@ -34,7 +34,7 @@ https://www.youtube.com/watch?v=H_erG7HSK0A&pp=ygUnMTAwIEZvb2QgSGFja3MgSSBMZWFyb
 - Use a honing rod to keep knives sharp
 - Use offset spatula (palette knife) for various tasks
 - Use kitchen shears/scissors for cutting vegetables/meat instead of using knives
-- Use foodservice film instead of plastic wrap, along with the "cater wrap" technique → if done properly, it should be waterproof
+- Use foodservice film instead of plastic wrap, along with the "cater wrap" technique &rarr; if done properly, it should be waterproof
 - Use mandolin to slice vegetables evenly
 
 ## Techniques

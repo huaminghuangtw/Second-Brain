@@ -18,8 +18,8 @@
 * Reread/Revisit your favorite books annually (or at different points in the lifetime)
     * Savor the important stuff as you will find more resonance or pick up new ideas by seeing things from different perspectives: focus on points that resonate with you
     * The great thing about a powerful piece of writing is that you'll never read it the same way twice. As you grow older, your contexts change, and what you get out of the piece changes too. A book you read at 35 is not the same as when you read it at 25.
-    * A good book gets better at the second reading. A great book at the third. Any book not worth rereading isn’t worth reading.
-* One sign you haven’t done enough reading is if you find yourself agreeing with whatever book you read last. At first, it’s easy to be swayed by any reasonable argument. Once you’ve read a lot, you can see that even the best arguments have limitations.
+    * A good book gets better at the second reading. A great book at the third. Any book not worth rereading isn't worth reading.
+* One sign you haven't done enough reading is if you find yourself agreeing with whatever book you read last. At first, it's easy to be swayed by any reasonable argument. Once you've read a lot, you can see that even the best arguments have limitations.
 * From Literature Notes to Blog Posts
     * Measure/Track every book/article/video/podcast you consumed
     * www.huaminghuang.com/bookshelf
@@ -45,11 +45,11 @@
     * 不要讀每一行的第一個字和最後一個字
     * 用手指當 Indicator
 * How to remember everything you read?
-    * To deeply internalize and understand something you’re reading, the best way is to write about it—it’s not enough to just highlight or write marginalia in books: there isn’t much pressure to synthesize, connect, or to get to the heart of things.
+    * To deeply internalize and understand something you're reading, the best way is to write about it—it's not enough to just highlight or write marginalia in books: there isn't much pressure to synthesize, connect, or to get to the heart of things.
 * Audiobook
     * Listening is a better way to read
     * Text-to-speech (TTS) Apps
-* 不要買暢銷書，只買冷門書 (It’s important to read unconventional books as well)
+* 不要買暢銷書，只買冷門書 (It's important to read unconventional books as well)
 * The Reading Habit Loop (Don't just require, execute!)
     * Only read and consume content until you know what you need to do
     * Then, stop reading and consuming content until what you know you need to do is done

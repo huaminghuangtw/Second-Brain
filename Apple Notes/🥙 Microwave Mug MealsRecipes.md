@@ -13,7 +13,7 @@ that require little cleanup
 		- Make sure the water you drop the egg in is hot (one minute cook time). If you use cold water, the egg yolk often explodes before 1 minute in the microwave. This is because the microwave cooks from the inside out.
 		- Adding about a tbs of vinegar helps keep the egg white intact.
 	- Fried Eggs
-		- Watch out with the salt, it's very easy to ruin the eggs once you add too much or a lot in one concentrated spot. → Sprinkle the salt later!
+		- Watch out with the salt, it's very easy to ruin the eggs once you add too much or a lot in one concentrated spot. &rarr; Sprinkle the salt later!
 		- Stabbing/Poking 4-5 holes in the yolk with a toothpick (or piercing the yolk with a fork)
 - Mug Porridge
 	- Oats

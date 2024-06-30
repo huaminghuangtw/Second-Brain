@@ -4,7 +4,7 @@
 - When your thinking is contaminated by negative emotions, make as few decisions and engage in as few interactions as possible. This keeps these emotions from spilling over into your life and prevents you from making hasty decisions.
 	- The HALT Method for Decisions: Before making an important decision ask: "Am I hungry, angry, lonely, or tired?" If you answer "yes" to any of them, address it before making any decisions.
 	- You never regret taking a night to sleep on an emotional response. But you do regret ones done in the moment.
-- If you’re about to take an emotion-induced action, take more deep breaths and wait 24 hours
+- If you're about to take an emotion-induced action, take more deep breaths and wait 24 hours
 
 Negative thoughts/emotions in life are like a glass of water. &rarr; The absolute weight doesn't matter. It depends on how long you hold it. &rarr; Think about them for a while, nothing happens. Think about them a bit longer, they will begin to hurt. Think about them all day long, you will feel paralyzed and incapable of doing anything.
 
@@ -26,7 +26,7 @@ Negative thoughts/emotions in life are like a glass of water. &rarr; The absolut
 - 在意別人的想法
 - 拿自己和別人比較 (Comparison)
 	- Compare yourself to who you were yesterday (positive sum game), not to who someone else is today (zero sum game).
-	- Don’t compare yourself to others. As Chris Sacca once said: “Be your unapologetically weird self.”
+	- Don't compare yourself to others. As Chris Sacca once said: "Be your unapologetically weird self."
 - 害怕&恐懼&心魔 (Fear) 
 - 擔心 (Worry)
 - 焦慮 (Anxiety)

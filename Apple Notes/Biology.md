@@ -1,1 +1,1 @@
-- Lipoprotein (a): a measure to access health risks → high Lp(a) levels increase your likelihood of having a heart attack, a stroke, and aortic stenosis
+- Lipoprotein (a): a measure to access health risks &rarr; high Lp(a) levels increase your likelihood of having a heart attack, a stroke, and aortic stenosis

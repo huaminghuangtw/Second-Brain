@@ -9,11 +9,11 @@
 - It allows you to focus on leverage and ROI.
 - Move slow to move fast.
 
-### The Paradox of Speed: You have to slow down to speed up ⭢ Benefits: (1) Restore your energy (2) Notice small and beautiful things you previously missed (3) Be more deliberate with actions (4) Focus on highest leverage opportunities
+### The Paradox of Speed: You have to slow down to speed up &rarr; Benefits: (1) Restore your energy (2) Notice small and beautiful things you previously missed (3) Be more deliberate with actions (4) Focus on highest leverage opportunities
 
 ## Learn More to Know Less (The Wisdom Paradox)
 - The more you learn, the more you are exposed to the immense unknown. This should be empowering, not frightening.
-- “The more I learn, the more I realize how much I don't know.” - Albert Einstein
+- "The more I learn, the more I realize how much I don't know." - Albert Einstein
 - Embrace lifelong learning.
 
 ## Shrink to Grow
@@ -23,37 +23,37 @@
 - One step back for two steps forward.
 
 ## Fail More to Succeed More
-We fear failure, so most of us play it safe to avoid it. But our greatest moments of growth often stem directly from our greatest failures. Don’t fear failure, just learn to fail smart and fast. Fail more - you’ll learn, adapt, and grow.
+We fear failure, so most of us play it safe to avoid it. But our greatest moments of growth often stem directly from our greatest failures. Don't fear failure, just learn to fail smart and fast. Fail more - you'll learn, adapt, and grow.
 
 ## Take On Less, Accomplish More
-- Success doesn’t come from taking on everything that comes your way.
+- Success doesn't come from taking on everything that comes your way.
 - It comes from focus - deep, disciplined focus on the tasks that really matter.
-- Say yes to what matters, say no to what doesn’t.
+- Say yes to what matters, say no to what doesn't.
 - Protect your time. It is a gift to be cherished.
 
 ## Talk Less to Be Heard More
 - Friday Night Lights (the movie) has a famous scene where a notoriously quiet player gives a riveting speech that turns around a game.
 - He rarely spoke up, so when he did, it hit. Hard.
-- If you want to be heard, talk less. You’ll find more power in your words.
+- If you want to be heard, talk less. You'll find more power in your words.
 
 ## The Only Constant is Change
 - Entropy is reality. The world is in a continuous state of change.
-- It’s the one thing you can always count on - the only constant.
+- It's the one thing you can always count on - the only constant.
 - Embrace it - be dynamic, be adaptable.
-- “When you are finished changing, you are finished.” - Benjamin Franklin
+- "When you are finished changing, you are finished." - Benjamin Franklin
 
 ## Stop Looking to Find More
 - Have you ever noticed that when you are looking for something, you rarely find it?
-- Stop looking. What you’re looking for may just find you.
+- Stop looking. What you're looking for may just find you.
 
 ## More Choices, Less Satisfaction
 - We assume a positive linear relationship between choice and satisfaction. But is this wrong?
-- “Choice paralysis” is a very real phenomenon.
-- The relationship between choice and satisfaction is much more nuanced than you’ve been led to believe.
+- "Choice paralysis" is a very real phenomenon.
+- The relationship between choice and satisfaction is much more nuanced than you've been led to believe.
 
 ## Argue Less to Persuade More
 - Have you ever noticed that the most argumentative people rarely persuade anyone of anything?
-- The most persuasive people don’t argue more - they observe, listen, and ask questions.
+- The most persuasive people don't argue more - they observe, listen, and ask questions.
 - Persuasion is an art that requires a paintbrush, not a sledgehammer.
 
 ## Face Your Fears
@@ -62,14 +62,14 @@ We fear failure, so most of us play it safe to avoid it. But our greatest moment
 - Make a habit of getting closer to your fears. Then take the leap (metaphorically!) - you may just find growth on the other side.
 
 ## Get Vulnerable to Become Strong
-- The stigma of vulnerability has been broken. It’s ok to admit we aren’t ok.
+- The stigma of vulnerability has been broken. It's ok to admit we aren't ok.
 - Strength comes from opening up to our vulnerabilities - embracing them, owning them, and growing through them.
 - Want to get strong? Get vulnerable first.
 
 ## Nothing is Certain
-- “The only certainty is that nothing is certain.” - Pliny the Elder
+- "The only certainty is that nothing is certain." - Pliny the Elder
 - Uncertainty and randomness are features, not bugs. Embrace them.
-- “It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” - Mark Twain
+- "It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so." - Mark Twain
 
 ## The Passion Paradox
 - In the early 1970s, Stanford psychology researcher Dr. Mark Lepper conducted a study with a group of young children that found those who had received a reward for completing a task experienced lower intrinsic motivation to perform that task in the future.

@@ -29,8 +29,8 @@ Effervescent Tablets (發泡錠)
 * Supplement Form
     * ✅ Pills, Tablets, Capsules (w/o sweeteners)
     * ❌ Chewable Tablets, Powders, Liquids, Gummies (w/ sweeteners)
-* Don’t take them with hot drinks like coffee or tea, but with water or orange juice
-* Don’t double up if you miss a dose, just take it at the next scheduled time
+* Don't take them with hot drinks like coffee or tea, but with water or orange juice
+* Don't double up if you miss a dose, just take it at the next scheduled time
 * Keep supplements in a cool, dry, and dark place
 * It's okay to swallow supplements in forms of ***pills**, **tablets*** and ***capsules*** while fasting (i.e., on empty stomach), since they do not carry added sugar or calories and are unlikely to affect insulin levels. Therefore, you can safely take them during your fasting window without having to break your fasted state.
 * 魚油中包含的兩種脂肪酸 (2 types of omega-3 fats)
@@ -41,7 +41,7 @@ Effervescent Tablets (發泡錠)
 * 蝦清素
 
 # Brands
-- Create’s delicious Creatine Monohydrate Gummier
+- Create's delicious Creatine Monohydrate Gummier
 - Bio.me (Resistant Strach)
 - LMNT (Electrolyte Powder)
     - https://click.convertkit-mail4.com/wvu9964w0mbgh5xromnhoieweekxx/x0hph6hwdp93gec5/aHR0cDovL2RyaW5rbG1udC5jb20vVGhlQ3VyaW9zaXR5Q2hyb25pY2xl
