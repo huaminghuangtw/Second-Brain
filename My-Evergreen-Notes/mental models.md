@@ -16,7 +16,3 @@ HCs = Habits of Mind and Foundational Concepts in Minerva University
 - [[first-principle thinking]]
 - [[second-order thinking]]
 - [[probabilistic thinking]]
-
----
-# References
--
