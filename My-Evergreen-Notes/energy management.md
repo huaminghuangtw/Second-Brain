@@ -13,7 +13,3 @@ So often people focus all their energy on the summits—but completely fail to r
 Josh Waitzkin has this concept called the "Simmering Six": Most people in high-stress, decision-making industries are always operating at this kind of simmering six, as opposed to the undulation between just deep relaxation and being at a 10. Being at a 10 is millions of times better than being at a 6. It's just in a different universe.
 
 Everyone (and everything) is competing for your attention, use it wisely, you don't get the [[Time is the most valuable asset|time]] back! Your [[energy management|energy]] flows to where your attention goes.
-
----
-# References
--
