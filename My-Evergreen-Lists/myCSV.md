@@ -1,1 +1,1 @@
-[myCSV - https://docs.google.com/spreadsheets/d/13QwPCE33ehjr6fjraQgAQZHvTr_Aux0wKNOHAk4OcHo/edit?gid=0#gid=0)
+https://docs.google.com/spreadsheets/d/13QwPCE33ehjr6fjraQgAQZHvTr_Aux0wKNOHAk4OcHo/edit?gid=0#gid=0
