@@ -5,6 +5,4 @@ Done (完成) is better than perfect (完美). — First make it work. Then opti
 
 追求當一個「完整」的人，而非「完美」的人 — 可以堅強，也可以脆弱；有強悍的時候，也有溫柔的時候。
 
----
-# References
--
+Imperfect action trumps visualized perfection all day long.

@@ -4,8 +4,6 @@ Change is the end result of all true learning.
 
 The only constant in life is change.
 
-"The measure of intelligence is the ability to change." — Albert Einstein
+"The only thing predictable about life is its unpredictability." — Remi Ratatouille
 
----
-# References
--
+"The measure of intelligence is the ability to change." — Albert Einstein
