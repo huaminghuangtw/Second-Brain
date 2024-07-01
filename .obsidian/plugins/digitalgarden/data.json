@@ -1,8 +1,8 @@
 {
-  "githubRepo": "hua-ming-digital-garden",
-  "githubToken": "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",
+  "githubRepo": "Second-Brain",
+  "githubToken": "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",
   "githubUserName": "huaminghuangtw",
-  "gardenBaseUrl": "https://hua-ming-digital-garden.vercel.app",
+  "gardenBaseUrl": "https://enoughness.vercel.app",
   "prHistory": [],
   "baseTheme": "dark",
   "theme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
