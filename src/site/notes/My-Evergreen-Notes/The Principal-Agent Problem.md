@@ -1,0 +1,13 @@
+---
+dg-publish: true
+---
+- [Principal–agent problem - Wikipedia](https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem)
+- Principal = Shareholders of the business
+- Agent = Employees of the business
+- The agents (employees) are acting on behalf of the principles (shareholders).
+- A conflict in priorities between the owner of an asset (Principal) and the person to whom control of the asset has been delegated (Agent).
+- The challenge lies in ensuring that the Agent's actions align with the Principal's interests, even when the Agent has their own motivations and incentives.
+- ***Designing an effective incentive scheme/model/system*** is key.
+	- "Show me the incentives – and I'll show you the outcome."
+	- "You get what you reward for. If you have a dumb incentive, you get dumb outcomes."
+- The goal is ***to align the interests of both groups*** and ***to remove any conflict of interests of both groups***.
