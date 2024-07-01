@@ -1,12 +1,17 @@
-# Ignore all dot files
-.*
+node_modules
+dist
+netlify/functions/search/data.json
+netlify/functions/search/index.json
+src/site/styles/theme.*.css
+src/site/styles/_theme.*.css
 
-# Exception
-!.gitignore
-!.obsidian
-!.gitmodules
+# Local Netlify folder
+.netlify
+.idea/
+.vercel
+.cache
+_site/
+**/.DS_Store
 
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
-
-git-commit-auto.sh
