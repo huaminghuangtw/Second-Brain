@@ -7,3 +7,7 @@ The Fight Against Normalcy
 To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.
 
 "You have no responsibility to live up to what other people think you ought to accomplish. I have no responsibility to be like they expect me to be. It's their mistake, not my failing." — Richard P. Feynman
+
+"Don’t try to emulate. It’s a fool’s errand. Instead, each person is uniquely qualified at something. They have some specific knowledge, capability, and desire nobody else in the world does, purely from the combinatorics of human DNA and development." — Naval Ravikant
+
+"Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid."

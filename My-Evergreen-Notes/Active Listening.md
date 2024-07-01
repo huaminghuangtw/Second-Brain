@@ -1,6 +1,6 @@
 "*Are you listening to understand or just waiting to speak?"
 - "Me vs. You" positioning (confrontational, waiting to speak) &rarr; "Us vs. Problem" positioning (collaborative, listening to understand)
-- Seek first to understand, then to be understood. Make someone else feel *seen*, *heard*, and *remembered*.
+- Seek first to understand, then to be understood. Make someone else feel *seen*, *heard*, and *remembered*. (The SHR Method)
 
 Share with someone who wants to listen or listen to someone who wants to share.
 

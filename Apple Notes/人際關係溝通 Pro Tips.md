@@ -1,3 +1,4 @@
+social intelligence
 ## General
 - <a href="https://click.convertkit-mail4.com/27urr0vqd5hohvwxmdwf3hr5ok744/qvh8h7hrqeog2ptl/aHR0cHM6Ly93d3cucm9iZXJ0d2FsZGluZ2VyLmNvbQ==" rel="noopener" class="external-link" target="_blank"><u>Dr. Robert Waldinger</u></a>
 	- Relationship satisfaction at age 50 was the single greatest predictor of physical health at age 80.
@@ -11,6 +12,7 @@
 - The "Go-First" Principle
 	- I think a lot of people, myself included, can sometimes get stuck. Like ‘They haven't called me, so I'm not going to call them.' If you want to talk to your friend just call them. You don't have to play chicken about who's going to take the first step.
 	- Be the lead organiser of social events for your friends. They all want to hang out, they just suck at organising things.
+	- Loneliness is a silent pandemic; assume people want to meet you.
 	- Organize regular activities like Sunday dinners or [Saturday brunch](x-apple-data-detectors://embedded-result/1075) clubs to bring friends together consistently.
 - Good "inner circle" friendships must be treasured
 - Never leave a conversation without asking "how can I help you?" Everyone subconsciously values reciprocity and aid.
