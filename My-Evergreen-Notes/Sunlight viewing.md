@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - Morning sunlight
 	- Try to go outside within 1 hour of waking and expose your eyes to direct sunlight (自然光) for 5-10 minutes
 	- Increases early-day [[Cortisol]] release

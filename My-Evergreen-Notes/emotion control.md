@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Emotional strength isn't about getting rid of difficult feelings — it means you know how to respond to them in a healthy way — control your attention on the actions that you can take to address your emotion, not the emotion itself.
 - It's not about managing your emotions; it's about managing your **reaction** to your emotions.
 

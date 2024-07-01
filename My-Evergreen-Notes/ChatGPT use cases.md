@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - Better opening/hook lines
 - Better Twitter thread organization
 - Write a cover letter

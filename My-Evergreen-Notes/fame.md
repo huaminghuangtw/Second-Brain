@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Don't volunteer information. Don't tell people more than they need to know. Respect your privacy.
 
 Avoid telling people your goals. It releases cheap dopamine and tricks your brain into thinking you've already achieved them (lowering motivation). Move in silence. Announcing your goals can undermine your overall progress.

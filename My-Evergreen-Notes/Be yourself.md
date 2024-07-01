@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 The Fight Against Normalcy
 - Maintaining your uniqueness (Running your own race) in a world that pulls you to blend in, is the only way to realise your full potential and live a fulfilled, texture-rich existence.
 - It comes with a risk, but the rewards are abundant. It may come with a steep cost in the short-term, but the long-term rewards are worth it.

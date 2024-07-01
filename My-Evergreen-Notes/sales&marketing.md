@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 * Attach(ment) Rate/Ratio is a metric used to measure the percentage of buyers who also purchase a particular/secondary/add-on product or service.
 * The Low-Ball Technique: making an attractive/appealing initial/primary offer to induce a person to accept the offer and then making the terms less favorable (e.g., increasing the price)
     * This approach is more successful than when the less favorable request is made directly

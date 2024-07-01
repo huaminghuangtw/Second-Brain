@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 = 思維模型
 
 Mental models are to your brain as apps are to your smartphone.

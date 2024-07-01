@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - `wget`: Internet downloader
     - Flags/Options
     - Examples

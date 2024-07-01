@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - People tend to overestimate the degree to which other people are noticing or observing their appearance or bahaviors (trivial egoic concerns)
 - Harsh truth in reality:
 	- Noboby is thinking about you as much as you are. They are just too busy thinking about themselves.

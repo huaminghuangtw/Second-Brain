@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 * Order:
 	* 淋浴間 Shower (to rinse off any dirt, sweat, or lotions on your skin)
 	* 蒸氣室 Steam room (to open up pores, promote blood circulation, and relax muscles)

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 樂觀的人看見問題背後的機會，悲觀的人看見機會背後的問題
 
 Optimism early, pessimism in the middle, optimism late.

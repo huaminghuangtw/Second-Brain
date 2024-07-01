@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Principles
 - Being funny is one of the ultimate weapons a person can have in human society. It might even compete with being really good-looking.
 - 幽默 ≠ 搞笑

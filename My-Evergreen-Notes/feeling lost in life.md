@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 It's okay to be lost sometimes.
 
 There's no such a fixed path—you create your own.

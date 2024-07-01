@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 The STOP Framework
 - Stop
 - Take a breath

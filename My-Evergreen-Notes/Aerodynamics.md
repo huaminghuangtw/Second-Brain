@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Drag: Understand different types of drag (form, skin friction, and induced) and how they affect a cyclist.
 
 Streamlining: Learn techniques to reduce air resistance by optimizing the cyclist's position, clothing, and equipment.

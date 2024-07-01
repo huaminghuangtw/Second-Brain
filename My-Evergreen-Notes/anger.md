@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Beneath anger there's always fear.
 
 "Holding onto anger/resentment is like drinking poison and expecting the other person to die." — Buddha

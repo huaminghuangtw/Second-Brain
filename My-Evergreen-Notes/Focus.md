@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Close "Open Loops" (Anything pulling at your attention, stopping you from reaching states of flow)
 
 A focused fool can accomplish more than a distracted genius.

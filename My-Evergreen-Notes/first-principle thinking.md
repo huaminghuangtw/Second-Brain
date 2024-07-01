@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Thinking (and reasoning) from the first principles (第一性原理) is a fancy way of saying "think like a scientist."
 
 A first principle is a basic assumption that cannot be deduced any further by breaking down to the smallest possible elements

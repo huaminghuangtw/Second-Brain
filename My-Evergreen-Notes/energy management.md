@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 David Hawkins' Levels of Consciousness (情緒能量表)
 
 內耗

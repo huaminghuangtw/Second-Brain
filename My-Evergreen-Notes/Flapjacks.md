@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Pocket Porridge = Granola/Oat Bar
 # Key Ingredients
 - Butter

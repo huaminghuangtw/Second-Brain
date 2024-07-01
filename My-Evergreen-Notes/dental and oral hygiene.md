@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Brush and floss teeth
 
 每次以兩顆牙齒為單位來回刷

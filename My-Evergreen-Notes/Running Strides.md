@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # What?
 
 - = striders = accelerations = pickups

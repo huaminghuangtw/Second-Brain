@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 * Main goal: Find IQ + AA = Insights, Quotes, and Actionable Advice
     * An insight is a realisation that changes the way I think, and ideally changes the way I behave
 * The Reading Razor

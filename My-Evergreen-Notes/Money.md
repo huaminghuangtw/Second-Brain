@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # On making money
 
 # On keeping Money

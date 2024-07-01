@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Whatever it is, it's your fault. (Extreme Ownership)
 
 Nobody owes you anything at all.

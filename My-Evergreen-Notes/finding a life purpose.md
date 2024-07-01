@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Find something more important than you are, and dedicate your life to it.
 
 Fulfilment is found through connection to something bigger than the self.

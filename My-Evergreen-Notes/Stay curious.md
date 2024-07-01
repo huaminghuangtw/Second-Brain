@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [Derek Sivers](https://sive.rs/below-average)
 
 > Now I just assume I'm below average.

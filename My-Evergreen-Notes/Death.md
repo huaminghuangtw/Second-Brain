@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Live for death.
 「學會死亡，你就學會活著......」
 

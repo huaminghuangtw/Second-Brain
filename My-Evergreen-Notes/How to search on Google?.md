@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - **Search for an exact match** &rarr; enter a word or phrase inside quotes (quotation marks)
 	- For example, `"tallest building"`
 - **Search for a specific site** &rarr; add `site:` in front of a site or domain

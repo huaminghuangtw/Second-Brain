@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Ingredients
 - The key ingredient in most gels is a carbohydrate called [maltodextrin](http://en.wikipedia.org/wiki/Maltodextrin). It's a white powder that looks a lot like flour and has virtually no taste to the tongue.
 - The other ingredient you'll need is [fructose](http://en.wikipedia.org/wiki/Fructose), often called "fruit sugar".

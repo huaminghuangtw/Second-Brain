@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - 3-4 Eggs
 - Butter (very important!!!)
 - Milk (no water!!!)

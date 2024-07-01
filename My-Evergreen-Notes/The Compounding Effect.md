@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Positive Compounding
 
 1 + 1 = 11

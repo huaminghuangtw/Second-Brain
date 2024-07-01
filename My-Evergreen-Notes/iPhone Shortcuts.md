@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [比較]
   - iOS: Apple's Shortcuts
   - Android: Google's Action Blocks

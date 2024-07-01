@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 refers to
 - situations in which small differences in performance lead to outsized rewards / very unequal distributions when repeated over time
 - being just [[The 1 Percent Rule|a little bit / slightly better]] than the competition to secure the entire rewards

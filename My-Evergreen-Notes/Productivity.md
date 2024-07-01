@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Mental model for productivity
 - The Pilot
 - The Plane

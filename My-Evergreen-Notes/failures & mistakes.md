@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Your goal is not to avoid making mistakes, but to avoid making the *same* mistake.
 
 "Make mistakes, just don't make them permanent." – James Clear

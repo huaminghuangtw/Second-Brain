@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Motivation is a natural byproduct of movement. When in doubt, just start moving.
 
 You don't find motivation to start. You need to start to find motivation.

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - git grep and  git log -p
 
 # Good Practices

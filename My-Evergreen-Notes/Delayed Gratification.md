@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - When faced with any key decision, you effectively choose one of two potential characters: ***Investor*** or ***Borrower***.
 	- The Investor is a long-term thinker who makes an investment to delay gratification.
 		- Investments compound positively and the future self cashes in on the rewards.

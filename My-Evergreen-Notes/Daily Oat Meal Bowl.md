@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Oat]] (100g)
 # Hot
 - Ingredients

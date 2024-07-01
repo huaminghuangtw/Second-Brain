@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - 後設認知 (Metacognition) = (對自己) 認知的認知
 	- 鳥瞰
 	- 綜觀全局

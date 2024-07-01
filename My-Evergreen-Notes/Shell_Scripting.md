@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - Tools
   - https://www.shellcheck.net/
   - https://github.com/bats-core/bats-core

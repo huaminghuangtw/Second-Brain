@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 You can't force sleep. The more you force sleep, the more it resists.
 - Insomniac delusion: If you can't fall asleep, just try harder. This will do the opposite.
 

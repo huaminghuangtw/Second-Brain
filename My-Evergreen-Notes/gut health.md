@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **Goals**
 - Longevity (expand the life span) & Reverse/Slow Down/Anti Aging
 - Lower blood sugar

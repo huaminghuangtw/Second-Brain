@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 = Internal Monologue
 
 Be careful how you are talking to yourself because you are listening.

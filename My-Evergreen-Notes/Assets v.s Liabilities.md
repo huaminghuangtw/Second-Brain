@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - An **asset** (資產) puts money into your pocket ⇨ By investing in assets, you let your money work for you ^5bd5b5
 	- Stocks
 	- Real estate

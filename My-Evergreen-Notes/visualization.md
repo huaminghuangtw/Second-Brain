@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 心盲症/想像障礙 (Aphantasia)
 
 Negative Visualization (Mental Contrasting) (Fantasy Realization Theory)

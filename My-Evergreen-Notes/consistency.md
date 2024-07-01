@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [Consistency is about being adaptable. Adaptability is the way of consistency.](https://jamesclear.com/quotes/in-theory-consistency-is-about-being-disciplined-determined-and-unwavering)
 
 It's easier to keep up than to catch up. Find the lifelong rhythm.

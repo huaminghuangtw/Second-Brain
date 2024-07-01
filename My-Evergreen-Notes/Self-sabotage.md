@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 教條
 
 意識形態

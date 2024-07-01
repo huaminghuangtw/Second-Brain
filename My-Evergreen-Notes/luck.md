@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 "Diligence is the mother of good luck." — Benjamin Franklin
 
 "Luck is where opportunity meets preparation." — Seneca

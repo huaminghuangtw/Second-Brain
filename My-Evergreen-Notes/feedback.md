@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Principles
 1. Make it shorter.
 2. Make it more appealing.

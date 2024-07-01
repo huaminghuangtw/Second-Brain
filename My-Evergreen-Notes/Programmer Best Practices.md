@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - 養成在 Code 裡面 Tag #TODO, #FIXME, #BUG, #NOTE, #OPTIMIZE 的習慣
 - Run both `./makeAllTests` and `./security_system_run` binaries &rarr; **execution order** might be also one of the factors
 - Ensure that each Pull Request (PR) out for code review solves one problem, and is small and targeted.

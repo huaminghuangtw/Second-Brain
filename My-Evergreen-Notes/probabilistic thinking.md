@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 &harr; Deterministic Thinking (絕對型思維)
 
 is having a willingness to always ask questions like "*What else might happen?*", "*What could happen next?*", "*What if we're wrong?*" and to look at the full range of possibilities that might come to pass rather than to assume that things will go as planned.

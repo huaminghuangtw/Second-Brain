@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Keep the main thing main thing.
 
 Don't sweat the small stuff.

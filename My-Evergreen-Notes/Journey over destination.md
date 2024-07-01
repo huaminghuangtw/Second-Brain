@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 "Turtles all the way down" is an expression of the problem of infinite regress
 
 Having things isn't fun. Getting things is fun. &rarr; Becoming famous/wealthy is the most amazing feeling in the world. Being famous/wealthy is a mixed bag. Losing fame/wealth is a pain like you've never felt before.

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - 比起長遠的利益，我們 (未經訓練) 的大腦更偏好馬上就可以得到的快樂和感官享受 (Sensory Pleasures)
 	- **Freud's Pleasure Principle:** The nature of human motivation is pursuing pleasure and avoiding pain &rarr; the desire to stay in the comfort zone
 	- Our brains are optimized for energy efficiency, and they only turn on the CPU (Consciousness Processing Unit) when absolutely necessary

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 = Cognitive Illusion by Daniel Kahneman
 
 System 1 is instinctive and emotional.

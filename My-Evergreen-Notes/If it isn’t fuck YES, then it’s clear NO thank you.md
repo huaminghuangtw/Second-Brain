@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 When you say 'yes' to others, make sure you are not saying 'no' to yourself.
 
 [The "Yes-Damn" Effect](https://www.instagram.com/reel/CxDR2m2gFAt/)

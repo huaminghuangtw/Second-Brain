@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Speak with integrity. Say only what you mean.
 - People can't read your thoughts. If you think something, say something. Don't expect people to guess your thoughts and feelings. Don't hold a grudge when people didn't predict what you wanted them to do. Just tell them.
 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - Includes two parallel processes
 	- Internally (what most people don't do)
 		- Candidates &rarr; Employees

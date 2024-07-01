@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 = 做出偉大的成就
 
 The three most powerful motives are **curiosity**, **delight**, and the **desire** to do something impressive (obsession). Sometimes they converge, and that combination is the most powerful of all.

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Time is the most incredible lever for growth.
 
 The most invisible form of wasted time is doing a good job on an unimportant task.

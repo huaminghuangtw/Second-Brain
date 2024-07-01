@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - 4 steps
 	- Observe
 	- Orient

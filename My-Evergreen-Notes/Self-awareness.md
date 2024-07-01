@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 = 自我覺察 ≈ self-examination
 
 佛洛伊德

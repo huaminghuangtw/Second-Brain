@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 by Charlie Munger
 
 Multiple compounding factors combine together to create something greater than its individual components

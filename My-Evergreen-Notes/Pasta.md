@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Variants of spaghetti pasta:
 1. Fusili (corkscrew or helical shapes)
 2. Rotini

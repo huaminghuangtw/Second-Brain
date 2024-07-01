@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - [Principal–agent problem - Wikipedia](https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem)
 - Principal = Shareholders of the business
 - Agent = Employees of the business

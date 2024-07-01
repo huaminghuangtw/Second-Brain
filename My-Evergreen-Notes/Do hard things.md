@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Do the hard thing, because after doing it, you will feel that you can do anything.
 
 Comfort is the most seductive thing in existence. Comfort is not free. It comes at the cost of who you could become. Step into the unknown. The unknown is the foundry where you forge your chips. Everything important is uncertain. Sitting with the discomfort of that uncertainty is the hard part, the wedge that can move the world.

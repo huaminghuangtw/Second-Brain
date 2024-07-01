@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Always be aware of how you are using the word. Avoid using the word to [[self-talk|speak against yourself]] or to gossip about others.
 
 The way you speak to others is the way you speak to yourself.

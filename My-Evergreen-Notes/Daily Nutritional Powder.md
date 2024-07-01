@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 = Daily Greens/Veggies Powder
 
 Brands

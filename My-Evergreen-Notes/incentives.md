@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 = anything that encourages a person (or organization) to do something.
 
 Incentives are the most fundamental concept in [[decision-making]].

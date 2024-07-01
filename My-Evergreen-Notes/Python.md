@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - 比較
   - `json.loads()` takes in a JSON-formatted string and returns a JSON object (i.e., Python dictionary) or JSON array (i.e., Python list)
   - `json.dumps()` takes in a JSON object (i.e., Python dictionary) or JSON array (i.e., Python list) and returns a JSON-formatted string

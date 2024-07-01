@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 The relationship you have with yourself sets the tone for the relationship you have with everyone else, which will rarely be healthier than your self-esteem.
 
 To fall in love with yourself is the first secret to [[happiness]].

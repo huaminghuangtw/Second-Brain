@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Effervescent Tablets (發泡錠)
 
 聰明藥/認知增強劑 (= Smart Drugs = Cognitive Enhancers = Brain Supplements = Nootropics)

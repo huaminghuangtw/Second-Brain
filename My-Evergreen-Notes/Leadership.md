@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Leadership is seeing the greatness in others before they see it in themselves.
 
 When you find yourself in a situation where everyone looks at each other, it's time for you to lead the way.

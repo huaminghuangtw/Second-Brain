@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 It's a lot easier to change direction when you're moving forward than when you're static.
 
 Change is the end result of all true learning.

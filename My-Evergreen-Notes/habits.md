@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Habits have a "blast radius" — Those around you are watching. Be a light for those looking to grow.
 
 "Habits are the compound interest of self-improvement. The same way that money multiplies through compound interest." — James Clear

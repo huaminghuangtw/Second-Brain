@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Slow down to speed up.
 
 If you don't stop and look around once in a while, you could miss it.

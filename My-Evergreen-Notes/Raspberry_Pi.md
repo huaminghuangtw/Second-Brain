@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - [Mostly undocumented](https://github.com/RPi-Distro/raspi-config/blob/master/raspi-config), non-interactive mode (`nonint`) of `raspi-config` &rarr; The non-interactive mode is basically split into two modes: **get** (for checking current settings) and **do** (for writing new settings)
 - https://raspberrypi-guide.github.io
 - RPi is a Single-Board Computer (SBC)

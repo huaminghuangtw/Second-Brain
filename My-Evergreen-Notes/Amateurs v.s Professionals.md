@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 |                 Amateurs                  |                 Professionals                 |
 | :---------------------------------------: | :-------------------------------------------: |
 | practice until they can play it correctly | practice until they can't play it incorrectly |

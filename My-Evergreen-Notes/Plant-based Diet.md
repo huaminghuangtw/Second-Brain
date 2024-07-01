@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Carnivore v.s Vegetarian
 
 Types of Vegetarians
