@@ -1,9 +1,10 @@
 {
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true,
+  "showUnsupportedFiles": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "My-Evergreen-Notes",
   "promptDelete": false,
   "attachmentFolderPath": "Attachments",
-  "trashOption": "local"
+  "trashOption": "local",
+  "userIgnoreFilters": null
 }
