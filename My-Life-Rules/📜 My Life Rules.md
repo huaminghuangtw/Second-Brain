@@ -16,7 +16,7 @@ Believe in yourself. Have almost too much self-belief.
 
 Always dream big and think big. If your dreams don't scare you, you are not dreaming big enough.
 
-Deliberately train yourself to be very good at suffering, uncommonly resilient, and have a very high level of pain tolerance. Develop world-class resilience and adaptability.
+Deliberately train yourself to be very good at suffering, uncommonly resilient, and have a very high level of pain tolerance. Develop world-class resilience and adaptability. Be an ascetic.
 
 All greatness comes good character. And that character isn’t formed out of smart people. It’s formed from people who suffered.
 
@@ -24,7 +24,7 @@ Act as if today is your last day on Earth. Learn as if you were to live forever.
 
 Learn with no end in mind. Learn for no reason at all. Learn to learn. Learning is the single best investment that you can make for your time.
 
-Try to learn something from everyone and everything every day. Learn from those ahead of you on a path you want to take. Every person is a new door to a different world. Every person has a story to share and a lesson to tell. Show your genuine curiosity. Stay curious.
+Try to learn something from everyone and everything every day. Learn from those ahead of you on a path you want to take. Pretend everyone was sent to teach you something. Every person is a new door to a different world. Every person has a story to share and a lesson to tell. Show your genuine curiosity. Stay curious.
 
 Never, ever stop learning. If you don't learn, you can't change, and if you are not changing, what is the point of being here? Think about it again! Cherish this massive birth gift! Always have faith in your capability learn new skills, no matter how hard the task seems.
 
@@ -64,7 +64,7 @@ In life, the only constant is change. Your life doesn't get better by chance, it
 
 There is no such thing as a perfect you. It's all about optimization. And optimization is an ongoing process. There is always room for improvement. You are always a work-in-progress. Always seek candid feedback for self-improvement and personal growth.
 
-Keep your identity small. Listen to constructive negative feedback. No ego. Be humble. When you let go of what you are, you become what you might be.
+Keep your identity small. Listen to constructive negative feedback and criticism. Seek for the truth. No ego. Be humble. When you let go of what you are, you become what you might be.
 
 Life goes on. You got to keep going, keep moving, keep improving, keep exploring, and keep experimenting. Life can only be understood backwards, but it must be lived forwards.
 
@@ -220,7 +220,7 @@ Life is short. Savor close relationships. Treasure "inner circle" friendships. T
 
 Don't avoid hard conversations. Any effort you spend on cultivating deep relationships will pay major dividends.
 
-Don’t hate anyone. Don't insult anyone. Only take shots at things, not people. Do no harm, but take no shit and crap. Set boundaries.
+Don’t hate anyone. Don't insult anyone. Only take shots at things, not people. Be soft on the person and hard on the problem. Do no harm, but take no shit and crap. Set boundaries.
 
 Humanise the people around you. Do not put them on pedestals. The adults do not exist. There is just giant children figuring things out.
 
@@ -228,7 +228,7 @@ Never blame others. Remember: Who you blame is who you give your power to. He wh
 
 Praise specifically. Criticize generally. Praise in public. Criticize in private.
 
-Be kind. Be gentle. Show empathy. Inspire and help others, however you can. You have an unlimited resource of love and kindness. Give it to others everyday. Practice small acts of kindness and don't keep score. Leave a positive review. Leave a compliment for someone, no matter how small it is. Make the coffee.
+Be kind, gentle, and friendly. Show empathy. Inspire and help others, however you can. You have an unlimited resource of love and kindness. Give it to others everyday. Practice small acts of kindness and don't keep score. Leave a positive review. Leave a compliment for someone, no matter how small it is. Make the coffee.
 
 Strive to empower everyone around you to be better. Minimize suffering caused to other people. Be conscious of other people's feelings, facial expression, and body language.
 
