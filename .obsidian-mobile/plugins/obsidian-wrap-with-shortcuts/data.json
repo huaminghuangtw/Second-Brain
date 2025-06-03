@@ -1,0 +1,28 @@
+{
+  "wrapperTags": [
+    {
+      "id": "w1740516620458",
+      "name": "Keyboard",
+      "startTag": "<kbd>",
+      "endTag": "</kbd>"
+    },
+    {
+      "id": "w1740516539078",
+      "name": "Subscript",
+      "startTag": "<sub>",
+      "endTag": "</sub>"
+    },
+    {
+      "id": "w1740516580878",
+      "name": "Superscript",
+      "startTag": "<sup>",
+      "endTag": "</sup>"
+    },
+    {
+      "id": "w1740516528044",
+      "name": "Underline",
+      "startTag": "<u>",
+      "endTag": "</u>"
+    }
+  ]
+}

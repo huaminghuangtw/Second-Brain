@@ -1,0 +1,15 @@
+{
+  "interfaceFontFamily": "SF Pro Display",
+  "monospaceFontFamily": "Source Code Pro",
+  "baseFontSize": 18,
+  "baseFontSizeAction": true,
+  "cssTheme": "Minimal",
+  "translucency": true,
+  "enabledCssSnippets": [
+    "custom-links",
+    "style"
+  ],
+  "showViewHeader": true,
+  "textFontFamily": "Georgia,Charter,Source Serif 4,Atkinson Hyperlegible,SF Pro Text,SN Pro",
+  "showRibbon": false
+}

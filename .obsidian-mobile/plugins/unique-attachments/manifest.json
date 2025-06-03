@@ -1,0 +1,10 @@
+{
+    "author": "Dmitry Savosh",
+    "authorUrl": "https://github.com/derwish-pro/",
+    "id": "unique-attachments",
+    "minAppVersion": "0.9.12",
+    "version": "1.0.3",
+    "description": "Rename attachments, making their names unique (based on hashing of file content)",
+    "name": "Unique attachments",
+    "isDesktopOnly": true
+}

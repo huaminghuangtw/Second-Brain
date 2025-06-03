@@ -1,0 +1,10 @@
+{
+    "author": "Obsidian",
+    "isDesktopOnly": true,
+    "id": "obsidian-importer",
+    "minAppVersion": "0.15.0",
+    "version": "1.6.19",
+    "description": "Import data from Notion, Evernote, Apple Notes, Microsoft OneNote, Google Keep, Bear, Roam, and HTML files.",
+    "name": "Importer",
+    "authorUrl": "https://obsidian.md"
+}

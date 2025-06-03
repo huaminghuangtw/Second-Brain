@@ -1,0 +1,10 @@
+{
+    "author": "Obsidian",
+    "isDesktopOnly": true,
+    "id": "obsidian-plugin-update-tracker",
+    "minAppVersion": "0.15.0",
+    "version": "1.6.0",
+    "description": "Know when installed plugins have updates and evaluate the risk of upgrading",
+    "name": "Plugin Update Tracker",
+    "authorUrl": "https://github.com/swar8080/obsidian-plugin-update-tracker"
+}

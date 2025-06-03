@@ -1,0 +1,39 @@
+{
+  "newFileFolderPath": "",
+  "mobileToolbarCommands": [
+    "editor:delete-paragraph",
+    "editor:insert-tag",
+    "editor:swap-line-up",
+    "editor:swap-line-down",
+    "editor:go-start",
+    "editor:go-end",
+    "editor:undo",
+    "editor:redo"
+  ],
+  "trashOption": "local",
+  "showUnsupportedFiles": false,
+  "livePreview": true,
+  "showLineNumber": false,
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "Scripts/",
+    "Templates/",
+    "Visuals/",
+    "EvergreenLists/",
+    "Deep-Work-Machine/",
+    "Brain-Food/"
+  ],
+  "showInlineTitle": false,
+  "useTab": true,
+  "useMarkdownLinks": true,
+  "uriCallbacks": true,
+  "newLinkFormat": "relative",
+  "showIndentGuide": true,
+  "newFileLocation": "folder",
+  "promptDelete": false,
+  "mobileQuickRibbonItem": "command-palette:Open command palette",
+  "mobilePullAction": "editor:toggle-source",
+  "readableLineLength": true,
+  "smartIndentList": true
+}

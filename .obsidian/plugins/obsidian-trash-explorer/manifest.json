@@ -1,0 +1,10 @@
+{
+    "author": "Per Mortensen",
+    "isDesktopOnly": true,
+    "id": "obsidian-trash-explorer",
+    "minAppVersion": "0.15.0",
+    "version": "1.2.3",
+    "description": "Restore and delete files from the Obsidian .trash folder",
+    "name": "Trash Explorer",
+    "authorUrl": "https://permortensen.com"
+}

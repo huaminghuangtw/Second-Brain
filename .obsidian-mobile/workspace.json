@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "32e8a1bd7e57986c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2d08d30d13d60e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e2dff086c31e59d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "27462f65bc058a5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EvergreenNotes/You are the average of the five people you associate with most.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "You are the average of the five people you associate with most"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68df574b219ffdd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "62c6ba43d4c8fdcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fccf368580543568",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a78e0d288f4f0a58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9d185b35c20ed556",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "fd674ba7e44b5257",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "07b8212fc4159ce6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 506.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "fb09601ac695ea04",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3f8939eb996356d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebdf2c7776f36c76",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EvergreenNotes/You are the average of the five people you associate with most.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for You are the average of the five people you associate with most"
+            }
+          },
+          {
+            "id": "d7561ed55de72067",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily-Bullet-Journal/2023/09-September/2023_09_19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2023_09_19"
+            }
+          },
+          {
+            "id": "d1651012093ca3f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily-Bullet-Journal/2025/05-May/2025_05_30.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025_05_30"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-importer:Open Importer": false,
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "27462f65bc058a5c",
+  "lastOpenFiles": [
+    "Homepage.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_23.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_24.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_30.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_31.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_29.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_28.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_27.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_26.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_25.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_17.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_12.md",
+    "Daily-Bullet-Journal/2025/04-April/2025_04_01.md",
+    "Daily-Bullet-Journal/2025/03-March/2025_03_31.md",
+    "Daily-Bullet-Journal/2024/06-June/2024_06_10.md",
+    "Daily-Bullet-Journal/2024/07-July/2024_07_12.md",
+    "LifeNotes/Alignment/The Bug Book.md",
+    "Daily-Bullet-Journal/JournalBacklog.md",
+    "Dear-Today-Me/Dear-Today-Me.md",
+    "EvergreenNotes/FleetingNotes/FleetingNotes.md",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Kitsune.jpeg",
+    "Weekly-Mindware-Update/2024/2024_Week_40.md",
+    "Daily-Bullet-Journal/2024/05-May/2024_05_31.md",
+    "EvergreenNotes/The Dunning-Kruger Effect.md",
+    "Daily-Bullet-Journal/2025/01-January/2025_01_11.md",
+    "LifeNotes/Business/Business Model (Machine).md",
+    "Daily-Bullet-Journal/2023/05-May/2023_05_31.md",
+    "Daily-Bullet-Journal/_attachments/294a8fc29a854624b8ca1552f1afe6f8.png",
+    "Daily-Bullet-Journal/_attachments/b06a13bdd5a61956d8ab8e2cc2d3bf55.png",
+    "Daily-Bullet-Journal/2025/05-May/Pasted image 20250530110537.png",
+    "Daily-Bullet-Journal/2025/05-May/Pasted image 20250530082328.png",
+    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Side Jacks.gif",
+    "Daily-Bullet-Journal/_attachments/2025_05_29_21_05_49.BMP",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Codex.jpeg",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Bold Choice.jpeg",
+    "Daily-Bullet-Journal/_attachments/dbded29d59240fff9a2cd004f280e945.png"
+  ]
+}

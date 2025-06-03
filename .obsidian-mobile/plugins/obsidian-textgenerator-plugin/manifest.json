@@ -1,0 +1,11 @@
+{
+    "author": "Noureddine Haouari",
+    "isDesktopOnly": true,
+    "id": "obsidian-textgenerator-plugin",
+    "minAppVersion": "1.6.0",
+    "fundingUrl": "https://www.buymeacoffee.com/haouarine",
+    "version": "0.7.46",
+    "description": "Text generation using AI",
+    "name": "Text Generator",
+    "authorUrl": "https://text-gen.com"
+}

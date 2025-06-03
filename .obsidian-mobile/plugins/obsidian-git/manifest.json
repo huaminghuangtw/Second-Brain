@@ -1,0 +1,10 @@
+{
+    "author": "Vinzent",
+    "isDesktopOnly": true,
+    "id": "obsidian-git",
+    "fundingUrl": "https://ko-fi.com/vinzent",
+    "version": "2.31.1",
+    "description": "Integrate Git version control with automatic backup and other advanced features.",
+    "authorUrl": "https://github.com/Vinzent03",
+    "name": "Git"
+}

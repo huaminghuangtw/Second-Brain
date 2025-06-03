@@ -1,0 +1,318 @@
+{
+  "main": {
+    "id": "32e8a1bd7e57986c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c2bdfebcf6967b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff6290fea6230086",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "97189550073e3fc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_02.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_06_02"
+            }
+          },
+          {
+            "id": "60b6122abb7d6c1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_02.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_06_02"
+            }
+          },
+          {
+            "id": "6385c2f505bd840d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/T_Today-I-Learned.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "T_Today-I-Learned"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68df574b219ffdd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "62c6ba43d4c8fdcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fccf368580543568",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a78e0d288f4f0a58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "line:(filter list)",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9d185b35c20ed556",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "fd674ba7e44b5257",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "07b8212fc4159ce6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 506.5
+  },
+  "right": {
+    "id": "fb09601ac695ea04",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3f8939eb996356d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebdf2c7776f36c76",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/T_Today-I-Learned.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for T_Today-I-Learned"
+            }
+          },
+          {
+            "id": "d7561ed55de72067",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily-Bullet-Journal/2023/09-September/2023_09_19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2023_09_19"
+            }
+          },
+          {
+            "id": "d1651012093ca3f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily-Bullet-Journal/2025/05-May/2025_05_30.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025_05_30"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-importer:Open Importer": false,
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6385c2f505bd840d",
+  "lastOpenFiles": [
+    "LifeNotes/Writing/Why should you write in Markdown files.md",
+    "LifeNotes/_attachments/fdea121e108f109c853ff640672aa7e5.png",
+    "LifeNotes/_attachments/fd36acc9a40763d81ae63e3cef619df1.png",
+    "LifeNotes/_attachments/f979af7a22c9c817b5488a777f224e7a.png",
+    "LifeNotes/_attachments/f6910fb0a6b8daa262c97c6a6ecee5fd.png",
+    "LifeNotes/_attachments/ebae3101150d9143666050d9e1c2513d.png",
+    "LifeNotes/_attachments/e9eea70164906e26d189fbbb0be038c8.png",
+    "LifeNotes/_attachments/dfa80bbd65d783ad4dc4880b29090c70.png",
+    "LifeNotes/_attachments/d6d714dc5c11ec9f65a118717a4032d4.png",
+    "LifeNotes/_attachments/d02e572155ae7a9a9b12e4cf926738c6.png",
+    "LifeNotes/_attachments/b824ad82230bb964741ee8bed9d4ee26.png",
+    "LifeNotes/Writing/✍️ My Writing Principles & Rules.md",
+    "LifeNotes/WebDev/🛠️ Tools for web dev.md",
+    "LifeNotes/Writing/🛠️ Tools for writing.md",
+    "LifeNotes/Writing/Blog Post Ideas.md",
+    "LifeNotes/Finance/💰Personal Finance.md",
+    "LifeNotes/Writing/Pandoc Citation Syntax.md",
+    "LifeNotes/Finance/Investment 101.md",
+    "LifeNotes/Coding/Git.md",
+    "LifeNotes/Missions/Rich Roll Podcast.md",
+    "LifeNotes/Finance/財金金融相關知識&專業術語&詞彙.md",
+    "LifeNotes/Finance/美股.md",
+    "LifeNotes/Finance/投資理財正確心態.md",
+    "LifeNotes/Finance/房地產.md",
+    "LifeNotes/Finance/基金.md",
+    "LifeNotes/Finance/台股.md",
+    "LifeNotes/Finance/Tools.md",
+    "LifeNotes/Finance/Liquid Assets.md",
+    "LifeNotes/Finance/How billionaires avoid paying taxes.md",
+    "LifeNotes/Missions/教育改革.md",
+    "LifeNotes/Finance/ETF.md",
+    "LifeNotes/Finance/Crypto & Blockchain & NFTs.md",
+    "LifeNotes/Missions/體育改革.md",
+    "LifeNotes/Missions/頂尖運動員養成六階段.md",
+    "LifeNotes/Missions/焦慮世代.md",
+    "LifeNotes/Coding/workout data file format.md",
+    "LifeNotes/_attachments",
+    "LifeNotes/Writing",
+    "LifeNotes/WebDev",
+    "LifeNotes/Missions",
+    "LifeNotes/Finance",
+    "LifeNotes/Coffee",
+    "LifeNotes/Coding",
+    "LifeNotes/Career",
+    "LifeNotes/ChatGPT",
+    "LifeNotes/Business"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "autoCollectAttachments": false,
+  "changeNoteBacklinksAlt": false,
+  "consistencyReportFile": "consistency-report.md",
+  "deleteAttachmentsWithNote": true,
+  "deleteEmptyFolders": false,
+  "deleteExistFilesWhenMoveNote": false,
+  "moveAttachmentsWithNote": true,
+  "showBackupWarning": false,
+  "updateLinks": true,
+  "excludePaths": [
+    "/consistency-report\\.md$/"
+  ],
+  "includePaths": []
+}

@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "30a0ea468fa453a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e63598c0e1241f94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6abcf156520594a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e48c5c43e3fd0f53",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "51933cb38cf1dfa0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "0e900eca5961322b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "31dd1e0fa41b43a3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "488d58e22669d44e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4f7b3bac690f7d8f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7c47827b83a8adde",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Dear-Today-Me/Dear-Today-Me.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "b38bf98e7d42d387",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Homepage.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "9efd4a12146df5dc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Homepage.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "6abcf156520594a6",
+  "lastOpenFiles": [
+    "Homepage.md",
+    "Dear-Today-Me/Dear-Today-Me.md",
+    "Daily-Bullet-Journal/2025/01-January/2025_01_27 2.md",
+    "Daily-Bullet-Journal/2025/01-January/2025_01_26.md",
+    "LifeNotes/Nutrition/Make Your Own Energy Gels.md",
+    "Weekly-Mindware-Update/2024/2024_Week_26.md",
+    "Daily-Bullet-Journal/2025/01-January/2025_01_19.md"
+  ]
+}

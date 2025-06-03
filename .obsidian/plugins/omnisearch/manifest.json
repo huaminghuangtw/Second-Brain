@@ -1,0 +1,14 @@
+{
+    "author": "Simon Cambier",
+    "isDesktopOnly": true,
+    "id": "omnisearch",
+    "minAppVersion": "1.7.2",
+    "fundingUrl": {
+        "Github": "https://github.com/sponsors/scambier",
+        "Ko-fi": "https://ko-fi.com/scambier"
+    },
+    "version": "1.26.1",
+    "description": "A search engine that just works",
+    "name": "Omnisearch",
+    "authorUrl": "https://github.com/scambier/obsidian-omnisearch"
+}

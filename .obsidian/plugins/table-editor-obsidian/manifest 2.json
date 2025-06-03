@@ -1,0 +1,17 @@
+{
+    "author": "Tony Grosinger",
+    "js": "main.js",
+    "isDesktopOnly": true,
+    "id": "table-editor-obsidian",
+    "minAppVersion": "1.0.0",
+    "fundingUrl": {
+        "Buy me a Coffee": "https://buymeacoffee.com/tgrosinger",
+        "Github Sponsor": "https://github.com/sponsors/tgrosinger",
+        "Paypal": "https://paypal.me/tgrosinger"
+    },
+    "donation": "https://buymeacoffee.com/tgrosinger",
+    "version": "0.22.1",
+    "description": "Improved table navigation, formatting, manipulation, and formulas",
+    "name": "Advanced Tables",
+    "authorUrl": "https://grosinger.net"
+}

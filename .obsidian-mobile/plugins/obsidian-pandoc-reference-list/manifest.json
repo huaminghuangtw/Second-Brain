@@ -1,0 +1,10 @@
+{
+    "author": "mgmeyers",
+    "name": "Pandoc Reference List",
+    "id": "obsidian-pandoc-reference-list",
+    "minAppVersion": "0.15.0",
+    "version": "2.0.25",
+    "description": "Displays a formatted reference in the sidebar for each pandoc citekey present in the current document.",
+    "authorUrl": "https://github.com/mgmeyers/obsidian-pandoc-reference-list",
+    "isDesktopOnly": true
+}

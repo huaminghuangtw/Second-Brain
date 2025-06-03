@@ -1,0 +1,14 @@
+{
+    "author": "Davis Riedel",
+    "isDesktopOnly": true,
+    "id": "typewriter-mode",
+    "minAppVersion": "0.15.0",
+    "fundingUrl": {
+        "Buy Me a Coffee": "https://www.buymeacoffee.com/davis.riedel",
+        "GitHub Sponsors": "https://github.com/sponsors/davisriedel"
+    },
+    "version": "1.1.0",
+    "description": "Typewriter scroll, highlight current line, dim unfocused paragraphs and sentences, writing focus, restore cursor position and more.",
+    "name": "Typewriter Mode",
+    "authorUrl": "https://davis-riedel.de/en/software"
+}

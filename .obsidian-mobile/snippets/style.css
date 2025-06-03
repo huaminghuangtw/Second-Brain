@@ -1,0 +1,58 @@
+.dataview.small-text {
+    display: none;
+}
+
+.markdown-rendered img,
+.markdown-preview-view img {
+    box-shadow: 0 28px 8px -26px rgba(0, 0, 0, 0.2);
+    border: 1px solid #ccc;
+    margin: 0.25rem;
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.markdown-rendered table img,
+.markdown-preview-view table img {
+    margin: auto;
+    display: block;
+}
+
+.external-link {
+    background-image: none;
+    padding-right: 0px;
+}
+
+button.common {
+    background-color: transparent;
+    border: 0.2px solid;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    font-family: Georgia;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+button.today-diary-button {
+    color: #66A0C8;
+}
+
+button.latest-wmu-button {
+    color: #CE5D97;
+}
+
+button.fleeting-notes-button {
+    color: #A0AF54;
+}
+
+.edit-button {
+    text-decoration: none;
+    border: none;
+    background-color: transparent;
+    border-radius: 2px;
+    display: block;
+    position: relative;
+    float: right;
+    font-size: 14px;
+}
