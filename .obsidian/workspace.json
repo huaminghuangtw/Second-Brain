@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6c2bdfebcf6967b0",
+        "id": "037ac15b1c19c168",
         "type": "tabs",
         "children": [
           {
-            "id": "ff6290fea6230086",
+            "id": "76b22054aa35e0d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,13 +32,13 @@
             }
           },
           {
-            "id": "97189550073e3fc7",
+            "id": "14695c1b8fe04dcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_02.md",
-                "mode": "source",
+                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_03.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,59 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_06_02"
-            }
-          },
-          {
-            "id": "60b6122abb7d6c1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_02.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_06_02"
-            }
-          },
-          {
-            "id": "6385c2f505bd840d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/T_Today-I-Learned.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "T_Today-I-Learned"
+              "title": "2025_06_03"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(filter list)",
+                "query": "Mystery",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,11 +134,13 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 506.5
+    "width": 506.5,
+    "collapsed": true
   },
   "right": {
     "id": "fb09601ac695ea04",
@@ -202,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/T_Today-I-Learned.md",
+                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for T_Today-I-Learned"
+              "title": "Backlinks for 2025_06_03"
             }
           },
           {
@@ -261,14 +215,42 @@
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6385c2f505bd840d",
+  "active": "14695c1b8fe04dcf",
   "lastOpenFiles": [
-    "LifeNotes/Writing/Why should you write in Markdown files.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_01.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_03.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_31.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_30.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_29.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_28.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_27.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_26.md",
+    "EvergreenNotes/Cultivate a strong bias towards action.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/2024/07-July/2024_07_02.md",
+    "Daily-Bullet-Journal/2023/08-August/2023_08_15.md",
+    "EvergreenNotes/kindness.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_02.md",
+    "Daily-Bullet-Journal/2024/02-February/2024_02_15.md",
+    "Daily-Bullet-Journal/2025/04-April/2025_04_11.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_22.md",
+    "Daily-Bullet-Journal/2024/07-July/2024_07_09.md",
+    "Newsletter/Shortcutomation",
+    "Newsletter/shortcutomation.com",
+    "Newsletter",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_20.md",
+    "Today-I-Learned/2025/06/03/dhds.md",
+    "Today-I-Learned/2025/06/03",
+    "Today-I-Learned/2025/06/03/Untitled 26.md",
+    "Today-I-Learned/2025/06/03/Untitled 25.md",
+    "Today-I-Learned/2025/06/03/Untitled 24.md",
+    "Today-I-Learned/2025/06/03/Untitled 23.md",
+    "Today-I-Learned/2025/06/03/Untitled 22.md",
+    "Today-I-Learned/2025/06/03/Untitled 21.md",
     "LifeNotes/_attachments/fdea121e108f109c853ff640672aa7e5.png",
     "LifeNotes/_attachments/fd36acc9a40763d81ae63e3cef619df1.png",
     "LifeNotes/_attachments/f979af7a22c9c817b5488a777f224e7a.png",
@@ -279,40 +261,11 @@
     "LifeNotes/_attachments/d6d714dc5c11ec9f65a118717a4032d4.png",
     "LifeNotes/_attachments/d02e572155ae7a9a9b12e4cf926738c6.png",
     "LifeNotes/_attachments/b824ad82230bb964741ee8bed9d4ee26.png",
-    "LifeNotes/Writing/✍️ My Writing Principles & Rules.md",
-    "LifeNotes/WebDev/🛠️ Tools for web dev.md",
-    "LifeNotes/Writing/🛠️ Tools for writing.md",
-    "LifeNotes/Writing/Blog Post Ideas.md",
-    "LifeNotes/Finance/💰Personal Finance.md",
-    "LifeNotes/Writing/Pandoc Citation Syntax.md",
-    "LifeNotes/Finance/Investment 101.md",
-    "LifeNotes/Coding/Git.md",
-    "LifeNotes/Missions/Rich Roll Podcast.md",
-    "LifeNotes/Finance/財金金融相關知識&專業術語&詞彙.md",
-    "LifeNotes/Finance/美股.md",
-    "LifeNotes/Finance/投資理財正確心態.md",
-    "LifeNotes/Finance/房地產.md",
-    "LifeNotes/Finance/基金.md",
-    "LifeNotes/Finance/台股.md",
-    "LifeNotes/Finance/Tools.md",
-    "LifeNotes/Finance/Liquid Assets.md",
-    "LifeNotes/Finance/How billionaires avoid paying taxes.md",
-    "LifeNotes/Missions/教育改革.md",
-    "LifeNotes/Finance/ETF.md",
-    "LifeNotes/Finance/Crypto & Blockchain & NFTs.md",
-    "LifeNotes/Missions/體育改革.md",
-    "LifeNotes/Missions/頂尖運動員養成六階段.md",
-    "LifeNotes/Missions/焦慮世代.md",
-    "LifeNotes/Coding/workout data file format.md",
     "LifeNotes/_attachments",
     "LifeNotes/Writing",
     "LifeNotes/WebDev",
     "LifeNotes/Missions",
     "LifeNotes/Finance",
-    "LifeNotes/Coffee",
-    "LifeNotes/Coding",
-    "LifeNotes/Career",
-    "LifeNotes/ChatGPT",
-    "LifeNotes/Business"
+    "LifeNotes/Coffee"
   ]
 }
