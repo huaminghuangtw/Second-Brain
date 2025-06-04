@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T10:18:12
-modified: 2025-06-02T13:59:24
+modified: 2025-06-04T20:31:20
 ---
 
 <!---
@@ -223,7 +223,7 @@ if (onDesktop) {
 
 # ⚙️ LifeOS
 
-> [!ERROR] Monitor Health Dashboard
+> [!ERROR]- 🫶 Health
 >
 > ```dataviewjs
 > let today = dv.date("today");
@@ -362,176 +362,178 @@ if (onDesktop) {
 > );
 > ```
 
+> [!WARNING]- 👨🏽‍🌾 Digital Garden
+>
+> ```dataviewjs
+> let today = dv.date("today");
+>
+> function findOrphanedImages() {
+>     const imageExtensions = [
+>         "png",
+>         "jpg",
+>         "jpeg",
+>         "gif",
+>         "svg",
+>         "webp",
+>         "avif",
+>         "heic"
+>     ];
+> 
+>     const imageFiles = app.vault.getFiles().filter(file =>
+>         imageExtensions.includes(file.extension.toLowerCase()) &&
+>         file.path.includes("_attachments/")
+>     );
+> 
+>     const orphanedImages = imageFiles.filter(image =>
+>         !Object.values(app.metadataCache.resolvedLinks)
+>                 .some(links => links[image.path])
+>     ).map(image => dv.fileLink(image.path));
+> 
+>     return orphanedImages;
+> }
+> 
+> function getRandomFilteredPages(filterFn, maxCount = 5) {
+>     const excludeFiles = [
+>         "EvergreenNotes/FleetingNotes/FleetingNotes.md"
+>     ];
+> 
+>     const filteredPages = dv.pages('"EvergreenNotes"')
+>                             .filter(page =>
+>                                 filterFn(page) &&
+>                                 !excludeFiles.includes(page.file.path)
+>                             )
+>                             .map(p => p.file.link)
+>                             .sort(() => Math.random() - 0.5)
+>                             .slice(0, maxCount);
+> 
+>     return filteredPages;
+> }
+> 
+> //TODO (2025/04/26)
+> async function isValidLink(link, sourcePath) {
+>     const targetPath = link.link;
+>     const resolvedPath = app.metadataCache.getFirstLinkpathDest(targetPath, sourcePath);
+> 
+>     if (resolvedPath) {
+>         return true; // It points to an existing file (note or image)
+>     }
+> 
+>     // Also check if the file exists physically in the vault
+>     const file = app.vault.getAbstractFileByPath(targetPath);
+> 
+>     if (file) {
+>         return true;
+>     }
+> 
+>     return false; // Neither a note nor a file exists
+> }
+> 
+> //TODO
+> async function findBadLinksAndEmbeds() {
+>     const badLinks = new Map();
+>     const badEmbeds = new Map();
+> 
+>     const excludedFolders = [
+>         ".trash",
+>         ".obsidian",
+>     ];
+> 
+>     const notes = app.vault.getMarkdownFiles().filter(note =>
+>         !excludedFolders.some(folder => note.path.includes(`${folder}`))
+>     );
+> 
+>     const tasks = [];
+> 
+>     for (const note of notes) {
+>         const cache = app.metadataCache.getFileCache(note);
+>         if (!cache) continue;
+> 
+>         const links = cache.links || [];
+>         const embeds = cache.embeds || [];
+> 
+>         for (const link of links) {
+>             tasks.push({
+>                 type: "link",
+>                 notePath: note.path,
+>                 link: link
+>             });
+>         }
+> 
+>         for (const embed of embeds) {
+>             tasks.push({
+>                 type: "embed",
+>                 notePath: note.path,
+>                 link: embed
+>             });
+>         }
+>     }
+> 
+>     const results = await Promise.all(
+>         tasks.map(async (task) => {
+>             const valid = await isValidLink(task.link, task.notePath);
+>             return { ...task, valid };
+>         })
+>     );
+> 
+>     for (const result of results) {
+>         if (!result.valid) {
+>             if (result.type === "link") {
+>                 if (!badLinks.has(result.notePath)) {
+>                     badLinks.set(result.notePath, []);
+>                 }
+>                 badLinks.get(result.notePath).push(result.link.link);
+>             } else if (result.type === "embed") {
+>                 if (!badEmbeds.has(result.notePath)) {
+>                     badEmbeds.set(result.notePath, []);
+>                 }
+>                 badEmbeds.get(result.notePath).push(result.link.link);
+>             }
+>         }
+>     }
+> 
+>     const linkResults = [...badLinks.entries()].map(([file, links]) => [
+>         dv.fileLink(file),
+>         links.join("\n")
+>     ]);
+> 
+>     const embedResults = [...badEmbeds.entries()].map(([file, embeds]) => [
+>         dv.fileLink(file),
+>         embeds.join("\n")
+>     ]);
+> 
+>     return { linkResults, embedResults };
+> }
+> 
+> dv.header(4, "**❥ Forgotten Notes**");
+> dv.list(getRandomFilteredPages(
+>     p => dv.date(p.file.mtime) < today.minus({ months: 3 })
+> ));
+> 
+> dv.header(4, "**❥ Empty Notes**");
+> dv.list(getRandomFilteredPages(
+>     p => p.file.size >= 0 && p.file.size < 10
+> ));
+> 
+> dv.header(4, "**❥ Bad Links**");
+> dv.list(await findBadLinksAndEmbeds().linkResults);
+> 
+> dv.header(4, "**❥ Bad Embeds**");
+> dv.list(await findBadLinksAndEmbeds().embedResults);
+> 
+> dv.header(4, "**❥ Orphaned Images**");
+> dv.list(findOrphanedImages());
+> 
+> dv.header(4, "**❥ Orphaned Notes**");
+> dv.list(getRandomFilteredPages(
+>     p => p.file.inlinks && p.file.outlinks
+> ));
+> ```
+
 ```dataviewjs
 let onDesktop = window.innerWidth > 768;
 if (onDesktop) {
     const { Utils } = await cJS();
     let today = dv.date("today");
-
-    // ***********************************************
-
-    dv.header(1, "👨🏽‍🌾 Water Digital Garden");
-
-    function findOrphanedImages() {
-        const imageExtensions = [
-            "png",
-            "jpg",
-            "jpeg",
-            "gif",
-            "svg",
-            "webp",
-            "avif",
-            "heic"
-        ];
-
-        const imageFiles = app.vault.getFiles().filter(file =>
-            imageExtensions.includes(file.extension.toLowerCase()) &&
-            file.path.includes("_attachments/")
-        );
-
-        const orphanedImages = imageFiles.filter(image =>
-            !Object.values(app.metadataCache.resolvedLinks)
-                   .some(links => links[image.path])
-        ).map(image => dv.fileLink(image.path));
-
-        return orphanedImages;
-    }
-
-    function getRandomFilteredPages(filterFn, maxCount = 5) {
-        const excludeFiles = [
-            "EvergreenNotes/FleetingNotes/FleetingNotes.md"
-        ];
-
-        const filteredPages = dv.pages('"EvergreenNotes"')
-                                .filter(page =>
-                                    filterFn(page) &&
-                                    !excludeFiles.includes(page.file.path)
-                                )
-                                .map(p => p.file.link)
-                                .sort(() => Math.random() - 0.5)
-                                .slice(0, maxCount);
-
-        return filteredPages;
-    }
-
-    //TODO (2025/04/26)
-    async function isValidLink(link, sourcePath) {
-        const targetPath = link.link;
-        const resolvedPath = app.metadataCache.getFirstLinkpathDest(targetPath, sourcePath);
-
-        if (resolvedPath) {
-            return true; // It points to an existing file (note or image)
-        }
-
-        // Also check if the file exists physically in the vault
-        const file = app.vault.getAbstractFileByPath(targetPath);
-
-        if (file) {
-            return true;
-        }
-
-        return false; // Neither a note nor a file exists
-    }
-
-    //TODO
-    async function findBadLinksAndEmbeds() {
-        const badLinks = new Map();
-        const badEmbeds = new Map();
-
-        const excludedFolders = [
-            ".trash",
-            ".obsidian",
-        ];
-
-        const notes = app.vault.getMarkdownFiles().filter(note =>
-            !excludedFolders.some(folder => note.path.includes(`${folder}`))
-        );
-
-        const tasks = [];
-
-        for (const note of notes) {
-            const cache = app.metadataCache.getFileCache(note);
-            if (!cache) continue;
-
-            const links = cache.links || [];
-            const embeds = cache.embeds || [];
-
-            for (const link of links) {
-                tasks.push({
-                    type: "link",
-                    notePath: note.path,
-                    link: link
-                });
-            }
-
-            for (const embed of embeds) {
-                tasks.push({
-                    type: "embed",
-                    notePath: note.path,
-                    link: embed
-                });
-            }
-        }
-
-        const results = await Promise.all(
-            tasks.map(async (task) => {
-                const valid = await isValidLink(task.link, task.notePath);
-                return { ...task, valid };
-            })
-        );
-
-        for (const result of results) {
-            if (!result.valid) {
-                if (result.type === "link") {
-                    if (!badLinks.has(result.notePath)) {
-                        badLinks.set(result.notePath, []);
-                    }
-                    badLinks.get(result.notePath).push(result.link.link);
-                } else if (result.type === "embed") {
-                    if (!badEmbeds.has(result.notePath)) {
-                        badEmbeds.set(result.notePath, []);
-                    }
-                    badEmbeds.get(result.notePath).push(result.link.link);
-                }
-            }
-        }
-
-        const linkResults = [...badLinks.entries()].map(([file, links]) => [
-            dv.fileLink(file),
-            links.join("\n")
-        ]);
-
-        const embedResults = [...badEmbeds.entries()].map(([file, embeds]) => [
-            dv.fileLink(file),
-            embeds.join("\n")
-        ]);
-
-        return { linkResults, embedResults };
-    }
-
-    dv.header(4, "**❥ Forgotten Notes**");
-    dv.list(getRandomFilteredPages(
-        p => dv.date(p.file.mtime) < today.minus({ months: 3 })
-    ));
-
-    dv.header(4, "**❥ Empty Notes**");
-    dv.list(getRandomFilteredPages(
-        p => p.file.size >= 0 && p.file.size < 10
-    ));
-
-    dv.header(4, "**❥ Bad Links**");
-    dv.list(await findBadLinksAndEmbeds().linkResults);
-
-    dv.header(4, "**❥ Bad Embeds**");
-    dv.list(await findBadLinksAndEmbeds().embedResults);
-
-    dv.header(4, "**❥ Orphaned Images**");
-    dv.list(findOrphanedImages());
-
-    dv.header(4, "**❥ Orphaned Notes**");
-    dv.list(getRandomFilteredPages(
-        p => p.file.inlinks && p.file.outlinks
-    ));
 
     // ***********************************************
 
@@ -649,7 +651,7 @@ if (onDesktop) {
     }
 
     let reminderWithSubtasks = reminders.filter(
-        r => r.subtasks.length > 0
+        r => Array.isArray(r.subtasks) && r.subtasks.length > 0
     );
 
     let randomReminder = Utils.getRandomItem(reminderWithSubtasks);

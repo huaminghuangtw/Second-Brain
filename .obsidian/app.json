@@ -35,5 +35,6 @@
   "mobilePullAction": "editor:toggle-source",
   "newFileFolderPath": "",
   "readableLineLength": true,
-  "mobileQuickRibbonItem": "command-palette:Open command palette"
+  "mobileQuickRibbonItem": "command-palette:Open command palette",
+  "propertiesInDocument": "hidden"
 }

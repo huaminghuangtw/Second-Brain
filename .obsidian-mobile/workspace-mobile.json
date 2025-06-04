@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "2025_06_02"
             }
+          },
+          {
+            "id": "69f0d27120b4a053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,8 +227,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ca2ef328837dc8dd",
+  "active": "69f0d27120b4a053",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/2025/06-June/2025_06_02.md",
     "Daily-Bullet-Journal/2025/06-June/2025_06_01.md",
     "Homepage.md",
     "Dear-Today-Me/Dear-Today-Me.md",
