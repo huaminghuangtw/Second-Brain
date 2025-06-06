@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T10:18:12
-modified: 2025-06-04T20:31:20
+modified: 2025-06-06T06:53:41
 ---
 
 <!---
@@ -10,35 +10,57 @@ https://help.obsidian.md/Editing+and+formatting/Callouts#Supported+types
 ```dataviewjs
 let onDesktop = window.innerWidth > 768;
 if (onDesktop) {
-    let now = dv.date("now");
-    let startTime = now.startOf("day").plus({ hours: 4 });
-    let endTime = now.startOf("day").plus({ hours: 20, minutes: 30 });
+    const CONFIG = {
+        startTime: {
+            hours: 4,
+            minutes: 0
+        },
+        endTime: {
+            hours: 20,
+            minutes: 30
+        },
+        totalBlocks: 29,
+        block: {
+            default: "⬛️",
+            current: "🔻",
+            quarter1: "1️⃣",
+            quarter2: "2️⃣",
+            quarter3: "3️⃣",
+            quarter4: "4️⃣"
+        }
+    };
 
-    let totalBlocks = 29;
+    let now = dv.date("now");
+    let startTime = now.startOf("day").plus({
+        hours: CONFIG.startTime.hours
+    });
+    let endTime = now.startOf("day").plus({
+        hours: CONFIG.endTime.hours,
+        minutes: CONFIG.endTime.minutes
+    });
 
     // 1 minute = 60 seconds = 60000 milliseconds
     let currentMinutes = (now - startTime) / 60000;
     let totalAwakeMinutes = (endTime - startTime) / 60000;
 
-    let blockDuration = totalAwakeMinutes / totalBlocks;
+    let blockDuration = totalAwakeMinutes / CONFIG.totalBlocks;
 
     let currentBlockIndex = Math.floor(currentMinutes / blockDuration);
 
     let blocks = [];
-    for (let i = 0; i < totalBlocks; i++) {
-        //blocks.push(i === currentBlockIndex ? "🔲" : "🔳");
+    for (let i = 0; i < CONFIG.totalBlocks; i++) {
         if (i === currentBlockIndex) {
-            blocks.push("🔻");
-        } else if (i === Math.floor(totalBlocks / 4)) {
-            blocks.push("1️⃣");
-        } else if (i === Math.floor(totalBlocks / 2)) {
-            blocks.push("2️⃣");
-        } else if (i === Math.floor((3 * totalBlocks) / 4)) {
-            blocks.push("3️⃣");
-        } else if (i === totalBlocks - 1) {
-            blocks.push("4️⃣");
+            blocks.push(CONFIG.block.current);
+        } else if (i === Math.floor((CONFIG.totalBlocks) / 4)) {
+            blocks.push(CONFIG.block.quarter1);
+        } else if (i === Math.floor((CONFIG.totalBlocks) / 2)) {
+            blocks.push(CONFIG.block.quarter2);
+        } else if (i === Math.floor((3 * (CONFIG.totalBlocks)) / 4)) {
+            blocks.push(CONFIG.block.quarter3);
+        } else if (i === ((CONFIG.totalBlocks) - 1)) {
+            blocks.push(CONFIG.block.quarter4);
         } else {
-            blocks.push("⬛️");
+            blocks.push(CONFIG.block.default);
         }
     }
     const blocksString = blocks.join(" ");
@@ -542,7 +564,7 @@ if (onDesktop) {
     // -----------------------------------------------
 
     dv.paragraph(`
-> [!TODO] 🐥 <a href="${await Utils.buildObsidianOpenFileURI("Daily-Bullet-Journal/JournalBacklog.md")}">Backlog</a>
+> [!TODO] 🐥 <a href="${await Utils.buildObsidianOpenFileURI("Daily-Bullet-Journal/JournalBacklog.md")}">**Backlog**</a>
 `);
 
     // -----------------------------------------------
@@ -571,14 +593,14 @@ if (onDesktop) {
 
     // ***********************************************
 
-    dv.header(1, `<a href="https://github.com/huaminghuangtw/Weekly-Mindware-Update">🦸🏽‍♂️ Deep Work Machine</a>`);
+    dv.header(1, `<a href="https://github.com/huaminghuangtw/Deep-Work-Machine">🦸🏽‍♂️ Deep Work Machine</a>`);
 
     const images = ["Number of Flows", "Number of Words"].map(metric =>
         encodeURI(Utils.getAllFilesByExtension(`Deep-Work-Machine/${metric}`, "png")[0].path)
     );
-
+    
     dv.paragraph(`
-> [!EXAMPLE] 📊 ${today.minus({ months: 1 }).toFormat("MMMM yyyy")}
+> [!EXAMPLE] ‎
 > ${images.map(imagePath => `![500](${imagePath})`).join("\n> ")}
 `)
 

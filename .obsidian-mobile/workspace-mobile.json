@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e63598c0e1241f94",
+        "id": "b99aa49bed974951",
         "type": "tabs",
         "children": [
           {
-            "id": "6abcf156520594a6",
+            "id": "232d49e330258bdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Homepage.md",
                 "mode": "preview",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -32,36 +32,12 @@
             }
           },
           {
-            "id": "6fee7766666603e3",
+            "id": "a1fead37d994d3e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_01.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_06_01"
-            }
-          },
-          {
-            "id": "ca2ef328837dc8dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_02.md",
+                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_06_02"
-            }
-          },
-          {
-            "id": "69f0d27120b4a053",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2025_06_05"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +71,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -178,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dear-Today-Me/Dear-Today-Me.md",
+            "file": "Daily-Bullet-Journal/2025/06-June/2025_06_05.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -227,11 +180,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "69f0d27120b4a053",
+  "active": "a1fead37d994d3e8",
   "lastOpenFiles": [
+    "Homepage.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_04.md",
     "Daily-Bullet-Journal/2025/06-June/2025_06_02.md",
     "Daily-Bullet-Journal/2025/06-June/2025_06_01.md",
-    "Homepage.md",
     "Dear-Today-Me/Dear-Today-Me.md",
     "Daily-Bullet-Journal/2025/01-January/2025_01_27 2.md",
     "Daily-Bullet-Journal/2025/01-January/2025_01_26.md",

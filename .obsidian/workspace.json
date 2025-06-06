@@ -4,17 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "cf0f01cd13cbd830",
+        "id": "fee0a658234060a8",
         "type": "tabs",
         "children": [
           {
-            "id": "09fb633f78245c24",
+            "id": "07d9bbf085ad1a57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_06.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_06_06"
+            }
+          },
+          {
+            "id": "39a745dbda2ba887",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Homepage.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -30,8 +54,33 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "ad9ad52b93cd752c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Newsletter/Shortcutomation/2025/06/05/A Nighttime Routine I Do Every Day.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "A Nighttime Routine I Do Every Day"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(someday everyday)",
+                "query": "line:(attention flow)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,8 +158,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Newsletter/Shortcutomation/2025/06/05/A Nighttime Routine I Do Every Day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for A Nighttime Routine I Do Every Day"
             }
           },
           {
@@ -164,10 +212,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Newsletter/Shortcutomation/2025/06/05/A Nighttime Routine I Do Every Day.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for A Nighttime Routine I Do Every Day"
             }
           },
           {
@@ -176,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md",
+                "file": "Newsletter/Shortcutomation/2025/06/05/A Nighttime Routine I Do Every Day.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Homepage"
+              "title": "Outline of A Nighttime Routine I Do Every Day"
             }
           }
         ],
@@ -206,53 +254,101 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "09fb633f78245c24",
+  "floating": {
+    "id": "ddb9b5bae9e51bf2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "db6b2c3cee394fde",
+        "type": "window",
+        "children": [
+          {
+            "id": "bb16ce34323f5802",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d19e7bc131f9e714",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "LifeNotes/Business/🏰 My Biz Empire.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "🏰 My Biz Empire"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1.5
+      }
+    ]
+  },
+  "active": "ad9ad52b93cd752c",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/2024/06-June/2024_06_04.md",
-    "Weekly-Mindware-Update/2025/2025_Week_22.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/2025/06-June/2025_06_03.md",
-    "Daily-Bullet-Journal/2025/06-June/2025_06_04.md",
-    "EvergreenNotes/Every single day, chop wood, carry water.md",
-    "Daily-Bullet-Journal/2024/12-December/2024_12_26.md",
-    "EvergreenNotes/Daily Oat Meal Bowl.md",
-    "Daily-Bullet-Journal/JournalBacklog.md",
-    "EvergreenNotes/Abandon your ego.md",
-    "Daily-Bullet-Journal/2025/04-April/2025_04_21.md",
-    "Daily-Bullet-Journal/2025/06-June/2025_06_02.md",
-    "EvergreenNotes/Specialization is for insects.md",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Odin.jpeg",
-    "Daily-Bullet-Journal/2024/07-July/2024_07_03.md",
-    "Daily-Bullet-Journal/2025/06-June/2025_06_01.md",
-    "LifeNotes/Coding/Git.md",
-    "Daily-Bullet-Journal/2023/06-June/2023_06_04.md",
-    "Daily-Bullet-Journal/2024/06-June/2024_06_03.md",
-    "Newsletter/Shortcutomation/_attachments",
-    "Today-I-Learned/_attachments",
-    "Daily-Bullet-Journal/2025/05-May/2025_05_31.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_06.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_05.md",
+    "Daily-Bullet-Journal/2025/02-February/2025_02_21.md",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Legday.jpeg",
+    "Newsletter/Shortcutomation/2025/06/05/A Nighttime Routine I Do Every Day.md",
+    "Newsletter/Shortcutomation/2025/06/05/Why Apple Shortcuts Can Change Your Life.md",
+    "Daily-Bullet-Journal/_attachments/Pasted image 20250606051740.png",
+    "Daily-Bullet-Journal/2025/06-June/Pasted image 20250606051740.png",
+    "Daily-Bullet-Journal/2023/06-June/2023_06_06.md",
+    "Daily-Bullet-Journal/2024/06-June/2024_06_06.md",
     "Daily-Bullet-Journal/2025/05-May/2025_05_30.md",
     "Daily-Bullet-Journal/2025/05-May/2025_05_29.md",
-    "Daily-Bullet-Journal/2025/05-May/2025_05_28.md",
-    "Daily-Bullet-Journal/2025/05-May/2025_05_27.md",
-    "Daily-Bullet-Journal/2025/05-May/2025_05_26.md",
-    "EvergreenNotes/Cultivate a strong bias towards action.md",
-    "Daily-Bullet-Journal/2024/07-July/2024_07_02.md",
-    "Newsletter/Shortcutomation",
-    "Newsletter/shortcutomation.com",
-    "Newsletter",
-    "Today-I-Learned/2025/06/03",
-    "LifeNotes/_attachments/fdea121e108f109c853ff640672aa7e5.png",
-    "LifeNotes/_attachments/fd36acc9a40763d81ae63e3cef619df1.png",
-    "LifeNotes/_attachments/f979af7a22c9c817b5488a777f224e7a.png",
-    "LifeNotes/_attachments/f6910fb0a6b8daa262c97c6a6ecee5fd.png",
-    "LifeNotes/_attachments/ebae3101150d9143666050d9e1c2513d.png",
-    "LifeNotes/_attachments/e9eea70164906e26d189fbbb0be038c8.png",
-    "LifeNotes/_attachments/dfa80bbd65d783ad4dc4880b29090c70.png",
-    "LifeNotes/_attachments/d6d714dc5c11ec9f65a118717a4032d4.png",
-    "LifeNotes/_attachments/d02e572155ae7a9a9b12e4cf926738c6.png",
-    "LifeNotes/_attachments",
-    "LifeNotes/Writing",
-    "LifeNotes/WebDev",
-    "LifeNotes/Missions"
+    "LifeNotes/Alignment/🎯 Life Vision Board.md",
+    "EvergreenNotes/How to make your own energy gels.md",
+    "EvergreenNotes/How to fuel in endurance sports.md",
+    "EvergreenNotes/How to make your own energy bars.md",
+    "Maltodextrin.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_07.md",
+    "Weekly-Mindware-Update/2024/2024_Week_36.md",
+    "Newsletter/Shortcutomation/_attachments/004 0.PNG",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_22.md",
+    "Daily-Bullet-Journal/JournalBacklog.md",
+    "LifeNotes/Business/🏰 My Biz Empire.md",
+    "Daily-Bullet-Journal/_attachments/2025_06_05_16_58_23.png",
+    "Daily-Bullet-Journal/_attachments/2025_06_05_16_57_35.png",
+    "Newsletter/Shortcutomation/_attachments/e31f4582014b484ada425661df1286e7.PNG",
+    "Newsletter/Shortcutomation/_attachments/af26e322fec959c393779754eb7f43b5.PNG",
+    "Newsletter/Shortcutomation/004 0.BMP",
+    "Newsletter/Shortcutomation/004 0 1.bmp",
+    "Newsletter/Shortcutomation/A Nighttime Routine I Do Every Day.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_06.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_05.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_04.md",
+    "Daily-Bullet-Journal/2025/01-January/2025_01_06.md",
+    "Newsletter/Shortcutomation/2025/06/05",
+    "Newsletter/Shortcutomation/2025/06",
+    "Newsletter/Shortcutomation/2025",
+    "Deep-Work-Machine/Number of Words/2025/05-May/number-of-words_2025-05.json",
+    "Deep-Work-Machine/Number of Words/2025/05-May/number-of-words_2025-05.csv",
+    "Deep-Work-Machine/Number of Words/2025/05-May",
+    "Deep-Work-Machine/Number of Flows/2025/05-May/number-of-flows_2025-05.json",
+    "Deep-Work-Machine/Number of Flows/2025/05-May/number-of-flows_2025-05.csv",
+    "Deep-Work-Machine/Number of Flows/2025/05-May",
+    "Newsletter/Shortcutomation/_attachments"
   ]
 }
