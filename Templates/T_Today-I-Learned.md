@@ -1,18 +1,16 @@
 <%*
-let title = await tp.system.prompt("👨‍💻 TIL title?");
-let year = tp.date.now('YYYY');
-let month = tp.date.now('MM');
-let day = tp.date.now('DD');
-let folder = `Today-I-Learned/${year}/${month}/${day}/`;
-await tp.file.rename(title);
-await tp.file.move(folder + title);
+let project = "Today-I-Learned";
+let title = await tp.system.prompt("👨‍💻 ${project} title?");
+let folder = `${project}/posts`;
+let slugifiedTitle = tp.user.slugify(title);
+await tp.file.rename(slugifiedTitle);
+await tp.file.move(folder + slugifiedTitle);
 -%>
 ---
 draft: true
-publishDate: <% tp.date.now("YYYY-MM-DD") %>
-tags: []
+title: <% title %>
+tags:
+  - <% project %>/
 ---
-
-> ****
 
 <% tp.file.cursor() %>

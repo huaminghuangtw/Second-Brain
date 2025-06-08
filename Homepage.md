@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T10:18:12
-modified: 2025-06-06T06:53:41
+modified: 2025-06-08T11:10:15
 ---
 
 <!---
@@ -665,7 +665,7 @@ if (onDesktop) {
         reminders = JSON.parse(
             await dv.io.load(
                 Utils.getRandomItem(
-                    Utils.getAllFilesByExtension("EvergreenLists", "json")
+                    Utils.getAllFilesByExtension("Evergreen-Lists", "json")
                          .map(file => file.path)
                 )
             )

@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "2025_06_05"
             }
+          },
+          {
+            "id": "cef657341b6e50d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_06.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_06_06"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +108,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "\"Siemens\"",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -119,7 +143,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "4f7b3bac690f7d8f",
@@ -180,8 +204,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a1fead37d994d3e8",
+  "active": "0e900eca5961322b",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/2025/06-June/2025_06_05.md",
+    "Daily-Bullet-Journal/2024/06-June/2024_06_06.md",
+    "Daily-Bullet-Journal/2023/06-June/2023_06_06.md",
     "Homepage.md",
     "Daily-Bullet-Journal/2025/06-June/2025_06_04.md",
     "Daily-Bullet-Journal/2025/06-June/2025_06_02.md",

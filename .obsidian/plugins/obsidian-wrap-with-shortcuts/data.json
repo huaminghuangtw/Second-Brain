@@ -1,6 +1,12 @@
 {
   "wrapperTags": [
     {
+      "id": "w1749274408303",
+      "name": "Double Quotes",
+      "startTag": "“",
+      "endTag": "”"
+    },
+    {
       "id": "w1740516620458",
       "name": "Keyboard",
       "startTag": "<kbd>",
