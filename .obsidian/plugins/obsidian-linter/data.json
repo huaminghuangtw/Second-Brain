@@ -60,10 +60,10 @@
     "yaml-timestamp": {
       "enabled": false,
       "date-created": true,
-      "date-created-key": "created",
-      "date-modified": true,
+      "date-created-key": "date",
+      "date-modified": false,
       "date-modified-key": "modified",
-      "format": "YYYY-MM-DDTHH:mm:ss",
+      "format": "YYYY-MM-DD",
       "convert-to-utc": true,
       "date-created-source-of-truth": "file system",
       "date-modified-source-of-truth": "file system",

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0e86fb2f729a6fb2",
+        "id": "a465b2071fa489fa",
         "type": "tabs",
         "children": [
           {
-            "id": "a864d1914c90fc77",
+            "id": "2a6aa70ad8ec0d67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Homepage.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "be900af02b4307fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_12.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_06_12"
+            }
+          },
+          {
+            "id": "bc51fdbc10bd45bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_06_12"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"PRO Stealth\"",
+                "query": "HolonIQ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +158,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 2025_06_12"
             }
           },
           {
@@ -162,9 +212,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_12.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 2025_06_12"
             }
           },
           {
@@ -217,53 +269,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a864d1914c90fc77",
+  "active": "bc51fdbc10bd45bd",
   "lastOpenFiles": [
-    "EvergreenNotes/PermanentNotes/🍴 Eating Habits.md",
-    "Evergreen-Notes/_attachments/ffe0655b0c04e86559c597a895309bcb.png",
-    "Evergreen-Notes/_attachments/fe643d04ef2efb1bd50d7426f62665b8.png",
-    "Evergreen-Notes/_attachments/fda2af8a9381a47b8f476c2d082278d8.png",
-    "Evergreen-Notes/_attachments/f3a9f4c4007bda7d81cc2c54610a0513.png",
-    "Evergreen-Notes/_attachments/f1e6b3fe0cd63387aba69da042b75197.png",
-    "Evergreen-Notes/_attachments/f1d0af257ff4b79917fccae6c86b3f37.png",
-    "Evergreen-Notes/_attachments/f1c3d7c342c725ec9ef725645ceb5bf9.png",
-    "Evergreen-Notes/_attachments/eb87e876c73bda14d6d8c861492820fd.png",
-    "Evergreen-Notes/_attachments/eb635082fa4a9821a9dc886b5219d2f7.jpeg",
-    "Evergreen-Notes/_attachments/e9bb03ad356d27a9e28b36f9e5ea7c0f.png",
-    "Evergreen-Notes/PermanentNotes/🥩 Beef.md",
-    "Evergreen-Notes/PermanentNotes/🥙 Microwave Mug MealsRecipes.md",
-    "Evergreen-Notes/PermanentNotes/🍷 Wine.md",
-    "Evergreen-Notes/PermanentNotes/🍴 Eating Habits.md",
-    "Evergreen-Notes/PermanentNotes/🍣 Sushi.md",
-    "Evergreen-Notes/PermanentNotes/重量訓練.md",
-    "Evergreen-Notes/PermanentNotes/行為經濟學 Behavioral Economics.md",
-    "Evergreen-Notes/PermanentNotes/終端筋膜.md",
-    "Evergreen-Notes/PermanentNotes/欲望模仿理論 (The Theory of Mimetic Desire).md",
-    "Evergreen-Notes/PermanentNotes/低碳生酮飲食 (Ketogenic Diet).md",
-    "Evergreen-Notes/PermanentNotes/人際關係溝通 Pro Tips.md",
-    "Evergreen-Notes/PermanentNotes/wander.md",
-    "Evergreen-Notes/PermanentNotes/walk.md",
-    "Evergreen-Notes/PermanentNotes/vulnerability.md",
-    "Evergreen-Notes/PermanentNotes/visualization.md",
-    "Evergreen-Notes/PermanentNotes/supplements.md",
-    "Evergreen-Notes/PermanentNotes/sunk cost.md",
-    "Evergreen-Notes/PermanentNotes/stress and anxiety.md",
-    "Evergreen-Notes/PermanentNotes/status quo bias.md",
-    "Evergreen-Notes/PermanentNotes/sleep.md",
-    "Evergreen-Notes/PermanentNotes/slackness.md",
-    "Evergreen-Notes/PermanentNotes/second-order thinking.md",
-    "Evergreen-Notes/PermanentNotes/running.md",
-    "Evergreen-Notes/PermanentNotes/return on hassle.md",
-    "Evergreen-Notes/PermanentNotes/rest, reset, relax, recharge.md",
-    "Evergreen-Notes/FleetingNotes",
-    "Evergreen-Notes/_attachments",
-    "Evergreen-Notes/PermanentNotes",
-    "Evergreen-Notes",
-    "EvergreenNotes/PermanentNotes/FleetingNotes",
-    "EvergreenNotes/PermanentNotes",
-    "Shortcutomation/posts",
-    "Scripts/Templater/slugify.js",
-    "Scripts/view_callout_with_edit_button.js",
-    "Scripts/view-callout-with-edit-button.js"
+    "Daily-Bullet-Journal/2025/05-May/2025_05_20.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_12.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_17.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_30.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/2024/08-August/2024_08_29.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_19.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_12.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_11.md",
+    "Daily-Bullet-Journal/Journal-Backlog.md",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Core Conditioning.jpeg",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_10.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_09.md",
+    "Daily-Bullet-Journal/2025/01-January/2025_01_16.md",
+    "Daily-Bullet-Journal/_attachments/Pasted image 20250612061645.png",
+    "Daily-Bullet-Journal/_attachments/Pasted image 20250612061648.png",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_06.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_11.md",
+    "Daily-Bullet-Journal/2025/06-June/Pasted image 20250612061648.png",
+    "Daily-Bullet-Journal/2025/06-June/Pasted image 20250612061645.png",
+    "Evergreen-Notes/Permanent-Notes/Every single day, chop wood, carry water.md",
+    "Daily-Bullet-Journal/2024/06-June/2024_06_12.md",
+    "Daily-Bullet-Journal/2023/06-June/2023_06_12.md",
+    "Life-Notes/Business/Startups.md",
+    "Evergreen-Notes/Permanent-Notes/Why We Exist.md",
+    "Evergreen-Notes/Permanent-Notes/Leaders are readers.md",
+    "Dear-Today-Me/Dear-Today-Me.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_08.md",
+    "Daily-Bullet-Journal/2025/04-April/2025_04_19.md",
+    "Evergreen-Notes/Permanent-Notes/The Game of Life.md",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/DNA Rewrite.jpeg",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_07.md",
+    "Daily-Bullet-Journal/_attachments/Pasted image 20250610100334.png",
+    "Daily-Bullet-Journal/2025/06-June/Pasted image 20250610100334.png",
+    "Daily-Bullet-Journal/_attachments/Pasted image 20250610070552.png",
+    "Daily-Bullet-Journal/_attachments/Pasted image 20250609202307.png",
+    "Life-Notes/_attachments",
+    "Life-Notes/Writing",
+    "Life-Notes/WebDev",
+    "Life-Notes/Missions",
+    "Life-Notes/Finance",
+    "Life-Notes/Coffee",
+    "Life-Notes/Coding",
+    "Life-Notes/ChatGPT",
+    "Life-Notes/Career",
+    "Life-Notes/Business"
   ]
 }

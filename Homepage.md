@@ -1,11 +1,7 @@
 ---
 created: 2024-11-18T10:18:12
-modified: 2025-06-08T11:10:15
+modified: 2025-06-12T05:55:42
 ---
-
-<!---
-https://help.obsidian.md/Editing+and+formatting/Callouts#Supported+types
---->
 
 ```dataviewjs
 let onDesktop = window.innerWidth > 768;
@@ -69,84 +65,22 @@ if (onDesktop) {
 }
 ```
 
+---
+
 ```dataview
 CALENDAR date
 FROM "Daily-Bullet-Journal"
 WHERE date
 ```
 
+---
+
 ```dataviewjs
 let onDesktop = window.innerWidth > 768;
 if (onDesktop) {
-    const { Utils } = await cJS();
+	const { Utils } = await cJS();
     let today = dv.date("today");
-
-    // ***********************************************
-
-    let todayDiaryContainer = document.createElement('div');
-
-    todayDiaryContainer.style.marginTop = '15px';
-    todayDiaryContainer.style.marginBottom = '15px';
-
-    const todayDiaryButton = document.createElement('button');
-
-    todayDiaryButton.innerText = `✍️ Today's Diary (${today.toISODate()})`;
-
-    todayDiaryButton.classList.add("common", "today-diary-button");
-
-    let monthMM = String(today.month).padStart(2, '0');
-    let monthMMMM = today.toFormat("MMMM");
-    let daydd = String(today.day).padStart(2, '0');
-
-    todayDiaryButton.onclick = async () => {
-        let filePath = `Daily-Bullet-Journal/${today.year}/${monthMM}-${monthMMMM}/${today.year}_${monthMM}_${daydd}.md`;
-
-        let fileExists = await app.vault.adapter.exists(filePath);
-        if (!fileExists) {
-            window.open(
-                `shortcuts://run-shortcut?` +
-                    `name=${encodeURIComponent("✏️ Create New Journal")}&` +
-                    `input=${encodeURIComponent(`${today.year}-${monthMM}-${daydd}`)}`
-            );
-
-            // Wait a few seconds for the shortcut to complete
-            await new Promise(resolve => setTimeout(resolve, 10000));
-        }
-
-        window.open(await Utils.buildObsidianOpenFileURI(filePath));
-    };
-
-    todayDiaryContainer.appendChild(todayDiaryButton);
-
-    dv.container.appendChild(todayDiaryContainer);
-
-    // ***********************************************
-
-    let fleetingNotesContainer = document.createElement('div');
-
-    fleetingNotesContainer.style.marginTop = '15px';
-    fleetingNotesContainer.style.marginBottom = '15px';
-
-    const fleetingNotesButton = document.createElement('button');
-
-    let fleetingNotesFilePath = "EvergreenNotes/FleetingNotes/FleetingNotes.md";
-
-    fleetingNotesButton.innerText = `🗒️ Fleeting Notes`;
-
-    fleetingNotesButton.classList.add("common", "fleeting-notes-button");
-
-    fleetingNotesButton.onclick = async () => {
-        window.open(
-            await Utils.buildObsidianOpenFileURI(fleetingNotesFilePath)
-        );
-    };
-
-    fleetingNotesContainer.appendChild(fleetingNotesButton);
-
-    dv.container.appendChild(fleetingNotesContainer);
-
-    // ***********************************************
-
+    
     function calculateAverage(data, valueLabel, dateFilterFn) {
         const extractors = {
             "Number of Words": (stats) => stats.words,
@@ -416,10 +350,10 @@ if (onDesktop) {
 > 
 > function getRandomFilteredPages(filterFn, maxCount = 5) {
 >     const excludeFiles = [
->         "EvergreenNotes/FleetingNotes/FleetingNotes.md"
+>         "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md"
 >     ];
 > 
->     const filteredPages = dv.pages('"EvergreenNotes"')
+>     const filteredPages = dv.pages('"Evergreen-Notes"')
 >                             .filter(page =>
 >                                 filterFn(page) &&
 >                                 !excludeFiles.includes(page.file.path)
@@ -673,7 +607,7 @@ if (onDesktop) {
     }
 
     let reminderWithSubtasks = reminders.filter(
-        r => Array.isArray(r.subtasks) && r.subtasks.length > 0
+        r => r.subtasks && r.subtasks.length > 0
     );
 
     let randomReminder = Utils.getRandomItem(reminderWithSubtasks);
@@ -709,26 +643,6 @@ if (onDesktop) {
     // ***********************************************
 
     dv.header(1, `<a href="https://github.com/huaminghuangtw/Weekly-Mindware-Update">🧠 Weekly Mindware Update</a>`);
-
-    const latestWMUButton = document.createElement('button');
-
-    latestWMUButton.innerText = `📖 Read Latest WMU`;
-
-    latestWMUButton.classList.add("common", "latest-wmu-button");
-
-    latestWMUButton.onclick = async () => {
-        window.open(
-            await Utils.buildObsidianOpenFileURI(
-                        dv.pages(`"Weekly-Mindware-Update"`)
-                        .where(p => !p.file.name.includes("README"))
-                        .sort(p => p.file.name, 'desc')[0].file.path
-                    )
-        );
-    };
-
-    dv.container.appendChild(latestWMUButton);
-
-    // -----------------------------------------------
 
     let files;
     let filePath;
