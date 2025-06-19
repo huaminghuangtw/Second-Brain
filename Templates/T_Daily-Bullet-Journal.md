@@ -1,40 +1,34 @@
 <%*
-const inputDate = await tp.system.prompt("📝 Journal date? (YYYY-MM-DD)");
-const dateObj = new Date(inputDate);
+const inputDate = await tp.user.datePicker();
+const momentDate = moment(inputDate, "YYYY-MM-DD");
 
-// Utilities
-// Get YYYY-MM-DD ("2025-04-16") from ISO string ("2025-04-16T12:34:56.789Z")
-const formatDate = (date) => date.toISOString().slice(0, 10);
-const formatFileName = (date) => formatDate(date).replace(/-/g, "_");
-const adjustDate = (date, days) => {
-  const newDate = new Date(date);
-  newDate.setDate(newDate.getDate() + days);
-  return newDate;
-};
-const getISOWeekNumber = (date) => {
-  const tempDate = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
-  const day = tempDate.getUTCDay() || 7;
-  tempDate.setUTCDate(tempDate.getUTCDate() + 4 - day);
-  const yearStart = new Date(Date.UTC(tempDate.getUTCFullYear(), 0, 1));
-  return Math.ceil((((tempDate - yearStart) / 86400000) + 1) / 7);
-};
+const formatISO8601Date = (m) => m.format("YYYY-MM-DD");
+const formatFileName = (m) => m.format("YYYY_MM_DD");
+const adjustDate = (m, days) => m.clone().add(days, 'days');
+const getISOWeekNumber = (m) => m.isoWeek();
 
-const today = formatDate(dateObj);
-const prevDate = formatDate(adjustDate(dateObj, -1));
-const nextDate = formatDate(adjustDate(dateObj, 1));
+const today = formatISO8601Date(momentDate);
+const prevDate = formatISO8601Date(adjustDate(momentDate, -1));
+const nextDate = formatISO8601Date(adjustDate(momentDate, 1));
 
-const fileName = formatFileName(dateObj);
-const prevFile = formatFileName(adjustDate(dateObj, -1));
-const nextFile = formatFileName(adjustDate(dateObj, 1));
+const fileName = formatFileName(momentDate);
+const prevFile = formatFileName(adjustDate(momentDate, -1));
+const nextFile = formatFileName(adjustDate(momentDate, 1));
 
-const dayOfWeek = dateObj.toLocaleDateString("en-US", { weekday: "long" });
-const weekNumber = getISOWeekNumber(dateObj);
+const dayOfWeek = momentDate.format("dddd");
+const weekNumber = getISOWeekNumber(momentDate);
 
-await tp.file.rename(fileName);
-const year = dateObj.getFullYear();
-const month = `${(dateObj.getMonth() + 1).toString().padStart(2, "0")}-${dateObj.toLocaleString("en-US", { month: "long" })}`;
-const folder = `Daily-Bullet-Journal/${year}/${month}/`;
-await tp.file.move(folder + fileName);
+const file = tp.file.find_tfile(fileName);
+if (file) {
+    app.workspace.getLeaf("tab").openFile(file);
+    return;
+} else {
+    const year = momentDate.format("YYYY");
+    const month = momentDate.format("MM") + "-" + momentDate.format("MMMM");
+    const folder = `Daily-Bullet-Journal/${year}/${month}/`;
+    await tp.file.rename(fileName);
+    await tp.file.move(folder + fileName);
+}
 -%>
 ---
 date: <% today %>
@@ -44,12 +38,11 @@ weekNumber: <% weekNumber %>
 
 # 📝 <% today %>
 
-| [PREV: <% prevDate %>](<% prevFile %>.md) | [NEXT: <% nextDate %>](<% nextFile %>.md) |
-| :---: | :---: |
+◀ [<% prevDate %>](<% prevFile %>.md) | [<% nextDate %>](<% nextFile %>.md) ▶
 
 ## Daily Highlights
 
-<% tp.file.cursor() %>
+* <% tp.file.cursor() %>
 
 ## I Am Grateful for
 

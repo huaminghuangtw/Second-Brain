@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T10:18:12
-modified: 2025-06-12T05:55:42
+modified: 2025-06-19T08:47:18
 ---
 
 ```dataviewjs
@@ -182,14 +182,15 @@ if (onDesktop) {
 > [!ERROR]- 🫶 Health
 >
 > ```dataviewjs
+> const NO_DATA = "‏‎ ‎ ";
 > let today = dv.date("today");
->
+> 
 > dv.header(3, "Last 7 Days");
->
+> 
 > function calculateSumAndAverage(data, metric, isTime = false) {
 >     let total = 0, totalHours = 0, totalMinutes = 0, count = 0;
 >     for (const row of data) {
->         if (row[metric] !== "N/A") {
+>         if (row[metric] !== NO_DATA) {
 >             if (isTime) {
 >                 const hours = row[metric]?.hours || 0;
 >                 const minutes = row[metric]?.minutes || 0;
@@ -207,17 +208,17 @@ if (onDesktop) {
 >         return {
 >             average: count > 0
 >                 ? `${Math.floor(totalHours / count)}h ${Math.round(totalMinutes / count)}m`
->                 : "N/A",
+>                 : NO_DATA,
 >             count
 >         };
 >     } else {
 >         return {
->             average: count > 0 ? Math.round(total / count) : "N/A",
+>             average: count > 0 ? Math.round(total / count) : NO_DATA,
 >             count
 >         };
 >     }
 > }
->
+> 
 > function getDataForPeriod(days) {
 >     return dv.pages('"Daily-Bullet-Journal"')
 >         .where(p =>
@@ -227,7 +228,7 @@ if (onDesktop) {
 >         .map((todayEntry, i, entries) => {
 >             const yesterdayEntry = entries[i + 1];
 >             const calculateTimeDifference = (startTime, endTime) => {
->                 if (!startTime || !endTime) return "N/A";
+>                 if (!startTime || !endTime) return NO_DATA;
 >                 const timeInSeconds = (endTime - startTime) / 1000;
 >                 return {
 >                     hours: Math.floor(timeInSeconds / 3600),
@@ -235,8 +236,8 @@ if (onDesktop) {
 >                 };
 >             };
 >             const sleepTime = calculateTimeDifference(yesterdayEntry?.bedTime, todayEntry.wakeUpTime);
->             const screenTime = todayEntry.phoneScreenTime ? dv.duration(todayEntry.phoneScreenTime) : "N/A";
->             const steps = todayEntry.steps || "N/A";
+>             const screenTime = todayEntry.phoneScreenTime ? dv.duration(todayEntry.phoneScreenTime) : NO_DATA;
+>             const steps = todayEntry.steps || NO_DATA;
 >             return {
 >                 link: todayEntry.file.link,
 >                 sleepTime,
@@ -246,20 +247,20 @@ if (onDesktop) {
 >         })
 >         .slice(0, -1); // Exclude the last entry since it won't have a "yesterday" entry
 > }
->
+> 
 > const data7Day = getDataForPeriod(7);
 > const data30Day = getDataForPeriod(30);
 > const data90Day = getDataForPeriod(90);
 > const data180Day = getDataForPeriod(180);
->
+> 
 > const thresholds = {
 >     sleepTime: { hours: 7, minutes: 30 },
 >     screenTime: { hours: 2, minutes: 0 },
 >     steps: 3000
 > };
->
+> 
 > function prependThreshold(value, threshold, isTime = false, isLessBetter = false) {
->     if (value === "N/A") return value;
+>     if (value === NO_DATA) return value;
 >     if (isTime) {
 >         const totalMinutes = value.hours * 60 + value.minutes;
 >         const thresholdMinutes = threshold.hours * 60 + threshold.minutes;
@@ -272,7 +273,7 @@ if (onDesktop) {
 >             : value >= threshold ? `✅ ${value}` : `❌ ${value}`;
 >     }
 > }
->
+> 
 > dv.table(
 >     ["‏‎", "**🛌 Sleep Time**", "**📱 Screen Time**", "**🚶 Steps**"],
 >     data7Day.map(row => [
@@ -282,9 +283,9 @@ if (onDesktop) {
 >         prependThreshold(row.steps, thresholds.steps, false)
 >     ])
 > );
->
+> 
 > dv.header(3, "Averages");
->
+> 
 > const averages = {
 >     "🛌 Sleep Time": {
 >         "7-Day": calculateSumAndAverage(data7Day, 'sleepTime', true).average,
@@ -305,7 +306,7 @@ if (onDesktop) {
 >         "180-Day": calculateSumAndAverage(data180Day, 'steps', false).average
 >     }
 > };
->
+> 
 > dv.table(
 >     ["‏‎", "**7-Day**", "**30-Day**", "**90-Day**", "**180-Day**"],
 >     Object.entries(averages).map(([metric, values]) => [
