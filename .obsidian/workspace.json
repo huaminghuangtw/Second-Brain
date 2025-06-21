@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "128362ab0157ea67",
+        "id": "ec9a3051ad6942a5",
         "type": "tabs",
         "children": [
           {
-            "id": "f80b0c1545975b0b",
+            "id": "b30f1bb3dd67b274",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2025_06_21"
             }
           },
           {
-            "id": "fccf368580543568",
+            "id": "dc61e297f9626097",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/2022/06-June/2022_06_02.md",
+                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2022_06_02"
+              "title": "2025_06_01"
+            }
+          },
+          {
+            "id": "4e538f53bec71478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_21.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_06_21"
             }
           }
         ]
@@ -87,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "donners",
+                "query": "msi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +157,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 2025_06_21"
             }
           },
           {
@@ -187,10 +212,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_21.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for 2025_06_21"
             }
           },
           {
@@ -243,49 +268,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f80b0c1545975b0b",
+  "active": "b30f1bb3dd67b274",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/2022/03-March/2022_03_02.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/2022/03-March",
-    "Daily-Bullet-Journal/2025/06-June/2025_06_19.md",
-    "Daily-Bullet-Journal/2022/06-June/2022_06_17.md",
-    "Daily-Bullet-Journal/2022/06-June/2022_06_19.md",
-    "Daily-Bullet-Journal/2022/06-June/2022_06_08.md",
-    "Daily-Bullet-Journal/2022/06-June/2022_06_01.md",
-    "Daily-Bullet-Journal/2022/06-June/2022_06_02.md",
-    "Daily-Bullet-Journal/2022/06-June/2022_06_15.md",
-    "Daily-Bullet-Journal/2022/06-June/2022_06_12.md",
-    "Daily-Bullet-Journal/2022/06-June/2022_06_11.md",
-    "Scripts/Templater/datePicker.js",
-    "Daily-Bullet-Journal/2022/05-May/2022_05_19.md",
-    "Daily-Bullet-Journal/2025/06-June/2025_06_18.md",
-    "Daily-Bullet-Journal/2025/06-June/2025_06_17.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_15.md",
     "Daily-Bullet-Journal/2025/06-June/2025_06_16.md",
-    "Untitled.md",
-    "Daily-Bullet-Journal/2022/06-June/2022_06_05.md",
-    "Daily-Bullet-Journal/Invalid date/Invalid date-Invalid date/Invalid date.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_29.md",
+    "Daily-Bullet-Journal/2023/06-June/2023_06_21.md",
+    "Daily-Bullet-Journal/2024/06-June/2024_06_21.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_21.md",
+    "Evergreen-Notes/Permanent-Notes/happiness.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_01.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_02.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_03.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_04.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_05.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_06.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_07.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_08.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_09.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_10.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_11.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_12.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_13.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_14.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_17.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_18.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_19.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_20.md",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/One Step Closer.jpeg",
+    "Daily-Bullet-Journal/_attachments/2025_06_20_16_44_57.jpg",
+    "Daily-Bullet-Journal/_attachments/2025_06_20_16_44_50.jpg",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Power Squat.jpeg",
+    "Daily-Bullet-Journal/2022/03-March",
+    "Scripts/Templater/datePicker.js",
     "Daily-Bullet-Journal/Invalid date/Invalid date-Invalid date",
     "Daily-Bullet-Journal/Invalid date",
-    "2022_06_05.md",
-    "Invalid date.md",
-    "Life-Notes/Coffee/器材.md",
-    "Daily-Bullet-Journal/2025/06-June/2025_06_11.md",
-    "2022_06_02.md",
-    "2022_06_02.md",
-    "2022_06_02.md",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Extra Crunch.jpeg",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Chisel.jpeg",
     "Daily-Bullet-Journal/_attachments/Pasted image 20250617175415.png",
     "Daily-Bullet-Journal/_attachments/Pasted image 20250614204742.png",
     "Daily-Bullet-Journal/_attachments/Pasted image 20250617175656.png",
     "Visuals/Fitness/Darebee/ExerciseOfTheDay/Split Jacks.gif",
-    "Daily-Bullet-Journal/2025/06-June/Pasted image 20250617175656.png",
-    "Daily-Bullet-Journal/2025/06-June/Pasted image 20250617175415.png",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Factory Reset.jpeg",
     "Deep-Work-Machine/Number of Flows/data.json",
     "Deep-Work-Machine/Number of Flows/data.txt",
-    "Daily-Bullet-Journal/_attachments/2025_06_15_17_19_22.png",
     "Life-Notes/_attachments",
     "Life-Notes/Writing",
     "Life-Notes/WebDev",

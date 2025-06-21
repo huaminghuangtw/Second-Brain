@@ -102,9 +102,57 @@
               "icon": "lucide-file",
               "title": "2025_06_18"
             }
+          },
+          {
+            "id": "105d78414ad12647",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_20.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_06_20"
+            }
+          },
+          {
+            "id": "4b242a375d59753d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/Maltodextrin.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Maltodextrin"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -228,11 +276,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b69d5c3bc46f37e6",
+  "active": "105d78414ad12647",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/2025/06-June/2025_06_19.md",
+    "Evergreen-Notes/Permanent-Notes/Maltodextrin.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_20.md",
+    "Untitled.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_18.md",
     "Daily-Bullet-Journal/2025/06-June/2025_06_16.md",
     "Daily-Bullet-Journal/2025/06-June/2025_06_17.md",
-    "Daily-Bullet-Journal/2025/06-June/2025_06_18.md",
     "Homepage.md",
     "Daily-Bullet-Journal/JournalBacklog.md",
     "Daily-Bullet-Journal/2025/06-June/2025_06_14.md",
@@ -251,7 +303,6 @@
     "Daily-Bullet-Journal/2025/01-January/2025_01_27 2.md",
     "Daily-Bullet-Journal/2025/01-January/2025_01_26.md",
     "LifeNotes/Nutrition/Make Your Own Energy Gels.md",
-    "Weekly-Mindware-Update/2024/2024_Week_26.md",
-    "Daily-Bullet-Journal/2025/01-January/2025_01_19.md"
+    "Weekly-Mindware-Update/2024/2024_Week_26.md"
   ]
 }

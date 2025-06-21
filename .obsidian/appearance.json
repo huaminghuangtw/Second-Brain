@@ -1,7 +1,7 @@
 {
   "interfaceFontFamily": "SF Pro Display",
   "monospaceFontFamily": "Source Code Pro",
-  "baseFontSize": 23,
+  "baseFontSize": 25,
   "baseFontSizeAction": true,
   "cssTheme": "Minimal",
   "translucency": true,
