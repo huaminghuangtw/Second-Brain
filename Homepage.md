@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T10:18:12
-modified: 2025-06-19T08:47:18
+modified: 2025-06-23T17:04:41
 ---
 
 ```dataviewjs
@@ -608,7 +608,7 @@ if (onDesktop) {
     }
 
     let reminderWithSubtasks = reminders.filter(
-        r => r.subtasks && r.subtasks.length > 0
+        r => r.subtasks.length > 0
     );
 
     let randomReminder = Utils.getRandomItem(reminderWithSubtasks);
