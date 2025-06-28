@@ -527,15 +527,6 @@
       "key": "ArrowUp"
     }
   ],
-  "open-with-default-app:show": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "F"
-    }
-  ],
   "file-explorer:reveal-active-file": [
     {
       "modifiers": [
@@ -755,6 +746,23 @@
         "Mod"
       ],
       "key": "H"
+    }
+  ],
+  "editor:context-menu": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "open-with-default-app:show": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "F"
     }
   ]
 }

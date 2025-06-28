@@ -152,6 +152,30 @@
             }
           },
           {
+            "id": "3b027e88c77770f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_06_26"
+            }
+          },
+          {
             "id": "4b242a375d59753d",
             "type": "leaf",
             "state": {
@@ -176,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -300,8 +324,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "183c4ed5af93f7b9",
+  "active": "3b027e88c77770f3",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/2025/06-June/2025_06_23.md",
     "Daily-Bullet-Journal/2025/06-June/2025_06_22.md",
     "Daily-Bullet-Journal/2025/06-June/2025_06_21.md",
     "Daily-Bullet-Journal/2025/06-June/2025_06_20.md",
@@ -326,7 +351,6 @@
     "Daily-Bullet-Journal/2025/06-June/2025_06_02.md",
     "Daily-Bullet-Journal/2025/06-June/2025_06_01.md",
     "Dear-Today-Me/Dear-Today-Me.md",
-    "Daily-Bullet-Journal/2025/01-January/2025_01_27 2.md",
-    "Daily-Bullet-Journal/2025/01-January/2025_01_26.md"
+    "Daily-Bullet-Journal/2025/01-January/2025_01_27 2.md"
   ]
 }

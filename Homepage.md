@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T10:18:12
-modified: 2025-06-23T17:04:41
+modified: 2025-06-26T11:37:27
 ---
 
 ```dataviewjs
@@ -78,7 +78,7 @@ WHERE date
 ```dataviewjs
 let onDesktop = window.innerWidth > 768;
 if (onDesktop) {
-	const { Utils } = await cJS();
+    const { Utils } = await cJS();
     let today = dv.date("today");
     
     function calculateAverage(data, valueLabel, dateFilterFn) {
@@ -121,7 +121,7 @@ if (onDesktop) {
     for (const [metric, data] of Object.entries(metrics)) {
         let allFiles = Utils.getAllFilesByExtension(`Deep-Work-Machine/${metric}`, "json")
                             .filter(file => !file.path.endsWith("data.json"));
-
+                            
         let allTimeData = (await Promise.all(allFiles.map(file =>
             app.vault.adapter.read(file.path).then(data => JSON.parse(data).data)
         ))).flat();
