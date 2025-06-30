@@ -4,7 +4,7 @@
   "autoFocus": true,
   "autoTrigger": true,
   "minWordLength": 2,
-  "minWordTriggerLength": 5,
+  "minWordTriggerLength": 3,
   "wordInsertionMode": "Match-Case & Replace",
   "ignoreDiacriticsWhenFiltering": false,
   "latexProviderEnabled": true,
