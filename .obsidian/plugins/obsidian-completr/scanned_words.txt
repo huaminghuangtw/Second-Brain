@@ -846,6 +846,8 @@ dozen
 directional
 dismissed
 downplays
+dreamed
+daytime
 Thursday
 Text
 TODOs
@@ -1418,6 +1420,7 @@ Tier
 Transmission
 Theseus
 Trojan
+Tackle
 weekNumber
 wakeUpTime
 would
@@ -1861,6 +1864,7 @@ wipes
 weirder
 weakly
 wildly
+woke
 location
 lastPlugPhoneAt
 like
@@ -2793,6 +2797,8 @@ Literacy
 Loans
 Laser
 Late
+Leipzig
+Lion
 Germany
 Grateful
 GitHub
@@ -4492,6 +4498,10 @@ sensitizes
 south
 salaries
 swims
+slept
+starters
+sleepers
+scheduling
 phoneScreenTime
 post
 porridge
@@ -6095,6 +6105,7 @@ forecaster
 fraught
 frugal
 fatal
+fade
 endTheDayAt
 every
 etc
@@ -7458,6 +7469,7 @@ begets
 borrowing
 bill
 brags
+behold
 numberOfFlows
 numberOfWords
 next
@@ -8502,6 +8514,7 @@ mercilessly
 mattered
 mentorships
 multiplied
+mismatches
 What
 Weizenvollkornmehl
 Wins
@@ -8912,6 +8925,8 @@ Wider
 Wittgenstein
 WAIT
 WEALTH
+Weihenstephan
+Wolf
 is
 in
 input
@@ -9543,6 +9558,7 @@ intrudes
 interconnected
 incorporates
 ism
+irregular
 reminder
 rule
 repeat
@@ -11868,6 +11884,7 @@ accrue
 averse
 asserted
 acknowledging
+aster
 Daily
 Day
 During
@@ -12376,6 +12393,8 @@ Doughnut
 Desires
 Decisions
 Duck
+Deepak
+Dolphin
 Highlights
 Hotmetrics
 Hotmetric
@@ -12821,6 +12840,7 @@ Hunting
 Housel
 Hitchens
 Horses
+Hooper
 Free
 For
 Friday
@@ -13350,6 +13370,8 @@ Focuses
 Frugal
 Fisherman
 Flaming
+FAILED
+Fett
 Ride
 Right
 References
@@ -13932,6 +13954,7 @@ Rational
 Raworth
 Retire
 Rooms
+Rasiercreme
 Start
 Spelt
 Strategizing
@@ -14880,6 +14903,7 @@ Safety
 Savings
 Secretary
 Satisficers
+Sturgis
 After
 April
 Am
@@ -15497,6 +15521,7 @@ Articulating
 Alchemy
 Avocados
 Arena
+Animal
 up
 urlShortcuts
 url
@@ -16419,6 +16444,7 @@ Belief
 Buying
 Borrower
 Bragging
+Breus
 January
 Journal
 JSON
@@ -16892,6 +16918,7 @@ Yog
 Yup
 Yep
 Yevhen
+Yoghurt
 Mat
 Mac
 Monday
@@ -18016,6 +18043,7 @@ Eventually
 Edged
 Experimental
 Euler
+Extension
 Prioritization
 ProTip
 Project
@@ -18720,6 +18748,7 @@ Probabilities
 Particle
 Political
 Producer
+Permanent
 of
 open
 onclick
@@ -19155,6 +19184,7 @@ opposition
 onion
 outsized
 observation
+owls
 One
 Off
 Object
@@ -20323,6 +20353,9 @@ Cornell
 Confirming
 Certainties
 Cry
+Chopra
+Chronotype
+Chronotypes
 Inbox
 Improve
 ID
@@ -22496,6 +22529,7 @@ collaborations
 chicken
 capital
 cashes
+chronotype
 Utils
 Update
 Ueland
@@ -22812,6 +22846,7 @@ Undone
 Unemployed
 Unread
 Universität
+Unpredictable
 valueLabel
 values
 value
@@ -24052,6 +24087,7 @@ hacker
 hapless
 horsepower
 heuristics
+hardcoding
 json
 journalBacklogFilePath
 join
