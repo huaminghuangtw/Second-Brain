@@ -4,11 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "140cb440218c34ee",
+        "id": "e5a56f0b20af0972",
         "type": "tabs",
         "children": [
           {
-            "id": "b8173e51b96ae9f9",
+            "id": "9d653a58a52e31e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_02.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_07_02"
+            }
+          },
+          {
+            "id": "381e76db4c1ea6d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "80cdc9d07a84305b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,129 +78,8 @@
               "icon": "lucide-file",
               "title": "2025_07_01"
             }
-          },
-          {
-            "id": "5fbd1ea750a53c16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/Apple Shortcuts.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Apple Shortcuts"
-            }
-          },
-          {
-            "id": "057cdd608e4748c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "179b17ad1880a48a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_30.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_06_30"
-            }
-          },
-          {
-            "id": "e6c3a697d40463cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "15f0a0fd90fa4348",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_30.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_06_30"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(open shortcut)",
+                "query": "stage manager",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -252,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/Apple Shortcuts.md",
+                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Apple Shortcuts"
+              "title": "Backlinks for 2025_07_02"
             }
           },
           {
@@ -300,10 +227,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/Apple Shortcuts.md"
+                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_02.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Apple Shortcuts"
+              "title": "File properties for 2025_07_02"
             }
           },
           {
@@ -341,11 +268,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fbd1ea750a53c16",
+  "active": "9d653a58a52e31e8",
   "lastOpenFiles": [
     "Daily-Bullet-Journal/2025/07-July/2025_07_01.md",
-    "Daily-Bullet-Journal/2025/06-June/2025_06_30.md",
     "Homepage.md",
+    "Daily-Bullet-Journal/2025/07-July/2025_07_02.md",
+    "Daily-Bullet-Journal/2024/07-July/2024_07_11.md",
+    "Daily-Bullet-Journal/2022/07-July/2022_07_02.md",
+    "Daily-Bullet-Journal/2024/07-July/2024_07_02.md",
+    "Daily-Bullet-Journal/2023/07-July/2023_07_02.md",
+    "Daily-Bullet-Journal/2022/07-July",
+    "Shortcutomation/posts/a-nighttime-routine-i-do-every-day.md",
+    "Shortcutomation/_attachments/af26e322fec959c393779754eb7f43b5.PNG",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_30.md",
+    "Daily-Bullet-Journal/2025/07-July/Pasted image 20250701201653.png",
+    "Daily-Bullet-Journal/2025/04-April/2025_04_05.md",
+    "Daily-Bullet-Journal/2025/07-July/Pasted image 20250701201046.png",
+    "Daily-Bullet-Journal/2025/07-July/Pasted image 20250701195958.png",
+    "Daily-Bullet-Journal/2025/02-February/2025_02_22.md",
+    "Daily-Bullet-Journal/2025/02-February/2025_02_08.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_26.md",
+    "Daily-Bullet-Journal/2025/03-March/2025_03_07.md",
+    "Evergreen-Notes/Permanent-Notes/Apple Shortcuts.md",
     "Evergreen-Notes/Permanent-Notes/Maltodextrin.md",
     "Evergreen-Notes/Permanent-Notes/Chronotype.md",
     "Daily-Bullet-Journal/2024/08-August/2024_08_23.md",
@@ -358,18 +302,6 @@
     "Daily-Bullet-Journal/2025/07-July",
     "Daily-Bullet-Journal/2025/06-June/2025_06_29.md",
     "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
-    "Evergreen-Notes/Permanent-Notes/Just getting started.md",
-    "Evergreen-Notes/Permanent-Notes/Decision Making.md",
-    "Evergreen-Notes/Permanent-Notes/Cultivate a strong bias towards action.md",
-    "Daily-Bullet-Journal/2025/05-May/2025_05_26.md",
-    "Daily-Bullet-Journal/Journal-Backlog.md",
-    "Daily-Bullet-Journal/2025/06-June/2025_06_24.md",
-    "Daily-Bullet-Journal/2024/06-June/2024_06_15.md",
-    "Daily-Bullet-Journal/2025/06-June/2025_06_04.md",
-    "Evergreen-Notes/Permanent-Notes/What Success Means To Me.md",
-    "Daily-Bullet-Journal/2024/02-February/2024_02_24.md",
-    "Evergreen-Notes/Permanent-Notes/Leaders are readers.md",
-    "Evergreen-Notes/Permanent-Notes/Prioritization.md",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Glow.jpeg",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/I Showed Up.jpeg",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Best Foot Forward.jpeg",
@@ -377,17 +309,12 @@
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/The Climber.jpeg",
     "Visuals/Fitness/Darebee/ExerciseOfTheDay/Shrimp Squats.gif",
     "Daily-Bullet-Journal/_attachments/Pasted image 20250626061437.png",
-    "Daily-Bullet-Journal/_attachments/Pasted image 20250623163928.png",
-    "Daily-Bullet-Journal/_attachments/Pasted image 20250622143838.png",
-    "Daily-Bullet-Journal/2025/06-June/Pasted image 20250626061437.png",
     "Daily-Bullet-Journal/Daily-Bullet-Journal/2025/06-June/2025_06_23.txt",
     "Daily-Bullet-Journal/Daily-Bullet-Journal/2025/06-June",
     "Daily-Bullet-Journal/Daily-Bullet-Journal/2025",
     "Daily-Bullet-Journal/Daily-Bullet-Journal",
     "Daily-Bullet-Journal/---.txt",
     "Daily-Bullet-Journal/Invalid date/Invalid date-Invalid date",
-    "Daily-Bullet-Journal/Invalid date",
-    "Daily-Bullet-Journal/2025/06-June/Pasted image 20250623163928.png",
-    "Daily-Bullet-Journal/2022/03-March"
+    "Daily-Bullet-Journal/Invalid date"
   ]
 }
