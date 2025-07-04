@@ -53,17 +53,17 @@
     },
     "yaml-key-sort": {
       "enabled": true,
-      "yaml-key-priority-sort-order": "title\nslug\ndescription\ndate\ndayOfWeek\nyear\nweekNumber\nlocation\nsteps\nweight\nphoneScreenTime\nwakeUpTime\nfirstUnplugPhoneAt\nstartTheDayAt\nendTheDayAt\nlastPlugPhoneAt\nbedTime\nnumberOfFlows\nnumberOfWords\nspreadsheetId\nlastModified\nprev\nnext",
+      "yaml-key-priority-sort-order": "title\nslug\ndescription\ndate\ndayOfWeek\nyear\nweekNumber\nlocation\nsteps\nweight\nphoneScreenTime\nwakeUpTime\nfirstUnplugPhoneAt\nstartTheDayAt\nendTheDayAt\nlastPlugPhoneAt\nbedTime\nnumberOfFlows\nnumberOfWords\nspreadsheetId\nprev\nnext\ncreated\nmodified",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "None"
     },
     "yaml-timestamp": {
       "enabled": false,
       "date-created": true,
-      "date-created-key": "date",
-      "date-modified": false,
+      "date-created-key": "created",
+      "date-modified": true,
       "date-modified-key": "modified",
-      "format": "YYYY-MM-DD",
+      "format": "YYYY-MM-DDTHH:MM:SS",
       "convert-to-utc": true,
       "date-created-source-of-truth": "file system",
       "date-modified-source-of-truth": "file system",
