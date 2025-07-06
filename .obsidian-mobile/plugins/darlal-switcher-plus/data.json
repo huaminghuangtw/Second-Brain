@@ -52,8 +52,8 @@
   "shouldSearchFilenames": false,
   "shouldSearchBookmarks": false,
   "shouldSearchRecentFiles": true,
-  "pathDisplayFormat": 3,
-  "hidePathIfRoot": false,
+  "pathDisplayFormat": 1,
+  "hidePathIfRoot": true,
   "enabledRelatedItems": [
     "disk-location",
     "backlink",
@@ -61,6 +61,7 @@
   ],
   "showOptionalIndicatorIcons": true,
   "overrideStandardModeBehaviors": true,
+  "overrideStandardModeRendering": true,
   "enabledRibbonCommands": [
     "HeadingsList",
     "SymbolList"
@@ -399,5 +400,26 @@
       "8",
       "9"
     ]
+  },
+  "openDefaultApp": {
+    "isEnabled": true,
+    "openInDefaultAppKeys": {
+      "modifiers": [
+        "Shift",
+        "Ctrl"
+      ],
+      "key": "o"
+    },
+    "excludeFileExtensions": []
+  },
+  "fulltextSearch": {
+    "isEnabled": true,
+    "searchKeys": {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "f"
+    }
   }
 }

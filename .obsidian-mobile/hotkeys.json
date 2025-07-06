@@ -122,15 +122,6 @@
       "key": "ArrowDown"
     }
   ],
-  "editor:unfold-all": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "H"
-    }
-  ],
   "note-refactor-obsidian:app:extract-selection-first-line": [
     {
       "modifiers": [
@@ -320,14 +311,6 @@
   ],
   "editor:open-link-in-new-window": [],
   "editor:open-link-in-new-split": [],
-  "obsidian-text-format:wrapper:underline": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "U"
-    }
-  ],
   "obsidian-text-format:convert-bullet-list": [
     {
       "modifiers": [
@@ -544,15 +527,6 @@
       "key": "ArrowUp"
     }
   ],
-  "open-with-default-app:show": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "F"
-    }
-  ],
   "file-explorer:reveal-active-file": [
     {
       "modifiers": [
@@ -569,14 +543,6 @@
         "Shift"
       ],
       "key": "E"
-    }
-  ],
-  "editor:fold-all": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "H"
     }
   ],
   "obsidian-linter:lint-file-unless-ignored": [
@@ -615,14 +581,6 @@
       "key": "P"
     }
   ],
-  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1740516620458": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "K"
-    }
-  ],
   "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1740516528044": [
     {
       "modifiers": [
@@ -658,15 +616,6 @@
         "Ctrl"
       ],
       "key": "L"
-    }
-  ],
-  "editor:toggle-highlight": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Shift"
-      ],
-      "key": "H"
     }
   ],
   "omnisearch:show-modal": [
@@ -737,6 +686,83 @@
         "Shift"
       ],
       "key": " "
+    }
+  ],
+  "templater-obsidian:create-Templates/T_Today-I-Learned.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_Daily-Bullet-Journal.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "J"
+    }
+  ],
+  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1740516620458": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_Shortcutomation.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:unfold-all": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:context-menu": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "open-with-default-app:show": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "F"
     }
   ]
 }

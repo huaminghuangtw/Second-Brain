@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c3f41c1c9fa4e399",
+        "id": "75e46748770bb0d5",
         "type": "tabs",
         "children": [
           {
-            "id": "40db70ffab876cf1",
+            "id": "3a611b47249d571b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_04.md",
+                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_07_04"
+              "title": "2025_07_06"
             }
           },
           {
-            "id": "ae975943004c11aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/2024/08-August/2024_08_02.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2024_08_02"
-            }
-          },
-          {
-            "id": "3342acf17e5d42bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dear-Today-Me/Dear-Today-Me.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Dear-Today-Me"
-            }
-          },
-          {
-            "id": "bc0f7514708f249b",
+            "id": "a4789d5dd488a73c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,12 +56,12 @@
             }
           },
           {
-            "id": "7dea498b6a160474",
+            "id": "7155838871b727e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_03.md",
+                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +76,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_07_03"
+              "title": "2025_07_05"
+            }
+          },
+          {
+            "id": "2960dc1c99cb23f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "d904c81397ceacb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_05.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_07_05"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(half in all out)",
+                "query": "spiral",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "fb09601ac695ea04",
@@ -227,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dear-Today-Me/Dear-Today-Me.md",
+                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +238,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dear-Today-Me"
+              "title": "Backlinks for 2025_07_05"
             }
           },
           {
@@ -275,10 +276,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dear-Today-Me/Dear-Today-Me.md"
+                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_05.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Dear-Today-Me"
+              "title": "File properties for 2025_07_05"
             }
           },
           {
@@ -300,8 +301,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5,
-    "collapsed": true
+    "width": 362.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -316,34 +316,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3342acf17e5d42bb",
+  "active": "d904c81397ceacb5",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/2024/08-August/2024_08_02.md",
-    "Life-Notes/Career/Day Job Workplace Tips.md",
-    "Evergreen-Notes/Permanent-Notes/Courage is knowing what not to fear.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_04.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_03.md",
+    "Daily-Bullet-Journal/2025/07-July/2025_07_06.md",
+    "Daily-Bullet-Journal/2025/07-July/2025_07_05.md",
     "Homepage.md",
+    "Weekly-Mindware-Update/2025/2025_Week_27.md",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Messenger.jpeg",
+    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Upward Downward Dog.gif",
+    "Daily-Bullet-Journal/2023/07-July/2023_07_06.md",
+    "Daily-Bullet-Journal/2024/07-July/2024_07_06.md",
+    "Daily-Bullet-Journal/2025/07-July/2025_07_04.md",
+    "Daily-Bullet-Journal/2024/11-November/2024_11_21.md",
+    "Weekly-Mindware-Update/2024/2024_Week_33.md",
+    "Evergreen-Notes/Permanent-Notes/Journey over destination.md",
+    "Evergreen-Notes/Permanent-Notes/Emotional Freedom.md",
+    "Daily-Bullet-Journal/2025/03-March/2025_03_31.md",
+    "Evergreen-Notes/Permanent-Notes/Change yourself to change the world.md",
+    "Evergreen-Notes/Permanent-Notes/first-principle thinking.md",
+    "Daily-Bullet-Journal/2025/07-July/2025_07_05-2.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_07.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_30.md",
+    "Evergreen-Notes/Permanent-Notes/Escape competition through authenticity.md",
+    "Daily-Bullet-Journal/2024/07-July/2024_07_05.md",
+    "Daily-Bullet-Journal/2023/07-July/2023_07_05.md",
+    "Daily-Bullet-Journal/2022/07-July/2022_07_05.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_20.md",
     "Dear-Today-Me/Dear-Today-Me.md",
-    "Evergreen-Lists/⌨️ Keyboard Hotkey/⌨️ Keyboard Hotkey.md",
-    "Weekly-Mindware-Update/README.md",
-    "Evergreen-Lists/README.md",
-    "Weekly-Mindware-Update/2024/2024_Week_52.md",
-    "Weekly-Mindware-Update/2025/2025_Week_01.md",
-    "Weekly-Mindware-Update/2025/2025_Week_02.md",
-    "Weekly-Mindware-Update/2025/2025_Week_25.md",
-    "Weekly-Mindware-Update/2025/2025_Week_26.md",
-    "Weekly-Mindware-Update/2024/2024_Week_14.md",
-    "Weekly-Mindware-Update/2024/2024_Week_06.md",
-    "Weekly-Mindware-Update/2024/2024_Week_03.md",
-    "Weekly-Mindware-Update/2024/2024_Week_01.md",
-    "Weekly-Mindware-Update/2024/2024_Week_02.md",
-    "Weekly-Mindware-Update/2025/2025_Week_03.md",
-    "Weekly-Mindware-Update/2025/2025_Week_04.md",
-    "Weekly-Mindware-Update/2025/2025_Week_05.md",
-    "Weekly-Mindware-Update/2025/2025_Week_06.md",
-    "Weekly-Mindware-Update/2025/2025_Week_07.md",
-    "Weekly-Mindware-Update/2025/2025_Week_08.md",
+    "Weekly-Mindware-Update/2024/2024_Week_42.md",
+    "Daily-Bullet-Journal/Journal-Backlog.md",
+    "Shortcutomation/posts/a-nighttime-routine-i-do-every-day.md",
+    "Shortcutomation/_attachments/e31f4582014b484ada425661df1286e7.PNG",
     "Daily-Bullet-Journal/_attachments/Pasted image 20250703172046.png",
     "Daily-Bullet-Journal/2025/07-July/Pasted image 20250703172046.png",
     "Daily-Bullet-Journal/_attachments/Pasted image 20250703073656.png",
@@ -351,9 +354,6 @@
     "Daily-Bullet-Journal/_attachments/Screenshot 2025-07-03 at 06.15.17.png",
     "Daily-Bullet-Journal/_attachments/Pasted image 20250703064435.png",
     "Daily-Bullet-Journal/2025/07-July/Pasted image 20250703064435.png",
-    "Daily-Bullet-Journal/2024/07-July/Screenshot 2025-07-03 at 06.15.17.png",
-    "Daily-Bullet-Journal/_attachments/Pasted image 20250702151328.png",
-    "Daily-Bullet-Journal/2025/05-May/Pasted image 20250702151328.png",
     "Daily-Bullet-Journal/2022/07-July",
     "Daily-Bullet-Journal/2025/07-July",
     "---.txt",

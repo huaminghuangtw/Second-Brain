@@ -21,14 +21,12 @@
   "darlal-switcher-plus",
   "tag-wrangler",
   "backlink-cache",
-  "obsidian-excalidraw-plugin",
   "code-styler",
   "new-tab-default-page",
   "typewriter-mode",
   "customjs",
   "obsidian-smart-typography",
   "obsidian-auto-link-title",
-  "obsidian-textgenerator-plugin",
   "obsidian-shellcommands",
   "better-word-count",
   "obsidian-plugin-update-tracker",
@@ -38,5 +36,6 @@
   "update-time-on-edit",
   "obsidian-text-format",
   "omnisearch",
-  "obsidian-completr"
+  "obsidian-completr",
+  "obsidian-front-matter-title-plugin"
 ]

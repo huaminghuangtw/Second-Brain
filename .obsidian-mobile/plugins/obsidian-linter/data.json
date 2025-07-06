@@ -44,7 +44,7 @@
       "yaml-keys-to-remove": ""
     },
     "sort-yaml-array-values": {
-      "enabled": false,
+      "enabled": true,
       "sort-alias-key": true,
       "sort-tag-key": true,
       "sort-array-keys": true,
@@ -53,7 +53,7 @@
     },
     "yaml-key-sort": {
       "enabled": true,
-      "yaml-key-priority-sort-order": "title\nslug\ndescription\ndate\ndayOfWeek\nyear\nweekNumber\nlocation\nsteps\nweight\nphoneScreenTime\nwakeUpTime\nfirstUnplugPhoneAt\nstartTheDayAt\nendTheDayAt\nlastPlugPhoneAt\nbedTime\nnumberOfFlows\nnumberOfWords\nspreadsheetId\nlastModified\nprev\nnext",
+      "yaml-key-priority-sort-order": "title\nslug\ndescription\ndate\ndayOfWeek\nyear\nweekNumber\nlocation\nsteps\nweight\nphoneScreenTime\nwakeUpTime\nfirstUnplugPhoneAt\nstartTheDayAt\nendTheDayAt\nlastPlugPhoneAt\nbedTime\nnumberOfFlows\nnumberOfWords\nspreadsheetId\nprev\nnext\ncreated\nmodified",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "None"
     },
@@ -63,7 +63,7 @@
       "date-created-key": "created",
       "date-modified": true,
       "date-modified-key": "modified",
-      "format": "YYYY-MM-DDTHH:mm:ss",
+      "format": "YYYY-MM-DDTHH:MM:SS",
       "convert-to-utc": true,
       "date-created-source-of-truth": "file system",
       "date-modified-source-of-truth": "file system",
@@ -72,7 +72,7 @@
     "yaml-title": {
       "enabled": false,
       "title-key": "title",
-      "mode": "first-h1-or-filename-if-h1-missing"
+      "mode": "filename"
     },
     "yaml-title-alias": {
       "enabled": false,
@@ -125,8 +125,8 @@
       "enabled": true
     },
     "default-language-for-code-fences": {
-      "enabled": false,
-      "default-language": ""
+      "enabled": true,
+      "default-language": "sh"
     },
     "emphasis-style": {
       "enabled": true,
@@ -240,7 +240,7 @@
     },
     "trailing-spaces": {
       "enabled": true,
-      "twp-space-line-break": true
+      "twp-space-line-break": false
     },
     "add-blockquote-indentation-on-paste": {
       "enabled": true
@@ -291,8 +291,8 @@
   "lintCommands": [],
   "customRegexes": [],
   "commonStyles": {
-    "aliasArrayStyle": "single-line",
-    "tagArrayStyle": "single-line",
+    "aliasArrayStyle": "multi-line",
+    "tagArrayStyle": "multi-line",
     "minimumNumberOfDollarSignsToBeAMathBlock": 2,
     "escapeCharacter": "\"",
     "removeUnnecessaryEscapeCharsForMultiLineArrays": true
