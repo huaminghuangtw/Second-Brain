@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T10:18:12
-modified: 2025-06-26T11:37:27
+modified: 2025-07-07T15:38:55
 ---
 
 ```dataviewjs
@@ -182,6 +182,14 @@ if (onDesktop) {
 > [!ERROR]- 🫶 Health
 >
 > ```dataviewjs
+> const CONFIG = {
+>     thresholds: {
+>         sleepTime: { hours: 7, minutes: 0 },
+>         screenTime: { hours: 2, minutes: 0 },
+>         steps: 3000
+>     }
+> };
+>
 > const NO_DATA = "‏‎ ‎ ";
 > let today = dv.date("today");
 > 
@@ -253,12 +261,6 @@ if (onDesktop) {
 > const data90Day = getDataForPeriod(90);
 > const data180Day = getDataForPeriod(180);
 > 
-> const thresholds = {
->     sleepTime: { hours: 7, minutes: 30 },
->     screenTime: { hours: 2, minutes: 0 },
->     steps: 3000
-> };
-> 
 > function prependThreshold(value, threshold, isTime = false, isLessBetter = false) {
 >     if (value === NO_DATA) return value;
 >     if (isTime) {
@@ -278,9 +280,9 @@ if (onDesktop) {
 >     ["‏‎", "**🛌 Sleep Time**", "**📱 Screen Time**", "**🚶 Steps**"],
 >     data7Day.map(row => [
 >         `**${row.link}**`,
->         prependThreshold(row.sleepTime, thresholds.sleepTime, true),
->         prependThreshold(row.screenTime, thresholds.screenTime, true, true),
->         prependThreshold(row.steps, thresholds.steps, false)
+>         prependThreshold(row.sleepTime, CONFIG.thresholds.sleepTime, true),
+>         prependThreshold(row.screenTime, CONFIG.thresholds.screenTime, true, true),
+>         prependThreshold(row.steps, CONFIG.thresholds.steps, false)
 >     ])
 > );
 > 
