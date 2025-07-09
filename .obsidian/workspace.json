@@ -4,59 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd47223471668622",
+        "id": "4fac5cac3cba3eea",
         "type": "tabs",
         "children": [
           {
-            "id": "afc0fa33eed859c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_06.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_07_06"
-            }
-          },
-          {
-            "id": "3c47647778da0616",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_06.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_07_06"
-            }
-          },
-          {
-            "id": "4b9a756b0f928ebb",
+            "id": "3704c609e418ac32",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,9 +30,80 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "59ae31c40fc16a76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_08.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_07_08"
+            }
+          },
+          {
+            "id": "e80bf30d9109cb5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_02.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_07_02"
+            }
+          },
+          {
+            "id": "e82fafab86f6cfcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_08.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_07_08"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "patient",
+                "query": "bean bag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,11 +194,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e3f8939eb996356d",
+        "id": "f9262f99081f020c",
         "type": "tabs",
         "children": [
           {
-            "id": "ebdf2c7776f36c76",
+            "id": "527bb19d978d9924",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -194,48 +217,21 @@
             }
           },
           {
-            "id": "72c1e3d1b50bc4dc",
+            "id": "1904d0b52c73acc5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily-Bullet-Journal/2025/06-June/2025_06_26.md",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025_06_26"
+              "title": "Outgoing links from Homepage"
             }
           },
           {
-            "id": "d1651012093ca3f7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_03.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 2025_07_03"
-            }
-          },
-          {
-            "id": "905ce1a8b8a41ddf",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Homepage.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for Homepage"
-            }
-          },
-          {
-            "id": "ff8da6cf47cdcb2e",
+            "id": "b0a5a35a01eae099",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -247,9 +243,36 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "06176a5a38ffa680",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Homepage.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Homepage"
+            }
+          },
+          {
+            "id": "0d646eadcf038be4",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Homepage.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Homepage"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -269,36 +292,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b9a756b0f928ebb",
+  "active": "3704c609e418ac32",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/2025/07-July/2025_07_06.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_07.md",
+    "Daily-Bullet-Journal/2025/07-July/2025_07_08.md",
+    "Daily-Bullet-Journal/2025/07-July/2025_07_02.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/2022/05-May/2022_05_26.md",
-    "Untitled.md",
-    "Daily-Bullet-Journal/2023/07-July/2023_07_07.md",
-    "Daily-Bullet-Journal/2024/07-July/2024_07_07.md",
-    "Daily-Bullet-Journal/2024/06-June/2024_06_29.md",
-    "Daily-Bullet-Journal/2025/06-June/2025_06_29.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_05.md",
-    "Weekly-Mindware-Update/2025/2025_Week_27.md",
+    "Daily-Bullet-Journal/2025/07-July/2025_07_09.md",
+    "Daily-Bullet-Journal/2025/03-March/2025_03_13.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_28.md",
+    "Daily-Bullet-Journal/2025/07-July/2025_07_03.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_17.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_28.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_10.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_07.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_03.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_01.md",
+    "Daily-Bullet-Journal/2025/04-April/2025_04_10.md",
+    "Daily-Bullet-Journal/2025/03-March/2025_03_17.md",
+    "Daily-Bullet-Journal/2025/02-February/2025_02_19.md",
+    "Daily-Bullet-Journal/2024/01-January/2024_01_11.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_13.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_27.md",
+    "Daily-Bullet-Journal/2025/02-February/2025_02_25.md",
+    "Daily-Bullet-Journal/2025/02-February/2025_02_07.md",
+    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
+    "Dear-Today-Me/Dear-Today-Me.md",
+    "Evergreen-Notes/Permanent-Notes/Frameworks to structure your day.md",
+    "Evergreen-Lists/🌱 Healthy Food/🌱 Healthy Food.md",
+    "Daily-Bullet-Journal/2025/07-July/2025_07_07.md",
+    "Weekly-Mindware-Update/untitled folder",
+    "Weekly-Mindware-Update/add_issue_field.py",
+    "Weekly-Mindware-Update/generate_readme_tree.py",
+    "Weekly-Mindware-Update/\n",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Messenger.jpeg",
     "Visuals/Fitness/Darebee/ExerciseOfTheDay/Upward Downward Dog.gif",
-    "Daily-Bullet-Journal/2023/07-July/2023_07_06.md",
-    "Daily-Bullet-Journal/2024/07-July/2024_07_06.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_04.md",
-    "Daily-Bullet-Journal/2024/11-November/2024_11_21.md",
-    "Weekly-Mindware-Update/2024/2024_Week_33.md",
-    "Evergreen-Notes/Permanent-Notes/Journey over destination.md",
-    "Evergreen-Notes/Permanent-Notes/Emotional Freedom.md",
-    "Daily-Bullet-Journal/2025/03-March/2025_03_31.md",
-    "Evergreen-Notes/Permanent-Notes/Change yourself to change the world.md",
-    "Evergreen-Notes/Permanent-Notes/first-principle thinking.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_05-2.md",
-    "Daily-Bullet-Journal/2025/06-June/2025_06_07.md",
-    "Daily-Bullet-Journal/2025/06-June/2025_06_30.md",
-    "Evergreen-Notes/Permanent-Notes/Escape competition through authenticity.md",
-    "Daily-Bullet-Journal/2024/07-July/2024_07_05.md",
     "Shortcutomation/_attachments/e31f4582014b484ada425661df1286e7.PNG",
     "Daily-Bullet-Journal/_attachments/Pasted image 20250703172046.png",
     "Daily-Bullet-Journal/2025/07-July/Pasted image 20250703172046.png",
@@ -312,10 +339,6 @@
     "---.txt",
     "Daily-Bullet-Journal/Daily-Bullet-Journal/2025/06-June/2025_06_23.txt",
     "Daily-Bullet-Journal/Daily-Bullet-Journal/2025/06-June",
-    "Daily-Bullet-Journal/Daily-Bullet-Journal/2025",
-    "Daily-Bullet-Journal/Daily-Bullet-Journal",
-    "Daily-Bullet-Journal/---.txt",
-    "Daily-Bullet-Journal/Invalid date/Invalid date-Invalid date",
-    "Daily-Bullet-Journal/Invalid date"
+    "Daily-Bullet-Journal/Daily-Bullet-Journal/2025"
   ]
 }
