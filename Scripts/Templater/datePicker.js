@@ -1,10 +1,10 @@
 async function datePicker() {
     const tp = app.plugins.plugins["templater-obsidian"].templater.current_functions_object;
     
-    // Pick year
+    // Pick year (exclude this year)
     const thisYear = moment().year();
     let yearList = [];
-    for (let i = 0; i < 5; i++) {
+    for (let i = 1; i < 5; i++) {
         yearList.push(thisYear - i);
     }
     const year = await tp.system.suggester(yearList, yearList);
