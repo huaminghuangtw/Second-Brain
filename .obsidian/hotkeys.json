@@ -292,15 +292,6 @@
       "key": "="
     }
   ],
-  "file-explorer:open": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "F"
-    }
-  ],
   "darlal-switcher-plus:switcher-plus:open": [
     {
       "modifiers": [
@@ -616,15 +607,6 @@
         "Ctrl"
       ],
       "key": "L"
-    }
-  ],
-  "omnisearch:show-modal": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "F"
     }
   ],
   "workspace:close-window": [],

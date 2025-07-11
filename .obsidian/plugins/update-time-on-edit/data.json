@@ -13,8 +13,8 @@
   "fileHashMap": {
     "Daily-Bullet-Journal/2025/03-March/2025_03_11.md": "2f481e33ddd1c62d6771027891a5362c1bdc19e35d656de385e71a98d89c7853",
     "Homepage.md": "8c6a3742273fe3589553edb611519257272aa46a3e670263be37d1dc9fbdbe68",
-    "index.md": "f251b5429a69999024e8ab8f3b59113c24a7d9a38a2046d10c6e41c79935225c",
-    "Brain-Food/README.md": "142b8028b2d7aaf2434907ff9141120376be169d8264777bd0dfecd841d40d56",
+    "index.md": "492b492aa86588d8720b817a9d9e0b2840eb44860263672d067deda2e2a55199",
+    "Brain-Food/README.md": "b054f9227b0867507f04b5ec03e580ffbc2c06b1c68f7811feb8cbe03aab6dff",
     "EvergreenNotes/Low Information Diet.md": "cbe60ac08512df5bc8ba440c0727c2067890b8503cf05dd0686de9ea0240179a",
     "EvergreenNotes/Mastering yourself is superpower.md": "181df92cf3a142ce3cccf3c213f809e22f5617bfad65fea7fdced8cd41c7906a",
     "EvergreenNotes/Mentorship is dated, build a panel of advisors instead.md": "0999ca347e204d0319232bb45c7e4bd0e17b762c7263ba47daf55baeb1209a9b",
@@ -231,11 +231,11 @@
     "Evergreen-Notes/Permanent-Notes/Leadership.md": "f77770ebd6c88f17c35e5ac670ccd08fc46811e8e0a1e1e061311ed3dc55a233",
     "Evergreen-Notes/Permanent-Notes/Never gossip about others.md": "85ad20264ed7d25664c3b5ba16da0e71f8644857f7e14f24a576e2ab14f8e48f",
     "Evergreen-Notes/Permanent-Notes/Lateral Thinking.md": "41c53ab8d5d8ad96f0e8beea58cdc7c18305cb26d7f9833b24ef824022763681",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md": "0d5a82a3e86ad4df3c6e30ff0a54877c9981e387cfef754a7685b6e477296b01",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md": "5c014dd4f1176ab2d9fb1dcb4149fdfceabc492e88b34c8d75e70983a5cd3b57",
     "Evergreen-Notes/Permanent-Notes/The Growth Mindset.md": "f4f2765ace8268d8d0b7cc3f4f874b090f17ec3cb8d0958789f5d07432c662fb",
     "Evergreen-Notes/Permanent-Notes/communication.md": "0c1c228aad40672daac2388e6f4635505d93c90b685e89ce07e08d61a0f5e802",
     "Life-Notes/Business/🏰 My Biz Empire.md": "ea84bd20c4eebf2cc5f27dbfde1536cf3e34e3f6b58a4dc3b71509fd9c3a66d1",
-    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md": "af5a29d3127272089de69c2822f9dfac8bebfdc3f4b36d52dcfe86e16c9b5cd5",
+    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md": "db2776dab3c32b0470bc63eef04e9408721a1ceabe89aefccdb636175b3060c9",
     "Evergreen-Notes/Permanent-Notes/Nutrition.md": "c9bdf215ff32d1fb1e3e13c261d12c50076e6b704e2c84bbabe959c2ea31f9c0",
     "Evergreen-Notes/Permanent-Notes/Just getting started.md": "7f03945e88b33da4d23a8c2eaea2c8838418ba5d97a41ea3babeb9c18629727d",
     "Evergreen-Notes/Permanent-Notes/Be a habit and routine machine.md": "4bafa068c40b619635679349648eb3aa6ec3204071edbd10fd729d8295fbc435",
@@ -646,7 +646,7 @@
     "Weekly-Mindware-Update/2024/2024_Week_52.md": "1ad04c20370acba988364ec29ced0f15c3c30aa6b629353c323df20c20abbbed",
     "Weekly-Mindware-Update/2024/2024_Week_01.md": "e6a51b3b0455ae66afac11f9e561aef2b4537931695f237a223615a558ba26fe",
     "Weekly-Mindware-Update/2024/2024_Week_02.md": "2bc7f11b7daccd7342b6a601d93d197e3ae5b4cf5fc47d811887b8f587b72004",
-    "Weekly-Mindware-Update/README.md": "d70b31e6fffafbbbf3f79a61bdccf1d0b8400dc02f5b24f50879d0be5d7eb5f9",
+    "Weekly-Mindware-Update/README.md": "f91575bd3277a5b8c0eb34b8ec741785e2d9ec0d1604be35811bd08dd6bc9fa8",
     "Weekly-Mindware-Update/2024/2024_Week_03.md": "77624be72f7a07863ef2b0bb5f7b8982daadd97be82587f260982c060a6d7e00",
     "Weekly-Mindware-Update/2024/2024_Week_04.md": "4b6fe964f1e7caf09283a5d51ac5694bb7a086a1f08b133c8df54d286a2521bf",
     "Weekly-Mindware-Update/2024/2024_Week_05.md": "77d0a20af9b3433a435b723f70f38e87366d1603191b142a2f1240ab079e0844",
@@ -698,8 +698,9 @@
     "Weekly-Mindware-Update/2024/2024_Week_51.md": "43e316ae9da7b38e938f5d36097afb32e70b7e36bcff6dec7c8957bf4d5b31be",
     "Dear-Today-Me/Dear-Today-Me.md": "6a40a09b304542472978cd72eda4d664b598436b56446db864c599d3201af255",
     "Life-Notes/Career/Day Job Workplace Tips.md": "84ceae6c8fe0c66bda4ef189662231ff717e50fe0985fce1c1ff9c329cc8c48e",
-    "Deep-Work-Machine/README.md": "ab9c7529c91933ee878a3cdb8a23ca0045ebe738042f3f6aa9b4db7dd0599e21",
+    "Deep-Work-Machine/README.md": "080a61cba15dd6f781928694e8af0f6f2b34ae885d62727226c41a8bdff41550",
     "Weekly-Mindware-Update/2025/2025_Week_27.md": "ea0894cc9f5c2eb2b6c3dbceb5ad85bd82030b5da57c4688ffb22794aa52c919",
-    "Life-Notes/Coding/Git Tags.md": "44e4558eb94cbeb0762cbf76580259d7b2c6891e2c90186e53c3900ee7a11a0d"
+    "Life-Notes/Coding/Git Tags.md": "44e4558eb94cbeb0762cbf76580259d7b2c6891e2c90186e53c3900ee7a11a0d",
+    "Life-Notes/Alignment/🐤 New Hobbies.md": "fb17797c07d75a2ec8f8f1ef33159b404149fae2ff4385d4e71f8cc1f7d6b7b3"
   }
 }
