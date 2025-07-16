@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "32e8a1bd7e57986c",
+    "id": "87afc685817e4aca",
     "type": "split",
     "children": [
       {
-        "id": "11e801177fe0d2d4",
+        "id": "880594c9306b7e3d",
         "type": "tabs",
         "children": [
           {
-            "id": "5896aa68d4242a91",
+            "id": "24b39dc435ac118d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,36 @@
             }
           },
           {
-            "id": "0bb504b91581d81d",
+            "id": "431c26fb9b2d8352",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_11.md",
+                "file": "Today-I-Learned/posts/github-url-schemes.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "github-url-schemes"
+            }
+          },
+          {
+            "id": "353b19ba8bc29a94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Today-I-Learned/README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,25 +76,25 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_07_11"
+              "title": "README"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "68df574b219ffdd2",
+    "id": "7faeeb7127a851ce",
     "type": "split",
     "children": [
       {
-        "id": "62c6ba43d4c8fdcf",
+        "id": "afb46ffd30d480a1",
         "type": "tabs",
         "children": [
           {
-            "id": "5053d7d4e3af0d22",
+            "id": "ab0c548dc9d7ae66",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -83,12 +107,12 @@
             }
           },
           {
-            "id": "a78e0d288f4f0a58",
+            "id": "e0062018009fa213",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "mountain bike",
+                "query": "placeholder",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,17 +124,7 @@
             }
           },
           {
-            "id": "9d185b35c20ed556",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "fd674ba7e44b5257",
+            "id": "1aae69fbbb7c0ff6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -125,38 +139,37 @@
             }
           },
           {
-            "id": "07b8212fc4159ce6",
+            "id": "cd73ae08e197a7e4",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "bookmarks",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "fb09601ac695ea04",
+    "id": "150374dd6a188f61",
     "type": "split",
     "children": [
       {
-        "id": "f9262f99081f020c",
+        "id": "50a22e0dc12adf74",
         "type": "tabs",
         "children": [
           {
-            "id": "527bb19d978d9924",
+            "id": "683560d696dc7761",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_11.md",
+                "file": "Today-I-Learned/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,25 +179,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_07_11"
+              "title": "Backlinks for README"
             }
           },
           {
-            "id": "1904d0b52c73acc5",
+            "id": "ba0247624f7be388",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_08.md",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025_07_08"
+              "title": "Outgoing links from Homepage"
             }
           },
           {
-            "id": "b0a5a35a01eae099",
+            "id": "b08d460949c7120a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -198,30 +211,30 @@
             }
           },
           {
-            "id": "06176a5a38ffa680",
+            "id": "caf4c64be1c80665",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_08.md",
+                "file": "Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025_07_08"
+              "title": "Outline of Homepage"
             }
           },
           {
-            "id": "0d646eadcf038be4",
+            "id": "d3d5837301a6ee50",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_11.md"
+                "file": "Today-I-Learned/README.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_07_11"
+              "title": "File properties for README"
             }
           }
         ],
@@ -229,69 +242,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-importer:Open Importer": false,
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "graph:Open graph view": false,
-      "command-palette:Open command palette": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0bb504b91581d81d",
+  "active": "353b19ba8bc29a94",
   "lastOpenFiles": [
-    "Weekly-Mindware-Update/2025/2025_Week_25.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_11.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_10.md",
-    "Deep-Work-Machine/README.md",
-    "Daily-Bullet-Journal/2023/07-July/2023_07_11.md",
-    "Daily-Bullet-Journal/2024/07-July/2024_07_11.md",
+    "Today-I-Learned/posts/github-url-schemes.md",
+    "Today-I-Learned/README.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_09.md",
+    "Today-I-Learned/scripts",
+    "Daily-Bullet-Journal/2025/07-July/2025_07_16.md",
+    "Today-I-Learned/posts/github-url-schemes-for-viewing-editing-and-commit-history.md",
+    "Today-I-Learned/posts/dummyPost1.md",
+    "Today-I-Learned/posts/dummyPost2.md",
+    "Today-I-Learned/posts/github-url-schemes-for-viewing-editing-and-commit-history copy 2.md",
+    "Today-I-Learned/posts/github-url-schemes-for-viewing-editing-and-commit-history copy.md",
+    "Today-I-Learned/update_readme.py",
+    "Today-I-Learned/AUTOMATION.md",
+    "Today-I-Learned/update_til.sh",
+    "Today-I-Learned/generate_readme.py",
     "Daily-Bullet-Journal/2025/07-July/2025_07_08.md",
-    "Life-Notes/Alignment/🐤 New Hobbies.md",
-    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Bounce.gif",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Up & Down.jpeg",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Daily-Bullet-Journal/2025/05-May/2025_05_04.md",
-    "Daily-Bullet-Journal/2025/06-June/2025_06_08.md",
+    "Daily-Bullet-Journal/2025/03-March/2025_03_31.md",
+    "Today-I-Learned/posts/Today I Learned 2.md",
+    "Today-I-Learned/posts/Today I Learned 1.md",
+    "Daily-Bullet-Journal/2025/06-June/2025_06_02.md",
+    "Today-I-Learned/posts/test.md",
+    "Scripts/Templater/createProjectPost.js",
+    "Today-I-Learned/postsgithub-url-schemes.md",
+    "Daily-Bullet-Journal/2025/07-July/2025_07_01.md",
+    "Daily-Bullet-Journal/2025/05-May/2025_05_11.md",
+    "Daily-Bullet-Journal/2025/04-April/2025_04_15.md",
+    "Daily-Bullet-Journal/2025/07-July/2025_07_15.md",
     "Daily-Bullet-Journal/2025/03-March/2025_03_15.md",
-    "Daily-Bullet-Journal/2024/11-November/2024_11_22.md",
-    "Daily-Bullet-Journal/2024/12-December/2024_12_12.md",
-    "Daily-Bullet-Journal/2025/04-April/2025_04_19.md",
-    "Weekly-Mindware-Update/2025/2025_Week_09.md",
-    "Weekly-Mindware-Update/2025/2025_Week_08.md",
-    "Weekly-Mindware-Update/2025/2025_Week_27.md",
-    "Daily-Bullet-Journal/2025/06-June/2025_06_29.md",
-    "Weekly-Mindware-Update/2025/2025_Week_26.md",
-    "Weekly-Mindware-Update/2025/2025_Week_07.md",
-    "Weekly-Mindware-Update/2025/2025_Week_06.md",
-    "Weekly-Mindware-Update/2025/2025_Week_05.md",
-    "Weekly-Mindware-Update/2025/2025_Week_04.md",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Tough Cookie.jpeg",
-    "Weekly-Mindware-Update/my.py",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/The Mediator.jpeg",
-    "Weekly-Mindware-Update/untitled folder",
-    "Weekly-Mindware-Update/add_issue_field.py",
-    "Weekly-Mindware-Update/generate_readme_tree.py",
-    "Weekly-Mindware-Update/\n",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Messenger.jpeg",
-    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Upward Downward Dog.gif",
-    "Shortcutomation/_attachments/e31f4582014b484ada425661df1286e7.PNG",
-    "Daily-Bullet-Journal/_attachments/Pasted image 20250703172046.png",
-    "Daily-Bullet-Journal/2025/07-July/Pasted image 20250703172046.png",
-    "Daily-Bullet-Journal/_attachments/Pasted image 20250703073656.png",
-    "Daily-Bullet-Journal/2022/07-July",
-    "Daily-Bullet-Journal/2025/07-July",
-    "---.txt",
-    "Daily-Bullet-Journal/Daily-Bullet-Journal/2025/06-June/2025_06_23.txt",
-    "Daily-Bullet-Journal/Daily-Bullet-Journal/2025/06-June"
+    "Daily-Bullet-Journal/2025/07-July/2025_07_14.md"
   ]
 }

@@ -1,16 +1,16 @@
 <%*
-let project = "Today-I-Learned";
-let title = await tp.system.prompt("👨‍💻 ${project} title?");
-let folder = `${project}/posts`;
-let slugifiedTitle = tp.user.slugify(title);
-await tp.file.rename(slugifiedTitle);
-await tp.file.move(folder + slugifiedTitle);
+const result = await tp.user.createProjectPost(tp, "Today-I-Learned", "👨‍💻");
+if (!result) return;
+const { title, project } = result;
 -%>
 ---
 draft: true
 title: <% title %>
+description: 
 tags:
-  - <% project %>/
+  - <% project %>
+sources:
+  - 
 ---
 
 <% tp.file.cursor() %>

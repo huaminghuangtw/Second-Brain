@@ -1,0 +1,11 @@
+{
+    "author": "Dmitry Savosh",
+    "isDesktopOnly": true,
+    "id": "consistent-attachments-and-links",
+    "minAppVersion": "1.8.3",
+    "fundingUrl": "https://www.buymeacoffee.com/mnaoumov",
+    "version": "3.24.9",
+    "description": "This plugin ensures the consistency of attachments and links",
+    "name": "Consistent Attachments and Links",
+    "authorUrl": "https://github.com/dy-sh/"
+}

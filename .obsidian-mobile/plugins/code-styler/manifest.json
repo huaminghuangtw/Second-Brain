@@ -1,0 +1,11 @@
+{
+    "author": "Mayuran Visakan",
+    "authorUrl": "https://github.com/mayurankv",
+    "id": "code-styler",
+    "minAppVersion": "0.15.0",
+    "fundingUrl": "https://www.buymeacoffee.com/mayurankv2",
+    "version": "1.1.7",
+    "description": "Style and customize codeblocks and inline code in both editing mode and reading mode.",
+    "name": "Code Styler",
+    "isDesktopOnly": true
+}
