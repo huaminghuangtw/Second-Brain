@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 usage() {
     echo "Usage: $0 <directory_path>"
     echo "  directory_path: The full path to the directory to backup"
@@ -75,4 +77,4 @@ fi
 git add -A
 git commit -m "Backup"
 
-git push origin main -f
+git push origin main
