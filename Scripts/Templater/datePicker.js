@@ -1,57 +1,72 @@
-async function datePicker() {
-    const tp = app.plugins.plugins["templater-obsidian"].templater.current_functions_object;
-    
-    // Pick year (exclude this year)
-    const thisYear = moment().year();
-    let yearList = [];
-    for (let i = 1; i < 5; i++) {
-        yearList.push(thisYear - i);
-    }
-    const year = await tp.system.suggester(yearList, yearList);
-
+async function datePicker(tp) {
     const today = moment();
-    let defaultMonth = today.month() + 1;
-    let defaultDay = today.date();
 
-    const defaultDateStr = moment({ year, month: defaultMonth - 1, day: defaultDay }).format('MMMM D, YYYY');
-    let useDefault = await tp.system.suggester([
-        `Use today's date: ${defaultDateStr}`,
-        'Pick another date'
-    ], [true, false]);
+    // Pick year
+    const yearList = Array.from({ length: 5 }, (_, i) => today.year() - i);
+    const year = await tp.system.suggester(yearList, yearList, today.year());
 
-    let month, date;
-    if (useDefault) {
-        month = defaultMonth;
-        date = defaultDay;
+    if (year === today.year()) {
+        const choice = await tp.system.suggester(
+            ["📅 Today", "📅 Yesterday", "🗓️ Pick another date"],
+            ["today", "yesterday", "pick"]
+        );
+
+        switch (choice) {
+            case "today":
+                return today.format("YYYY-MM-DD");
+            case "yesterday":
+                return today.clone().subtract(1, "days").format("YYYY-MM-DD");
+            case "pick":
+                break;
+            default:
+                return;
+        }
     } else {
-        // Pick month
-        const months = [];
-        for (let i = 0; i < 12; i++) {
-            months.push(moment().month(i).format("MMMM"));
-        }
-        let monthValues = [];
-        for (let i = 1; i <= 12; i++) {
-            monthValues.push(i);
-        }
-        month = await tp.system.suggester(months, monthValues, months[defaultMonth-1]);
+        const defaultDateStr = moment({
+            year,
+            month: today.month(),
+            day: today.date(),
+        }).format("MMMM D, YYYY");
+        const useDefault = await tp.system.suggester(
+            [`📅 Use today's date: ${defaultDateStr}`, "🗓️ Pick another date"],
+            [true, false]
+        );
 
-        // Pick day
-        const daysInMonth = moment({ year, month: month - 1 }).daysInMonth();
-        let dateList = [];
-        for (let i = 1; i <= daysInMonth; i++) {
-            dateList.push(i);
+        if (useDefault) {
+            return moment({
+                year,
+                month: today.month(),
+                day: today.date(),
+            }).format("YYYY-MM-DD");
         }
-        let dateListString = [];
-        for (let i = 1; i <= daysInMonth; i++) {
-            dateListString.push(
-                moment({ year, month: month - 1, day: i }).format("DD MMMM, YYYY")
-            );
-        }
-
-        // Default to today's day if month matches, otherwise 1
-        let defaultDayIndex = (month === defaultMonth) ? defaultDay - 1 : 0;
-        date = await tp.system.suggester(dateListString, dateList, dateListString[defaultDayIndex]);
     }
+
+    // Pick month
+    const monthNames = Array.from({ length: 12 }, (_, i) =>
+        moment().month(i).format("MMMM")
+    );
+    const monthValues = Array.from({ length: 12 }, (_, i) => i + 1);
+    const month = await tp.system.suggester(
+        monthNames,
+        monthValues,
+        monthNames[today.month()]
+    );
+
+    // Pick day
+    const daysInMonth = moment({ year, month: month - 1 }).daysInMonth();
+    const dateList = Array.from({ length: daysInMonth }, (_, i) => i + 1);
+    const dateListString = dateList.map((day) =>
+        moment({ year, month: month - 1, day }).format("DD MMMM, YYYY")
+    );
+    const defaultDayIndex =
+        year === today.year() && month === today.month() + 1
+            ? today.date() - 1
+            : 0;
+    const date = await tp.system.suggester(
+        dateListString,
+        dateList,
+        dateListString[defaultDayIndex]
+    );
 
     return moment({ year, month: month - 1, day: date }).format("YYYY-MM-DD");
 }
