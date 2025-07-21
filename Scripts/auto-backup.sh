@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 usage() {
     echo "Usage: $0 <directory_path>"
     echo "  directory_path: The full path to the directory to backup"
