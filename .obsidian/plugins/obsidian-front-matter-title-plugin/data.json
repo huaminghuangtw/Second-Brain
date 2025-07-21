@@ -40,7 +40,7 @@
       }
     },
     "tab": {
-      "enabled": false,
+      "enabled": true,
       "templates": {
         "main": "",
         "fallback": ""

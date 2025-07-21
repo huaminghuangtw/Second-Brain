@@ -12,8 +12,13 @@
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "Scripts/Templater",
-  "enable_folder_templates": false,
-  "folder_templates": [],
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "/",
+      "template": ""
+    }
+  ],
   "enable_file_templates": false,
   "file_templates": [
     {
@@ -26,7 +31,8 @@
   "enabled_templates_hotkeys": [
     "Templates/T_Today-I-Learned.md",
     "Templates/T_Daily-Bullet-Journal.md",
-    "Templates/T_Shortcutomation.md"
+    "Templates/T_Shortcutomation.md",
+    "Templates/T_Permanent-Notes.md"
   ],
   "startup_templates": [],
   "enable_ribbon_icon": true

@@ -745,5 +745,13 @@
       ],
       "key": "F"
     }
+  ],
+  "templater-obsidian:create-Templates/T_Permanent-Notes.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
   ]
 }

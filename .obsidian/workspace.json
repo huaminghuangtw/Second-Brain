@@ -1,67 +1,19 @@
 {
   "main": {
-    "id": "87afc685817e4aca",
+    "id": "f7d33ae919e10099",
     "type": "split",
     "children": [
       {
-        "id": "880594c9306b7e3d",
+        "id": "73c800a2090e74b9",
         "type": "tabs",
         "children": [
           {
-            "id": "24b39dc435ac118d",
+            "id": "5a8d0750c4664bf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "431c26fb9b2d8352",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Today-I-Learned/posts/github-url-schemes.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "github-url-schemes"
-            }
-          },
-          {
-            "id": "353b19ba8bc29a94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Today-I-Learned/README.md",
+                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +28,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2025_07_21"
+            }
+          },
+          {
+            "id": "f0747842d011c4f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/Low Information Diet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Low Information Diet"
+            }
+          },
+          {
+            "id": "e7a78d2f9d1ea472",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Today-I-Learned/posts/git-commit-messages-from-a-file.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "git-commit-messages-from-a-file"
             }
           }
         ],
@@ -86,15 +86,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7faeeb7127a851ce",
+    "id": "17f6850aae5a7ab3",
     "type": "split",
     "children": [
       {
-        "id": "afb46ffd30d480a1",
+        "id": "e5d9b03acaf29fa7",
         "type": "tabs",
         "children": [
           {
-            "id": "ab0c548dc9d7ae66",
+            "id": "43db883e56832e15",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -107,12 +107,12 @@
             }
           },
           {
-            "id": "e0062018009fa213",
+            "id": "5198a88b7d7e902b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "placeholder",
+                "query": "line:(戰 逃)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +124,7 @@
             }
           },
           {
-            "id": "1aae69fbbb7c0ff6",
+            "id": "f42bd09d7c8c5d63",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,7 +139,7 @@
             }
           },
           {
-            "id": "cd73ae08e197a7e4",
+            "id": "ed0268d5fbd0e70b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -152,24 +152,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 342.5,
     "collapsed": true
   },
   "right": {
-    "id": "150374dd6a188f61",
+    "id": "01dd0aef9d64a108",
     "type": "split",
     "children": [
       {
-        "id": "50a22e0dc12adf74",
+        "id": "62e6c2eb51c65a7c",
         "type": "tabs",
         "children": [
           {
-            "id": "683560d696dc7761",
+            "id": "044344dea190e559",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Today-I-Learned/README.md",
+                "file": "Today-I-Learned/posts/git-commit-messages-from-a-file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,11 +179,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for git-commit-messages-from-a-file"
             }
           },
           {
-            "id": "ba0247624f7be388",
+            "id": "8b8f6f5e7aa4b472",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -197,7 +197,7 @@
             }
           },
           {
-            "id": "b08d460949c7120a",
+            "id": "628c5fe8d872710b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -211,7 +211,7 @@
             }
           },
           {
-            "id": "caf4c64be1c80665",
+            "id": "cb9c39ac86b71a7c",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -226,15 +226,15 @@
             }
           },
           {
-            "id": "d3d5837301a6ee50",
+            "id": "5165a15eb279d56b",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Today-I-Learned/README.md"
+                "file": "Today-I-Learned/posts/git-commit-messages-from-a-file.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for README"
+              "title": "File properties for git-commit-messages-from-a-file"
             }
           }
         ],
@@ -242,7 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 270.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -258,35 +258,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "353b19ba8bc29a94",
+  "active": "e7a78d2f9d1ea472",
   "lastOpenFiles": [
-    "Today-I-Learned/posts/github-url-schemes.md",
-    "Today-I-Learned/README.md",
+    "Evergreen-Notes/Permanent-Notes/Low Information Diet.md",
+    "Daily-Bullet-Journal/2025/07-July/2025_07_21.md",
     "Homepage.md",
-    "Today-I-Learned/scripts",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_16.md",
-    "Today-I-Learned/posts/github-url-schemes-for-viewing-editing-and-commit-history.md",
-    "Today-I-Learned/posts/dummyPost1.md",
-    "Today-I-Learned/posts/dummyPost2.md",
-    "Today-I-Learned/posts/github-url-schemes-for-viewing-editing-and-commit-history copy 2.md",
-    "Today-I-Learned/posts/github-url-schemes-for-viewing-editing-and-commit-history copy.md",
-    "Today-I-Learned/update_readme.py",
-    "Today-I-Learned/AUTOMATION.md",
-    "Today-I-Learned/update_til.sh",
-    "Today-I-Learned/generate_readme.py",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_08.md",
-    "Daily-Bullet-Journal/2025/03-March/2025_03_31.md",
-    "Today-I-Learned/posts/Today I Learned 2.md",
-    "Today-I-Learned/posts/Today I Learned 1.md",
-    "Daily-Bullet-Journal/2025/06-June/2025_06_02.md",
-    "Today-I-Learned/posts/test.md",
-    "Scripts/Templater/createProjectPost.js",
-    "Today-I-Learned/postsgithub-url-schemes.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_01.md",
-    "Daily-Bullet-Journal/2025/05-May/2025_05_11.md",
-    "Daily-Bullet-Journal/2025/04-April/2025_04_15.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_15.md",
-    "Daily-Bullet-Journal/2025/03-March/2025_03_15.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_14.md"
+    "Today-I-Learned/posts/vs-code-cli-and-url-schemes.md",
+    "Life-Notes/Business/Startups.md",
+    "Evergreen-Notes/Permanent-Notes/anger.md",
+    "Daily-Bullet-Journal/2025/07-July/2025_07_19.md",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Cheetah.jpeg",
+    "Daily-Bullet-Journal/2025/07-July/2025_07_20.md",
+    "Evergreen-Notes/Permanent-Notes/Neuroscience.md",
+    "Daily-Bullet-Journal/2025/07-July/2025_07_18.md",
+    "Daily-Bullet-Journal/2022/07-July/2022_07_21.md",
+    "Daily-Bullet-Journal/2023/07-July/2023_07_21.md",
+    "Evergreen-Notes/Permanent-Notes/Storytelling.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Daily-Bullet-Journal/2024/07-July/2024_07_21.md",
+    "Daily-Bullet-Journal/2025/04-April/2025_04_03.md",
+    "Today-I-Learned/posts/git-commit-messages-from-a-file.md",
+    "Today-I-Learned/Git-Commit-Messages-from-a-File.md"
   ]
 }

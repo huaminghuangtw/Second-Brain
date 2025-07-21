@@ -122,15 +122,7 @@
       "key": "ArrowDown"
     }
   ],
-  "note-refactor-obsidian:app:extract-selection-first-line": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "R"
-    }
-  ],
+  "note-refactor-obsidian:app:extract-selection-first-line": [],
   "editor:swap-line-up": [
     {
       "modifiers": [
@@ -184,7 +176,15 @@
       "key": "\\"
     }
   ],
-  "note-refactor-obsidian:app:extract-selection-content-only": [],
+  "note-refactor-obsidian:app:extract-selection-content-only": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
   "obsidian-excalidraw-plugin:insert-link-to-element": [],
   "obsidian-excalidraw-plugin:insert-link": [],
   "table-editor-obsidian:table-control-bar": [],
@@ -744,6 +744,14 @@
         "Alt"
       ],
       "key": "F"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_Permanent-Notes.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
     }
   ]
 }
