@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -e
+# set -e
 
 usage() {
     echo "Usage: $0 <directory_path>"
@@ -47,7 +47,7 @@ while IFS= read -r status_line; do
                 continue
             fi
             
-            git add "$file_path" 2>/dev/null || true
+            git add "$file_path"
             
             if [[ "$status_code" =~ ^(\?\?|A) ]]; then
                 git commit -m "Add: $(basename "$file_path")"
@@ -62,19 +62,19 @@ while IFS= read -r status_line; do
 done < <(git status --porcelain | grep -E '\.(md|json|js|sh|py)("?)$')
 
 if git status --porcelain | grep -qE "\.obsidian(-mobile)?/"; then
-    git add .obsidian/ .obsidian-mobile/ 2>/dev/null || true
+    git add .obsidian/ .obsidian-mobile/
     git commit -m "Update Obsidian configuration"
 fi
 
 if git status --porcelain | grep -qE "Number of (Flows|Words)/"; then
-    git add "Number of Flows/" "Number of Words/" 2>/dev/null || true
+    git add "Number of Flows/" "Number of Words/"
     filepath=$(git status --porcelain | grep -E "Number of (Flows|Words)/" | head -1 | cut -c4-)
     year=$(echo "$filepath" | cut -d'/' -f3)
     month=$(echo "$filepath" | cut -d'/' -f4 | cut -d'-' -f2)
     git commit -m "Add stats for $year $month"
 fi
 
-git add -A 2>/dev/null || true
+git add -A
 git commit -m "Backup"
 
 git push origin main -f
