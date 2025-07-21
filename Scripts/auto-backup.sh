@@ -47,12 +47,12 @@ while IFS= read -r status_line; do
                 continue
             fi
             
-            git add "$file_path"
+            git add "$file_path" 2>/dev/null || true
             
             if [[ "$status_code" =~ ^(\?\?|A) ]]; then
-                git commit -m "Add: $(basename "$file_path")" 2>/dev/null
+                git commit -m "Add: $(basename "$file_path")"
             else
-                git commit -m "Update: $(basename "$file_path")" 2>/dev/null
+                git commit -m "Update: $(basename "$file_path")"
             fi
 
             # Ensure the staging area is clean after each commit
@@ -63,7 +63,7 @@ done < <(git status --porcelain | grep -E '\.(md|json|js|sh|py)("?)$')
 
 if git status --porcelain | grep -qE "\.obsidian(-mobile)?/"; then
     git add .obsidian/ .obsidian-mobile/ 2>/dev/null || true
-    git commit -m "Update Obsidian configuration" 2>/dev/null
+    git commit -m "Update Obsidian configuration"
 fi
 
 if git status --porcelain | grep -qE "Number of (Flows|Words)/"; then
@@ -71,10 +71,10 @@ if git status --porcelain | grep -qE "Number of (Flows|Words)/"; then
     filepath=$(git status --porcelain | grep -E "Number of (Flows|Words)/" | head -1 | cut -c4-)
     year=$(echo "$filepath" | cut -d'/' -f3)
     month=$(echo "$filepath" | cut -d'/' -f4 | cut -d'-' -f2)
-    git commit -m "Add stats for $year $month" 2>/dev/null
+    git commit -m "Add stats for $year $month"
 fi
 
-git add -A
-git commit -m "Backup" 2>/dev/null
+git add -A 2>/dev/null || true
+git commit -m "Backup"
 
 git push origin main -f
