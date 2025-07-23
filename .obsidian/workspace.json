@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "f7d33ae919e10099",
+    "id": "dda821f5821a6226",
     "type": "split",
     "children": [
       {
-        "id": "73c800a2090e74b9",
+        "id": "7d524663b2032490",
         "type": "tabs",
         "children": [
           {
-            "id": "5a8d0750c4664bf5",
+            "id": "103e0d65cab7b5a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_21.md",
+                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,73 +28,24 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_07_21"
-            }
-          },
-          {
-            "id": "f0747842d011c4f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/Low Information Diet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Low Information Diet"
-            }
-          },
-          {
-            "id": "e7a78d2f9d1ea472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Today-I-Learned/posts/git-commit-messages-from-a-file.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "git-commit-messages-from-a-file"
+              "title": "2025_07_23"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "17f6850aae5a7ab3",
+    "id": "63653817e4dbc4f7",
     "type": "split",
     "children": [
       {
-        "id": "e5d9b03acaf29fa7",
+        "id": "ee45a0d45362c586",
         "type": "tabs",
         "children": [
           {
-            "id": "43db883e56832e15",
+            "id": "35d99772d80685c9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -107,12 +58,12 @@
             }
           },
           {
-            "id": "5198a88b7d7e902b",
+            "id": "ac6b23ee9a0df2e0",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(戰 逃)",
+                "query": "回台灣",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +75,66 @@
             }
           },
           {
-            "id": "f42bd09d7c8c5d63",
+            "id": "1ec9f4ea01dad2f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3a67c1e4e8b17482",
+    "type": "split",
+    "children": [
+      {
+        "id": "c71dd65425ff431a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab2d8095eaa26448",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_23.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025_07_23"
+            }
+          },
+          {
+            "id": "615d7149383c9ee4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Homepage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Homepage"
+            }
+          },
+          {
+            "id": "11518d7d7e1c628c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,65 +149,7 @@
             }
           },
           {
-            "id": "ed0268d5fbd0e70b",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 342.5,
-    "collapsed": true
-  },
-  "right": {
-    "id": "01dd0aef9d64a108",
-    "type": "split",
-    "children": [
-      {
-        "id": "62e6c2eb51c65a7c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "044344dea190e559",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Today-I-Learned/posts/git-commit-messages-from-a-file.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for git-commit-messages-from-a-file"
-            }
-          },
-          {
-            "id": "8b8f6f5e7aa4b472",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Homepage.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Homepage"
-            }
-          },
-          {
-            "id": "628c5fe8d872710b",
+            "id": "68ec21e7b4deb9a3",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -211,7 +163,7 @@
             }
           },
           {
-            "id": "cb9c39ac86b71a7c",
+            "id": "81d3394847e70ee1",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -226,23 +178,23 @@
             }
           },
           {
-            "id": "5165a15eb279d56b",
+            "id": "d4e04db4cf80aa33",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Today-I-Learned/posts/git-commit-messages-from-a-file.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for git-commit-messages-from-a-file"
+              "title": "File properties for Homepage"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
+    "width": 421.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -258,26 +210,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a78d2f9d1ea472",
+  "active": "103e0d65cab7b5a1",
   "lastOpenFiles": [
-    "Evergreen-Notes/Permanent-Notes/Low Information Diet.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_21.md",
+    "Evergreen-Notes/Permanent-Notes/reflect-and-review.md",
+    "Evergreen-Notes/Permanent-Notes/when-in-doubt-zoom-out.md",
+    "Evergreen-Notes/Permanent-Notes/intentional-living.md",
+    "Untitled.md",
+    "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
+    "Evergreen-Notes/Permanent-Notes/mastering-yourself-is-superpower.md",
+    "Evergreen-Notes/Permanent-Notes/specialization-is-for-insects.md",
+    "Daily-Bullet-Journal/2025/07-July/2025_07_23.md",
+    "Daily-Bullet-Journal/2025/07-July/Pasted image 20250723142249.png",
     "Homepage.md",
-    "Today-I-Learned/posts/vs-code-cli-and-url-schemes.md",
-    "Life-Notes/Business/Startups.md",
-    "Evergreen-Notes/Permanent-Notes/anger.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_19.md",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Cheetah.jpeg",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_20.md",
-    "Evergreen-Notes/Permanent-Notes/Neuroscience.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_18.md",
-    "Daily-Bullet-Journal/2022/07-July/2022_07_21.md",
-    "Daily-Bullet-Journal/2023/07-July/2023_07_21.md",
-    "Evergreen-Notes/Permanent-Notes/Storytelling.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Daily-Bullet-Journal/2024/07-July/2024_07_21.md",
-    "Daily-Bullet-Journal/2025/04-April/2025_04_03.md",
-    "Today-I-Learned/posts/git-commit-messages-from-a-file.md",
-    "Today-I-Learned/Git-Commit-Messages-from-a-File.md"
+    "Evergreen-Notes/Permanent-Notes/happiness.md",
+    "Daily-Bullet-Journal/2024/07-July/2024_07_03.md",
+    "Daily-Bullet-Journal/2024/07-July/2024_07_02.md",
+    "index.md"
   ]
 }
