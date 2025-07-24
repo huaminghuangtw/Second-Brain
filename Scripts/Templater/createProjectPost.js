@@ -63,8 +63,6 @@ async function createProjectPost(tp) {
     const folderMap = { "Permanent-Notes": `Evergreen-Notes/Permanent-Notes/` };
     const folder = folderMap[project] || `${project}/posts/`;
     const slugifiedFileName = tp.user.slugify(title);
-
-    await tp.file.rename(slugifiedFileName);
     await tp.file.move(folder + slugifiedFileName);
 
     const file = app.vault.getAbstractFileByPath(
