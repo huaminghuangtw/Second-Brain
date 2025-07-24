@@ -1,76 +1,48 @@
 #!/bin/bash
 
-usage() {
-    echo "Usage: $0 <directory_path>"
-    echo "  directory_path: The full path to the directory to backup"
-}
-
-if [ $# -lt 1 ]; then
-    usage
-    exit 1
-fi
+[ $# -lt 1 ] && echo "Usage: $0 <directory_path>" && exit 1
 
 TARGET_DIR="${1/#\~/$HOME}"
 
-if [ ! -d "$TARGET_DIR" ]; then
-    echo "Error: Directory '$TARGET_DIR' does not exist"
-    exit 1
-fi
+[ ! -d "$TARGET_DIR" ] && echo "Error: Directory '$TARGET_DIR' does not exist" && exit 1
 
 cd "$TARGET_DIR"
+[ ! -d ".git" ] && echo "Error: '$TARGET_DIR' is not a git repository" && exit 1
 
-if [ ! -d ".git" ]; then
-    echo "Error: '$TARGET_DIR' is not a git repository"
-    exit 1
-fi
+git status --porcelain | grep -E '\.(md|json|js|sh|py)("?)$' | while IFS= read -r status_line; do
+    [ -z "$status_line" ] && continue
+    status_code="${status_line:0:2}"
+    file_path="${status_line:3}"
+    # Remove surrounding quotes if present
+    file_path="${file_path%\"}"
+    file_path="${file_path#\"}"
+    
+    [ ! -f "$file_path" ] && continue
+    # Handle Obsidian configuration files separately
+    [[ "$file_path" =~ ^\.obsidian(-mobile)?/ ]] && continue
+    # Handle Deep Work Machine files separately
+    [[ "$file_path" =~ ^Number\ of\ (Flows|Words)/ ]] && continue
+    
+    git add "$file_path"
+    [[ "$status_code" =~ ^(\?\?|A) ]] && git commit -m "Add: $(basename "$file_path")" || git commit -m "Update: $(basename "$file_path")"
+    # Ensure the staging area is clean after each commit
+    git reset > /dev/null 2>&1
+done
 
-while IFS= read -r status_line; do
-    if [[ -n "$status_line" ]]; then
-        status_code="${status_line:0:2}"
-        file_path="${status_line:3}"
-        
-        # Remove quotes if present
-        if [[ "$file_path" =~ ^\".*\"$ ]]; then
-            file_path="${file_path:1:${#file_path}-2}"
-        fi
-        
-        if [ -f "$file_path" ]; then
-            # Handle Obsidian configuration files separately
-            if [[ "$file_path" =~ ^\.obsidian(-mobile)?/ ]]; then
-                continue
-            fi
-            
-            # Handle Deep Work Machine files separately
-            if [[ "$file_path" =~ ^Number\ of\ (Flows|Words)/ ]]; then
-                continue
-            fi
-            
-            git add "$file_path"
-            
-            if [[ "$status_code" =~ ^(\?\?|A) ]]; then
-                git commit -m "Add: $(basename "$file_path")"
-            else
-                git commit -m "Update: $(basename "$file_path")"
-            fi
-
-            # Ensure the staging area is clean after each commit
-            git reset > /dev/null 2>&1
-        fi
-    fi
-done < <(git status --porcelain | grep -E '\.(md|json|js|sh|py)("?)$')
-
-if git status --porcelain | grep -qE "\.obsidian(-mobile)?/"; then
-    git add .obsidian/ .obsidian-mobile/
+git status --porcelain | grep -qE "\.obsidian(-mobile)?/" && {
+    [ -d ".obsidian" ] && git add .obsidian/
+    [ -d ".obsidian-mobile" ] && git add .obsidian-mobile/
     git commit -m "Update Obsidian configuration"
-fi
+}
 
-if git status --porcelain | grep -qE "Number of (Flows|Words)/"; then
-    git add "Number of Flows/" "Number of Words/"
+git status --porcelain | grep -qE "Number of (Flows|Words)/" && {
+    [ -d "Number of Flows" ] && git add "Number of Flows/"
+    [ -d "Number of Words" ] && git add "Number of Words/"
     filepath=$(git status --porcelain | grep -E "Number of (Flows|Words)/" | head -1 | cut -c4-)
     year=$(echo "$filepath" | cut -d'/' -f3)
     month=$(echo "$filepath" | cut -d'/' -f4 | cut -d'-' -f2)
     git commit -m "Add stats for $year $month"
-fi
+}
 
 git add -A
 git commit -m "Backup"
