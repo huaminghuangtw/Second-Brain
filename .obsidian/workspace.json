@@ -4,11 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "7d524663b2032490",
+        "id": "994d8bb6d74e767e",
         "type": "tabs",
         "children": [
           {
-            "id": "103e0d65cab7b5a1",
+            "id": "c462214f913f09ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_24.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_07_24"
+            }
+          },
+          {
+            "id": "ad1b0017807ed5f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shortcutomation/posts/death-clock.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "death-clock"
+            }
+          },
+          {
+            "id": "38b8813adea83dfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,7 +79,8 @@
               "title": "2025_07_23"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "回台灣",
+                "query": "line:(later never)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_23.md",
+                "file": "Shortcutomation/posts/death-clock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_07_23"
+              "title": "Backlinks for death-clock"
             }
           },
           {
@@ -183,10 +231,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Shortcutomation/posts/death-clock.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for death-clock"
             }
           }
         ],
@@ -210,18 +258,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "103e0d65cab7b5a1",
+  "active": "ad1b0017807ed5f5",
   "lastOpenFiles": [
+    "Today-I-Learned/posts/sjdfhjk.md",
+    "Shortcutomation/posts/death-clock.md",
+    "Today-I-Learned/posts/test.md",
+    "Evergreen-Notes/Permanent-Notes/death.md",
+    "Shortcutomation/posts/a-nighttime-routine-i-do-every-day.md",
+    "Daily-Bullet-Journal/2025/07-July/2025_07_24.md",
+    "Daily-Bullet-Journal/2025/07-July/2025_07_23.md",
+    "().md",
+    "Evergreen-Notes/Permanent-Notes/trust-your-gut.md",
+    "Shortcutomation/_attachments/e0b4637539a67143518431b5b1106a7c.png",
+    "Daily-Bullet-Journal/2025/07-July/2025_07_22.md",
+    "Homepage.md",
+    "Today-I-Learned/posts/git-reset.md",
+    "Today-I-Learned/posts/git-tags.md",
+    "Today-I-Learned/_attachments/7e17c6817f2c1952777d0708736f4bb3.png",
+    "Today-I-Learned/_attachments/43b411cb9c0c7295408fa8343133536f.png",
+    "Today-I-Learned/_attachments/0af9a4911858ba938c2d7f280db28a14.png",
+    "Daily-Bullet-Journal/2023/07-July/2023_07_24.md",
+    "Daily-Bullet-Journal/2024/07-July/2024_07_24.md",
+    "Daily-Bullet-Journal/_attachments/2726bd20608435a9bf6a8e586b6b1178.png",
     "Evergreen-Notes/Permanent-Notes/reflect-and-review.md",
     "Evergreen-Notes/Permanent-Notes/when-in-doubt-zoom-out.md",
     "Evergreen-Notes/Permanent-Notes/intentional-living.md",
-    "Untitled.md",
     "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
     "Evergreen-Notes/Permanent-Notes/mastering-yourself-is-superpower.md",
     "Evergreen-Notes/Permanent-Notes/specialization-is-for-insects.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_23.md",
     "Daily-Bullet-Journal/2025/07-July/Pasted image 20250723142249.png",
-    "Homepage.md",
     "Evergreen-Notes/Permanent-Notes/happiness.md",
     "Daily-Bullet-Journal/2024/07-July/2024_07_03.md",
     "Daily-Bullet-Journal/2024/07-July/2024_07_02.md",

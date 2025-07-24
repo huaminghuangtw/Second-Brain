@@ -28,7 +28,6 @@
   "obsidian-smart-typography",
   "obsidian-auto-link-title",
   "obsidian-shellcommands",
-  "better-word-count",
   "obsidian-plugin-update-tracker",
   "table-editor-obsidian",
   "consistent-attachments-and-links",
@@ -37,5 +36,6 @@
   "obsidian-text-format",
   "omnisearch",
   "obsidian-completr",
-  "obsidian-front-matter-title-plugin"
+  "obsidian-front-matter-title-plugin",
+  "better-word-count"
 ]
