@@ -1,0 +1,9 @@
+{
+  "daysToSuppressNewUpdates": 30,
+  "dismissedVersionsByPluginId": {},
+  "showIconOnMobile": false,
+  "excludeBetaVersions": true,
+  "excludeDisabledPlugins": true,
+  "minUpdateCountToShowIcon": 0,
+  "hoursBetweenCheckingForUpdates": 0.5
+}

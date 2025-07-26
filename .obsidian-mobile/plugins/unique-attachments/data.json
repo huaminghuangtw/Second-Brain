@@ -1,0 +1,28 @@
+{
+  "ignoreFolders": [
+    "Visuals/Fitness/Darebee/",
+    "Visuals/Chindogu/",
+    "Deep-Work-Machine/"
+  ],
+  "renameFileTypes": [
+    "png",
+    "jpg",
+    "jpeg",
+    "gif",
+    "svg",
+    "webp",
+    "avif",
+    "heic",
+    "PNG",
+    "JPG",
+    "JPEG",
+    "GIF",
+    "SVG",
+    "WEBP",
+    "AVIF",
+    "HEIC"
+  ],
+  "renameOnlyLinkedAttachments": false,
+  "mergeTheSameAttachments": true,
+  "savePreviousName": false
+}
