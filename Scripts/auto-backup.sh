@@ -39,8 +39,8 @@ git status --porcelain | grep -qE "Number of (Flows|Words)/" && {
     [ -d "Number of Flows" ] && git add "Number of Flows/"
     [ -d "Number of Words" ] && git add "Number of Words/"
     filepath=$(git status --porcelain | grep -E "Number of (Flows|Words)/" | head -1 | cut -c4-)
-    year=$(echo "$filepath" | cut -d'/' -f3)
-    month=$(echo "$filepath" | cut -d'/' -f4 | cut -d'-' -f2)
+    year=$(echo "$filepath" | cut -d'/' -f2)
+    month=$(echo "$filepath" | cut -d'/' -f3 | cut -d'-' -f2)
     git commit -m "Add stats for $year $month"
 }
 
