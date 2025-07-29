@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8362e0076dc90345",
+        "id": "454ad26a7e8a7f44",
         "type": "tabs",
         "children": [
           {
-            "id": "8ef3243f1d52d8c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep-Work-Machine/README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "6b58a2b446b89ee1",
+            "id": "efeba8f9dfef4786",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +31,7 @@
               "title": "Homepage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,15 +219,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6b58a2b446b89ee1",
+  "active": "efeba8f9dfef4786",
   "lastOpenFiles": [
     "Deep-Work-Machine/README.md",
-    "Evergreen-Notes/Permanent-Notes/work-in-sprints-work-with-your-biology.md",
+    "Evergreen-Notes/Permanent-Notes/rest, reset, relax, recharge.md",
+    "Homepage.md",
+    "Deep-Work-Machine/assets/alert.png",
+    "Deep-Work-Machine/assets/dashboard.png",
+    "Deep-Work-Machine/assets",
+    "Evergreen-Notes/Permanent-Notes/comparison-is-the-thief-of-joy.md",
     "Weekly-Mindware-Update/README.md",
+    "Evergreen-Notes/Permanent-Notes/Flow State.md",
+    "Evergreen-Notes/Permanent-Notes/what-you-work-on-is-far-more-important-than-how-productively-you-work.md",
+    "Evergreen-Notes/Permanent-Notes/work-in-sprints-work-with-your-biology.md",
     "Evergreen-Notes/Permanent-Notes/Deliberate Practice.md",
     "Evergreen-Notes/Permanent-Notes/deep work.md",
     "Daily-Bullet-Journal/2025/07-July/2025_07_26.md",
-    "Homepage.md",
     "Daily-Bullet-Journal/2025/07-July/2025_07_22.md",
     "Evergreen-Notes/Permanent-Notes/discipline-equals-freedom.md",
     "Evergreen-Notes/Permanent-Notes/Self-compassion.md",
@@ -268,10 +250,6 @@
     "Daily-Bullet-Journal/2023/01-January/2023_01_30.md",
     "Evergreen-Notes/Permanent-Notes/Escape competition through authenticity.md",
     "Evergreen-Notes/Permanent-Notes/Work smart.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_21.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_20.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_19.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_18.md",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Maximus.jpeg",
     "Daily-Bullet-Journal/_attachments/ebec83e7fb9b290dd1014f6bed796353.jpg",
     "Shortcutomation/_attachments/e0b4637539a67143518431b5b1106a7c.png",
