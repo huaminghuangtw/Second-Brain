@@ -1,7 +1,11 @@
 async function createProjectPost(tp) {
     const project = tp.config.template_file.basename.replace("T_", "");
-    const title = await tp.system.prompt(`Title?`);
-    if (!title) return null;
+    const rawTitle = await tp.system.prompt(`Title?`);
+    if (!rawTitle) return null;
+    
+    const title = rawTitle.replace(/\w\S*/g, (txt) => 
+        txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase()
+    );
 
     const allTags = Object.keys(app.metadataCache.getTags());
     const projectTags = allTags
