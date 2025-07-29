@@ -12,7 +12,7 @@ const nextFile = moment(momentDate).add(1, 'days').format("YYYY_MM_DD");
 const dayOfWeek = momentDate.format("dddd");
 const weekNumber = momentDate.isoWeek();
 
-const folder = `Daily-Bullet-Journal/${momentDate.format("YYYY")}/${momentDate.format("MM")}-${momentDate.format("MMMM")}/`;
+const folder = `Daily-Bullet-Journal/journals/${momentDate.format("YYYY")}/${momentDate.format("MM")}-${momentDate.format("MMMM")}/`;
 const file = tp.file.find_tfile(folder + fileName);
 
 if (file) {
