@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T10:18:12
-modified: 2025-07-23T08:31:49
+modified: 2025-07-29T08:14:47
 ---
 
 ```dataviewjs
@@ -501,7 +501,7 @@ if (onDesktop) {
     // -----------------------------------------------
 
     dv.paragraph(`
-> [!TODO] 🐥 <a href="${await Utils.buildObsidianOpenFileURI("Daily-Bullet-Journal/JournalBacklog.md")}">**Backlog**</a>
+> [!TODO] 🐥 <a href="${await Utils.buildObsidianOpenFileURI("Daily-Bullet-Journal/Journal-Backlog.md")}">**Backlog**</a>
 `);
 
     // -----------------------------------------------
