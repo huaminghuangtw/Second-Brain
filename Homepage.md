@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T10:18:12
-modified: 2025-07-30T07:06:37
+modified: 2025-08-01T07:14:49
 ---
 
 ```dataviewjs
@@ -79,6 +79,7 @@ WHERE date
 let onDesktop = window.innerWidth > 768;
 if (onDesktop) {
     const { Utils } = await cJS();
+    
     let today = dv.date("today");
 
     function calculateAverage(data, valueLabel, dateFilterFn) {
@@ -489,23 +490,18 @@ if (onDesktop) {
 > ));
 > ```
 
+# [📝 Journaling](https://github.com/huaminghuangtw/Daily-Bullet-Journal)
+
 ```dataviewjs
 let onDesktop = window.innerWidth > 768;
 if (onDesktop) {
     const { Utils } = await cJS();
+
     let today = dv.date("today");
-
-    // ***********************************************
-
-    dv.header(1, `<a href="https://github.com/huaminghuangtw/Daily-Bullet-Journal">📝 Journaling</a>`);
-
-    // -----------------------------------------------
 
     dv.paragraph(`
 > [!TODO] 🐥 <a href="${await Utils.buildObsidianOpenFileURI("Daily-Bullet-Journal/Journal-Backlog.md")}">**Backlog**</a>
 `);
-
-    // -----------------------------------------------
 
     await dv.view("Scripts/view_callout_journal_retrospection", {
         arr: [
@@ -528,10 +524,15 @@ if (onDesktop) {
             }
         ]
     });
+}
+```
 
-    // ***********************************************
+# [🦸🏽‍♂️ Deep Work Machine](https://github.com/huaminghuangtw/Deep-Work-Machine)
 
-    dv.header(1, `<a href="https://github.com/huaminghuangtw/Deep-Work-Machine">🦸🏽‍♂️ Deep Work Machine</a>`);
+```dataviewjs
+let onDesktop = window.innerWidth > 768;
+if (onDesktop) {
+    const { Utils } = await cJS();
 
     const images = ["Number of Flows", "Number of Words"].map(metric =>
         encodeURI(Utils.getAllFilesByExtension(`Deep-Work-Machine/${metric}`, "png")[0].path)
@@ -541,10 +542,15 @@ if (onDesktop) {
 > [!EXAMPLE] ‎
 > ${images.map(imagePath => `![500](${imagePath})`).join("\n> ")}
 `)
+}
+```
 
-    // ***********************************************
+# [🌟 Life Philosophy](https://github.com/huaminghuangtw/Dear-Today-Me)
 
-    dv.header(1, `<a href="https://github.com/huaminghuangtw/Dear-Today-Me">🌟 Life Philosophy</a>`);
+```dataviewjs
+let onDesktop = window.innerWidth > 768;
+if (onDesktop) {
+    const { Utils } = await cJS();
 
     let fileContentLifePhilosophy;
 
@@ -581,10 +587,15 @@ if (onDesktop) {
             )
         }
     );
+}
+```
 
-    // ***********************************************
+# [📒 Evergreen Lists](https://github.com/huaminghuangtw/Evergreen-Lists)
 
-    dv.header(1, `<a href="https://github.com/huaminghuangtw/Evergreen-Lists">📒 Evergreen Lists</a>`);
+```dataviewjs
+let onDesktop = window.innerWidth > 768;
+if (onDesktop) {
+    const { Utils } = await cJS();
 
     let reminders;
 
@@ -643,10 +654,15 @@ if (onDesktop) {
             url: urlShortcuts
         }
     );
+}
+```
 
-    // ***********************************************
+# [🧠 Weekly Mindware Update](https://github.com/huaminghuangtw/Weekly-Mindware-Update)
 
-    dv.header(1, `<a href="https://github.com/huaminghuangtw/Weekly-Mindware-Update">🧠 Weekly Mindware Update</a>`);
+```dataviewjs
+let onDesktop = window.innerWidth > 768;
+if (onDesktop) {
+    const { Utils } = await cJS();
 
     let files;
     let filePath;
