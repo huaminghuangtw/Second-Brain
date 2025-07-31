@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T10:18:12
-modified: 2025-07-29T08:14:47
+modified: 2025-07-30T07:06:37
 ---
 
 ```dataviewjs
@@ -80,7 +80,7 @@ let onDesktop = window.innerWidth > 768;
 if (onDesktop) {
     const { Utils } = await cJS();
     let today = dv.date("today");
-    
+
     function calculateAverage(data, valueLabel, dateFilterFn) {
         const extractors = {
             "Number of Words": (stats) => stats.words,
@@ -121,14 +121,15 @@ if (onDesktop) {
     for (const [metric, data] of Object.entries(metrics)) {
         let allFiles = Utils.getAllFilesByExtension(`Deep-Work-Machine/${metric}`, "json")
                             .filter(file => !file.path.endsWith("data.json"));
-                            
+
         let allTimeData = (await Promise.all(allFiles.map(file =>
             app.vault.adapter.read(file.path).then(data => JSON.parse(data).data)
         ))).flat();
 
         allTimeAverages[metric] = Math.round(
-            allTimeData.reduce((sum, entry) => sum + entry[metric], 0) / allTimeData.length
-        );
+            // 30.44 is the average days per month
+            allTimeData.reduce((sum, entry) => sum + entry[metric], 0) / (allFiles.length * 30.44) * 10
+        ) / 10;
 
         thisWeekAverages[metric] = calculateAverage(
             data,
@@ -192,9 +193,9 @@ if (onDesktop) {
 >
 > const NO_DATA = "‏‎ ‎ ";
 > let today = dv.date("today");
-> 
+>
 > dv.header(3, "Last 7 Days");
-> 
+>
 > function calculateSumAndAverage(data, metric, isTime = false) {
 >     let total = 0, totalHours = 0, totalMinutes = 0, count = 0;
 >     for (const row of data) {
@@ -226,7 +227,7 @@ if (onDesktop) {
 >         };
 >     }
 > }
-> 
+>
 > function getDataForPeriod(days) {
 >     return dv.pages('"Daily-Bullet-Journal"')
 >         .where(p =>
@@ -255,12 +256,12 @@ if (onDesktop) {
 >         })
 >         .slice(0, -1); // Exclude the last entry since it won't have a "yesterday" entry
 > }
-> 
+>
 > const data7Day = getDataForPeriod(7);
 > const data30Day = getDataForPeriod(30);
 > const data90Day = getDataForPeriod(90);
 > const data180Day = getDataForPeriod(180);
-> 
+>
 > function prependThreshold(value, threshold, isTime = false, isLessBetter = false) {
 >     if (value === NO_DATA) return value;
 >     if (isTime) {
@@ -275,7 +276,7 @@ if (onDesktop) {
 >             : value >= threshold ? `✅ ${value}` : `❌ ${value}`;
 >     }
 > }
-> 
+>
 > dv.table(
 >     ["‏‎", "**🛌 Sleep Time**", "**📱 Screen Time**", "**🚶 Steps**"],
 >     data7Day.map(row => [
@@ -285,9 +286,9 @@ if (onDesktop) {
 >         prependThreshold(row.steps, CONFIG.thresholds.steps, false)
 >     ])
 > );
-> 
+>
 > dv.header(3, "Averages");
-> 
+>
 > const averages = {
 >     "🛌 Sleep Time": {
 >         "7-Day": calculateSumAndAverage(data7Day, 'sleepTime', true).average,
@@ -308,7 +309,7 @@ if (onDesktop) {
 >         "180-Day": calculateSumAndAverage(data180Day, 'steps', false).average
 >     }
 > };
-> 
+>
 > dv.table(
 >     ["‏‎", "**7-Day**", "**30-Day**", "**90-Day**", "**180-Day**"],
 >     Object.entries(averages).map(([metric, values]) => [
@@ -337,25 +338,25 @@ if (onDesktop) {
 >         "avif",
 >         "heic"
 >     ];
-> 
+>
 >     const imageFiles = app.vault.getFiles().filter(file =>
 >         imageExtensions.includes(file.extension.toLowerCase()) &&
 >         file.path.includes("_attachments/")
 >     );
-> 
+>
 >     const orphanedImages = imageFiles.filter(image =>
 >         !Object.values(app.metadataCache.resolvedLinks)
 >                 .some(links => links[image.path])
 >     ).map(image => dv.fileLink(image.path));
-> 
+>
 >     return orphanedImages;
 > }
-> 
+>
 > function getRandomFilteredPages(filterFn, maxCount = 5) {
 >     const excludeFiles = [
 >         "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md"
 >     ];
-> 
+>
 >     const filteredPages = dv.pages('"Evergreen-Notes"')
 >                             .filter(page =>
 >                                 filterFn(page) &&
@@ -364,52 +365,52 @@ if (onDesktop) {
 >                             .map(p => p.file.link)
 >                             .sort(() => Math.random() - 0.5)
 >                             .slice(0, maxCount);
-> 
+>
 >     return filteredPages;
 > }
-> 
+>
 > //TODO (2025/04/26)
 > async function isValidLink(link, sourcePath) {
 >     const targetPath = link.link;
 >     const resolvedPath = app.metadataCache.getFirstLinkpathDest(targetPath, sourcePath);
-> 
+>
 >     if (resolvedPath) {
 >         return true; // It points to an existing file (note or image)
 >     }
-> 
+>
 >     // Also check if the file exists physically in the vault
 >     const file = app.vault.getAbstractFileByPath(targetPath);
-> 
+>
 >     if (file) {
 >         return true;
 >     }
-> 
+>
 >     return false; // Neither a note nor a file exists
 > }
-> 
+>
 > //TODO
 > async function findBadLinksAndEmbeds() {
 >     const badLinks = new Map();
 >     const badEmbeds = new Map();
-> 
+>
 >     const excludedFolders = [
 >         ".trash",
 >         ".obsidian",
 >     ];
-> 
+>
 >     const notes = app.vault.getMarkdownFiles().filter(note =>
 >         !excludedFolders.some(folder => note.path.includes(`${folder}`))
 >     );
-> 
+>
 >     const tasks = [];
-> 
+>
 >     for (const note of notes) {
 >         const cache = app.metadataCache.getFileCache(note);
 >         if (!cache) continue;
-> 
+>
 >         const links = cache.links || [];
 >         const embeds = cache.embeds || [];
-> 
+>
 >         for (const link of links) {
 >             tasks.push({
 >                 type: "link",
@@ -417,7 +418,7 @@ if (onDesktop) {
 >                 link: link
 >             });
 >         }
-> 
+>
 >         for (const embed of embeds) {
 >             tasks.push({
 >                 type: "embed",
@@ -426,14 +427,14 @@ if (onDesktop) {
 >             });
 >         }
 >     }
-> 
+>
 >     const results = await Promise.all(
 >         tasks.map(async (task) => {
 >             const valid = await isValidLink(task.link, task.notePath);
 >             return { ...task, valid };
 >         })
 >     );
-> 
+>
 >     for (const result of results) {
 >         if (!result.valid) {
 >             if (result.type === "link") {
@@ -449,39 +450,39 @@ if (onDesktop) {
 >             }
 >         }
 >     }
-> 
+>
 >     const linkResults = [...badLinks.entries()].map(([file, links]) => [
 >         dv.fileLink(file),
 >         links.join("\n")
 >     ]);
-> 
+>
 >     const embedResults = [...badEmbeds.entries()].map(([file, embeds]) => [
 >         dv.fileLink(file),
 >         embeds.join("\n")
 >     ]);
-> 
+>
 >     return { linkResults, embedResults };
 > }
-> 
+>
 > dv.header(4, "**❥ Forgotten Notes**");
 > dv.list(getRandomFilteredPages(
 >     p => dv.date(p.file.mtime) < today.minus({ months: 3 })
 > ));
-> 
+>
 > dv.header(4, "**❥ Empty Notes**");
 > dv.list(getRandomFilteredPages(
 >     p => p.file.size >= 0 && p.file.size < 10
 > ));
-> 
+>
 > dv.header(4, "**❥ Bad Links**");
 > dv.list(await findBadLinksAndEmbeds().linkResults);
-> 
+>
 > dv.header(4, "**❥ Bad Embeds**");
 > dv.list(await findBadLinksAndEmbeds().embedResults);
-> 
+>
 > dv.header(4, "**❥ Orphaned Images**");
 > dv.list(findOrphanedImages());
-> 
+>
 > dv.header(4, "**❥ Orphaned Notes**");
 > dv.list(getRandomFilteredPages(
 >     p => p.file.inlinks && p.file.outlinks
@@ -535,7 +536,7 @@ if (onDesktop) {
     const images = ["Number of Flows", "Number of Words"].map(metric =>
         encodeURI(Utils.getAllFilesByExtension(`Deep-Work-Machine/${metric}`, "png")[0].path)
     );
-    
+
     dv.paragraph(`
 > [!EXAMPLE] ‎
 > ${images.map(imagePath => `![500](${imagePath})`).join("\n> ")}
