@@ -7,14 +7,12 @@ NC='\033[0m' # No Color
 
 [ $# -lt 1 ] && echo -e "${YELLOW}Usage: $0 <directory_path_1> [<directory_path_2> <directory_path_3> ...]${NC}" && exit 1
 
-total_dirs=$#
-count=0
+total_dir_num=$#
 
-for idx in "$@"; do
-    dir_num=$((++count))
+for ((i=1; i<=total_dir_num; i++)); do
+    idx="${!i}"
     TARGET_DIR="${idx/#\~/$HOME}"
-    dir_name=$(basename "$TARGET_DIR")
-    echo -e "🔄 (${dir_num}/${total_dirs}) Backup: ${YELLOW}$TARGET_DIR${NC}..."
+    echo -e "${YELLOW}🔄 (${i} / ${total_dir_num}) Backup: $(basename "$TARGET_DIR")...${NC}"
 
     if [ ! -d "$TARGET_DIR" ]; then
         echo -e "${RED}❌ Error: Directory '$TARGET_DIR' does not exist${NC}"
@@ -76,9 +74,9 @@ for idx in "$@"; do
     git commit -m "Backup"
 
     git push origin main && {
-        echo -e "${GREEN}✅ Backup Completed: $TARGET_DIR${NC}"
+        echo -e "${GREEN}✅ Backup Completed: $(basename "$TARGET_DIR")${NC}"
     } || {
-        echo -e "${RED}❌ Backup Failed: $TARGET_DIR${NC}"
+        echo -e "${RED}❌ Backup Failed: $(basename "$TARGET_DIR")${NC}"
     }
 
     echo
