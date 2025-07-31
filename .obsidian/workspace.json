@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a666e907c76af5d0",
+        "id": "dceffc1166510dc6",
         "type": "tabs",
         "children": [
           {
-            "id": "ae514c32091a9521",
+            "id": "38bfc7f3c5bade5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/07-July/2025_07_30.md",
+                "file": "Daily-Bullet-Journal/journals/2025/07-July/2025_07_31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_07_30"
+              "title": "2025_07_31"
+            }
+          },
+          {
+            "id": "ddb374ccae01f41d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_08_01"
+            }
+          },
+          {
+            "id": "53617dc0239b23a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "衡量 生產力",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/07-July/2025_07_30.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_07_30"
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -183,10 +232,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/Slow Down to Speed Up.md"
+                "file": "Daily-Bullet-Journal/journals/2025/07-July/2025_07_31.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Slow Down to Speed Up"
+              "title": "File properties for 2025_07_31"
             }
           },
           {
@@ -220,15 +269,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae514c32091a9521",
+  "active": "53617dc0239b23a7",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_01.md",
     "Daily-Bullet-Journal/journals/2025/07-July/2025_07_31.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_18.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_08.md",
-    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_11.md",
-    "Brain-Food/README.md",
-    "Evergreen-Lists/README.md",
+    "Daily-Bullet-Journal/journals/2022/08-August/2022_08_01.md",
+    "Daily-Bullet-Journal/journals/2022/07-July/2022_07_31.md",
+    "Daily-Bullet-Journal/journals/2022/07-July/2022_07_30.md",
+    "Daily-Bullet-Journal/journals/2022/07-July/2022_07_29.md",
+    "Daily-Bullet-Journal/journals/2022/07-July/2022_07_28.md",
+    "Daily-Bullet-Journal/journals/2022/07-July/2022_07_27.md",
+    "Daily-Bullet-Journal/journals/2022/08-August",
+    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_01.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_01.md",
+    "Daily-Bullet-Journal/journals/2025/08-August",
+    "Shortcutomation/posts/a-midday-routine-i-do-every-day.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_03.md",
+    "Daily-Bullet-Journal/Journal-Backlog.md",
+    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_18.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_18.md",
+    "Evergreen-Notes/Permanent-Notes/Neuroscience.md",
+    "Evergreen-Notes/Permanent-Notes/Slow Down to Speed Up.md",
+    "Evergreen-Notes/Permanent-Notes/Journey over destination.md",
+    "Evergreen-Notes/Permanent-Notes/Be a habit and routine machine.md",
+    "Evergreen-Notes/Permanent-Notes/a-man-who-is-a-master-of-patience-is-master-of-everything-else.md",
+    "Evergreen-Notes/Permanent-Notes/The Arrival Fallacy.md",
+    "Evergreen-Notes/Permanent-Notes/intentional-living.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_31.md",
+    "Evergreen-Notes/Permanent-Notes/note-taking.md",
     "Weekly-Mindware-Update/assets/dashboard.png",
     "Evergreen-Lists/assets/dashboard.png",
     "Evergreen-Lists/assets/notification.jpg",
@@ -236,37 +306,16 @@
     "Daily-Bullet-Journal/_attachments/641a19689d60b5dbf49f37572aefae32.PNG",
     "Dear-Today-Me/assets",
     "Weekly-Mindware-Update/assets/17fcfabb0576b75c2a783f983e9c4f62.png",
-    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
     "Weekly-Mindware-Update/assets",
     "Weekly-Mindware-Update/untitled folder",
     "Brain-Food/assets/73beb44944d8309bd1d020d3caf28f07.png",
     "Brain-Food/assets",
     "Brain-Food/untitled folder",
-    "Shortcutomation/posts/a-midday-routine-i-do-every-day.md",
-    "Deep-Work-Machine/README.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_28.md",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Abs Defined.jpeg",
-    "Evergreen-Notes/Permanent-Notes/busyness.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_30.md",
-    "Evergreen-Notes/Permanent-Notes/Slow Down to Speed Up.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_27.md",
-    "Evergreen-Notes/Permanent-Notes/rest, reset, relax, recharge.md",
-    "Evergreen-Notes/Permanent-Notes/work-in-sprints-work-with-your-biology.md",
-    "Shortcutomation/posts/a-nighttime-routine-i-do-every-day.md",
-    "Evergreen-Notes/Permanent-Notes/decision-making.md",
-    "Dear-Today-Me/Dear-Today-Me.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_27.md",
-    "Evergreen-Notes/Permanent-Notes/Productivity.md",
-    "Evergreen-Notes/Permanent-Notes/readers-are-leaders.md",
-    "Evergreen-Notes/Permanent-Notes/what-you-work-on-is-far-more-important-than-how-productively-you-work.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_29.md",
-    "Daily-Bullet-Journal/journals/2022/07-July/2022_07_31.md",
     "Evergreen-Lists/assets/5d980bf5632d99e7e69ec3ea97c96ee9.png",
     "Evergreen-Lists/assets/c9b63564e28ecd03491d6a72d07db4fa.PNG",
     "Evergreen-Lists/assets",
     "Evergreen-Lists/untitled folder",
-    "Daily-Bullet-Journal/2025/07-July",
-    "Daily-Bullet-Journal/2025",
-    "Weekly-Mindware-Update/issues"
+    "Daily-Bullet-Journal/2025/07-July"
   ]
 }
