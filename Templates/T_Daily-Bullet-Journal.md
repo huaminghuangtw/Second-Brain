@@ -19,7 +19,6 @@ if (file) {
     app.workspace.getLeaf("tab").openFile(file);
     return;
 } else {
-    await tp.file.rename(fileName);
     await tp.file.move(folder + fileName);
 }
 -%>
