@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4d44003fba9be525",
+        "id": "a666e907c76af5d0",
         "type": "tabs",
         "children": [
           {
-            "id": "801e727b28edbb3e",
+            "id": "ae514c32091a9521",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "e0fa3bce15a6257f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/07-July/2025_07_28.md",
+                "file": "Daily-Bullet-Journal/journals/2025/07-July/2025_07_30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,107 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_07_28"
-            }
-          },
-          {
-            "id": "6f9c7bd4ebcea550",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weekly-Mindware-Update/README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "74e8b471a2763bd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weekly-Mindware-Update/issues/2025/2025_Week_09.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_Week_09"
-            }
-          },
-          {
-            "id": "38ae2662a09db1e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weekly-Mindware-Update/issues/2025/2025_Week_29.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_Week_29"
-            }
-          },
-          {
-            "id": "2c3ece8434b47089",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weekly-Mindware-Update/issues/2024/2024_Week_03.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2024_Week_03"
+              "title": "2025_07_30"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "沖洗器",
+                "query": "衡量 生產力",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -226,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly-Mindware-Update/issues/2024/2024_Week_03.md",
+                "file": "Daily-Bullet-Journal/journals/2025/07-July/2025_07_30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024_Week_03"
+              "title": "Backlinks for 2025_07_30"
             }
           },
           {
@@ -303,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Weekly-Mindware-Update/issues/2024/2024_Week_03.md"
+                "file": "Evergreen-Notes/Permanent-Notes/Slow Down to Speed Up.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2024_Week_03"
+              "title": "File properties for Slow Down to Speed Up"
             }
           },
           {
@@ -324,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 421.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -339,48 +220,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c3ece8434b47089",
+  "active": "ae514c32091a9521",
   "lastOpenFiles": [
-    "Weekly-Mindware-Update/issues/2024/2024_Week_02.md",
-    "Weekly-Mindware-Update/issues/2024/2024_Week_01.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_29.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_30.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_09.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_08.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_07.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_06.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_05.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_04.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_03.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_02.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_01.md",
-    "Weekly-Mindware-Update/issues/2024/2024_Week_52.md",
-    "Weekly-Mindware-Update/README.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_28.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_29.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_31.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_18.md",
     "Homepage.md",
-    "Evergreen-Lists/README.md",
-    "Evergreen-Lists/👨‍💻 Tech Pro Tip/👨‍💻 Tech Pro Tip.md",
-    "Untitled.md",
-    "Evergreen-Lists/🤖 AI Prompt/🤖 AI Prompt.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_08.md",
+    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_11.md",
     "Brain-Food/README.md",
-    "Evergreen-Notes/Permanent-Notes/Low Information Diet.md",
-    "Evergreen-Notes/Permanent-Notes/Information Overwhelm.md",
-    "Today-I-Learned/README.md",
-    "Shortcutomation/_attachments/Pasted image 20250729082319.png",
-    "Shortcutomation/_attachments/Pasted image 20250729083125.png",
-    "Shortcutomation/_attachments/Pasted image 20250729082410.png",
-    "Shortcutomation/posts/Pasted image 20250729082410.png",
-    "Shortcutomation/posts/Pasted image 20250729083125.png",
-    "Shortcutomation/posts/Pasted image 20250729082319.png",
-    "Life-Notes/_attachments/2f5d701497e6af1b5d073ce80a6f4dd8.png",
+    "Evergreen-Lists/README.md",
+    "Weekly-Mindware-Update/assets/dashboard.png",
+    "Evergreen-Lists/assets/dashboard.png",
+    "Evergreen-Lists/assets/notification.jpg",
+    "Brain-Food/assets/notification.png",
+    "Daily-Bullet-Journal/_attachments/641a19689d60b5dbf49f37572aefae32.PNG",
+    "Dear-Today-Me/assets",
+    "Weekly-Mindware-Update/assets/17fcfabb0576b75c2a783f983e9c4f62.png",
+    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
+    "Weekly-Mindware-Update/assets",
+    "Weekly-Mindware-Update/untitled folder",
+    "Brain-Food/assets/73beb44944d8309bd1d020d3caf28f07.png",
+    "Brain-Food/assets",
+    "Brain-Food/untitled folder",
+    "Shortcutomation/posts/a-midday-routine-i-do-every-day.md",
+    "Deep-Work-Machine/README.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_28.md",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Abs Defined.jpeg",
+    "Evergreen-Notes/Permanent-Notes/busyness.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_30.md",
+    "Evergreen-Notes/Permanent-Notes/Slow Down to Speed Up.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_27.md",
+    "Evergreen-Notes/Permanent-Notes/rest, reset, relax, recharge.md",
+    "Evergreen-Notes/Permanent-Notes/work-in-sprints-work-with-your-biology.md",
+    "Shortcutomation/posts/a-nighttime-routine-i-do-every-day.md",
+    "Evergreen-Notes/Permanent-Notes/decision-making.md",
+    "Dear-Today-Me/Dear-Today-Me.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_27.md",
+    "Evergreen-Notes/Permanent-Notes/Productivity.md",
+    "Evergreen-Notes/Permanent-Notes/readers-are-leaders.md",
+    "Evergreen-Notes/Permanent-Notes/what-you-work-on-is-far-more-important-than-how-productively-you-work.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_29.md",
+    "Daily-Bullet-Journal/journals/2022/07-July/2022_07_31.md",
+    "Evergreen-Lists/assets/5d980bf5632d99e7e69ec3ea97c96ee9.png",
+    "Evergreen-Lists/assets/c9b63564e28ecd03491d6a72d07db4fa.PNG",
+    "Evergreen-Lists/assets",
+    "Evergreen-Lists/untitled folder",
     "Daily-Bullet-Journal/2025/07-July",
     "Daily-Bullet-Journal/2025",
-    "Weekly-Mindware-Update/issues",
-    "Daily-Bullet-Journal/journals",
-    "Shortcutomation/_attachments/4b4ce1d10ae09059857f00b70a8315ff.jpg",
-    "Deep-Work-Machine/assets/alert.png",
-    "Deep-Work-Machine/assets/Screenshot 2025-07-27 at 07.54.59.png",
-    "Deep-Work-Machine/assets"
+    "Weekly-Mindware-Update/issues"
   ]
 }

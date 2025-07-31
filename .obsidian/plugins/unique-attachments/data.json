@@ -2,7 +2,11 @@
   "ignoreFolders": [
     "Visuals/Fitness/Darebee/",
     "Visuals/Chindogu/",
-    "Deep-Work-Machine/"
+    "Deep-Work-Machine/",
+    "Weekly-Mindware-Update/",
+    "Brain-Food/",
+    "Evergreen-Lists/",
+    "Dear-Today-Me/"
   ],
   "renameFileTypes": [
     "png",
