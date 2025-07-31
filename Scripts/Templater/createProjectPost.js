@@ -73,14 +73,14 @@ async function createProjectPost(tp) {
         `${folder}${slugifiedFileName}.md`
     );
     if (file) {
-        // Open the file in Obsidian
-        await app.workspace.getLeaf(false).openFile(file);
-        await tp.user.setViewMode("source");
-
         // Open the file in VS Code
         await tp.user.openInVSCode({
             filepath: `${app.vault.adapter.basePath}/${file.path}`,
         });
+
+        // Open the file in Obsidian
+        await app.workspace.getLeaf(false).openFile(file);
+        await tp.user.setViewMode("source");
     }
 
     return {
