@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T10:18:12
-modified: 2025-08-01T07:14:49
+modified: 2025-08-01T07:20:00
 ---
 
 ```dataviewjs
@@ -74,6 +74,8 @@ WHERE date
 ```
 
 ---
+
+<!-- deep-work-machine -->
 
 ```dataviewjs
 let onDesktop = window.innerWidth > 768;
