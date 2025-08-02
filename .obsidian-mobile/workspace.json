@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "454ad26a7e8a7f44",
+        "id": "c1d2bbd8f77876da",
         "type": "tabs",
         "children": [
           {
-            "id": "efeba8f9dfef4786",
+            "id": "8a1adeb3b3ca9508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/01-January/2025_01_25.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_01_25"
+            }
+          },
+          {
+            "id": "80857b5ad9e0859f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,7 +55,8 @@
               "title": "Homepage"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(hours cognitive)",
+                "query": "知道 做到",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,10 +208,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/2025/07-July/2025_07_22.md"
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_01.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_07_22"
+              "title": "File properties for 2025_08_01"
             }
           },
           {
@@ -219,44 +245,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "efeba8f9dfef4786",
+  "active": "80857b5ad9e0859f",
   "lastOpenFiles": [
-    "Deep-Work-Machine/README.md",
-    "Evergreen-Notes/Permanent-Notes/rest, reset, relax, recharge.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_25.md",
+    "Evergreen-Notes/Permanent-Notes/a-man-who-is-a-master-of-patience-is-master-of-everything-else.md",
+    "Shortcutomation/posts/live-each-day-as-it-were-your-last.md",
+    "Evergreen-Notes/Permanent-Notes/death.md",
+    "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
     "Homepage.md",
-    "Deep-Work-Machine/assets/alert.png",
-    "Deep-Work-Machine/assets/dashboard.png",
-    "Deep-Work-Machine/assets",
-    "Evergreen-Notes/Permanent-Notes/comparison-is-the-thief-of-joy.md",
-    "Weekly-Mindware-Update/README.md",
-    "Evergreen-Notes/Permanent-Notes/Flow State.md",
-    "Evergreen-Notes/Permanent-Notes/what-you-work-on-is-far-more-important-than-how-productively-you-work.md",
-    "Evergreen-Notes/Permanent-Notes/work-in-sprints-work-with-your-biology.md",
-    "Evergreen-Notes/Permanent-Notes/Deliberate Practice.md",
-    "Evergreen-Notes/Permanent-Notes/deep work.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_26.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_22.md",
-    "Evergreen-Notes/Permanent-Notes/discipline-equals-freedom.md",
-    "Evergreen-Notes/Permanent-Notes/Self-compassion.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_24.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_23.md",
-    "Evergreen-Notes/Permanent-Notes/Delayed Gratification.md",
-    "Evergreen-Notes/Permanent-Notes/Do hard things.md",
-    "Daily-Bullet-Journal/2025/07-July/2025_07_25.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_02.md",
+    "Shortcutomation/posts/a-midday-routine-i-do-every-day.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_01.md",
+    "Evergreen-Notes/Permanent-Notes/Slow Down to Speed Up.md",
+    "Evergreen-Notes/Permanent-Notes/work-smart.md",
+    "Evergreen-Notes/Permanent-Notes/always-do-your-best-as-possible.md",
+    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
+    "Evergreen-Lists/assets/notification.png",
+    "Evergreen-Notes/Permanent-Notes/Avoid telling people your goals.md",
+    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_02.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_02.md",
     "Untitled.md",
-    "Daily-Bullet-Journal/2024/09-September/2024_09_10.md",
-    "Evergreen-Notes/Permanent-Notes/Working Memory.md",
-    "Evergreen-Notes/Permanent-Notes/mastering-yourself-is-superpower.md",
-    "Daily-Bullet-Journal/2023/01-January/2023_01_30.md",
-    "Evergreen-Notes/Permanent-Notes/Escape competition through authenticity.md",
-    "Evergreen-Notes/Permanent-Notes/Work smart.md",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Maximus.jpeg",
-    "Daily-Bullet-Journal/_attachments/ebec83e7fb9b290dd1014f6bed796353.jpg",
-    "Shortcutomation/_attachments/e0b4637539a67143518431b5b1106a7c.png",
-    "Today-I-Learned/_attachments/7e17c6817f2c1952777d0708736f4bb3.png",
-    "Today-I-Learned/_attachments/43b411cb9c0c7295408fa8343133536f.png",
-    "Today-I-Learned/_attachments/0af9a4911858ba938c2d7f280db28a14.png",
-    "Daily-Bullet-Journal/_attachments/2726bd20608435a9bf6a8e586b6b1178.png",
-    "Daily-Bullet-Journal/2025/07-July/Pasted image 20250723142249.png"
+    "Evergreen-Notes/Permanent-Notes/integrity.md",
+    "Evergreen-Notes/Permanent-Notes/be-careful-how-you-are-talking-to-yourself.md",
+    "Evergreen-Notes/Permanent-Notes/Just getting started.md",
+    "Scripts/titleCaseUtility.js",
+    "Evergreen-Notes/Permanent-Notes/Self-compassion.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_23.md",
+    "Evergreen-Notes/Permanent-Notes/The Beginner Mindset.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_23.md",
+    "Today-I-Learned/posts/todai-i-go-to.md",
+    "Today-I-Learned/posts/intention-to-2025.md",
+    "Scripts/Templater/toTitleCase.js",
+    "Scripts/Templater/titleCaseUtility.js",
+    "Brain-Food/◻️ Podcast.json",
+    "Brain-Food/assets/movie-and-tv.png",
+    "Brain-Food/assets/book.png",
+    "Brain-Food/assets/essay.png",
+    "Brain-Food/assets/articles.png",
+    "Brain-Food/assets/books.png",
+    "Evergreen-Lists/assets/mockup.png",
+    "Evergreen-Lists/assets/callout.png",
+    "Weekly-Mindware-Update/assets/callout.png",
+    "Weekly-Mindware-Update/assets/notification.png",
+    "Daily-Bullet-Journal/journals/2022/08-August",
+    "Daily-Bullet-Journal/journals/2025/08-August",
+    "Dear-Today-Me/assets",
+    "Weekly-Mindware-Update/assets",
+    "Weekly-Mindware-Update/untitled folder",
+    "Brain-Food/assets"
   ]
 }

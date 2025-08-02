@@ -1,12 +1,7 @@
 {
   "command_timeout": 5,
   "templates_folder": "Templates",
-  "templates_pairs": [
-    [
-      "openInVSCode",
-      "code \"${filepath}\""
-    ]
-  ],
+  "templates_pairs": [],
   "trigger_on_file_creation": false,
   "auto_jump_to_cursor": true,
   "enable_system_commands": true,
