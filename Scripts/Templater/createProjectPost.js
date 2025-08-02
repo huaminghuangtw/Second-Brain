@@ -1,11 +1,18 @@
 async function createProjectPost(tp) {
-    const project = tp.config.template_file.basename.replace("T_", "");
     const rawTitle = await tp.system.prompt(`Title?`);
     if (!rawTitle) return null;
-    
-    const title = rawTitle.replace(/\w\S*/g, (txt) => 
-        txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase()
-    );
+
+    const title = tp.user.toTitleCase(rawTitle);
+
+    const folderMap = { "Permanent-Notes": `Evergreen-Notes/Permanent-Notes/` };
+
+    const project = tp.config.template_file.basename.replace("T_", "");
+
+    const folder = folderMap[project] || `${project}/posts/`;
+
+    const slugifiedFileName = tp.user.slugify(title);
+
+    await tp.file.move(folder + slugifiedFileName);
 
     const allTags = Object.keys(app.metadataCache.getTags());
     const projectTags = allTags
@@ -64,21 +71,11 @@ async function createProjectPost(tp) {
         }
     }
 
-    const folderMap = { "Permanent-Notes": `Evergreen-Notes/Permanent-Notes/` };
-    const folder = folderMap[project] || `${project}/posts/`;
-    const slugifiedFileName = tp.user.slugify(title);
-    await tp.file.move(folder + slugifiedFileName);
-
     const file = app.vault.getAbstractFileByPath(
         `${folder}${slugifiedFileName}.md`
     );
-    if (file) {
-        // Open the file in VS Code
-        await tp.user.openInVSCode({
-            filepath: `${app.vault.adapter.basePath}/${file.path}`,
-        });
 
-        // Open the file in Obsidian
+    if (file) {
         await app.workspace.getLeaf(false).openFile(file);
         await tp.user.setViewMode("source");
     }
