@@ -46,8 +46,7 @@ class Utils {
                         return 1;
                     }
                 })())
-            }&` +
-            `commandid=${encodeURIComponent("editor:unfold-all")}`
+            }`
         );
     }
 
