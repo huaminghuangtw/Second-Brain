@@ -19,7 +19,7 @@ async function createProjectPost(tp) {
         .filter((tag) => tag.startsWith(`#${project}/`))
         .map((tag) => tag.substring(1));
 
-    let selectedTags = [];
+    const selectedTags = [];
     if (projectTags.length > 0) {
         let availableTags = [...projectTags];
 
@@ -55,11 +55,10 @@ async function createProjectPost(tp) {
 
             if (selectedChoice === "🪧 Create new tag") {
                 const newTag = await tp.system.prompt(`New tag?`);
-                if (newTag && newTag.trim()) {
-                    const tagName = newTag.trim();
-                    const fullTagName = tagName.startsWith(`${project}/`)
-                        ? tagName
-                        : `${project}/${tagName}`;
+                if (newTag?.trim()) {
+                    const fullTagName = newTag.trim().startsWith(`${project}/`)
+                        ? newTag.trim()
+                        : `${project}/${newTag.trim()}`;
                     selectedTags.push(fullTagName);
                 }
             } else {
@@ -69,15 +68,6 @@ async function createProjectPost(tp) {
                 );
             }
         }
-    }
-
-    const file = app.vault.getAbstractFileByPath(
-        `${folder}${slugifiedFileName}.md`
-    );
-
-    if (file) {
-        await app.workspace.getLeaf(false).openFile(file);
-        await tp.user.setViewMode("source");
     }
 
     return {
