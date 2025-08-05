@@ -1,4 +1,4 @@
-<%*
+<%\*
 const momentDate = moment(await tp.user.datePicker(tp), "YYYY-MM-DD");
 
 const today = momentDate.format("YYYY-MM-DD");
@@ -16,16 +16,24 @@ const folder = `Daily-Bullet-Journal/journals/${momentDate.format("YYYY")}/${mom
 const file = tp.file.find_tfile(folder + fileName);
 
 if (file) {
-    app.workspace.getLeaf("tab").openFile(file);
-    return;
+window.open(
+`obsidian://adv-uri?filepath=${encodeURIComponent(
+            file.path
+        )}&viewmode=source&openmode=true&line=${await (async () =>
+            (await app.vault.read(file)).split("\n").length)()}`
+);
+return;
 } else {
-    await tp.file.move(folder + fileName);
+await tp.file.move(folder + fileName);
 }
 -%>
+
 ---
+
 date: <% today %>
 dayOfWeek: <% dayOfWeek %>
 weekNumber: <% weekNumber %>
+
 ---
 
 # 📝 <% today %>
@@ -34,7 +42,7 @@ weekNumber: <% weekNumber %>
 
 ## Daily Highlights
 
-* <% tp.file.cursor() %>
+-   <% tp.file.cursor() %>
 
 ## I Am Grateful for
 
