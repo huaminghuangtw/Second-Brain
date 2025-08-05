@@ -1,43 +1,19 @@
 {
   "main": {
-    "id": "dda821f5821a6226",
+    "id": "56f2e47e96ffe14e",
     "type": "split",
     "children": [
       {
-        "id": "6ee4b09167904aa9",
+        "id": "1e3e950af91334a1",
         "type": "tabs",
         "children": [
           {
-            "id": "1a063bfbf9d24315",
+            "id": "0be06eacbf7d9d09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "49e3fcd7fd450b81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/02-February/2025_02_15.md",
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,49 +28,24 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_02_15"
-            }
-          },
-          {
-            "id": "e662b6a652f82e67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_02.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_08_02"
+              "title": "2025_08_05"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "63653817e4dbc4f7",
+    "id": "0cc54123c4671bf7",
     "type": "split",
     "children": [
       {
-        "id": "ee45a0d45362c586",
+        "id": "d9228f0896d7daf8",
         "type": "tabs",
         "children": [
           {
-            "id": "35d99772d80685c9",
+            "id": "c94794b6dd491f89",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -107,15 +58,15 @@
             }
           },
           {
-            "id": "ac6b23ee9a0df2e0",
+            "id": "1a76a92ac346f467",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "單車旅行",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -124,7 +75,7 @@
             }
           },
           {
-            "id": "1ec9f4ea01dad2f2",
+            "id": "f056b0b1b5afa4ef",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -133,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -142,20 +92,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "3a67c1e4e8b17482",
+    "id": "26eb959a89fac973",
     "type": "split",
     "children": [
       {
-        "id": "c71dd65425ff431a",
+        "id": "7a5dac2e65de1081",
         "type": "tabs",
         "children": [
           {
-            "id": "ab2d8095eaa26448",
+            "id": "d5ca593e957f8be9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_02.md",
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,11 +115,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_08_02"
+              "title": "Backlinks for 2025_08_05"
             }
           },
           {
-            "id": "615d7149383c9ee4",
+            "id": "242b03d0bf9ecfcd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -183,7 +133,7 @@
             }
           },
           {
-            "id": "11518d7d7e1c628c",
+            "id": "856e7ac6312d5604",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -198,7 +148,7 @@
             }
           },
           {
-            "id": "68ec21e7b4deb9a3",
+            "id": "f61f232fa4c4119b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -212,7 +162,7 @@
             }
           },
           {
-            "id": "81d3394847e70ee1",
+            "id": "1b67a023be2af055",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -225,35 +175,12 @@
               "icon": "lucide-list",
               "title": "Outline of Homepage"
             }
-          },
-          {
-            "id": "d4e04db4cf80aa33",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_01.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for 2025_08_01"
-            }
-          },
-          {
-            "id": "10e17805c84a0593",
-            "type": "leaf",
-            "state": {
-              "type": "ReferenceListView",
-              "state": {},
-              "icon": "quote-glyph",
-              "title": "References"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 421.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -269,53 +196,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e662b6a652f82e67",
+  "active": "0be06eacbf7d9d09",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_01.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_02.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_15.md",
-    "Untitled.md",
-    "Evergreen-Notes/Permanent-Notes/Innovation.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_25.md",
-    "Evergreen-Notes/Permanent-Notes/a-man-who-is-a-master-of-patience-is-master-of-everything-else.md",
-    "Shortcutomation/posts/live-each-day-as-it-were-your-last.md",
-    "Evergreen-Notes/Permanent-Notes/death.md",
-    "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
-    "Shortcutomation/posts/a-midday-routine-i-do-every-day.md",
-    "Evergreen-Notes/Permanent-Notes/Slow Down to Speed Up.md",
-    "Evergreen-Notes/Permanent-Notes/work-smart.md",
-    "Evergreen-Notes/Permanent-Notes/always-do-your-best-as-possible.md",
-    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
-    "Evergreen-Lists/assets/notification.png",
-    "Evergreen-Notes/Permanent-Notes/Avoid telling people your goals.md",
-    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_02.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_02.md",
-    "Evergreen-Notes/Permanent-Notes/integrity.md",
-    "Evergreen-Notes/Permanent-Notes/be-careful-how-you-are-talking-to-yourself.md",
-    "Evergreen-Notes/Permanent-Notes/Just getting started.md",
-    "Scripts/titleCaseUtility.js",
-    "Evergreen-Notes/Permanent-Notes/Self-compassion.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_23.md",
-    "Evergreen-Notes/Permanent-Notes/The Beginner Mindset.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_23.md",
-    "Scripts/Templater/toTitleCase.js",
-    "Scripts/Templater/titleCaseUtility.js",
-    "Brain-Food/◻️ Podcast.json",
-    "Brain-Food/assets/movie-and-tv.png",
-    "Brain-Food/assets/book.png",
-    "Brain-Food/assets/essay.png",
-    "Brain-Food/assets/articles.png",
-    "Brain-Food/assets/books.png",
-    "Evergreen-Lists/assets/mockup.png",
-    "Evergreen-Lists/assets/callout.png",
-    "Weekly-Mindware-Update/assets/callout.png",
-    "Weekly-Mindware-Update/assets/notification.png",
-    "Daily-Bullet-Journal/journals/2022/08-August",
-    "Daily-Bullet-Journal/journals/2025/08-August",
-    "Dear-Today-Me/assets",
-    "Weekly-Mindware-Update/assets",
-    "Weekly-Mindware-Update/untitled folder",
-    "Brain-Food/assets"
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_05.md",
+    "Life-Notes/Business/Startups.md"
   ]
 }

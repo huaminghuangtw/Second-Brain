@@ -19,10 +19,7 @@
   "userIgnoreFilters": [
     "Scripts/",
     "Templates/",
-    "Visuals/",
-    "EvergreenLists/",
-    "Deep-Work-Machine/",
-    "Brain-Food/"
+    "Visuals/"
   ],
   "showInlineTitle": false,
   "useTab": true,

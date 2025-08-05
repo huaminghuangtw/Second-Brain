@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c1d2bbd8f77876da",
+        "id": "6ee4b09167904aa9",
         "type": "tabs",
         "children": [
           {
-            "id": "8a1adeb3b3ca9508",
+            "id": "49e3fcd7fd450b81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/01-January/2025_01_25.md",
+                "file": "Daily-Bullet-Journal/journals/2025/02-February/2025_02_15.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,11 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_01_25"
+              "title": "2025_02_15"
             }
           },
           {
-            "id": "80857b5ad9e0859f",
+            "id": "f961763212c86224",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "知道 做到",
+                "query": "單車旅行",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -245,17 +245,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "80857b5ad9e0859f",
+  "active": "f961763212c86224",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_15.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_02.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_01.md",
+    "Untitled.md",
+    "Evergreen-Notes/Permanent-Notes/Innovation.md",
+    "Homepage.md",
     "Daily-Bullet-Journal/journals/2025/01-January/2025_01_25.md",
     "Evergreen-Notes/Permanent-Notes/a-man-who-is-a-master-of-patience-is-master-of-everything-else.md",
     "Shortcutomation/posts/live-each-day-as-it-were-your-last.md",
     "Evergreen-Notes/Permanent-Notes/death.md",
     "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_02.md",
     "Shortcutomation/posts/a-midday-routine-i-do-every-day.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_01.md",
     "Evergreen-Notes/Permanent-Notes/Slow Down to Speed Up.md",
     "Evergreen-Notes/Permanent-Notes/work-smart.md",
     "Evergreen-Notes/Permanent-Notes/always-do-your-best-as-possible.md",
@@ -264,7 +267,6 @@
     "Evergreen-Notes/Permanent-Notes/Avoid telling people your goals.md",
     "Daily-Bullet-Journal/journals/2023/08-August/2023_08_02.md",
     "Daily-Bullet-Journal/journals/2024/08-August/2024_08_02.md",
-    "Untitled.md",
     "Evergreen-Notes/Permanent-Notes/integrity.md",
     "Evergreen-Notes/Permanent-Notes/be-careful-how-you-are-talking-to-yourself.md",
     "Evergreen-Notes/Permanent-Notes/Just getting started.md",
@@ -273,8 +275,6 @@
     "Daily-Bullet-Journal/journals/2024/07-July/2024_07_23.md",
     "Evergreen-Notes/Permanent-Notes/The Beginner Mindset.md",
     "Daily-Bullet-Journal/journals/2025/07-July/2025_07_23.md",
-    "Today-I-Learned/posts/todai-i-go-to.md",
-    "Today-I-Learned/posts/intention-to-2025.md",
     "Scripts/Templater/toTitleCase.js",
     "Scripts/Templater/titleCaseUtility.js",
     "Brain-Food/◻️ Podcast.json",
