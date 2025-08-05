@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T10:18:12
-modified: 2025-08-01T07:20:00
+modified: 2025-08-04T11:12:06
 ---
 
 ```dataviewjs
@@ -547,7 +547,7 @@ if (onDesktop) {
 }
 ```
 
-# [🌟 Life Philosophy](https://github.com/huaminghuangtw/Dear-Today-Me)
+# [💌 Dear Today Me](https://github.com/huaminghuangtw/Dear-Today-Me)
 
 ```dataviewjs
 let onDesktop = window.innerWidth > 768;
@@ -671,19 +671,17 @@ if (onDesktop) {
     let fileContent;
 
     try {
-        files = (await Utils.getRepoTree("huaminghuangtw", "Weekly-Mindware-Update"))
-                    .filter(item => item.path.includes("/"));
+        files = await Utils.getRepoTree("huaminghuangtw", "Weekly-Mindware-Update/issues");
 
         filePath = Utils.getRandomItem(files).path;
 
         fileContent = await Utils.getFileContent(
             "huaminghuangtw",
-            "Weekly-Mindware-Update",
+            "Weekly-Mindware-Update/issues",
             filePath
         );
     } catch {
-        files = Utils.getAllFilesByExtension("Weekly-Mindware-Update", "md")
-                        .filter(file => !file.path.includes("README"))
+        files = Utils.getAllFilesByExtension("Weekly-Mindware-Update/issues", "md")
                         .map(file => file.path);
 
         filePath = Utils.getRandomItem(files);
