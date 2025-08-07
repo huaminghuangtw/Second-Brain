@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T10:18:12
-modified: 2025-08-04T11:12:06
+modified: 2025-08-06T10:38:44
 ---
 
 ```dataviewjs
@@ -81,101 +81,43 @@ WHERE date
 let onDesktop = window.innerWidth > 768;
 if (onDesktop) {
     const { Utils } = await cJS();
-    
-    let today = dv.date("today");
 
-    function calculateAverage(data, valueLabel, dateFilterFn) {
-        const extractors = {
-            "Number of Words": (stats) => stats.words,
-            "Number of Flows": (flows) => flows.length,
-        };
+    const CONFIG = { thresholds: { "Number of Flows": 6, "Number of Words": 1000 } };
 
-        const getValue = extractors[valueLabel];
+    const today = dv.date("today");
 
-        const entries = Object.entries(data).filter(([dateStr, _]) =>
-            dateFilterFn(dv.date(dateStr))
-        );
-
-        const values = entries.map(([_, value]) => getValue(value));
-
-        return values.length > 0
-            ? Math.round(values.reduce((sum, val) => sum + val, 0) / values.length)
-            : 0;
+    const getAverage = (data, valueLabel, filterFn) => {
+        const getValue = valueLabel === "Number of Words" ? s => s.words : f => f.length;
+        const values = Object.entries(data).filter(([d]) => filterFn(dv.date(d))).map(([, v]) => getValue(v));
+        return values.length ? Math.round(values.reduce((s, v) => s + v, 0) / values.length) : 0;
     };
 
-    let metrics = {
-        "Number of Flows": JSON.parse(
-            await app.vault.adapter.read(
-                `Deep-Work-Machine/Number of Flows/data.json`
-            )
-        ),
-        "Number of Words": JSON.parse(
-            await app.vault.adapter.read(
-                `${app.vault.configDir}/vault-stats.json`
-            )
-        ).history
+    const metrics = {
+        "Number of Flows": JSON.parse(await app.vault.adapter.read(`Deep-Work-Machine/Number of Flows/data.json`)),
+        "Number of Words": JSON.parse(await app.vault.adapter.read(`${app.vault.configDir}/vault-stats.json`)).history
     };
 
-    let allTimeAverages = {};
-    let thisWeekAverages = {};
-    let yesterdayData = {};
-    let todayData = {};
+    const periods = [
+        ["Last Week", d => d >= today.minus({ weeks: 1 }).startOf("week") && d <= today.minus({ weeks: 1 }).endOf("week")],
+        ["This Week", d => d >= today.startOf("week") && d <= today.endOf("week")],
+        ["Yesterday", d => d.toISODate() === today.minus({ days: 1 }).toISODate()],
+        ["Today", d => d.toISODate() === today.toISODate()]
+    ];
 
-    for (const [metric, data] of Object.entries(metrics)) {
-        let allFiles = Utils.getAllFilesByExtension(`Deep-Work-Machine/${metric}`, "json")
-                            .filter(file => !file.path.endsWith("data.json"));
-
-        let allTimeData = (await Promise.all(allFiles.map(file =>
-            app.vault.adapter.read(file.path).then(data => JSON.parse(data).data)
-        ))).flat();
-
-        allTimeAverages[metric] = Math.round(
-            // 30.44 is the average days per month
-            allTimeData.reduce((sum, entry) => sum + entry[metric], 0) / (allFiles.length * 30.44) * 10
-        ) / 10;
-
-        thisWeekAverages[metric] = calculateAverage(
-            data,
+    const results = Object.fromEntries(
+        Object.entries(metrics).map(([metric, data]) => [
             metric,
-            (date) => date >= today.startOf("week") && date <= today.endOf("week")
-        );
-
-        yesterdayData[metric] = calculateAverage(
-            data,
-            metric,
-            (date) => date.toISODate() === today.minus({ days: 1 }).toISODate()
-        );
-
-        todayData[metric] = calculateAverage(
-            data,
-            metric,
-            (date) => date.toISODate() === today.toISODate()
-        );
-    };
+            periods.map(([, filter]) => getAverage(data, metric, filter))
+        ])
+    );
 
     dv.table(
+        ["", "**Last Week Average**", "**This Week Average**", "**Yesterday**", "**Today**"],
         [
-            "",
-            "**All-Time Average**",
-            "**This Week Average**",
-            "**Yesterday**",
-            "**Today**"
-        ],
-        [
-            [
-                "**🍅 Flows**",
-                `==**${allTimeAverages["Number of Flows"]}**==`,
-                `${thisWeekAverages["Number of Flows"]}`,
-                `${yesterdayData["Number of Flows"]}`,
-                todayData["Number of Flows"] >= allTimeAverages["Number of Flows"] ? `👌 ${todayData["Number of Flows"]}` : `💪 ${todayData["Number of Flows"]}`
-            ],
-            [
-                "**✍️ Words**",
-                `==**${allTimeAverages["Number of Words"]}**==`,
-                `${thisWeekAverages["Number of Words"]}`,
-                `${yesterdayData["Number of Words"]}`,
-                todayData["Number of Words"] >= allTimeAverages["Number of Words"] ? `👌 ${todayData["Number of Words"]}` : `💪 ${todayData["Number of Words"]}`
-            ]
+            ["**🍅 Flows**", `${results["Number of Flows"][0]}`, ...results["Number of Flows"].slice(1, 3),
+             results["Number of Flows"][3] >= CONFIG.thresholds["Number of Flows"] ? `👌 ${results["Number of Flows"][3]}` : `💪 ${results["Number of Flows"][3]}`],
+            ["**✍️ Words**", `${results["Number of Words"][0]}`, ...results["Number of Words"].slice(1, 3),
+             results["Number of Words"][3] >= CONFIG.thresholds["Number of Words"] ? `👌 ${results["Number of Words"][3]}` : `💪 ${results["Number of Words"][3]}`]
         ]
     );
 }
@@ -195,132 +137,79 @@ if (onDesktop) {
 > };
 >
 > const NO_DATA = "‏‎ ‎ ";
-> let today = dv.date("today");
+> const today = dv.date("today");
 >
 > dv.header(3, "Last 7 Days");
 >
-> function calculateSumAndAverage(data, metric, isTime = false) {
->     let total = 0, totalHours = 0, totalMinutes = 0, count = 0;
->     for (const row of data) {
->         if (row[metric] !== NO_DATA) {
->             if (isTime) {
->                 const hours = row[metric]?.hours || 0;
->                 const minutes = row[metric]?.minutes || 0;
->                 totalHours += hours;
->                 totalMinutes += minutes;
->             } else {
->                 total += row[metric];
->             }
->             count++;
->         }
->     }
+> function getAverage(data, metric, isTime) {
+>     const valid = Array.from(data).filter(r => r[metric] !== NO_DATA);
+>     if (!valid.length) return NO_DATA;
+>
 >     if (isTime) {
->         totalHours += Math.floor(totalMinutes / 60);
->         totalMinutes = totalMinutes % 60;
->         return {
->             average: count > 0
->                 ? `${Math.floor(totalHours / count)}h ${Math.round(totalMinutes / count)}m`
->                 : NO_DATA,
->             count
->         };
->     } else {
->         return {
->             average: count > 0 ? Math.round(total / count) : NO_DATA,
->             count
->         };
+>         const totalMinutes = valid.reduce((sum, r) => sum + (r[metric].hours * 60 + r[metric].minutes), 0);
+>         const avgMinutes = totalMinutes / valid.length;
+>         return `${Math.floor(avgMinutes / 60)}h ${Math.round(avgMinutes % 60)}m`;
 >     }
+>
+>     return Math.round(valid.reduce((sum, r) => sum + r[metric], 0) / valid.length);
 > }
 >
-> function getDataForPeriod(days) {
+> function getData(days) {
 >     return dv.pages('"Daily-Bullet-Journal"')
->         .where(p =>
->             p.date >= today.minus({ days }) &&
->             p.date < today.plus({ days: 1 }))
+>         .where(p => p.date >= today.minus({ days }) && p.date < today.plus({ days: 1 }))
 >         .sort(p => p.date, 'desc')
->         .map((todayEntry, i, entries) => {
->             const yesterdayEntry = entries[i + 1];
->             const calculateTimeDifference = (startTime, endTime) => {
->                 if (!startTime || !endTime) return NO_DATA;
->                 const timeInSeconds = (endTime - startTime) / 1000;
->                 return {
->                     hours: Math.floor(timeInSeconds / 3600),
->                     minutes: Math.round((timeInSeconds % 3600) / 60)
->                 };
->             };
->             const sleepTime = calculateTimeDifference(yesterdayEntry?.bedTime, todayEntry.wakeUpTime);
->             const screenTime = todayEntry.phoneScreenTime ? dv.duration(todayEntry.phoneScreenTime) : NO_DATA;
->             const steps = todayEntry.steps || NO_DATA;
+>         .map((entry, i, entries) => {
+>             const prev = entries[i + 1];
+>             const sleepTime = prev?.bedTime && entry.wakeUpTime
+>                 ? { hours: Math.floor((entry.wakeUpTime - prev.bedTime) / 3600000), minutes: Math.round(((entry.wakeUpTime - prev.bedTime) % 3600000) / 60000) }
+>                 : NO_DATA;
 >             return {
->                 link: todayEntry.file.link,
+>                 link: entry.file.link,
 >                 sleepTime,
->                 screenTime,
->                 steps
+>                 screenTime: entry.phoneScreenTime ? dv.duration(entry.phoneScreenTime) : NO_DATA,
+>                 steps: entry.steps || NO_DATA
 >             };
 >         })
 >         .slice(0, -1); // Exclude the last entry since it won't have a "yesterday" entry
 > }
 >
-> const data7Day = getDataForPeriod(7);
-> const data30Day = getDataForPeriod(30);
-> const data90Day = getDataForPeriod(90);
-> const data180Day = getDataForPeriod(180);
+> const [data7, data30, data90, data180] = [7, 30, 90, 180].map(getData);
 >
-> function prependThreshold(value, threshold, isTime = false, isLessBetter = false) {
+> function formatThreshold(value, threshold, isTime, isLess) {
 >     if (value === NO_DATA) return value;
->     if (isTime) {
->         const totalMinutes = value.hours * 60 + value.minutes;
->         const thresholdMinutes = threshold.hours * 60 + threshold.minutes;
->         return isLessBetter
->             ? totalMinutes <= thresholdMinutes ? `✅ ${value.hours}h ${value.minutes}m` : `❌ ${value.hours}h ${value.minutes}m`
->             : totalMinutes >= thresholdMinutes ? `✅ ${value.hours}h ${value.minutes}m` : `❌ ${value.hours}h ${value.minutes}m`;
->     } else {
->         return isLessBetter
->             ? value <= threshold ? `✅ ${value}` : `❌ ${value}`
->             : value >= threshold ? `✅ ${value}` : `❌ ${value}`;
->     }
+>     const passes = isTime
+>         ? (isLess ? (value.hours * 60 + value.minutes) <= (threshold.hours * 60 + threshold.minutes) : (value.hours * 60 + value.minutes) >= (threshold.hours * 60 + threshold.minutes))
+>         : (isLess ? value <= threshold : value >= threshold);
+>     const icon = passes ? "✅" : "❌";
+>     return isTime ? `${icon} ${value.hours}h ${value.minutes}m` : `${icon} ${value}`;
 > }
 >
 > dv.table(
 >     ["‏‎", "**🛌 Sleep Time**", "**📱 Screen Time**", "**🚶 Steps**"],
->     data7Day.map(row => [
->         `**${row.link}**`,
->         prependThreshold(row.sleepTime, CONFIG.thresholds.sleepTime, true),
->         prependThreshold(row.screenTime, CONFIG.thresholds.screenTime, true, true),
->         prependThreshold(row.steps, CONFIG.thresholds.steps, false)
+>     data7.map(r => [
+>         `**${r.link}**`,
+>         formatThreshold(r.sleepTime, CONFIG.thresholds.sleepTime, true, false),
+>         formatThreshold(r.screenTime, CONFIG.thresholds.screenTime, true, true),
+>         formatThreshold(r.steps, CONFIG.thresholds.steps, false, false)
 >     ])
 > );
 >
 > dv.header(3, "Averages");
 >
-> const averages = {
->     "🛌 Sleep Time": {
->         "7-Day": calculateSumAndAverage(data7Day, 'sleepTime', true).average,
->         "30-Day": calculateSumAndAverage(data30Day, 'sleepTime', true).average,
->         "90-Day": calculateSumAndAverage(data90Day, 'sleepTime', true).average,
->         "180-Day": calculateSumAndAverage(data180Day, 'sleepTime', true).average
->     },
->     "📱 Screen Time": {
->         "7-Day": calculateSumAndAverage(data7Day, 'screenTime', true).average,
->         "30-Day": calculateSumAndAverage(data30Day, 'screenTime', true).average,
->         "90-Day": calculateSumAndAverage(data90Day, 'screenTime', true).average,
->         "180-Day": calculateSumAndAverage(data180Day, 'screenTime', true).average
->     },
->     "🚶 Steps": {
->         "7-Day": calculateSumAndAverage(data7Day, 'steps', false).average,
->         "30-Day": calculateSumAndAverage(data30Day, 'steps', false).average,
->         "90-Day": calculateSumAndAverage(data90Day, 'steps', false).average,
->         "180-Day": calculateSumAndAverage(data180Day, 'steps', false).average
->     }
-> };
+> const metrics = ["🛌 Sleep Time", "📱 Screen Time", "🚶 Steps"];
+> const periods = ["7-Day", "30-Day", "90-Day", "180-Day"];
+> const datasets = [data7, data30, data90, data180];
+> const keys = ['sleepTime', 'screenTime', 'steps'];
+> const isTimeMetric = [true, true, false];
 >
 > dv.table(
->     ["‏‎", "**7-Day**", "**30-Day**", "**90-Day**", "**180-Day**"],
->     Object.entries(averages).map(([metric, values]) => [
+>     ["‏‎", ...periods.map(p => `**${p}**`)],
+>     metrics.map((metric, i) => [
 >         `**${metric}**`,
->         `==**${values["7-Day"]}**==`,
->         `${values["30-Day"]}`,
->         `${values["90-Day"]}`,
->         `${values["180-Day"]}`
+>         ...datasets.map((data, j) => {
+>             const avg = getAverage(data, keys[i], isTimeMetric[i]);
+>             return j === 0 ? `==**${avg}**==` : avg;
+>         })
 >     ])
 > );
 > ```
