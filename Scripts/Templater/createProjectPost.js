@@ -10,9 +10,12 @@ async function createProjectPost(tp) {
 
     const folder = folderMap[project] || `${project}/posts/`;
 
-    const slugifiedFileName = tp.user.slugify(title);
+    const hasChinese = /[\u4e00-\u9fff]/.test(title);
+    const fileName = hasChinese 
+        ? tp.date.now("YYYY_MM_DD")
+        : tp.user.slugify(title);
 
-    await tp.file.move(folder + slugifiedFileName);
+    await tp.file.move(folder + fileName);
 
     const allTags = Object.keys(app.metadataCache.getTags());
     const projectTags = allTags
