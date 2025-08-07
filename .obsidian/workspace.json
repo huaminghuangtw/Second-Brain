@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "1e3e950af91334a1",
+        "id": "0562b0cdfd2dcc90",
         "type": "tabs",
         "children": [
           {
-            "id": "0be06eacbf7d9d09",
+            "id": "a6eeceed2fcf609f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_05.md",
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "0976d1e1868d1609",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weekly-Mindware-Update/README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +52,131 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_08_05"
+              "title": "README"
+            }
+          },
+          {
+            "id": "e2254d2e29384d87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dear-Today-Me/Dear-Today-Me.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dear-Today-Me"
+            }
+          },
+          {
+            "id": "4435c031b4874a1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Today-I-Learned/README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "bd7f9607f0805495",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brain-Food/README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "a27d2cd2c882374d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dear-Today-Me/README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "de4a415dd90aeb07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep-Work-Machine/README.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -63,10 +208,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "attention",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -84,7 +229,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_05.md",
+                "file": "Brain-Food/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +261,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_08_05"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -175,12 +321,25 @@
               "icon": "lucide-list",
               "title": "Outline of Homepage"
             }
+          },
+          {
+            "id": "ca1aa38b3d4845a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_06.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 2025_08_06"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 392.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -196,10 +355,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0be06eacbf7d9d09",
+  "active": "bd7f9607f0805495",
   "lastOpenFiles": [
+    "Dear-Today-Me/README.md",
+    "Brain-Food/README.md",
+    "Today-I-Learned/README.md",
+    "Evergreen-Lists/README.md",
+    "Weekly-Mindware-Update/README.md",
+    "Deep-Work-Machine/README.md",
+    "Dear-Today-Me/Dear-Today-Me.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_05.md",
-    "Life-Notes/Business/Startups.md"
+    "Evergreen-Notes/Permanent-Notes/attention.md",
+    "Evergreen-Notes/Permanent-Notes/Information Overwhelm.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_07.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_06.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_08.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_19.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_14.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_27.md",
+    "Evergreen-Notes/Permanent-Notes/Quit social media.md",
+    "Today-I-Learned/posts/git-commit-messages-from-a-file.md",
+    "Today-I-Learned/posts/2025_08_07.md",
+    "Today-I-Learned/posts/.md",
+    "Evergreen-Notes/Permanent-Notes/happiness.md",
+    "Evergreen-Notes/Permanent-Notes/Emotional Freedom.md",
+    "Evergreen-Notes/Permanent-Notes/never-ever-complain-about-anything.md",
+    "Evergreen-Notes/Permanent-Notes/How to live a life.md",
+    "Evergreen-Notes/Permanent-Notes/Dispel your narratives.md",
+    "Evergreen-Notes/Permanent-Notes/mastering-yourself-is-superpower.md",
+    "Deep-Work-Machine/assets/dashboard.png",
+    "Deep-Work-Machine/assets/Screenshot 2025-08-06 at 10.38.49.png",
+    "Deep-Work-Machine/assets/Screenshot 2025-08-06 at 10.37.17 1.png",
+    "Brain-Food/assets/youtube-video.png",
+    "Brain-Food/assets/notification.png",
+    "Brain-Food/assets/movie-and-tv.png",
+    "Brain-Food/assets/essay.png",
+    "Brain-Food/assets/book.png",
+    "Dear-Today-Me/assets/notification.png",
+    "Weekly-Mindware-Update/assets/widget.png"
   ]
 }
