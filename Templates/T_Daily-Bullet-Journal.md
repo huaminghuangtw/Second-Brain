@@ -1,4 +1,4 @@
-<%\*
+<%*
 const momentDate = moment(await tp.user.datePicker(tp), "YYYY-MM-DD");
 
 const today = momentDate.format("YYYY-MM-DD");
@@ -27,13 +27,10 @@ return;
 await tp.file.move(folder + fileName);
 }
 -%>
-
 ---
-
 date: <% today %>
 dayOfWeek: <% dayOfWeek %>
 weekNumber: <% weekNumber %>
-
 ---
 
 # 📝 <% today %>
@@ -42,7 +39,7 @@ weekNumber: <% weekNumber %>
 
 ## Daily Highlights
 
--   <% tp.file.cursor() %>
+* <% tp.file.cursor() %>
 
 ## I Am Grateful for
 
