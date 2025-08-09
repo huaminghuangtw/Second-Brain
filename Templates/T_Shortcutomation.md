@@ -8,6 +8,7 @@ const tagsList = tags && tags.length > 0
 -%>
 ---
 draft: true
+featured: false
 title: <% title %>
 tags:
 <% tagsList %>
