@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6c312a22d5938a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
             "id": "44bdf68194a99cc4",
             "type": "leaf",
             "state": {
@@ -56,13 +32,13 @@
             }
           },
           {
-            "id": "c7cbdbb7fdcaee75",
+            "id": "8736249b6476d6d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_12.md",
-                "mode": "source",
+                "file": "Homepage.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,11 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_08_12"
+              "title": "Homepage"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_12.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_08_12"
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -224,12 +200,25 @@
               "icon": "lucide-list",
               "title": "Outline of Homepage"
             }
+          },
+          {
+            "id": "b7a372812dbe16cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Homepage.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Homepage"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 340.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -245,12 +234,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7cbdbb7fdcaee75",
+  "active": "8736249b6476d6d9",
   "lastOpenFiles": [
     "Daily-Bullet-Journal/journals/2025/08-August/2025_08_11.md",
-    "Homepage.md",
     "Daily-Bullet-Journal/journals/2025/08-August/2025_08_12.md",
+    "Homepage.md",
     "Daily-Bullet-Journal/journals/2025/08-August/2025_08_10.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_09.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_07.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_06.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_08.md",
+    "Today-I-Learned/README.md",
+    "Today-I-Learned/posts/how-to-minimize-distractions-in-vs-code.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_05.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_04.md",
+    "Templates/T_Notes-to-Self.md",
+    "Templates/T_AdaptX copy.md",
+    "Templates/T_AdaptX.md",
+    "Templates/T_Enoughness copy.md",
+    "Templates/T_Enoughness.md",
+    "Templates/T_Shortcutomation copy.md",
+    "Notes-to-Self/posts",
+    "Notes-to-Self/_attachments",
+    "Notes-to-Self",
     "Untitled.md",
     "Daily-Bullet-Journal/journals/2025/03-March/2025_03_01.md",
     "Daily-Bullet-Journal/journals/2025/09-September/2025_09_02.md",
@@ -260,7 +266,6 @@
     "Brain-Food/README.md",
     "Evergreen-Notes/Permanent-Notes/attention.md",
     "Evergreen-Notes/Permanent-Notes/Quit social media.md",
-    "Shortcutomation/posts/a-nighttime-routine-i-do-every-day.md",
-    "Shortcutomation/posts/hidden-keyboard-shortcuts-for-apple-shortcuts.md"
+    "Shortcutomation/posts/a-nighttime-routine-i-do-every-day.md"
   ]
 }

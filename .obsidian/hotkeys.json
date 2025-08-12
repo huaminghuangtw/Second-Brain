@@ -762,5 +762,30 @@
       ],
       "key": "J"
     }
+  ],
+  "templater-obsidian:create-Templates/T_AdaptX.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_Enoughness.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_Notes-to-Self.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "N"
+    }
   ]
 }
