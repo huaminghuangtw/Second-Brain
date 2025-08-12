@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "56f2e47e96ffe14e",
+    "id": "cd0bd9ee9b8f274b",
     "type": "split",
     "children": [
       {
-        "id": "1c6ab20afaec9603",
+        "id": "f1f079867bfc85fc",
         "type": "tabs",
         "children": [
           {
-            "id": "b212e3d9c863692d",
+            "id": "d6c312a22d5938a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,22 +30,71 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "44bdf68194a99cc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_08_11"
+            }
+          },
+          {
+            "id": "c7cbdbb7fdcaee75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_08_12"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0cc54123c4671bf7",
+    "id": "358f92639d168594",
     "type": "split",
     "children": [
       {
-        "id": "d9228f0896d7daf8",
+        "id": "0a73aee42094b3af",
         "type": "tabs",
         "children": [
           {
-            "id": "c94794b6dd491f89",
+            "id": "681060019251ca3c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,12 +107,12 @@
             }
           },
           {
-            "id": "1a76a92ac346f467",
+            "id": "825ae5243df04631",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "冰鎮地瓜",
+                "query": "hidden",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +124,7 @@
             }
           },
           {
-            "id": "f056b0b1b5afa4ef",
+            "id": "e92beb321c46eabd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -92,20 +141,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "26eb959a89fac973",
+    "id": "bf3328b273fe4fd6",
     "type": "split",
     "children": [
       {
-        "id": "7a5dac2e65de1081",
+        "id": "2e4f312e9ea75b07",
         "type": "tabs",
         "children": [
           {
-            "id": "d5ca593e957f8be9",
+            "id": "968d72dd116056d0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,11 +164,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 2025_08_12"
             }
           },
           {
-            "id": "242b03d0bf9ecfcd",
+            "id": "f3889949dc906543",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -133,7 +182,7 @@
             }
           },
           {
-            "id": "856e7ac6312d5604",
+            "id": "f198ce9e13e180e3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,7 +197,7 @@
             }
           },
           {
-            "id": "f61f232fa4c4119b",
+            "id": "177efaa3758a9f2c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -162,7 +211,7 @@
             }
           },
           {
-            "id": "1b67a023be2af055",
+            "id": "95e5e1e0ce533f29",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -175,25 +224,12 @@
               "icon": "lucide-list",
               "title": "Outline of Homepage"
             }
-          },
-          {
-            "id": "ca1aa38b3d4845a3",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Homepage.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for Homepage"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 392.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -209,43 +245,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b212e3d9c863692d",
+  "active": "c7cbdbb7fdcaee75",
   "lastOpenFiles": [
-    "Today-I-Learned/posts/handling-case-sensitive-file-renames-in-git.md",
-    "Today-I-Learned/posts/youtube-url-schemes.md",
-    "Today-I-Learned/posts/vs-code-cli-and-url-schemes.md",
-    "Today-I-Learned/posts/how-to-write-good-git-commit-messages.md",
-    "Today-I-Learned/posts/github-url-schemes-for-viewing-editing-and-commit-history.md",
-    "Today-I-Learned/posts/git-tags.md",
-    "Today-I-Learned/posts/git-reset.md",
-    "Today-I-Learned/posts/git-commit-messages-from-a-file.md",
-    "Shortcutomation/posts/shortcut-input-magic-youre-probably-missing.md",
-    "Shortcutomation/posts/live-each-day-as-it-were-your-last.md",
-    "Shortcutomation/posts/a-nighttime-routine-i-do-every-day.md",
-    "Shortcutomation/posts/a-midday-routine-i-do-every-day.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_09.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_11.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_08.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_12.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_10.md",
     "Untitled.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_07.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_21.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_17.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_28.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_01.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_09.md",
-    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_09.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_15.md",
-    "Evergreen-Notes/Permanent-Notes/Judge others by intentions, judge ourselves by actions.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_02.md",
-    "Evergreen-Notes/_attachments/b1c977f4afcd7fdc61cd94ab1bd35745.png",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Iron Maiden.jpeg",
-    "Deep-Work-Machine/assets/dashboard.png",
-    "Deep-Work-Machine/assets/Screenshot 2025-08-06 at 10.38.49.png",
-    "Deep-Work-Machine/assets/Screenshot 2025-08-06 at 10.37.17 1.png",
-    "Brain-Food/assets/youtube-video.png",
-    "Brain-Food/assets/notification.png",
-    "Brain-Food/assets/movie-and-tv.png",
-    "Brain-Food/assets/essay.png",
-    "Brain-Food/assets/book.png"
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_01.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_02.md",
+    "Daily-Bullet-Journal/journals/2025/09-September",
+    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
+    "Scripts/Templater/createBlogPost.js",
+    "Brain-Food/README.md",
+    "Evergreen-Notes/Permanent-Notes/attention.md",
+    "Evergreen-Notes/Permanent-Notes/Quit social media.md",
+    "Shortcutomation/posts/a-nighttime-routine-i-do-every-day.md",
+    "Shortcutomation/posts/hidden-keyboard-shortcuts-for-apple-shortcuts.md"
   ]
 }

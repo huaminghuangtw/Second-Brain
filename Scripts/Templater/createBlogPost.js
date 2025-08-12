@@ -15,6 +15,8 @@ async function createProjectPost(tp) {
         ? tp.date.now("YYYY_MM_DD")
         : tp.user.slugify(title);
 
+    tp.user.setViewMode("source");
+    
     await tp.file.move(folder + fileName);
 
     const allTags = Object.keys(app.metadataCache.getTags());
