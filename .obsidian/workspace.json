@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4a6abdb3bc23ad3d",
+        "id": "cebf0652e0bb9f81",
         "type": "tabs",
         "children": [
           {
-            "id": "6f489bf6a00136ac",
+            "id": "ce15cda0cbf60e14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/walk.md",
-                "mode": "source",
+                "file": "Homepage.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,83 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "walk"
-            }
-          },
-          {
-            "id": "7456a4129b38c240",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_13.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_08_13"
-            }
-          },
-          {
-            "id": "ae04a4f91d9a5f7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_14.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_08_14"
-            }
-          },
-          {
-            "id": "4c1fdf777136460a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AdaptX/posts/2025_08_14_2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_08_14_2"
+              "title": "Homepage"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"rate limits\"",
+                "query": "tag:#BuJo/💫Inspiration×Wonder",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AdaptX/posts/2025_08_14_2.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_08_14_2"
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -250,15 +177,15 @@
             }
           },
           {
-            "id": "982232e1c66ff098",
+            "id": "aa71ae4ae27a4093",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "AdaptX/posts/2025_08_14_2.md"
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_16.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_08_14_2"
+              "title": "File properties for 2025_08_16"
             }
           }
         ],
@@ -266,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,23 +209,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c1fdf777136460a",
+  "active": "ce15cda0cbf60e14",
   "lastOpenFiles": [
-    "Evergreen-Notes/Permanent-Notes/News Sobriety.md",
-    "AdaptX/posts/2025_08_14_2.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_14.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_13.md",
-    "Evergreen-Notes/Permanent-Notes/walk.md",
-    "Evergreen-Notes/Permanent-Notes/Brain Attic.md",
-    "Evergreen-Notes/_attachments/19d8ef9fa9213552e887aee3e54540ec.jpeg",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_16.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_05.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_15.md",
+    "Notes-to-Self/posts/2025-08-16.md",
+    "Evergreen-Notes/Permanent-Notes/live-in-the-present.md",
+    "Life-Notes/Missions/教育改革.md",
+    "Evergreen-Notes/Permanent-Notes/Failing forward turns setbacks into stepping stones.md",
+    "Evergreen-Notes/Permanent-Notes/Life is cyclic.md",
+    "Evergreen-Notes/Permanent-Notes/Your relationship with yourself sets the tone for every other relationships you have.md",
+    "Evergreen-Notes/Permanent-Notes/You are the average of the five people you associate with most.md",
+    "about.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Evergreen-Notes/Permanent-Notes/What to do when you have negative thoughts or emotions.md",
+    "Evergreen-Notes/Permanent-Notes/Brain Attic.md",
+    "AdaptX/posts/sherlock-holmes-brain-attic.md",
+    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_16.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_16.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_15.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_14.md",
+    "Today-I-Learned/README.md",
+    "AdaptX/posts/start-small.md",
+    "AdaptX/posts/start-small-small.md",
+    "AdaptX/posts/start-small copy 3.md",
+    "AdaptX/posts/start-small copy 2.md",
+    "AdaptX/posts/start-small copy.md",
+    "Evergreen-Notes/_attachments/19d8ef9fa9213552e887aee3e54540ec.jpeg",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Standing Mobility.jpeg",
-    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Squat Hold.gif",
-    "Brain-Food/README.md",
-    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
-    "AdaptX/posts/2025_08_14_1.md",
-    "Untitled.md",
-    "Dear-Today-Me/Dear-Today-Me.md"
+    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Squat Hold.gif"
   ]
 }

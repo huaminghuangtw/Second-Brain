@@ -1,13 +1,13 @@
 {
   "includeFirstLineAsNoteHeading": false,
-  "excludeFirstLineInNote": false,
+  "excludeFirstLineInNote": true,
   "openNewNote": true,
   "headingFormat": "#",
   "newFileLocation": 1,
   "customFolder": "",
   "fileNamePrefix": "",
   "transcludeByDefault": false,
-  "noteLinkTemplate": "{{new_note_link}}",
-  "refactoredNoteTemplate": "",
+  "noteLinkTemplate": "## See Also\n* {{new_note_link}}",
+  "refactoredNoteTemplate": "---\ntitle: {{new_note_title}}\n---\n\n{{new_note_content}}",
   "normalizeHeaderLevels": false
 }

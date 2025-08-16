@@ -1,38 +1,14 @@
 {
   "main": {
-    "id": "56f2e47e96ffe14e",
+    "id": "00d528031235666b",
     "type": "split",
     "children": [
       {
-        "id": "0562b0cdfd2dcc90",
+        "id": "cebf0652e0bb9f81",
         "type": "tabs",
         "children": [
           {
-            "id": "5ba80e337ec46e38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_08.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_08_08"
-            }
-          },
-          {
-            "id": "c031138cd35773cc",
+            "id": "ce15cda0cbf60e14",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,22 +31,21 @@
               "title": "Homepage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0cc54123c4671bf7",
+    "id": "47d5993756cc56ec",
     "type": "split",
     "children": [
       {
-        "id": "d9228f0896d7daf8",
+        "id": "e90a804856979d74",
         "type": "tabs",
         "children": [
           {
-            "id": "c94794b6dd491f89",
+            "id": "8fdc0c019bdc21ea",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -83,12 +58,12 @@
             }
           },
           {
-            "id": "1a76a92ac346f467",
+            "id": "cd55482ef0ff9613",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "冰鎮地瓜",
+                "query": "tag:#BuJo/💫Inspiration×Wonder",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +75,7 @@
             }
           },
           {
-            "id": "f056b0b1b5afa4ef",
+            "id": "f5ab9836e1823d60",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -117,15 +92,15 @@
     "collapsed": true
   },
   "right": {
-    "id": "26eb959a89fac973",
+    "id": "9acf6ef0c2ea5a41",
     "type": "split",
     "children": [
       {
-        "id": "7a5dac2e65de1081",
+        "id": "c4011ea94f82e8a4",
         "type": "tabs",
         "children": [
           {
-            "id": "d5ca593e957f8be9",
+            "id": "0e3f34dd97a6f752",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -144,21 +119,21 @@
             }
           },
           {
-            "id": "242b03d0bf9ecfcd",
+            "id": "381ac8f7ad0ed7f4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
+                "file": "AdaptX/posts/2025_08_14_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Homepage"
+              "title": "Outgoing links from 2025_08_14_2"
             }
           },
           {
-            "id": "856e7ac6312d5604",
+            "id": "580a96b1835af6b0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -173,7 +148,7 @@
             }
           },
           {
-            "id": "f61f232fa4c4119b",
+            "id": "d248e3c3a093b408",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -187,30 +162,30 @@
             }
           },
           {
-            "id": "1b67a023be2af055",
+            "id": "25ca4e88ca3ddd43",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md",
+                "file": "AdaptX/posts/2025_08_14_2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Homepage"
+              "title": "Outline of 2025_08_14_2"
             }
           },
           {
-            "id": "ca1aa38b3d4845a3",
+            "id": "aa71ae4ae27a4093",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_16.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for 2025_08_16"
             }
           }
         ],
@@ -218,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -234,43 +209,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c031138cd35773cc",
+  "active": "ce15cda0cbf60e14",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_08.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_09.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_16.md",
     "Homepage.md",
-    "Today-I-Learned/posts/handling-case-sensitive-file-renames-in-git.md",
-    "Untitled.md",
-    "Today-I-Learned/posts/git-commit-messages-from-a-file.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_07.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_21.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_17.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_28.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_01.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_09.md",
-    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_09.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_15.md",
-    "Evergreen-Notes/Permanent-Notes/Judge others by intentions, judge ourselves by actions.md",
-    "Today-I-Learned/posts/github-url-schemes-for-viewing-editing-and-commit-history.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_02.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_01.md",
-    "Weekly-Mindware-Update/issues/2024/2024_Week_18.md",
-    "Evergreen-Notes/Permanent-Notes/Frameworks to structure your day.md",
-    "Evergreen-Notes/_attachments/b1c977f4afcd7fdc61cd94ab1bd35745.png",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Iron Maiden.jpeg",
-    "Today-I-Learned/posts/vs-code-cli-and-url-schemes.md",
-    "Shortcutomation/posts/live-each-day-as-it-were-your-last.md",
-    "Evergreen-Notes/Permanent-Notes/The Hanlon's Razor.md",
-    "Today-I-Learned/posts/youtube-url-schemes.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_08.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_04.md",
-    "Deep-Work-Machine/assets/dashboard.png",
-    "Deep-Work-Machine/assets/Screenshot 2025-08-06 at 10.38.49.png",
-    "Deep-Work-Machine/assets/Screenshot 2025-08-06 at 10.37.17 1.png",
-    "Brain-Food/assets/youtube-video.png",
-    "Brain-Food/assets/notification.png",
-    "Brain-Food/assets/movie-and-tv.png",
-    "Brain-Food/assets/essay.png",
-    "Brain-Food/assets/book.png"
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_15.md",
+    "Notes-to-Self/posts/2025-08-16.md",
+    "Evergreen-Notes/Permanent-Notes/live-in-the-present.md",
+    "Life-Notes/Missions/教育改革.md",
+    "Evergreen-Notes/Permanent-Notes/Failing forward turns setbacks into stepping stones.md",
+    "Evergreen-Notes/Permanent-Notes/Life is cyclic.md",
+    "Evergreen-Notes/Permanent-Notes/Your relationship with yourself sets the tone for every other relationships you have.md",
+    "Evergreen-Notes/Permanent-Notes/You are the average of the five people you associate with most.md",
+    "about.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Evergreen-Notes/Permanent-Notes/What to do when you have negative thoughts or emotions.md",
+    "Evergreen-Notes/Permanent-Notes/Brain Attic.md",
+    "AdaptX/posts/sherlock-holmes-brain-attic.md",
+    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_16.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_16.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_15.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_14.md",
+    "Today-I-Learned/README.md",
+    "AdaptX/posts/start-small.md",
+    "AdaptX/posts/start-small-small.md",
+    "AdaptX/posts/start-small copy 3.md",
+    "AdaptX/posts/start-small copy 2.md",
+    "AdaptX/posts/start-small copy.md",
+    "Evergreen-Notes/_attachments/19d8ef9fa9213552e887aee3e54540ec.jpeg",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Standing Mobility.jpeg",
+    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Squat Hold.gif"
   ]
 }

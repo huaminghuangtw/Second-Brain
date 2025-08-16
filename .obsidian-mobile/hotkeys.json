@@ -122,7 +122,15 @@
       "key": "ArrowDown"
     }
   ],
-  "note-refactor-obsidian:app:extract-selection-first-line": [],
+  "note-refactor-obsidian:app:extract-selection-first-line": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
   "editor:swap-line-up": [
     {
       "modifiers": [
@@ -176,15 +184,7 @@
       "key": "\\"
     }
   ],
-  "note-refactor-obsidian:app:extract-selection-content-only": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "R"
-    }
-  ],
+  "note-refactor-obsidian:app:extract-selection-content-only": [],
   "obsidian-excalidraw-plugin:insert-link-to-element": [],
   "obsidian-excalidraw-plugin:insert-link": [],
   "table-editor-obsidian:table-control-bar": [],
@@ -678,14 +678,6 @@
       "key": "T"
     }
   ],
-  "templater-obsidian:create-Templates/T_Daily-Bullet-Journal.md": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "J"
-    }
-  ],
   "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1740516620458": [
     {
       "modifiers": [
@@ -752,6 +744,48 @@
         "Alt"
       ],
       "key": "P"
+    }
+  ],
+  "properties:open-local": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "\\"
+    }
+  ],
+  "obsidian-shellcommands:shell-command-q75w5aah23": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "J"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_AdaptX.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_Enoughness.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_Notes-to-Self.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "N"
     }
   ]
 }
