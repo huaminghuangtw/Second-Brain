@@ -1,39 +1,45 @@
-async function createProjectPost(tp) {
-    const rawTitle = await tp.system.prompt(`Title?`);
-    if (!rawTitle) return null;
+async function createBlogPost(tp) {
+    const blog = tp.config.template_file.basename.replace("T_", "");
 
+    let rawTitle;
+    if (blog === "Notes-to-Self") {
+        rawTitle = tp.date.now("YYYY_MM_DD");
+    } else {
+        rawTitle = await tp.system.prompt("Title?");
+        if (!rawTitle) return null;
+    }
     const title = tp.user.toTitleCase(rawTitle);
 
-    const folderMap = { "Permanent-Notes": `Evergreen-Notes/Permanent-Notes/` };
-
-    const project = tp.config.template_file.basename.replace("T_", "");
-
-    const folder = folderMap[project] || `${project}/posts/`;
-
-    const hasChinese = /[\u4e00-\u9fff]/.test(title);
-    const fileName = hasChinese 
-        ? tp.date.now("YYYY_MM_DD")
-        : tp.user.slugify(title);
+    let rawFileName;
+    if (blog === "AdaptX") {
+        rawFileName = await tp.system.prompt("Filename?");
+        if (!rawFileName) return null;
+    } else {
+        rawFileName = title;
+    }
+    const fileName = tp.user.slugify(rawFileName);
 
     tp.user.setViewMode("source");
-    
+
+    const folderMap = { "Permanent-Notes": `Evergreen-Notes/Permanent-Notes/` };
+    const folder = folderMap[blog] || `${blog}/posts/`;
     await tp.file.move(folder + fileName);
 
     const allTags = Object.keys(app.metadataCache.getTags());
-    const projectTags = allTags
-        .filter((tag) => tag.startsWith(`#${project}/`))
+    const blogTags = allTags
+        .filter((tag) => tag.startsWith(`#${blog}/`))
         .map((tag) => tag.substring(1));
 
     const selectedTags = [];
-    if (projectTags.length > 0) {
-        let availableTags = [...projectTags];
+    if (blogTags.length > 0) {
+        let availableTags = [...blogTags];
 
         while (selectedTags.length < 3) {
             const displayChoices = [
                 "✅ Done",
                 "🪧 Create new tag",
                 ...availableTags.map(
-                    (tag) => `🏷️ ${tag.replace(`${project}/`, "")}`
+                    (tag) => `🏷️ ${tag.replace(`${blog}/`, "")}`
                 ),
             ];
             const valueChoices = [
@@ -45,7 +51,7 @@ async function createProjectPost(tp) {
                 selectedTags.length > 0
                     ? `[${selectedTags
                           .map((tag) =>
-                              tp.user.slugify(tag.replace(`${project}/`, ""))
+                              tp.user.slugify(tag.replace(`${blog}/`, ""))
                           )
                           .join(", ")}]`
                     : "";
@@ -61,9 +67,9 @@ async function createProjectPost(tp) {
             if (selectedChoice === "🪧 Create new tag") {
                 const newTag = await tp.system.prompt(`New tag?`);
                 if (newTag?.trim()) {
-                    const fullTagName = newTag.trim().startsWith(`${project}/`)
+                    const fullTagName = newTag.trim().startsWith(`${blog}/`)
                         ? newTag.trim()
-                        : `${project}/${newTag.trim()}`;
+                        : `${blog}/${newTag.trim()}`;
                     selectedTags.push(fullTagName);
                 }
             } else {
@@ -77,7 +83,7 @@ async function createProjectPost(tp) {
 
     return {
         title,
-        project,
+        blog,
         tags:
             selectedTags.length > 0
                 ? selectedTags.map((tag) => {
@@ -88,4 +94,4 @@ async function createProjectPost(tp) {
     };
 }
 
-module.exports = createProjectPost;
+module.exports = createBlogPost;
