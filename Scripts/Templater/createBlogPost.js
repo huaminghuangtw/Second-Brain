@@ -1,83 +1,101 @@
 async function createBlogPost(tp) {
     const blog = tp.config.template_file.basename.replace("T_", "");
 
-    let rawTitle;
+    let rawTitle = "";
     if (blog === "Notes-to-Self") {
-        rawTitle = tp.date.now("YYYY_MM_DD");
+        const file = tp.file.find_tfile(
+            `Notes-to-Self/posts/${tp.date.now("YYYY-MM-DD")}`
+        );
+        if (file) {
+            const files = app.vault
+                .getFiles()
+                .filter((f) => f.path.startsWith("Notes-to-Self/posts/"))
+                .sort((a, b) => a.name.localeCompare(b.name));
+            rawTitle = moment(files[0].name, "YYYY-MM-DD")
+                .subtract(1, "days")
+                .format("YYYY-MM-DD");
+        } else {
+            rawTitle = tp.date.now("YYYY-MM-DD");
+        }
     } else {
         rawTitle = await tp.system.prompt("Title?");
         if (!rawTitle) return null;
     }
-    const title = tp.user.toTitleCase(rawTitle);
+    let title = tp.user.toTitleCase(rawTitle);
 
-    let rawFileName;
+    let rawFileName = "";
     if (blog === "AdaptX") {
         rawFileName = await tp.system.prompt("Filename?");
         if (!rawFileName) return null;
     } else {
         rawFileName = title;
     }
-    const fileName = tp.user.slugify(rawFileName);
+    let fileName = tp.user.slugify(rawFileName);
 
-    tp.user.setViewMode("source");
-
-    const folderMap = { "Permanent-Notes": `Evergreen-Notes/Permanent-Notes/` };
+    const folderMap = {
+        "Permanent-Notes": "Evergreen-Notes/Permanent-Notes/",
+    };
     const folder = folderMap[blog] || `${blog}/posts/`;
-    await tp.file.move(folder + fileName);
+    const file = tp.file.find_tfile(folder + fileName);
+    if (file) {
+        window.open(
+            `obsidian://adv-uri?filepath=${encodeURIComponent(
+                file.path
+            )}&viewmode=source&openmode=true&line=${await (async () =>
+                (await app.vault.read(file)).split("\n").length)()}`
+        );
+        return;
+    } else {
+        tp.user.setViewMode("source");
+        await tp.file.move(folder + fileName);
+    }
 
     const allTags = Object.keys(app.metadataCache.getTags());
     const blogTags = allTags
         .filter((tag) => tag.startsWith(`#${blog}/`))
         .map((tag) => tag.substring(1));
 
+    let availableTags = [...blogTags];
+
     const selectedTags = [];
-    if (blogTags.length > 0) {
-        let availableTags = [...blogTags];
+    while (selectedTags.length < 3) {
+        const displayChoices = [
+            "✅ Done",
+            "🪧 Create new tag",
+            ...availableTags.map((tag) => `🏷️ ${tag.replace(`${blog}/`, "")}`),
+        ];
+        const valueChoices = ["✅ Done", "🪧 Create new tag", ...availableTags];
+        const selectedTagsText =
+            selectedTags.length > 0
+                ? " " +
+                  `[${selectedTags
+                      .map((tag) =>
+                          tp.user.slugify(tag.replace(`${blog}/`, ""))
+                      )
+                      .join(", ")}]`
+                : "";
+        const selectedChoice = await tp.system.suggester(
+            displayChoices,
+            valueChoices,
+            false,
+            "🤖 Which one?" + selectedTagsText
+        );
 
-        while (selectedTags.length < 3) {
-            const displayChoices = [
-                "✅ Done",
-                "🪧 Create new tag",
-                ...availableTags.map(
-                    (tag) => `🏷️ ${tag.replace(`${blog}/`, "")}`
-                ),
-            ];
-            const valueChoices = [
-                "✅ Done",
-                "🪧 Create new tag",
-                ...availableTags,
-            ];
-            const selectedTagsText =
-                selectedTags.length > 0
-                    ? `[${selectedTags
-                          .map((tag) =>
-                              tp.user.slugify(tag.replace(`${blog}/`, ""))
-                          )
-                          .join(", ")}]`
-                    : "";
-            const selectedChoice = await tp.system.suggester(
-                displayChoices,
-                valueChoices,
-                false,
-                `Select tags ${selectedTagsText}:`
-            );
+        if (!selectedChoice || selectedChoice === "✅ Done") break;
 
-            if (!selectedChoice || selectedChoice === "✅ Done") break;
-
-            if (selectedChoice === "🪧 Create new tag") {
-                const newTag = await tp.system.prompt(`New tag?`);
-                if (newTag?.trim()) {
-                    const fullTagName = newTag.trim().startsWith(`${blog}/`)
-                        ? newTag.trim()
-                        : `${blog}/${newTag.trim()}`;
-                    selectedTags.push(fullTagName);
-                }
-            } else {
-                selectedTags.push(selectedChoice);
-                availableTags = availableTags.filter(
-                    (tag) => tag !== selectedChoice
-                );
+        if (selectedChoice === "🪧 Create new tag") {
+            const newTag = await tp.system.prompt(`New tag?`);
+            if (newTag?.trim()) {
+                const fullTagName = newTag.trim().startsWith(`${blog}/`)
+                    ? newTag.trim()
+                    : `${blog}/${newTag.trim()}`;
+                selectedTags.push(fullTagName);
             }
+        } else {
+            selectedTags.push(selectedChoice);
+            availableTags = availableTags.filter(
+                (tag) => tag !== selectedChoice
+            );
         }
     }
 
