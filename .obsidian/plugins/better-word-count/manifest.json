@@ -1,9 +1,9 @@
 {
-    "author": "Luke Leppan",
-    "isDesktopOnly": true,
-    "id": "better-word-count",
-    "version": "0.10.1",
-    "description": "Counts the words of selected text in the editor.",
-    "authorUrl": "https://lukeleppan.com",
-    "name": "Better Word Count"
+  "id": "better-word-count",
+  "name": "Better Word Count",
+  "version": "0.10.1",
+  "description": "Counts the words of selected text in the editor.",
+  "author": "Luke Leppan",
+  "authorUrl": "https://lukeleppan.com",
+  "isDesktopOnly": false
 }

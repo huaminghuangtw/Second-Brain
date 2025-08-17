@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "cebf0652e0bb9f81",
+        "id": "3dba5d1c1c9a0854",
         "type": "tabs",
         "children": [
           {
-            "id": "ce15cda0cbf60e14",
+            "id": "6ffa88d7dff38a49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_17.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_08_17"
+            }
+          },
+          {
+            "id": "685f41797ce35cfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +54,177 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "d4235c91b3eb954c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AdaptX/posts/sherlock-holmes-brain-attic.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "sherlock-holmes-brain-attic"
+            }
+          },
+          {
+            "id": "f0de9b074c21ed55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes-to-Self/posts/2025-08-10.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-10"
+            }
+          },
+          {
+            "id": "56f663664bd2ecca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_13.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_08_13"
+            }
+          },
+          {
+            "id": "883044003783e86c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/note-taking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "note-taking"
+            }
+          },
+          {
+            "id": "f70fd1d6baaadbb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "every-single-day-chop-wood-carry-waters"
+            }
+          },
+          {
+            "id": "402b13d6578058e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_17.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_08_17"
+            }
+          },
+          {
+            "id": "eb96d15fde43a751",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_16.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_08_16"
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -63,7 +256,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#BuJo/💫Inspiration×Wonder",
+                "query": "line:(bad days)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +277,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +309,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 2025_08_16"
             }
           },
           {
@@ -182,10 +376,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_16.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_08_16"
+              "title": "File properties for Homepage"
             }
           }
         ],
@@ -209,33 +403,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce15cda0cbf60e14",
+  "active": "eb96d15fde43a751",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_16.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_15.md",
-    "Notes-to-Self/posts/2025-08-16.md",
-    "Evergreen-Notes/Permanent-Notes/live-in-the-present.md",
-    "Life-Notes/Missions/教育改革.md",
-    "Evergreen-Notes/Permanent-Notes/Failing forward turns setbacks into stepping stones.md",
-    "Evergreen-Notes/Permanent-Notes/Life is cyclic.md",
-    "Evergreen-Notes/Permanent-Notes/Your relationship with yourself sets the tone for every other relationships you have.md",
-    "Evergreen-Notes/Permanent-Notes/You are the average of the five people you associate with most.md",
-    "about.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Evergreen-Notes/Permanent-Notes/What to do when you have negative thoughts or emotions.md",
-    "Evergreen-Notes/Permanent-Notes/Brain Attic.md",
-    "AdaptX/posts/sherlock-holmes-brain-attic.md",
-    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_16.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_16.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_15.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_16.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_17.md",
+    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
+    "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
+    "Evergreen-Notes/Permanent-Notes/note-taking.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_13.md",
     "Daily-Bullet-Journal/journals/2025/08-August/2025_08_14.md",
-    "Today-I-Learned/README.md",
-    "AdaptX/posts/start-small.md",
-    "AdaptX/posts/start-small-small.md",
-    "AdaptX/posts/start-small copy 3.md",
-    "AdaptX/posts/start-small copy 2.md",
-    "AdaptX/posts/start-small copy.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_15.md",
+    "Notes-to-Self/posts/2025-08-10.md",
+    "AdaptX/posts/sherlock-holmes-brain-attic.md",
+    "Notes-to-Self/posts/2025-08-11.md",
+    "Notes-to-Self/posts/2025-08-13.md",
+    "Notes-to-Self/posts/2025-08-12.md",
+    "Notes-to-Self/posts/2025-08-14.md",
+    "Notes-to-Self/posts/2025-08-09.md",
+    "Notes-to-Self/posts/2025-08-08.md",
+    "Notes-to-Self/posts/2025-08-07.md",
+    "Notes-to-Self/posts/2025-08-06.md",
+    "Today-I-Learned/posts/ajkbf.md",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Lotus.jpeg",
+    "Weekly-Mindware-Update/issues/2025/2025_Week_33.md",
+    "Notes-to-Self/posts/2025-08-15.md",
+    "Notes-to-Self/posts/2025-08-16.md",
+    "Notes-to-Self/posts/2025-08-17.md",
+    "2025-08-05.md",
+    "Weekly-Mindware-Update/issues/2025/2025_Week_31.md",
     "Evergreen-Notes/_attachments/19d8ef9fa9213552e887aee3e54540ec.jpeg",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Standing Mobility.jpeg",
     "Visuals/Fitness/Darebee/ExerciseOfTheDay/Squat Hold.gif"
