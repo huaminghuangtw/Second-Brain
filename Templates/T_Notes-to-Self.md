@@ -7,8 +7,6 @@ const tagsList = tags && tags.length > 0
   : `  - ${blog}/`;
 -%>
 ---
-draft: true
-featured: false
 tags:
 <% tagsList %>
 prev: "[[<% moment(title, "YYYY-MM-DD").subtract(1, "day").format("YYYY-MM-DD") %>]]"
