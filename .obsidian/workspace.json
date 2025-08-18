@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_17.md",
+                "file": "Notes-to-Self/posts/2025-08-08.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_08_17"
-            }
-          },
-          {
-            "id": "68edf7777444197f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_18.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_08_18"
+              "title": "2025-08-08"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,13 +109,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9acf6ef0c2ea5a41",
@@ -155,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_18.md",
+                "file": "Notes-to-Self/posts/2025-08-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_08_18"
+              "title": "Backlinks for 2025-08-08"
             }
           },
           {
@@ -259,9 +233,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "68edf7777444197f",
+  "active": "bc994752fb565db0",
   "lastOpenFiles": [
+    "Notes-to-Self/posts/2025-08-07.md",
+    "Notes-to-Self/posts/2025-08-06.md",
+    "Notes-to-Self/posts/2025-08-08.md",
+    "Notes-to-Self/posts/2025-08-09.md",
+    "Notes-to-Self/posts/2025-08-18.md",
+    "Notes-to-Self/posts/2025-08-17.md",
+    "Notes-to-Self/posts/2025-08-16.md",
+    "Notes-to-Self/posts/2025-08-15.md",
+    "Notes-to-Self/posts/2025-08-14.md",
+    "Notes-to-Self/posts/2025-08-13.md",
+    "Notes-to-Self/posts/2025-08-12.md",
+    "Notes-to-Self/posts/2025-08-11.md",
+    "Notes-to-Self/posts/2025-08-10.md",
     "Daily-Bullet-Journal/journals/2025/08-August/2025_08_17.md",
+    "Evergreen-Notes/Permanent-Notes/the-5-25-rule.md",
+    "Evergreen-Notes/Permanent-Notes/The 5-25 Rule.md",
     "Daily-Bullet-Journal/journals/2025/08-August/2025_08_18.md",
     "Evergreen-Notes/Permanent-Notes/change-yourself-to-change-the-world.md",
     "Homepage.md",
@@ -273,21 +262,6 @@
     "Daily-Bullet-Journal/journals/2025/08-August/2025_08_15.md",
     "Daily-Bullet-Journal/journals/2025/02-February/2025_02_20.md",
     "Daily-Bullet-Journal/journals/2025/08-August/2025_08_16.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_13.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_14.md",
-    "Notes-to-Self/posts/2025-08-15.md",
-    "Notes-to-Self/posts/2025-08-14.md",
-    "Notes-to-Self/posts/2025-08-13.md",
-    "Notes-to-Self/posts/2025-08-12.md",
-    "Notes-to-Self/posts/2025-08-11.md",
-    "Notes-to-Self/posts/2025-08-10.md",
-    "Notes-to-Self/posts/2025-08-09.md",
-    "Notes-to-Self/posts/2025-08-08.md",
-    "Evergreen-Notes/Permanent-Notes/What to do when you have negative thoughts or emotions.md",
-    "Notes-to-Self/posts/2025-08-18.md",
-    "Notes-to-Self/posts/2025-08-17.md",
-    "Notes-to-Self/posts/2025-08-16.md",
-    "Shortcutomation/posts/shortcut-input-magic-youre-probably-missing.md",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Lotus.jpeg",
     "Evergreen-Notes/_attachments/19d8ef9fa9213552e887aee3e54540ec.jpeg",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Standing Mobility.jpeg",
