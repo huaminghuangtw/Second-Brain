@@ -11,6 +11,7 @@ tags:
 <% tagsList %>
 prev: "[[<% moment(title, "YYYY-MM-DD").subtract(1, "day").format("YYYY-MM-DD") %>]]"
 next: "[[<% moment(title, "YYYY-MM-DD").add(1, "day").format("YYYY-MM-DD") %>]]"
+created: <% moment(title, "YYYY-MM-DD").format("YYYY-MM-DDT00:00:00") %>
 ---
 
 <% tp.file.cursor() %>
