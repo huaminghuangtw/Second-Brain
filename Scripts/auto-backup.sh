@@ -33,13 +33,15 @@ for ((i=1; i<=total_dir_num; i++)); do
 
     git status --porcelain | grep -E '\.(md|json|js|sh|py)("?)$' | while IFS= read -r status_line; do
         [ -z "$status_line" ] && continue
-        
+
         status_code="${status_line:0:2}"
         
         file_path="${status_line:3}"
         # Remove surrounding quotes if present
         file_path="${file_path%\"}"
         file_path="${file_path#\"}"
+        # Convert octal-escaped sequences to actual UTF-8 characters
+        file_path=$(printf "%b" "$file_path")
 
         [ ! -f "$file_path" ] && continue
         
@@ -80,10 +82,10 @@ for ((i=1; i<=total_dir_num; i++)); do
         git commit -m "Update: README.md"
     fi
 
-    git update-index --assume-unchanged README.md
+    [ -f "README.md" ] && git update-index --assume-unchanged README.md
     git add -A
     git commit -m "Backup"
-    git update-index --no-assume-unchanged README.md
+    [ -f "README.md" ] && git update-index --no-assume-unchanged README.md
 
     git push origin main && {
         echo -e "${GREEN}✅ Backup Completed: $(basename "$TARGET_DIR")${NC}"
