@@ -19,6 +19,7 @@ for ((i=1; i<=total_dir_num; i++)); do
         continue
     fi
 
+
     cd "$TARGET_DIR" 2>/dev/null || {
         echo -e "${RED}❌ Error: Cannot cd to '$TARGET_DIR'${NC}"
         continue
@@ -44,9 +45,13 @@ for ((i=1; i<=total_dir_num; i++)); do
         
         # Handle Obsidian configuration files separately
         [[ "$file_path" =~ ^\.obsidian(-mobile)?/ ]] && continue
+        
         # Handle Deep Work Machine files separately
         [[ "$file_path" =~ ^Number\ of\ (Flows|Words)/ ]] && continue
-
+        
+        # Handle README.md separately
+        [[ "$file_path" == "README.md" ]] && continue
+        
         git add "$file_path"
         
         [[ "$status_code" =~ ^(\?\?|A) ]] && git commit -m "Add: $(basename "$file_path")" || git commit -m "Update: $(basename "$file_path")"
@@ -70,8 +75,15 @@ for ((i=1; i<=total_dir_num; i++)); do
         git commit -m "Add stats for $year $month"
     }
 
+    if [ -f "README.md" ]; then
+        git add README.md
+        git commit -m "Update: README.md"
+    fi
+
+    git update-index --assume-unchanged README.md
     git add -A
     git commit -m "Backup"
+    git update-index --no-assume-unchanged README.md
 
     git push origin main && {
         echo -e "${GREEN}✅ Backup Completed: $(basename "$TARGET_DIR")${NC}"
