@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0e1e778fba063a88",
+        "id": "d2dda9633738227f",
         "type": "tabs",
         "children": [
           {
-            "id": "18e3f82959bb5dd7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "7f5925edd798b244",
+            "id": "b8c6c3f1de043fe2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_19.md",
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,11 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_08_19"
+              "title": "2025_08_20"
             }
           },
           {
-            "id": "4695d5a49982e8a6",
+            "id": "521c37adcbadfbef",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(astro icon)",
+                "query": "過去的自己",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,8 +183,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-ghost",
-              "title": "all-properties"
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -203,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AdaptX/posts/2025_08_14_2.md",
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025_08_14_2"
+              "title": "Outline of 2025_08_20"
             }
           },
           {
@@ -218,10 +208,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_19.md"
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_20.md"
               },
-              "icon": "lucide-ghost",
-              "title": "file-properties"
+              "icon": "lucide-info",
+              "title": "File properties for 2025_08_20"
             }
           }
         ],
@@ -245,35 +235,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4695d5a49982e8a6",
+  "active": "521c37adcbadfbef",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_19.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_20.md",
     "Homepage.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_19.md",
+    "Evergreen-Notes/Permanent-Notes/mastering-yourself-is-superpower.md",
+    "Notes-to-Self/posts/2025-08-18.md",
+    "Daily-Bullet-Journal/journals/2022/08-August/2022_08_20.md",
+    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_20.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_20.md",
+    "Evergreen-Notes/Permanent-Notes/You are the average of the five people you associate with most.md",
+    "Evergreen-Notes/Permanent-Notes/Escape competition through authenticity.md",
+    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
+    "Evergreen-Notes/Permanent-Notes/just-focus-on-the-next-decision.md",
+    "Evergreen-Notes/Permanent-Notes/stanford-prison-experiment.md",
+    "Evergreen-Notes/Permanent-Notes/relationships-2.md",
+    "Evergreen-Notes/Permanent-Notes/relationships.md",
+    "Evergreen-Notes/Permanent-Notes/feedback.md",
+    "Evergreen-Notes/Permanent-Notes/communication.md",
+    "Today-I-Learned/posts/git-reset.md",
+    "Today-I-Learned/posts/youtube-url-schemes.md",
+    "Today-I-Learned/posts/vs-code-cli-and-url-schemes.md",
+    "Today-I-Learned/posts/git-commit-messages-from-a-file.md",
+    "Today-I-Learned/posts/git-tags.md",
     "Evergreen-Lists/⌨️ Keyboard Hotkey/⌨️ Keyboard Hotkey.md",
     "Notes-to-Self/posts/2025-08-07.md",
     "Daily-Bullet-Journal/journals/2025/05-May/2025_05_04.md",
     "Weekly-Mindware-Update/README.md.tmp",
     "Daily-Bullet-Journal/journals/2025/08-August/2025_08_18.md",
-    "Evergreen-Lists/README.md",
-    "Evergreen-Lists/🤖 AI Prompt/🤖 AI Prompt.md",
-    "Evergreen-Lists/📱 Shortcuts Dev Tip/📱 Shortcuts Dev Tip.md",
-    "Evergreen-Lists/📋 Cheat Sheet/📋 Cheat Sheet.md",
-    "Evergreen-Lists/💭 Journal Prompt/💭 Journal Prompt.md",
-    "Evergreen-Lists/💪 Home Exercise/💪 Home Exercise.md",
-    "Evergreen-Lists/👨‍💻 Tech Pro Tip/👨‍💻 Tech Pro Tip.md",
-    "Evergreen-Lists/👑 Life Pro Tip/👑 Life Pro Tip.md",
-    "Evergreen-Lists/🌱 Healthy Food/🌱 Healthy Food.md",
-    "Evergreen-Lists/🌍 World Cuisine/🌍 World Cuisine.md",
-    "Evergreen-Notes/Permanent-Notes/feedback.md",
-    "Evergreen-Notes/Permanent-Notes/criticism.md",
-    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_19.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_19.md",
-    "Evergreen-Notes/Permanent-Notes/Everyone is on their own timeline.md",
-    "Evergreen-Notes/Permanent-Notes/Minimalism.md",
-    "Evergreen-Notes/Permanent-Notes/Avoid telling people your goals.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
-    "Evergreen-Notes/Permanent-Notes/choose-your-response.md",
     "Visuals/Fitness/Darebee/ExerciseOfTheDay/Plank Rotations.gif",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Aurora.jpeg",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Lotus.jpeg",
