@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d2dda9633738227f",
+        "id": "3d5dda925e174d93",
         "type": "tabs",
         "children": [
           {
-            "id": "b8c6c3f1de043fe2",
+            "id": "b7fee17c70ae6b38",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "2025_08_20"
             }
-          },
-          {
-            "id": "521c37adcbadfbef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "過去的自己",
+                "query": "生中最重要",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 2025_08_20"
             }
           },
           {
@@ -235,35 +210,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "521c37adcbadfbef",
+  "active": "b7fee17c70ae6b38",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_20.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_21.md",
     "Homepage.md",
+    "Daily-Bullet-Journal/Journal-Backlog.md",
+    "Evergreen-Notes/Permanent-Notes/advice.md",
+    "Evergreen-Notes/Permanent-Notes/giving advice.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_11.md",
     "Daily-Bullet-Journal/journals/2025/08-August/2025_08_19.md",
-    "Evergreen-Notes/Permanent-Notes/mastering-yourself-is-superpower.md",
-    "Notes-to-Self/posts/2025-08-18.md",
-    "Daily-Bullet-Journal/journals/2022/08-August/2022_08_20.md",
-    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_20.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_20.md",
-    "Evergreen-Notes/Permanent-Notes/You are the average of the five people you associate with most.md",
-    "Evergreen-Notes/Permanent-Notes/Escape competition through authenticity.md",
-    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
-    "Evergreen-Notes/Permanent-Notes/just-focus-on-the-next-decision.md",
-    "Evergreen-Notes/Permanent-Notes/stanford-prison-experiment.md",
-    "Evergreen-Notes/Permanent-Notes/relationships-2.md",
-    "Evergreen-Notes/Permanent-Notes/relationships.md",
-    "Evergreen-Notes/Permanent-Notes/feedback.md",
-    "Evergreen-Notes/Permanent-Notes/communication.md",
-    "Today-I-Learned/posts/git-reset.md",
-    "Today-I-Learned/posts/youtube-url-schemes.md",
-    "Today-I-Learned/posts/vs-code-cli-and-url-schemes.md",
-    "Today-I-Learned/posts/git-commit-messages-from-a-file.md",
-    "Today-I-Learned/posts/git-tags.md",
-    "Evergreen-Lists/⌨️ Keyboard Hotkey/⌨️ Keyboard Hotkey.md",
-    "Notes-to-Self/posts/2025-08-07.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_04.md",
-    "Weekly-Mindware-Update/README.md.tmp",
+    "Untitled.md",
     "Daily-Bullet-Journal/journals/2025/08-August/2025_08_18.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_17.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_16.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_15.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_14.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_13.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_12.md",
+    "Notes-to-Self/posts/2025-08-04.md",
+    "Notes-to-Self/posts/2025-08-05.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_18.md",
+    "Evergreen-Notes/Permanent-Notes/love.md",
+    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_20.md",
+    "Notes-to-Self/posts/2025-08-06.md",
+    "Notes-to-Self/posts/2025-08-07.md",
+    "Notes-to-Self/posts/2025-08-21.md",
+    "Notes-to-Self/posts/2025-08-18.md",
+    "Notes-to-Self/posts/2025-08-08.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/Screenshot 2025-08-21 at 13.30.28.png",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Flexible Today.jpeg",
+    "Weekly-Mindware-Update/README.md.tmp",
     "Visuals/Fitness/Darebee/ExerciseOfTheDay/Plank Rotations.gif",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Aurora.jpeg",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Lotus.jpeg",
