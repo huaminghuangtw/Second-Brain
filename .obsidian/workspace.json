@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3d5dda925e174d93",
+        "id": "9e840121be4034ec",
         "type": "tabs",
         "children": [
           {
-            "id": "b7fee17c70ae6b38",
+            "id": "c5931b0e02102452",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_20.md",
+                "file": "Notes-to-Self/posts/2025-08-14.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_08_20"
+              "title": "2025-08-14"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "生中最重要",
+                "query": "content collection",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_20.md",
+                "file": "Notes-to-Self/posts/2025-08-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_08_20"
+              "title": "Backlinks for 2025-08-14"
             }
           },
           {
@@ -183,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_20.md"
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_22.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_08_20"
+              "title": "File properties for 2025_08_22"
             }
           }
         ],
@@ -210,34 +210,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7fee17c70ae6b38",
+  "active": "c5931b0e02102452",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_21.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_20.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_19.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_15.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_21.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_08.md",
+    "Notes-to-Self/posts/2025-08-16.md",
+    "Notes-to-Self/posts/2025-08-14.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_22.md",
+    "Evergreen-Notes/Permanent-Notes/smile-and-laugh.md",
+    "Evergreen-Notes/Permanent-Notes/Smile & Laugh.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/Journal-Backlog.md",
-    "Evergreen-Notes/Permanent-Notes/advice.md",
-    "Evergreen-Notes/Permanent-Notes/giving advice.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_11.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_19.md",
-    "Untitled.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_18.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_17.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_16.md",
+    "AdaptX/posts/everyone-is-on-their-own-timeline.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_21.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_11.md",
+    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
+    "Evergreen-Notes/Permanent-Notes/decision-making.md",
+    "Evergreen-Notes/Permanent-Notes/Everyone is on their own timeline.md",
     "Daily-Bullet-Journal/journals/2025/08-August/2025_08_15.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_14.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_13.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_12.md",
-    "Notes-to-Self/posts/2025-08-04.md",
-    "Notes-to-Self/posts/2025-08-05.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_18.md",
-    "Evergreen-Notes/Permanent-Notes/love.md",
-    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_20.md",
+    "AdaptX/posts/sherlock-holmes-brain-attic.md",
     "Notes-to-Self/posts/2025-08-06.md",
-    "Notes-to-Self/posts/2025-08-07.md",
+    "Notes-to-Self/posts/2025-08-22.md",
     "Notes-to-Self/posts/2025-08-21.md",
-    "Notes-to-Self/posts/2025-08-18.md",
+    "Notes-to-Self/posts/2025-08-20.md",
+    "Notes-to-Self/posts/2025-08-19.md",
+    "Notes-to-Self/posts/2025-08-07.md",
     "Notes-to-Self/posts/2025-08-08.md",
+    "Daily-Bullet-Journal/_attachments/Screenshot 2025-08-21 at 13.30.28.png",
     "Daily-Bullet-Journal/journals/2025/08-August/Screenshot 2025-08-21 at 13.30.28.png",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Flexible Today.jpeg",
     "Weekly-Mindware-Update/README.md.tmp",
