@@ -59,7 +59,7 @@
     },
     "yaml-timestamp": {
       "enabled": false,
-      "date-created": true,
+      "date-created": false,
       "date-created-key": "created",
       "date-modified": true,
       "date-modified-key": "modified",

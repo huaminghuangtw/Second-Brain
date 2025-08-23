@@ -2,7 +2,7 @@
   "statusBar": [
     {
       "prefix": "",
-      "suffix": " words ",
+      "suffix": " words",
       "metric": {
         "type": 0,
         "counter": 0
@@ -20,22 +20,14 @@
   "altBar": [
     {
       "prefix": "",
-      "suffix": " words ",
+      "suffix": " files",
       "metric": {
-        "type": 1,
-        "counter": 0
-      }
-    },
-    {
-      "prefix": "",
-      "suffix": " characters",
-      "metric": {
-        "type": 1,
-        "counter": 1
+        "type": 2,
+        "counter": 6
       }
     }
   ],
-  "countComments": true,
+  "countComments": false,
   "collectStats": true,
   "displaySectionCounts": false,
   "pageWords": 300,

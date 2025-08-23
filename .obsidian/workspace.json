@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9e840121be4034ec",
+        "id": "497044502e0e8122",
         "type": "tabs",
         "children": [
           {
-            "id": "c5931b0e02102452",
+            "id": "1d42a69612f31ad6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes-to-Self/posts/2025-08-14.md",
-                "mode": "source",
-                "source": true,
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,10 +28,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-14"
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "ab496f38cb661f14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "about.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "about"
+            }
+          },
+          {
+            "id": "40f6dd0dc5c3149e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life-Notes/Missions/教育改革.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "教育改革"
+            }
+          },
+          {
+            "id": "6ffed832dedd016d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life-Notes/Alignment/🎯 Life Vision Board.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "🎯 Life Vision Board"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -63,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "content collection",
+                "query": "Neutrogena",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes-to-Self/posts/2025-08-14.md",
+                "file": "Life-Notes/Alignment/🎯 Life Vision Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-08-14"
+              "title": "Backlinks for 🎯 Life Vision Board"
             }
           },
           {
@@ -183,10 +256,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_22.md"
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_21.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_08_22"
+              "title": "File properties for 2025_08_21"
             }
           }
         ],
@@ -210,35 +283,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5931b0e02102452",
+  "active": "6ffed832dedd016d",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_20.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_19.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_15.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_21.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_08.md",
-    "Notes-to-Self/posts/2025-08-16.md",
-    "Notes-to-Self/posts/2025-08-14.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_22.md",
-    "Evergreen-Notes/Permanent-Notes/smile-and-laugh.md",
-    "Evergreen-Notes/Permanent-Notes/Smile & Laugh.md",
+    "Life-Notes/Missions/教育改革.md",
+    "about.md",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Loading Abs.jpeg",
     "Homepage.md",
-    "AdaptX/posts/everyone-is-on-their-own-timeline.md",
+    "Daily-Bullet-Journal/journals/2022/07-July/2022_07_31.md",
+    "Daily-Bullet-Journal/journals/2022/07-July/2022_07_31 2.md",
+    "Today-I-Learned/posts/git-reset 2.md",
+    "Daily-Bullet-Journal/_attachments/fba1a1fa08a3d08d8ad6d1fa22d7ccd2.png",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_22.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_23.md",
+    "Evergreen-Notes/Permanent-Notes/true-education-begins-where-school-ends.md",
     "Daily-Bullet-Journal/journals/2025/08-August/2025_08_21.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_11.md",
-    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
+    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
+    "Daily-Bullet-Journal/journals/2022/08-August/2022_08_23.md",
+    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_23.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_23.md",
+    "Evergreen-Notes/Permanent-Notes/Maltodextrin.md",
+    "Life-Notes/Alignment/🐤 New Hobbies.md",
+    "Notes-to-Self/posts/2025-08-23.md",
+    "Evergreen-Notes/Permanent-Notes/a-friend-to-all-is-a-friend-to-none.md",
+    "Evergreen-Notes/Permanent-Notes/communication.md",
+    "Evergreen-Notes/Permanent-Notes/crontab & cronjob.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Evergreen-Notes/Permanent-Notes/Journey over destination.md",
+    "Evergreen-Notes/Permanent-Notes/advice.md",
+    "Evergreen-Notes/Permanent-Notes/comparison-is-the-thief-of-joy.md",
     "Evergreen-Notes/Permanent-Notes/decision-making.md",
-    "Evergreen-Notes/Permanent-Notes/Everyone is on their own timeline.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_15.md",
-    "AdaptX/posts/sherlock-holmes-brain-attic.md",
-    "Notes-to-Self/posts/2025-08-06.md",
-    "Notes-to-Self/posts/2025-08-22.md",
-    "Notes-to-Self/posts/2025-08-21.md",
-    "Notes-to-Self/posts/2025-08-20.md",
-    "Notes-to-Self/posts/2025-08-19.md",
-    "Notes-to-Self/posts/2025-08-07.md",
-    "Notes-to-Self/posts/2025-08-08.md",
-    "Daily-Bullet-Journal/_attachments/Screenshot 2025-08-21 at 13.30.28.png",
+    "Daily-Bullet-Journal/_attachments/4e53859990b9edfe38de82dc4e60d567.png",
     "Daily-Bullet-Journal/journals/2025/08-August/Screenshot 2025-08-21 at 13.30.28.png",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Flexible Today.jpeg",
     "Weekly-Mindware-Update/README.md.tmp",
@@ -246,7 +320,6 @@
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Aurora.jpeg",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Lotus.jpeg",
     "Evergreen-Notes/_attachments/19d8ef9fa9213552e887aee3e54540ec.jpeg",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Standing Mobility.jpeg",
-    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Squat Hold.gif"
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Standing Mobility.jpeg"
   ]
 }

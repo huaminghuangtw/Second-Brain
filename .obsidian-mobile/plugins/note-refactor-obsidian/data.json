@@ -7,7 +7,7 @@
   "customFolder": "",
   "fileNamePrefix": "",
   "transcludeByDefault": false,
-  "noteLinkTemplate": "## See Also\n* {{new_note_link}}",
+  "noteLinkTemplate": "---\n\n# See Also\n\n* {{new_note_link}}",
   "refactoredNoteTemplate": "---\ntitle: {{new_note_title}}\n---\n\n{{new_note_content}}",
   "normalizeHeaderLevels": false
 }

@@ -1,11 +1,11 @@
 {
     "author": "PJ Eby",
-    "name": "Tag Wrangler",
+    "isDesktopOnly": true,
     "id": "tag-wrangler",
-    "minAppVersion": "1.2.8",
+    "minAppVersion": "1.5.8",
     "fundingUrl": "https://dirtsimple.org/tips/tag-wrangler",
-    "version": "0.6.1",
-    "description": "Rename, merge, toggle, and search tags from the tag pane",
-    "authorUrl": "https://github.com/pjeby",
-    "isDesktopOnly": true
+    "version": "0.6.4",
+    "description": "Rename, merge, toggle, and search tags from the tags view",
+    "name": "Tag Wrangler",
+    "authorUrl": "https://github.com/pjeby"
 }

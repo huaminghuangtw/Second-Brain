@@ -1,1 +1,11 @@
-{"id":"tag-wrangler","name":"Tag Wrangler","author":"PJ Eby","authorUrl":"https://github.com/pjeby","version":"0.6.4","minAppVersion":"1.5.8","description":"Rename, merge, toggle, and search tags from the tags view","fundingUrl":"https://dirtsimple.org/tips/tag-wrangler","isDesktopOnly":false}
+{
+    "author": "PJ Eby",
+    "isDesktopOnly": true,
+    "id": "tag-wrangler",
+    "minAppVersion": "1.5.8",
+    "fundingUrl": "https://dirtsimple.org/tips/tag-wrangler",
+    "version": "0.6.4",
+    "description": "Rename, merge, toggle, and search tags from the tags view",
+    "name": "Tag Wrangler",
+    "authorUrl": "https://github.com/pjeby"
+}

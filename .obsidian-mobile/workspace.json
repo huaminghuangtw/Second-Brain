@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ea9ba78f5d5cb28",
+        "id": "ecfbaa2583dab867",
         "type": "tabs",
         "children": [
           {
-            "id": "893cac358fef6d49",
+            "id": "b640a12aa0bf51b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#BuJo/💫Inspiration×Wonder",
+                "query": "熱忱",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AdaptX/posts/2025_08_14_2.md",
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025_08_14_2"
+              "title": "Outline of 2025_08_20"
             }
           },
           {
@@ -182,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_16.md"
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_21.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_08_16"
+              "title": "File properties for 2025_08_21"
             }
           }
         ],
@@ -198,44 +199,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-importer:Open Importer": false,
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "893cac358fef6d49",
+  "active": "b640a12aa0bf51b8",
   "lastOpenFiles": [
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_16.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_15.md",
-    "Notes-to-Self/posts/2025-08-16.md",
-    "Evergreen-Notes/Permanent-Notes/live-in-the-present.md",
-    "Life-Notes/Missions/教育改革.md",
-    "Evergreen-Notes/Permanent-Notes/Failing forward turns setbacks into stepping stones.md",
-    "Evergreen-Notes/Permanent-Notes/Life is cyclic.md",
-    "Evergreen-Notes/Permanent-Notes/Your relationship with yourself sets the tone for every other relationships you have.md",
-    "Evergreen-Notes/Permanent-Notes/You are the average of the five people you associate with most.md",
     "about.md",
+    "Daily-Bullet-Journal/_attachments/2025_08_23_08_55_24.png",
+    "Homepage.md",
+    "Life-Notes/Missions/教育改革.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_22.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_23.md",
+    "Evergreen-Notes/Permanent-Notes/true-education-begins-where-school-ends.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_21.md",
+    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
+    "Daily-Bullet-Journal/journals/2022/08-August/2022_08_23.md",
+    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_23.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_23.md",
+    "Evergreen-Notes/Permanent-Notes/Maltodextrin.md",
+    "Life-Notes/Alignment/🐤 New Hobbies.md",
+    "Notes-to-Self/posts/2025-08-23.md",
+    "Evergreen-Notes/Permanent-Notes/a-friend-to-all-is-a-friend-to-none.md",
+    "Evergreen-Notes/Permanent-Notes/communication.md",
+    "Evergreen-Notes/Permanent-Notes/crontab & cronjob.md",
     "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Evergreen-Notes/Permanent-Notes/What to do when you have negative thoughts or emotions.md",
-    "Evergreen-Notes/Permanent-Notes/Brain Attic.md",
-    "AdaptX/posts/sherlock-holmes-brain-attic.md",
-    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_16.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_16.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_15.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_14.md",
-    "Today-I-Learned/README.md",
-    "AdaptX/posts/start-small.md",
-    "AdaptX/posts/start-small-small.md",
-    "AdaptX/posts/start-small copy 3.md",
-    "AdaptX/posts/start-small copy 2.md",
-    "AdaptX/posts/start-small copy.md",
+    "Evergreen-Notes/Permanent-Notes/Journey over destination.md",
+    "Evergreen-Notes/Permanent-Notes/advice.md",
+    "Evergreen-Notes/Permanent-Notes/comparison-is-the-thief-of-joy.md",
+    "Evergreen-Notes/Permanent-Notes/decision-making.md",
+    "Today-I-Learned/posts/crontab-and-cronjob.md",
+    "Life-Notes/Coding/crontab & cronjob.md",
+    "Notes-to-Self/posts/2025-08-14.md",
+    "Daily-Bullet-Journal/_attachments/4e53859990b9edfe38de82dc4e60d567.png",
+    "Daily-Bullet-Journal/journals/2025/08-August/Screenshot 2025-08-21 at 13.30.28.png",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Flexible Today.jpeg",
+    "Weekly-Mindware-Update/README.md.tmp",
+    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Plank Rotations.gif",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Aurora.jpeg",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Lotus.jpeg",
     "Evergreen-Notes/_attachments/19d8ef9fa9213552e887aee3e54540ec.jpeg",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Standing Mobility.jpeg",
     "Visuals/Fitness/Darebee/ExerciseOfTheDay/Squat Hold.gif"
