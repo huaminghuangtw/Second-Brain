@@ -50,52 +50,58 @@ async function createBlogPost(tp) {
         await tp.file.move(folder + fileName);
     }
 
-    const allTags = Object.keys(app.metadataCache.getTags());
-    const blogTags = allTags
-        .filter((tag) => tag.startsWith(`#${blog}/`))
-        .map((tag) => tag.substring(1));
-
-    let availableTags = [...blogTags];
-
     const selectedTags = [];
-    while (selectedTags.length < 3) {
-        const displayChoices = [
-            "✅ Done",
-            "🪧 Create new tag",
-            ...availableTags.map((tag) => `🏷️ ${tag.replace(`${blog}/`, "")}`),
-        ];
-        const valueChoices = ["✅ Done", "🪧 Create new tag", ...availableTags];
-        const selectedTagsText =
-            selectedTags.length > 0
-                ? " " +
-                  `[${selectedTags
-                      .map((tag) =>
-                          tp.user.slugify(tag.replace(`${blog}/`, ""))
-                      )
-                      .join(", ")}]`
-                : "";
-        const selectedChoice = await tp.system.suggester(
-            displayChoices,
-            valueChoices,
-            false,
-            "🤖 Which one?" + selectedTagsText
-        );
+    if (blog !== "Notes-to-Self") {
+        const allTags = Object.keys(app.metadataCache.getTags());
+        const blogTags = allTags
+            .filter((tag) => tag.startsWith(`#${blog}/`))
+            .map((tag) => tag.substring(1));
 
-        if (!selectedChoice || selectedChoice === "✅ Done") break;
+        let availableTags = [...blogTags];
 
-        if (selectedChoice === "🪧 Create new tag") {
-            const newTag = await tp.system.prompt(`New tag?`);
-            if (newTag?.trim()) {
+        while (selectedTags.length < 3) {
+            const displayChoices = [
+                "✅ Done",
+                "🪧 Create new tag",
+                ...availableTags.map(
+                    (tag) => `🏷️ ${tag.replace(`${blog}/`, "")}`
+                ),
+            ];
+            const valueChoices = [
+                "✅ Done",
+                "🪧 Create new tag",
+                ...availableTags,
+            ];
+            const selectedTagsText =
+                selectedTags.length > 0
+                    ? " " +
+                      `[${selectedTags
+                          .map((tag) =>
+                              tp.user.slugify(tag.replace(`${blog}/`, ""))
+                          )
+                          .join(", ")}]`
+                    : "";
+            const selectedChoice = await tp.system.suggester(
+                displayChoices,
+                valueChoices,
+                false,
+                "🤖 Which one?" + selectedTagsText
+            );
+
+            if (!selectedChoice || selectedChoice === "✅ Done") break;
+
+            if (selectedChoice === "🪧 Create new tag") {
+                const newTag = await tp.system.prompt("New tag?");
                 const fullTagName = newTag.trim().startsWith(`${blog}/`)
                     ? newTag.trim()
                     : `${blog}/${newTag.trim()}`;
                 selectedTags.push(fullTagName);
+            } else {
+                selectedTags.push(selectedChoice);
+                availableTags = availableTags.filter(
+                    (tag) => tag !== selectedChoice
+                );
             }
-        } else {
-            selectedTags.push(selectedChoice);
-            availableTags = availableTags.filter(
-                (tag) => tag !== selectedChoice
-            );
         }
     }
 
