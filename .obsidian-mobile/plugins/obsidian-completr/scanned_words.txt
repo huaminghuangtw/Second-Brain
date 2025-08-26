@@ -2406,6 +2406,8 @@ Cronjob
 Characters
 Climate
 Crack
+Communicating
+Collaborating
 steps
 startTheDayAt
 so
@@ -6502,6 +6504,7 @@ Adobe
 Anywhere
 Acrobat
 Austin
+Adapting
 md
 mostly
 modified
@@ -10713,6 +10716,7 @@ Field
 Fewer
 Friend
 Foxhole
+Focusing
 SmallTreasure
 Save
 Seuss
@@ -11370,6 +11374,7 @@ Strings
 Sofa
 Sudden
 Streuselschnecke
+Sense
 July
 Journal
 Judge
@@ -11900,6 +11905,7 @@ Instruction
 Intellisense
 Ids
 IDs
+Integrity
 title
 to
 the
@@ -17202,6 +17208,7 @@ Langhorne
 Lemon
 LLM
 Ladder
+Leading
 us
 up
 urlShortcuts

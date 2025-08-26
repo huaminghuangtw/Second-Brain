@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ecfbaa2583dab867",
+        "id": "497044502e0e8122",
         "type": "tabs",
         "children": [
           {
-            "id": "b640a12aa0bf51b8",
+            "id": "8f2bdfcf19c9dfbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "熱忱",
+                "query": "Neutrogena",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,12 +210,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b640a12aa0bf51b8",
+  "active": "8f2bdfcf19c9dfbe",
   "lastOpenFiles": [
-    "about.md",
-    "Daily-Bullet-Journal/_attachments/2025_08_23_08_55_24.png",
-    "Homepage.md",
     "Life-Notes/Missions/教育改革.md",
+    "about.md",
+    "Homepage.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Loading Abs.jpeg",
+    "Daily-Bullet-Journal/journals/2022/07-July/2022_07_31.md",
+    "Daily-Bullet-Journal/journals/2022/07-July/2022_07_31 2.md",
+    "Today-I-Learned/posts/git-reset 2.md",
+    "Daily-Bullet-Journal/_attachments/fba1a1fa08a3d08d8ad6d1fa22d7ccd2.png",
     "Daily-Bullet-Journal/journals/2025/08-August/2025_08_22.md",
     "Daily-Bullet-Journal/journals/2025/08-August/2025_08_23.md",
     "Evergreen-Notes/Permanent-Notes/true-education-begins-where-school-ends.md",
@@ -230,14 +235,10 @@
     "Evergreen-Notes/Permanent-Notes/a-friend-to-all-is-a-friend-to-none.md",
     "Evergreen-Notes/Permanent-Notes/communication.md",
     "Evergreen-Notes/Permanent-Notes/crontab & cronjob.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
     "Evergreen-Notes/Permanent-Notes/Journey over destination.md",
     "Evergreen-Notes/Permanent-Notes/advice.md",
     "Evergreen-Notes/Permanent-Notes/comparison-is-the-thief-of-joy.md",
     "Evergreen-Notes/Permanent-Notes/decision-making.md",
-    "Today-I-Learned/posts/crontab-and-cronjob.md",
-    "Life-Notes/Coding/crontab & cronjob.md",
-    "Notes-to-Self/posts/2025-08-14.md",
     "Daily-Bullet-Journal/_attachments/4e53859990b9edfe38de82dc4e60d567.png",
     "Daily-Bullet-Journal/journals/2025/08-August/Screenshot 2025-08-21 at 13.30.28.png",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Flexible Today.jpeg",
@@ -246,7 +247,6 @@
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Aurora.jpeg",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Lotus.jpeg",
     "Evergreen-Notes/_attachments/19d8ef9fa9213552e887aee3e54540ec.jpeg",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Standing Mobility.jpeg",
-    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Squat Hold.gif"
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Standing Mobility.jpeg"
   ]
 }

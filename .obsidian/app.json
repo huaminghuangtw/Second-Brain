@@ -19,7 +19,8 @@
   "userIgnoreFilters": [
     "Scripts/",
     "Templates/",
-    "Visuals/"
+    "Visuals/",
+    "Homepage.md"
   ],
   "showInlineTitle": false,
   "useTab": true,

@@ -787,5 +787,14 @@
       ],
       "key": "N"
     }
+  ],
+  "random-note": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "R"
+    }
   ]
 }
