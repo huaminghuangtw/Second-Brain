@@ -12,13 +12,13 @@ total_dir_num=$#
 for ((i=1; i<=total_dir_num; i++)); do
     idx="${!i}"
     TARGET_DIR="${idx/#\~/$HOME}"
+    
     echo -e "${YELLOW}🔄 (${i} / ${total_dir_num}) Backup: $(basename "$TARGET_DIR")...${NC}"
 
     if [ ! -d "$TARGET_DIR" ]; then
         echo -e "${RED}❌ Error: Directory '$TARGET_DIR' does not exist${NC}"
         continue
     fi
-
 
     cd "$TARGET_DIR" 2>/dev/null || {
         echo -e "${RED}❌ Error: Cannot cd to '$TARGET_DIR'${NC}"
@@ -77,7 +77,7 @@ for ((i=1; i<=total_dir_num; i++)); do
         git commit -m "Add stats for $year $month"
     }
 
-    if [ -f "README.md" ]; then
+    if git diff --cached --name-only | grep -q 'README.md'; then
         git add README.md
         git commit -m "Update: README.md"
     fi
