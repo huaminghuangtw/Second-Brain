@@ -17,4 +17,4 @@ sources:
   - 
 ---
 
-<% tp.file.cursor() %>
+Today I learned <% tp.file.cursor() %>
