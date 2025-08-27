@@ -796,5 +796,14 @@
       ],
       "key": "R"
     }
+  ],
+  "obsidian-text-format:title-case": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "T"
+    }
   ]
 }
