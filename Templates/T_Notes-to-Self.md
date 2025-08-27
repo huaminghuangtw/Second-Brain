@@ -1,7 +1,7 @@
 <%*
 const result = await tp.user.createBlogPost(tp);
-if (!result) return;
 const { title, blog } = result;
+-%>
 ---
 prev: "[[<% moment(title, "YYYY-MM-DD").subtract(1, "day").format("YYYY-MM-DD") %>]]"
 next: "[[<% moment(title, "YYYY-MM-DD").add(1, "day").format("YYYY-MM-DD") %>]]"
