@@ -105,16 +105,18 @@ async function createBlogPost(tp) {
         }
     }
 
+    const tags =
+        selectedTags.length > 0
+            ? selectedTags.map((tag) => {
+                  const parts = tag.split("/");
+                  return `${parts[0]}/${tp.user.slugify(parts[1])}`;
+              })
+            : [`${blog}/`];
+
     return {
         title,
         blog,
-        tags:
-            selectedTags.length > 0
-                ? selectedTags.map((tag) => {
-                      const parts = tag.split("/");
-                      return `${parts[0]}/${tp.user.slugify(parts[1])}`;
-                  })
-                : null,
+        tags,
     };
 }
 
