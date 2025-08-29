@@ -6,9 +6,9 @@ const { title, blog, tags } = result;
 draft: true
 featured: false
 title: <% title %>
-description: 
+description:
 tags: <% tags %>
-sources: 
+sources:
 ---
 
 Today I learned <% tp.file.cursor() %>
