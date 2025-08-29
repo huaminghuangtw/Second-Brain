@@ -15,7 +15,7 @@
               "state": {
                 "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
