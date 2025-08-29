@@ -3,7 +3,7 @@
   "onOpenPreferNewTab": true,
   "alwaysNewTabForSymbols": false,
   "useActiveTabForSymbolsOnMobile": false,
-  "symbolsInLineOrder": true,
+  "symbolsInLineOrder": false,
   "editorListCommand": "edt ",
   "symbolListCommand": "@",
   "symbolListActiveEditorCommand": "$ ",
@@ -14,7 +14,7 @@
   "vaultListCommand": "vault ",
   "relatedItemsListCommand": "~",
   "relatedItemsListActiveEditorCommand": "^ ",
-  "shouldSearchHeadings": true,
+  "shouldSearchHeadings": false,
   "strictHeadingsOnly": false,
   "searchAllHeadings": true,
   "headingsSearchDebounceMilli": 250,
@@ -35,13 +35,13 @@
     "pdf"
   ],
   "enabledSymbolTypes": {
-    "1": true,
-    "2": true,
-    "4": true,
-    "8": true,
-    "16": true
+    "1": false,
+    "2": false,
+    "4": false,
+    "8": false,
+    "16": false
   },
-  "selectNearestHeading": true,
+  "selectNearestHeading": false,
   "excludeFolders": [],
   "excludeLinkSubTypes": 0,
   "excludeRelatedFolders": [
@@ -62,10 +62,7 @@
   "showOptionalIndicatorIcons": true,
   "overrideStandardModeBehaviors": true,
   "overrideStandardModeRendering": true,
-  "enabledRibbonCommands": [
-    "HeadingsList",
-    "SymbolList"
-  ],
+  "enabledRibbonCommands": [],
   "fileExtAllowList": [
     "canvas"
   ],
@@ -81,7 +78,7 @@
         "label": "Bookmarked items"
       },
       "isRecent": {
-        "value": 1,
+        "value": 0,
         "label": "Recent items"
       },
       "isAttachment": {
@@ -89,7 +86,7 @@
         "label": "Attachment file types"
       },
       "file": {
-        "value": 0,
+        "value": 1,
         "label": "Filenames"
       },
       "alias": {
@@ -97,7 +94,7 @@
         "label": "Aliases"
       },
       "unresolved": {
-        "value": 0,
+        "value": 1,
         "label": "Unresolved filenames"
       },
       "h1": {
@@ -305,8 +302,8 @@
     "insertableEditorTypes": [
       "markdown"
     ],
-    "useBasenameAsAlias": true,
-    "useHeadingAsAlias": true
+    "useBasenameAsAlias": false,
+    "useHeadingAsAlias": false
   },
   "removeDefaultTabBinding": true,
   "navigationKeys": {
@@ -339,7 +336,7 @@
       }
     ]
   },
-  "preferredSourceForTitle": "H1",
+  "preferredSourceForTitle": "Default",
   "closeWhenEmptyKeys": [
     {
       "modifiers": null,
@@ -421,5 +418,32 @@
       ],
       "key": "f"
     }
+  },
+  "openInBackground": {
+    "isEnabled": true,
+    "openKeys": [
+      {
+        "openType": "tab",
+        "hotkey": {
+          "modifiers": [
+            "Mod",
+            "Shift"
+          ],
+          "key": "t"
+        }
+      },
+      {
+        "openType": "vertical",
+        "hotkey": null
+      },
+      {
+        "openType": "horizontal",
+        "hotkey": null
+      },
+      {
+        "openType": "window",
+        "hotkey": null
+      }
+    ]
   }
 }

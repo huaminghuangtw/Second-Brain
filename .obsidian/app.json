@@ -20,7 +20,8 @@
     "Scripts/",
     "Templates/",
     "Visuals/",
-    "Homepage.md"
+    "Homepage.md",
+    "/**/_attachments//"
   ],
   "showInlineTitle": false,
   "useTab": true,

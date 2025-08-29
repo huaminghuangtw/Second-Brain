@@ -1,5 +1,5 @@
 {
-  "curlyQuotes": true,
+  "curlyQuotes": false,
   "emDash": false,
   "ellipsis": false,
   "arrows": false,
@@ -9,8 +9,8 @@
   "skipEnDash": false,
   "openSingle": "'",
   "closeSingle": "'",
-  "openDouble": "“",
-  "closeDouble": "”",
+  "openDouble": "\"",
+  "closeDouble": "\"",
   "openGuillemet": "«",
   "closeGuillemet": "»",
   "leftArrow": "←",

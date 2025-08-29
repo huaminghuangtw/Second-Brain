@@ -16,7 +16,7 @@
     },
     "force-yaml-escape": {
       "enabled": false,
-      "force-yaml-escape-keys": ""
+      "force-yaml-escape-keys": "title"
     },
     "format-tags-in-yaml": {
       "enabled": true
@@ -147,7 +147,7 @@
     "quote-style": {
       "enabled": true,
       "single-quote-enabled": true,
-      "single-quote-style": "''",
+      "single-quote-style": "‘’",
       "double-quote-enabled": true,
       "double-quote-style": "“”"
     },
@@ -277,15 +277,9 @@
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
-    "Templates"
+    ""
   ],
-  "filesToIgnore": [
-    {
-      "label": "Excalidraw files",
-      "match": ".*\\.excalidraw\\.md$",
-      "flags": "i"
-    }
-  ],
+  "filesToIgnore": [],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
   "lintCommands": [],
@@ -294,7 +288,7 @@
     "aliasArrayStyle": "multi-line",
     "tagArrayStyle": "multi-line",
     "minimumNumberOfDollarSignsToBeAMathBlock": 2,
-    "escapeCharacter": "\"",
+    "escapeCharacter": "'",
     "removeUnnecessaryEscapeCharsForMultiLineArrays": true
   }
 }

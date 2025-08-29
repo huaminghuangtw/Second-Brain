@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a8dd30e4d9a6494a",
+        "id": "95ffec45832a4dd3",
         "type": "tabs",
         "children": [
           {
-            "id": "3e86ad498979bd72",
+            "id": "44e92771f355c1a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2025_08_29"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"is:inline\"",
+                "query": "m2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 2025_08_29"
             }
           },
           {
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/Life is shorter than you think.md",
+                "file": "AdaptX/posts/you-and-your-timeline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Life is shorter than you think"
+              "title": "Outline of you-and-your-timeline"
             }
           }
         ],
@@ -200,8 +200,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "templater-obsidian:Templater": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "workspaces:Manage workspace layouts": false,
@@ -211,44 +209,44 @@
       "random-note:Open random note": false
     }
   },
-  "active": "3e86ad498979bd72",
+  "active": "44e92771f355c1a1",
   "lastOpenFiles": [
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_27.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_26.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_03.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_22.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_18.md",
-    "Evergreen-Notes/Permanent-Notes/How to make your own energy bars.md",
-    "AdaptX/posts/you-and-your-timeline.md",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Bad Wolf.jpeg",
-    "Daily-Bullet-Journal/_attachments/Pasted image 20250827064921.png",
-    "Daily-Bullet-Journal/_attachments/Pasted image 20250827064048.png",
-    "Evergreen-Notes/Permanent-Notes/Just getting started.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_08.md",
-    "Shortcutomation/posts/live-each-day-as-it-were-your-last.md",
-    "Evergreen-Notes/Permanent-Notes/just-focus-on-the-next-decision.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_21.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_20.md",
+    "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
+    "Evergreen-Notes/Permanent-Notes/readers-are-leaders.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_08.md",
+    "Evergreen-Notes/Permanent-Notes/Journaling.md",
     "Dear-Today-Me/Dear-Today-Me.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/Pasted image 20250827064921.png",
-    "Daily-Bullet-Journal/journals/2025/08-August/Pasted image 20250827064048.png",
-    "Evergreen-Notes/Permanent-Notes/The Growth Mindset.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_22.md",
-    "Daily-Bullet-Journal/journals/2022/08-August/2022_08_27.md",
-    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_27.md",
-    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_26.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_27.md",
-    "Notes-to-Self/posts/2025-08-02.md",
-    "Notes-to-Self/posts/2025-08-27.md",
-    "Today-I-Learned/posts/sgm-sopk.md",
-    "Today-I-Learned/posts/sklgjldkg.md",
-    "Today-I-Learned/posts/test.md",
-    "Evergreen-Notes/Permanent-Notes/How to fuel in endurance sports.md",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Wasp.jpeg",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Stopgap.jpeg",
-    "Daily-Bullet-Journal/_attachments/fba1a1fa08a3d08d8ad6d1fa22d7ccd2.png",
-    "Daily-Bullet-Journal/_attachments/Pasted image 20250824122018.png",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Cortisol Down.jpeg",
+    "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
+    "Notes-to-Self/posts/2025-08-30.md",
+    "Notes-to-Self/posts/2025-08-28.md",
+    "Notes-to-Self/posts/2025-08-01.md",
+    "Notes-to-Self/posts/2025-07-31.md",
+    "Weekly-Mindware-Update/issues/2024/2024_Week_36.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_04.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_27.md",
+    "Notes-to-Self/posts/2025-08-29.md",
+    "Evergreen-Notes/Permanent-Notes/Investing in yourself is the highest ROI investment you'll ever make in your life.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_23.md",
+    "Daily-Bullet-Journal/_attachments/2025_08_29_08_52_24.jpeg",
+    "Daily-Bullet-Journal/_attachments/Pasted image 20250829060004.png",
+    "Daily-Bullet-Journal/_attachments/Pasted image 20250829055958.png",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_28.md",
+    "Evergreen-Notes/Permanent-Notes/The Hanlon's Razor.md",
+    "Evergreen-Notes/Permanent-Notes/parkinsons-law.md",
+    "Evergreen-Notes/Permanent-Notes/Gall's Law.md",
+    "Evergreen-Notes/Permanent-Notes/Chesterton's Fence.md",
+    "Evergreen-Notes/Permanent-Notes/The Hofstadter's Law.md",
+    "Evergreen-Notes/Permanent-Notes/The Sturgeon's Law.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/Pasted image 20250829060004.png",
+    "Daily-Bullet-Journal/journals/2025/08-August/Pasted image 20250829055958.png",
+    "Life-Notes/_attachments/e9eea70164906e26d189fbbb0be038c8.png",
+    "Shortcutomation/_attachments/22bbd89ab9af292353b7d9eda9705d42.png",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/fullbody-stretch-workout.jpeg",
+    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Archers.gif",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Bad Wolf.jpeg",
     "Weekly-Mindware-Update/README.md.tmp"
   ]
 }
