@@ -3,19 +3,34 @@ async function createBlogPost(tp) {
 
     let rawTitle = "";
     if (blog === "Notes-to-Self") {
-        const file = tp.file.find_tfile(
-            `Notes-to-Self/posts/${tp.date.now("YYYY-MM-DD")}`
-        );
-        if (file) {
-            const files = app.vault
-                .getFiles()
-                .filter((f) => f.path.startsWith("Notes-to-Self/posts/"))
-                .sort((a, b) => a.name.localeCompare(b.name));
-            rawTitle = moment(files[0].name, "YYYY-MM-DD")
-                .subtract(1, "days")
-                .format("YYYY-MM-DD");
+        const files = app.vault
+            .getFiles()
+            .filter((f) => f.path.startsWith("Notes-to-Self/posts/"))
+            .map((f) => f.name.replace(/\.md$/, ""))
+            .filter((name) => /^\d{4}-\d{2}-\d{2}$/.test(name))
+            .sort();
+        let missingDate = null;
+        for (let i = 1; i < files.length; i++) {
+            const prev = moment(files[i - 1], "YYYY-MM-DD");
+            const curr = moment(files[i], "YYYY-MM-DD");
+            if (curr.diff(prev, "days") > 1) {
+                missingDate = prev.add(1, "days").format("YYYY-MM-DD");
+                break;
+            }
+        }
+        if (missingDate) {
+            rawTitle = missingDate;
         } else {
-            rawTitle = tp.date.now("YYYY-MM-DD");
+            const file = tp.file.find_tfile(
+                `Notes-to-Self/posts/${tp.date.now("YYYY-MM-DD")}`
+            );
+            if (file) {
+                rawTitle = moment(files[0], "YYYY-MM-DD")
+                    .subtract(1, "days")
+                    .format("YYYY-MM-DD");
+            } else {
+                rawTitle = tp.date.now("YYYY-MM-DD");
+            }
         }
     } else {
         rawTitle = await tp.system.prompt("Title?");
