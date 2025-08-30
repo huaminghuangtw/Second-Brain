@@ -1,7 +1,9 @@
 ---
 created: 2024-11-18T17:18:12
-modified: 2025-08-21T16:50:10
+modified: 2025-08-30T06:59:26
 ---
+
+<!-- four-quarters-in-a-day -->
 
 ```dataviewjs
 let onDesktop = window.innerWidth > 768;
@@ -45,19 +47,22 @@ if (onDesktop) {
 
     let blocks = [];
     for (let i = 0; i < CONFIG.totalBlocks; i++) {
+        let blockSymbol;
         if (i === currentBlockIndex) {
-            blocks.push(CONFIG.block.current);
+            blockSymbol = CONFIG.block.current;
         } else if (i === Math.floor((CONFIG.totalBlocks) / 4)) {
-            blocks.push(CONFIG.block.quarter1);
+            blockSymbol = CONFIG.block.quarter1;
         } else if (i === Math.floor((CONFIG.totalBlocks) / 2)) {
-            blocks.push(CONFIG.block.quarter2);
+            blockSymbol = CONFIG.block.quarter2;
         } else if (i === Math.floor((3 * (CONFIG.totalBlocks)) / 4)) {
-            blocks.push(CONFIG.block.quarter3);
+            blockSymbol = CONFIG.block.quarter3;
         } else if (i === ((CONFIG.totalBlocks) - 1)) {
-            blocks.push(CONFIG.block.quarter4);
+            blockSymbol = CONFIG.block.quarter4;
         } else {
-            blocks.push(CONFIG.block.default);
+            blockSymbol = CONFIG.block.default;
         }
+        let url = `shortcuts://run-shortcut?name=${encodeURIComponent("Show Day Progress")}`
+        blocks.push(`[${blockSymbol}](${url})`);
     }
     const blocksString = blocks.join(" ");
 
