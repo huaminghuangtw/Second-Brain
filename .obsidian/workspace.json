@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "95ffec45832a4dd3",
+        "id": "74bf52be8572356c",
         "type": "tabs",
         "children": [
           {
-            "id": "44e92771f355c1a1",
+            "id": "446004c7134bef9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
-                "mode": "source",
-                "source": true,
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_08_29"
+              "title": "Homepage"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "m2",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_08_29"
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -209,44 +208,43 @@
       "random-note:Open random note": false
     }
   },
-  "active": "44e92771f355c1a1",
+  "active": "446004c7134bef9a",
   "lastOpenFiles": [
+    "AdaptX/posts/you-and-your-timeline.md",
+    "Notes-to-Self/posts/2025-08-30.md",
+    "Homepage.md",
+    "AdaptX/posts/Pasted image 20250830085202.png",
+    "AdaptX/posts/Pasted image 20250830133018.png",
+    "Evergreen-Notes/Permanent-Notes/Journey over destination.md",
+    "Evergreen-Notes/Permanent-Notes/escape-competition-through-authenticity.md",
+    "Dear-Today-Me/Dear-Today-Me.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_30.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
+    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_30.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_30.md",
+    "About.md",
+    "Evergreen-Notes/Permanent-Notes/journaling.md",
+    "Evergreen-Notes/Permanent-Notes/what-you-work-on-is-far-more-important-than-how-productively-you-work.md",
+    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
+    "Notes-to-Self/posts/2025-07-31.md",
+    "Today-I-Learned/posts/git-pre-commit-hooks-run-once-per-commit-not-per-file.md",
+    "Today-I-Learned/posts/crontab-and-cronjob.md",
+    "Notes-to-Self/posts/2025-07-30.md",
+    "Today-I-Learned/posts/git-commit-messages-from-a-file.md",
+    "Evergreen-Notes/Permanent-Notes/jeff-bezos-letter-to-amazon-shareholders-1997.md",
     "Daily-Bullet-Journal/journals/2025/06-June/2025_06_20.md",
     "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
     "Evergreen-Notes/Permanent-Notes/readers-are-leaders.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
     "Daily-Bullet-Journal/journals/2025/01-January/2025_01_08.md",
-    "Evergreen-Notes/Permanent-Notes/Journaling.md",
-    "Dear-Today-Me/Dear-Today-Me.md",
     "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
-    "Notes-to-Self/posts/2025-08-30.md",
-    "Notes-to-Self/posts/2025-08-28.md",
-    "Notes-to-Self/posts/2025-08-01.md",
-    "Notes-to-Self/posts/2025-07-31.md",
-    "Weekly-Mindware-Update/issues/2024/2024_Week_36.md",
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_04.md",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_27.md",
-    "Notes-to-Self/posts/2025-08-29.md",
-    "Evergreen-Notes/Permanent-Notes/Investing in yourself is the highest ROI investment you'll ever make in your life.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_23.md",
-    "Daily-Bullet-Journal/_attachments/2025_08_29_08_52_24.jpeg",
-    "Daily-Bullet-Journal/_attachments/Pasted image 20250829060004.png",
-    "Daily-Bullet-Journal/_attachments/Pasted image 20250829055958.png",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_28.md",
-    "Evergreen-Notes/Permanent-Notes/The Hanlon's Razor.md",
-    "Evergreen-Notes/Permanent-Notes/parkinsons-law.md",
-    "Evergreen-Notes/Permanent-Notes/Gall's Law.md",
-    "Evergreen-Notes/Permanent-Notes/Chesterton's Fence.md",
-    "Evergreen-Notes/Permanent-Notes/The Hofstadter's Law.md",
-    "Evergreen-Notes/Permanent-Notes/The Sturgeon's Law.md",
+    "Daily-Bullet-Journal/_attachments/03510a223417d2d8ad6efeaaa77b6215.jpeg",
+    "Daily-Bullet-Journal/_attachments/3732d9141ac24bcfb2d821c66a0f5a5f.png",
+    "Daily-Bullet-Journal/_attachments/b8b8e8b91cf7d9febf537dbeb3c24a4d.png",
     "Daily-Bullet-Journal/journals/2025/08-August/Pasted image 20250829060004.png",
     "Daily-Bullet-Journal/journals/2025/08-August/Pasted image 20250829055958.png",
     "Life-Notes/_attachments/e9eea70164906e26d189fbbb0be038c8.png",
     "Shortcutomation/_attachments/22bbd89ab9af292353b7d9eda9705d42.png",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/fullbody-stretch-workout.jpeg",
-    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Archers.gif",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Bad Wolf.jpeg",
     "Weekly-Mindware-Update/README.md.tmp"
   ]
 }

@@ -20,7 +20,9 @@
     "userIgnoreFilters": [
         "Scripts/",
         "Templates/",
-        "Visuals/"
+        "Visuals/",
+        "Homepage.md",
+        "/**/_attachments//"
     ],
     "showInlineTitle": false,
     "useTab": true,

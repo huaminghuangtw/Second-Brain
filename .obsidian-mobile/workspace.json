@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "497044502e0e8122",
+        "id": "74bf52be8572356c",
         "type": "tabs",
         "children": [
           {
-            "id": "8f2bdfcf19c9dfbe",
+            "id": "446004c7134bef9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Neutrogena",
+                "query": "m2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,12 +84,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 486.5,
     "collapsed": true
   },
   "right": {
@@ -149,7 +148,19 @@
             }
           },
           {
-            "id": "d248e3c3a093b408",
+            "id": "6285207a5a7233f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Homepage.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Homepage"
+            }
+          },
+          {
+            "id": "d5054554f6153ad5",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -163,90 +174,78 @@
             }
           },
           {
-            "id": "25ca4e88ca3ddd43",
+            "id": "9ca05fac762e55d1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_20.md",
+                "file": "AdaptX/posts/you-and-your-timeline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025_08_20"
-            }
-          },
-          {
-            "id": "aa71ae4ae27a4093",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_21.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for 2025_08_21"
+              "title": "Outline of you-and-your-timeline"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 337.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "templater-obsidian:Templater": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "8f2bdfcf19c9dfbe",
+  "active": "446004c7134bef9a",
   "lastOpenFiles": [
-    "Life-Notes/Missions/教育改革.md",
-    "about.md",
-    "Homepage.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Loading Abs.jpeg",
-    "Daily-Bullet-Journal/journals/2022/07-July/2022_07_31.md",
-    "Daily-Bullet-Journal/journals/2022/07-July/2022_07_31 2.md",
-    "Today-I-Learned/posts/git-reset 2.md",
-    "Daily-Bullet-Journal/_attachments/fba1a1fa08a3d08d8ad6d1fa22d7ccd2.png",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_22.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_23.md",
-    "Evergreen-Notes/Permanent-Notes/true-education-begins-where-school-ends.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_21.md",
-    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
-    "Daily-Bullet-Journal/journals/2022/08-August/2022_08_23.md",
-    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_23.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_23.md",
-    "Evergreen-Notes/Permanent-Notes/Maltodextrin.md",
-    "Life-Notes/Alignment/🐤 New Hobbies.md",
-    "Notes-to-Self/posts/2025-08-23.md",
-    "Evergreen-Notes/Permanent-Notes/a-friend-to-all-is-a-friend-to-none.md",
-    "Evergreen-Notes/Permanent-Notes/communication.md",
-    "Evergreen-Notes/Permanent-Notes/crontab & cronjob.md",
+    "AdaptX/posts/you-and-your-timeline.md",
     "Evergreen-Notes/Permanent-Notes/Journey over destination.md",
-    "Evergreen-Notes/Permanent-Notes/advice.md",
-    "Evergreen-Notes/Permanent-Notes/comparison-is-the-thief-of-joy.md",
-    "Evergreen-Notes/Permanent-Notes/decision-making.md",
-    "Daily-Bullet-Journal/_attachments/4e53859990b9edfe38de82dc4e60d567.png",
-    "Daily-Bullet-Journal/journals/2025/08-August/Screenshot 2025-08-21 at 13.30.28.png",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Flexible Today.jpeg",
-    "Weekly-Mindware-Update/README.md.tmp",
-    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Plank Rotations.gif",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Aurora.jpeg",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Lotus.jpeg",
-    "Evergreen-Notes/_attachments/19d8ef9fa9213552e887aee3e54540ec.jpeg",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Standing Mobility.jpeg"
+    "Dear-Today-Me/Dear-Today-Me.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_30.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
+    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_30.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_30.md",
+    "About.md",
+    "Evergreen-Notes/Permanent-Notes/journaling.md",
+    "Evergreen-Notes/Permanent-Notes/what-you-work-on-is-far-more-important-than-how-productively-you-work.md",
+    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
+    "Notes-to-Self/posts/2025-07-31.md",
+    "Today-I-Learned/posts/git-pre-commit-hooks-run-once-per-commit-not-per-file.md",
+    "Today-I-Learned/posts/crontab-and-cronjob.md",
+    "Notes-to-Self/posts/2025-07-30.md",
+    "Today-I-Learned/posts/git-commit-messages-from-a-file.md",
+    "Evergreen-Notes/Permanent-Notes/jeff-bezos-letter-to-amazon-shareholders-1997.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_20.md",
+    "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
+    "Evergreen-Notes/Permanent-Notes/readers-are-leaders.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_08.md",
+    "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
+    "Notes-to-Self/posts/2025-08-30.md",
+    "Notes-to-Self/posts/2025-08-28.md",
+    "Notes-to-Self/posts/2025-08-01.md",
+    "Daily-Bullet-Journal/_attachments/03510a223417d2d8ad6efeaaa77b6215.jpeg",
+    "Daily-Bullet-Journal/_attachments/3732d9141ac24bcfb2d821c66a0f5a5f.png",
+    "Daily-Bullet-Journal/_attachments/b8b8e8b91cf7d9febf537dbeb3c24a4d.png",
+    "Daily-Bullet-Journal/journals/2025/08-August/Pasted image 20250829060004.png",
+    "Daily-Bullet-Journal/journals/2025/08-August/Pasted image 20250829055958.png",
+    "Life-Notes/_attachments/e9eea70164906e26d189fbbb0be038c8.png",
+    "Shortcutomation/_attachments/22bbd89ab9af292353b7d9eda9705d42.png",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/fullbody-stretch-workout.jpeg",
+    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Archers.gif",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Bad Wolf.jpeg",
+    "Weekly-Mindware-Update/README.md.tmp"
   ]
 }

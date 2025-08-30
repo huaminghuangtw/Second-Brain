@@ -1,0 +1,8 @@
+{
+    "isDesktopOnly": true,
+    "id": "url-into-selection",
+    "js": "main.js",
+    "name": "Paste URL into selection",
+    "description": "Paste URL \"into\" selected text.",
+    "version": "1.7.0"
+}

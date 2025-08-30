@@ -5,7 +5,7 @@
     "audio-recorder": false,
     "command-palette": true,
     "global-search": true,
-    "random-note": false,
+    "random-note": true,
     "outgoing-link": true,
     "zk-prefixer": false,
     "word-count": false,

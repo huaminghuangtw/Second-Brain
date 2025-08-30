@@ -545,15 +545,6 @@
       "key": "L"
     }
   ],
-  "file-recovery:open": [
-    {
-      "modifiers": [
-        "Alt",
-        "Ctrl"
-      ],
-      "key": "S"
-    }
-  ],
   "permalink-opener:open-dev-url": [
     {
       "modifiers": [
@@ -786,6 +777,42 @@
         "Shift"
       ],
       "key": "N"
+    }
+  ],
+  "random-note": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "R"
+    }
+  ],
+  "obsidian-text-format:title-case": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "file-recovery:open": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "obsidian-text-format:capitalize-sentence": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "S"
     }
   ]
 }
