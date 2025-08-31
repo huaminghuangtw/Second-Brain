@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "74bf52be8572356c",
+        "id": "0760c5b540b51256",
         "type": "tabs",
         "children": [
           {
-            "id": "446004c7134bef9a",
+            "id": "cc6187bb4eb8271c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_08_29"
+            }
+          },
+          {
+            "id": "ab6a7b46e53b87ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,7 +55,8 @@
               "title": "Homepage"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "m2",
+                "query": "弟弟",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,14 +234,26 @@
       "random-note:Open random note": false
     }
   },
-  "active": "446004c7134bef9a",
+  "active": "ab6a7b46e53b87ea",
   "lastOpenFiles": [
-    "AdaptX/posts/you-and-your-timeline.md",
-    "Evergreen-Notes/Permanent-Notes/Journey over destination.md",
-    "Dear-Today-Me/Dear-Today-Me.md",
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_30.md",
     "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_30.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_29.md",
+    "Evergreen-Notes/Permanent-Notes/Active Listening.md",
+    "Life-Notes/Missions/教育改革.md",
+    "Evergreen-Notes/Permanent-Notes/Self-compassion.md",
+    "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
+    "Evergreen-Notes/Permanent-Notes/when-in-doubt-zoom-out.md",
+    "Evergreen-Notes/Permanent-Notes/a-man-who-is-a-master-of-patience-is-master-of-everything-else.md",
+    "Homepage.md",
+    "AdaptX/_attachments/Pasted image 20250830133018.png",
+    "AdaptX/posts/you-and-your-timeline.md",
+    "Notes-to-Self/posts/2025-08-30.md",
+    "AdaptX/posts/Pasted image 20250830085202.png",
+    "AdaptX/posts/Pasted image 20250830133018.png",
+    "Evergreen-Notes/Permanent-Notes/Journey over destination.md",
+    "Evergreen-Notes/Permanent-Notes/escape-competition-through-authenticity.md",
+    "Dear-Today-Me/Dear-Today-Me.md",
     "Daily-Bullet-Journal/journals/2023/08-August/2023_08_30.md",
     "Daily-Bullet-Journal/journals/2024/08-August/2024_08_30.md",
     "About.md",
@@ -227,15 +265,6 @@
     "Today-I-Learned/posts/crontab-and-cronjob.md",
     "Notes-to-Self/posts/2025-07-30.md",
     "Today-I-Learned/posts/git-commit-messages-from-a-file.md",
-    "Evergreen-Notes/Permanent-Notes/jeff-bezos-letter-to-amazon-shareholders-1997.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_20.md",
-    "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
-    "Evergreen-Notes/Permanent-Notes/readers-are-leaders.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_08.md",
-    "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
-    "Notes-to-Self/posts/2025-08-30.md",
-    "Notes-to-Self/posts/2025-08-28.md",
-    "Notes-to-Self/posts/2025-08-01.md",
     "Daily-Bullet-Journal/_attachments/03510a223417d2d8ad6efeaaa77b6215.jpeg",
     "Daily-Bullet-Journal/_attachments/3732d9141ac24bcfb2d821c66a0f5a5f.png",
     "Daily-Bullet-Journal/_attachments/b8b8e8b91cf7d9febf537dbeb3c24a4d.png",
@@ -243,9 +272,6 @@
     "Daily-Bullet-Journal/journals/2025/08-August/Pasted image 20250829055958.png",
     "Life-Notes/_attachments/e9eea70164906e26d189fbbb0be038c8.png",
     "Shortcutomation/_attachments/22bbd89ab9af292353b7d9eda9705d42.png",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/fullbody-stretch-workout.jpeg",
-    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Archers.gif",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Bad Wolf.jpeg",
     "Weekly-Mindware-Update/README.md.tmp"
   ]
 }

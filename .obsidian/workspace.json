@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "74bf52be8572356c",
+        "id": "f156162d1027a93b",
         "type": "tabs",
         "children": [
           {
-            "id": "446004c7134bef9a",
+            "id": "7fa2ca88351afc1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +30,129 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "fdae9c4042831780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_31.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_08_31"
+            }
+          },
+          {
+            "id": "f0b8a00caca4c1e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life-Notes/Alignment/🎯 Life Vision Board.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "🎯 Life Vision Board"
+            }
+          },
+          {
+            "id": "c64fe4065805e604",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life-Notes/Business/🏰 My Biz Empire.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "🏰 My Biz Empire"
+            }
+          },
+          {
+            "id": "243dc5c5257bae99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/Brain Attic.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Brain Attic"
+            }
+          },
+          {
+            "id": "371e281dd6542424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AdaptX/posts/you-and-your-timeline.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "you-and-your-timeline"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -63,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "法老王",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +205,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Life-Notes/Business/🏰 My Biz Empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +237,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 🏰 My Biz Empire"
             }
           },
           {
@@ -208,43 +330,44 @@
       "random-note:Open random note": false
     }
   },
-  "active": "446004c7134bef9a",
+  "active": "c64fe4065805e604",
   "lastOpenFiles": [
-    "AdaptX/posts/you-and-your-timeline.md",
-    "Notes-to-Self/posts/2025-08-30.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_31.md",
     "Homepage.md",
+    "Evergreen-Notes/Permanent-Notes/be-primarily-internally-driven-with-intrinsic-motivation.md",
+    "Weekly-Mindware-Update/issues/2025/2025_Week_35.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_30.md",
+    "Weekly-Mindware-Update/issues/2025/2025_Week_34.md",
+    "Weekly-Mindware-Update/2025_Week_34.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_28.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_27.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_26.md",
+    "Evergreen-Notes/Permanent-Notes/Brain Attic.md",
+    "AdaptX/posts/sherlock-holmes-brain-attic.md",
+    "AdaptX/posts/Pasted image 20250831170945.png",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_19.md",
+    "AdaptX/posts/you-and-your-timeline.md",
+    "AdaptX/posts/Pasted image 20250831170223.png",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_20.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_22.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_23.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_24.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_25.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_09.md",
+    "Dear-Today-Me/Dear-Today-Me.md",
+    "Evergreen-Notes/Permanent-Notes/Dispel your narratives.md",
+    "Evergreen-Notes/Permanent-Notes/Lateral Thinking.md",
+    "Notes-to-Self/posts/2025-08-01.md",
+    "Daily-Bullet-Journal/_attachments/Pasted image 20250831111444.png",
+    "Daily-Bullet-Journal/journals/2025/08-August/Pasted image 20250831111444.png",
+    "AdaptX/_attachments/41f5d232b263a3b8ba3cae2a81b2e364.png",
     "AdaptX/posts/Pasted image 20250830085202.png",
     "AdaptX/posts/Pasted image 20250830133018.png",
-    "Evergreen-Notes/Permanent-Notes/Journey over destination.md",
-    "Evergreen-Notes/Permanent-Notes/escape-competition-through-authenticity.md",
-    "Dear-Today-Me/Dear-Today-Me.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_30.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
-    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_30.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_30.md",
-    "About.md",
-    "Evergreen-Notes/Permanent-Notes/journaling.md",
-    "Evergreen-Notes/Permanent-Notes/what-you-work-on-is-far-more-important-than-how-productively-you-work.md",
-    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
-    "Notes-to-Self/posts/2025-07-31.md",
-    "Today-I-Learned/posts/git-pre-commit-hooks-run-once-per-commit-not-per-file.md",
-    "Today-I-Learned/posts/crontab-and-cronjob.md",
-    "Notes-to-Self/posts/2025-07-30.md",
-    "Today-I-Learned/posts/git-commit-messages-from-a-file.md",
-    "Evergreen-Notes/Permanent-Notes/jeff-bezos-letter-to-amazon-shareholders-1997.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_20.md",
-    "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
-    "Evergreen-Notes/Permanent-Notes/readers-are-leaders.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_08.md",
-    "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
     "Daily-Bullet-Journal/_attachments/03510a223417d2d8ad6efeaaa77b6215.jpeg",
     "Daily-Bullet-Journal/_attachments/3732d9141ac24bcfb2d821c66a0f5a5f.png",
     "Daily-Bullet-Journal/_attachments/b8b8e8b91cf7d9febf537dbeb3c24a4d.png",
-    "Daily-Bullet-Journal/journals/2025/08-August/Pasted image 20250829060004.png",
-    "Daily-Bullet-Journal/journals/2025/08-August/Pasted image 20250829055958.png",
-    "Life-Notes/_attachments/e9eea70164906e26d189fbbb0be038c8.png",
-    "Shortcutomation/_attachments/22bbd89ab9af292353b7d9eda9705d42.png",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/fullbody-stretch-workout.jpeg",
     "Weekly-Mindware-Update/README.md.tmp"
   ]
 }
