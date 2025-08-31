@@ -9,6 +9,8 @@ NC='\033[0m' # No Color
 
 total_dir_num=$#
 
+FAILED_REPOS=()
+
 for ((i=1; i<=total_dir_num; i++)); do
     idx="${!i}"
     TARGET_DIR="${idx/#\~/$HOME}"
@@ -91,7 +93,17 @@ for ((i=1; i<=total_dir_num; i++)); do
         echo -e "${GREEN}✅ Backup Completed: $(basename "$TARGET_DIR")${NC}"
     } || {
         echo -e "${RED}❌ Backup Failed: $(basename "$TARGET_DIR")${NC}"
+        FAILED_REPOS+=("$(basename "$TARGET_DIR")")
     }
 
     echo
 done
+
+if [ ${#FAILED_REPOS[@]} -ne 0 ]; then
+    echo -e "\n${RED}🗒️ Summary of failed repos:${NC}"
+    for repo in "${FAILED_REPOS[@]}"; do
+        echo "• $repo"
+    done
+else
+    echo -e "${GREEN}🎊 All repos backed up successfully!${NC}"
+fi
