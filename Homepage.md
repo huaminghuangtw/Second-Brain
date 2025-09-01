@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T17:18:12
-modified: 2025-08-30T06:59:26
+modified: 2025-09-01T17:33:34
 ---
 
 <!-- four-quarters-in-a-day -->
@@ -238,6 +238,7 @@ if (onDesktop) {
 >
 >     const imageFiles = app.vault.getFiles().filter(file =>
 >         imageExtensions.includes(file.extension.toLowerCase()) &&
+>         !file.path.includes("AdaptX/") &&
 >         file.path.includes("_attachments/")
 >     );
 >
