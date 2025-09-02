@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "201847efad3142e6",
+        "id": "24e28332c21c0ef7",
         "type": "tabs",
         "children": [
           {
-            "id": "193355d0a4842c35",
+            "id": "80e7506bdef7fa67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_28.md",
+                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_08_28"
-            }
-          },
-          {
-            "id": "7b5b43594389a0dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AdaptX/posts/you-and-your-timeline.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "you-and-your-timeline"
-            }
-          },
-          {
-            "id": "f99e8a94a6f5f461",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_30.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_08_30"
+              "title": "2025_09_02"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "41f5d232b263a3b8ba3cae2a81b2e364.png",
+                "query": "author",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_30.md",
+                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_08_30"
+              "title": "Backlinks for 2025_09_02"
             }
           },
           {
@@ -173,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_31.md",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025_08_31"
+              "title": "Outgoing links from Homepage"
             }
           },
           {
@@ -216,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_31.md",
+                "file": "Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025_08_31"
+              "title": "Outline of Homepage"
             }
           },
           {
@@ -231,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_30.md"
+                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_02.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_08_30"
+              "title": "File properties for 2025_09_02"
             }
           }
         ],
@@ -247,44 +199,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "templater-obsidian:Templater": false
+      "graph:Open graph view": true,
+      "command-palette:Open command palette": true,
+      "random-note:Open random note": true,
+      "workspaces:Manage workspace layouts": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-shellcommands:Shell commands: Custom variables": true,
+      "templater-obsidian:Templater": true
     }
   },
-  "active": "f99e8a94a6f5f461",
+  "active": "80e7506bdef7fa67",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/journals/2025/09-September/Pasted image 20250902181231.png",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_24.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_02.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_01.md",
+    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
+    "Evergreen-Notes/Permanent-Notes/perfectionism.md",
+    "Evergreen-Notes/Permanent-Notes/Just getting started.md",
+    "Evergreen-Notes/Permanent-Notes/Always start small.md",
+    "Evergreen-Notes/Permanent-Notes/dopamine.md",
+    "__temp__dopamine.md",
     "Daily-Bullet-Journal/journals/2025/08-August/2025_08_31.md",
     "Daily-Bullet-Journal/journals/2025/08-August/2025_08_30.md",
     "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/Pasted image 20250901173523.png",
-    "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/The Dunning-Kruger Effect.md",
-    "AdaptX/posts/you-and-your-timeline.md",
     "Daily-Bullet-Journal/journals/2025/08-August/2025_08_28.md",
+    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_02.md",
+    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_02.md",
+    "Daily-Bullet-Journal/_attachments/Pasted image 20250901173523.png",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_11.md",
+    "Evergreen-Notes/Permanent-Notes/a-friend-to-all-is-a-friend-to-none.md",
+    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_11.md",
+    "AdaptX/posts/you-and-your-timeline.md",
+    "Today-I-Learned/posts/git-reset.md",
+    "Today-I-Learned/posts/git-reset 2.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/Pasted image 20250901173523.png",
+    "Evergreen-Notes/Permanent-Notes/The Dunning-Kruger Effect.md",
     "AdaptX/_attachments/41f5d232b263a3b8ba3cae2a81b2e364.png",
-    "Shortcutomation/posts/hidden-keyboard-shortcuts-for-apple-shortcuts.md",
-    "Shortcutomation/posts/live-each-day-as-it-were-your-last.md",
-    "Shortcutomation/posts/shortcut-input-magic-youre-probably-missing.md",
-    "Notes-to-Self/posts/2025-07-28.md",
-    "AdaptX/posts/sherlock-holmes-brain-attic.md",
-    "AdaptX/posts/start-small.md",
-    "AdaptX/posts/the-monkey-and-pedestal-mindset.md",
-    "Shortcutomation/posts/a-nighttime-routine-i-do-every-day.md",
-    "Shortcutomation/posts/a-midday-routine-i-do-every-day.md",
-    "Notes-to-Self/posts/2025-08-29.md",
-    "Notes-to-Self/posts/2025-08-30.md",
-    "Notes-to-Self/posts/2025-08-31.md",
-    "Notes-to-Self/posts/2025-08-28.md",
-    "Notes-to-Self/posts/2025-08-27.md",
-    "Notes-to-Self/posts/2025-08-26.md",
-    "Notes-to-Self/posts/2025-08-25.md",
-    "Notes-to-Self/posts/2025-08-24.md",
-    "Notes-to-Self/posts/2025-08-23.md"
+    "Shortcutomation/posts/hidden-keyboard-shortcuts-for-apple-shortcuts.md"
   ]
 }
