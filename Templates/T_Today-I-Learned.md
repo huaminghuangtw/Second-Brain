@@ -8,7 +8,7 @@ featured: false
 title: <% title %>
 description:
 tags: <% tags %>
-sources:
+sources: []
 ---
 
 Today I learned <% tp.file.cursor() %>

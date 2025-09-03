@@ -33,6 +33,20 @@ for ((i=1; i<=total_dir_num; i++)); do
         continue
     fi
 
+    # Handle stale Git lock files
+    if [ -f ".git/index.lock" ]; then
+        echo -e "${YELLOW}⚠️ Found a Git lock file in $(basename "$TARGET_DIR"). Checking...${NC}"
+        if pgrep -f "git" > /dev/null; then
+            echo -e "${RED}❌ A git process is still running. Skipping repo: $(basename "$TARGET_DIR")${NC}"
+            FAILED_REPOS+=("$(basename "$TARGET_DIR")")
+            cd - > /dev/null 2>&1
+            continue
+        else
+            echo -e "${YELLOW}🧹 Removing stale lock file...${NC}"
+            rm -f ".git/index.lock"
+        fi
+    fi
+    
     git status --porcelain | grep -E '\.(md|json|js|sh|py)("?)$' | while IFS= read -r status_line; do
         [ -z "$status_line" ] && continue
 

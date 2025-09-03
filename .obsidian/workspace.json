@@ -4,11 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "24e28332c21c0ef7",
+        "id": "6d1a67b5874089d8",
         "type": "tabs",
         "children": [
           {
-            "id": "80e7506bdef7fa67",
+            "id": "5b4efaa333b131b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_03.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_09_03"
+            }
+          },
+          {
+            "id": "25a7f41afd9d5d45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes-to-Self/posts/2025-09-03.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-03"
+            }
+          },
+          {
+            "id": "0b7d90f25973ad3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +78,33 @@
               "icon": "lucide-file",
               "title": "2025_09_02"
             }
+          },
+          {
+            "id": "9df50ce619cc804d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cultivate-a-strong-bias-towards-action"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "author",
+                "query": "\"The 90/90/1 Rule\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,13 +157,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "622d958ae975569a",
@@ -106,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_02.md",
+                "file": "Notes-to-Self/posts/2025-09-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_09_02"
+              "title": "Backlinks for 2025-09-03"
             }
           },
           {
@@ -183,10 +254,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_02.md"
+                "file": "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_09_02"
+              "title": "File properties for a-true-transformation-begins-with-a-mental-shift"
             }
           }
         ],
@@ -209,36 +280,52 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "80e7506bdef7fa67",
+  "active": "25a7f41afd9d5d45",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/09-September/Pasted image 20250902181231.png",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_24.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_02.md",
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_01.md",
-    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
-    "Evergreen-Notes/Permanent-Notes/perfectionism.md",
-    "Evergreen-Notes/Permanent-Notes/Just getting started.md",
-    "Evergreen-Notes/Permanent-Notes/Always start small.md",
-    "Evergreen-Notes/Permanent-Notes/dopamine.md",
-    "__temp__dopamine.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_31.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_30.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_28.md",
-    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_02.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_02.md",
-    "Daily-Bullet-Journal/_attachments/Pasted image 20250901173523.png",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_11.md",
-    "Evergreen-Notes/Permanent-Notes/a-friend-to-all-is-a-friend-to-none.md",
-    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_11.md",
-    "AdaptX/posts/you-and-your-timeline.md",
-    "Today-I-Learned/posts/git-reset.md",
-    "Today-I-Learned/posts/git-reset 2.md",
+    "Notes-to-Self/posts/2025-07-28.md",
+    "Notes-to-Self/posts/2025-07-29.md",
+    "Notes-to-Self/posts/2025-07-30.md",
+    "Notes-to-Self/posts/2025-07-31.md",
+    "Notes-to-Self/posts/2025-08-01.md",
+    "Notes-to-Self/posts/2025-08-02.md",
+    "Notes-to-Self/posts/2025-08-03.md",
+    "Notes-to-Self/posts/2025-08-04.md",
+    "Notes-to-Self/posts/2025-08-05.md",
+    "Notes-to-Self/posts/2025-08-06.md",
+    "Notes-to-Self/posts/2025-08-07.md",
+    "Notes-to-Self/posts/2025-08-08.md",
+    "Notes-to-Self/posts/2025-08-09.md",
+    "Notes-to-Self/posts/2025-08-10.md",
+    "Notes-to-Self/posts/2025-08-11.md",
+    "Notes-to-Self/posts/2025-08-12.md",
+    "Notes-to-Self/posts/2025-08-13.md",
+    "Notes-to-Self/posts/2025-08-14.md",
+    "Notes-to-Self/posts/2025-08-15.md",
+    "Notes-to-Self/posts/2025-08-16.md",
+    "Notes-to-Self/posts/2025-08-17.md",
+    "Notes-to-Self/posts/2025-08-18.md",
+    "Notes-to-Self/posts/2025-08-19.md",
+    "Notes-to-Self/posts/2025-08-20.md",
+    "Notes-to-Self/posts/2025-08-21.md",
+    "Notes-to-Self/posts/2025-08-22.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/Pasted image 20250903081050.png",
+    "Daily-Bullet-Journal/journals/2022/09-September",
     "Daily-Bullet-Journal/journals/2025/08-August/Pasted image 20250901173523.png",
-    "Evergreen-Notes/Permanent-Notes/The Dunning-Kruger Effect.md",
-    "AdaptX/_attachments/41f5d232b263a3b8ba3cae2a81b2e364.png",
-    "Shortcutomation/posts/hidden-keyboard-shortcuts-for-apple-shortcuts.md"
+    "Daily-Bullet-Journal/_attachments/Pasted image 20250902181231.png",
+    "Evergreen-Lists/🤖 AI Prompt/🤖 AI Prompt.gsheet",
+    "Evergreen-Lists/🌱 Healthy Food/🌱 Healthy Food.json",
+    "Evergreen-Lists/🌱 Healthy Food/🌱 Healthy Food.gsheet",
+    "Evergreen-Lists/🌍 World Cuisine/🌍 World Cuisine.json",
+    "Evergreen-Lists/🌍 World Cuisine/🌍 World Cuisine.gsheet",
+    "Evergreen-Lists/💭 Journal Prompt/💭 Journal Prompt.json",
+    "Evergreen-Lists/💭 Journal Prompt/💭 Journal Prompt.gsheet",
+    "Evergreen-Lists/🦾 Gym Workout/🦾 Gym Workout.json",
+    "Evergreen-Lists/🦾 Gym Workout/🦾 Gym Workout.gsheet",
+    "Evergreen-Lists/assets/notification.png",
+    "Evergreen-Lists/assets/mockup.png",
+    "Evergreen-Lists/assets/callout.png",
+    "Daily-Bullet-Journal/journals/2025/09-September/Pasted image 20250902181231.png",
+    "Daily-Bullet-Journal/_attachments/Pasted image 20250901173523.png",
+    "AdaptX/_attachments/41f5d232b263a3b8ba3cae2a81b2e364.png"
   ]
 }
