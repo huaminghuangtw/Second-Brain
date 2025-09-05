@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6d1a67b5874089d8",
+        "id": "a8fd1fe38a57ad6e",
         "type": "tabs",
         "children": [
           {
-            "id": "5b4efaa333b131b0",
+            "id": "b44c8103762834be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_03.md",
+                "file": "Homepage.md",
                 "mode": "preview",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,40 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_09_03"
+              "title": "Homepage"
             }
           },
           {
-            "id": "25a7f41afd9d5d45",
+            "id": "08e640a2e60598d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes-to-Self/posts/2025-09-03.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-03"
-            }
-          },
-          {
-            "id": "0b7d90f25973ad3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_02.md",
+                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_04.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,17 +52,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_09_02"
+              "title": "2025_09_04"
             }
           },
           {
-            "id": "9df50ce619cc804d",
+            "id": "e384355c88071ba2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
-                "mode": "source",
+                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_05.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -100,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cultivate-a-strong-bias-towards-action"
+              "title": "2025_09_05"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"The 90/90/1 Rule\"",
+                "query": "b12",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,11 +133,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "622d958ae975569a",
@@ -177,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes-to-Self/posts/2025-09-03.md",
+                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-09-03"
+              "title": "Backlinks for 2025_09_05"
             }
           },
           {
@@ -254,10 +232,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for a-true-transformation-begins-with-a-mental-shift"
+              "title": "File properties for Homepage"
             }
           }
         ],
@@ -265,7 +243,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 270.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -280,52 +258,53 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "25a7f41afd9d5d45",
+  "active": "e384355c88071ba2",
   "lastOpenFiles": [
-    "Notes-to-Self/posts/2025-07-28.md",
-    "Notes-to-Self/posts/2025-07-29.md",
-    "Notes-to-Self/posts/2025-07-30.md",
-    "Notes-to-Self/posts/2025-07-31.md",
-    "Notes-to-Self/posts/2025-08-01.md",
-    "Notes-to-Self/posts/2025-08-02.md",
-    "Notes-to-Self/posts/2025-08-03.md",
-    "Notes-to-Self/posts/2025-08-04.md",
-    "Notes-to-Self/posts/2025-08-05.md",
-    "Notes-to-Self/posts/2025-08-06.md",
-    "Notes-to-Self/posts/2025-08-07.md",
-    "Notes-to-Self/posts/2025-08-08.md",
-    "Notes-to-Self/posts/2025-08-09.md",
-    "Notes-to-Self/posts/2025-08-10.md",
-    "Notes-to-Self/posts/2025-08-11.md",
-    "Notes-to-Self/posts/2025-08-12.md",
-    "Notes-to-Self/posts/2025-08-13.md",
-    "Notes-to-Self/posts/2025-08-14.md",
-    "Notes-to-Self/posts/2025-08-15.md",
-    "Notes-to-Self/posts/2025-08-16.md",
-    "Notes-to-Self/posts/2025-08-17.md",
-    "Notes-to-Self/posts/2025-08-18.md",
-    "Notes-to-Self/posts/2025-08-19.md",
-    "Notes-to-Self/posts/2025-08-20.md",
-    "Notes-to-Self/posts/2025-08-21.md",
-    "Notes-to-Self/posts/2025-08-22.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_05.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_04.md",
+    "Homepage.md",
+    "Evergreen-Notes/Permanent-Notes/focus-is-about-saying-no.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_02.md",
+    "Life-Notes/Career/準備面試.md",
+    "Life-Notes/Career/Career Advice.md",
+    "Life-Notes/Missions/教育改革.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_19.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_27.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_14.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_11.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_12.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_03.md",
+    "Daily-Bullet-Journal/Journal-Backlog.md",
+    "Deep-Work-Machine/Number of Words/2025/08-August/number-of-words_2025-08.png",
+    "Deep-Work-Machine/Number of Words/2025/08-August/number-of-words_2025-08.json",
+    "Deep-Work-Machine/Number of Words/2025/08-August/number-of-words_2025-08.csv",
+    "Deep-Work-Machine/Number of Words/2025/08-August",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Better Balance.jpeg",
+    "Deep-Work-Machine/Number of Flows/2025/08-August/number-of-flows_2025-08.png",
+    "Deep-Work-Machine/Number of Flows/2025/08-August/number-of-flows_2025-08.json",
+    "Deep-Work-Machine/Number of Flows/2025/08-August/number-of-flows_2025-08.csv",
+    "Deep-Work-Machine/Number of Flows/2025/08-August",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_31.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_27.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_26.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_25.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_28.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_30.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_04.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_01.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_20.md",
+    "Evergreen-Notes/Permanent-Notes/the-power-half-hour.md",
+    "Daily-Bullet-Journal/_attachments/Pasted image 20250905042259.png",
+    "Daily-Bullet-Journal/journals/2025/09-September/Pasted image 20250905042259.png",
+    "Daily-Bullet-Journal/_attachments/2025_09_04_11_25_42.jpeg",
+    "Daily-Bullet-Journal/_attachments/Pasted image 20250903081050.png",
+    "Notes-to-Self/posts",
+    "Notes-to-Self",
     "Daily-Bullet-Journal/journals/2025/09-September/Pasted image 20250903081050.png",
     "Daily-Bullet-Journal/journals/2022/09-September",
     "Daily-Bullet-Journal/journals/2025/08-August/Pasted image 20250901173523.png",
     "Daily-Bullet-Journal/_attachments/Pasted image 20250902181231.png",
-    "Evergreen-Lists/🤖 AI Prompt/🤖 AI Prompt.gsheet",
-    "Evergreen-Lists/🌱 Healthy Food/🌱 Healthy Food.json",
-    "Evergreen-Lists/🌱 Healthy Food/🌱 Healthy Food.gsheet",
-    "Evergreen-Lists/🌍 World Cuisine/🌍 World Cuisine.json",
-    "Evergreen-Lists/🌍 World Cuisine/🌍 World Cuisine.gsheet",
-    "Evergreen-Lists/💭 Journal Prompt/💭 Journal Prompt.json",
-    "Evergreen-Lists/💭 Journal Prompt/💭 Journal Prompt.gsheet",
-    "Evergreen-Lists/🦾 Gym Workout/🦾 Gym Workout.json",
-    "Evergreen-Lists/🦾 Gym Workout/🦾 Gym Workout.gsheet",
-    "Evergreen-Lists/assets/notification.png",
-    "Evergreen-Lists/assets/mockup.png",
-    "Evergreen-Lists/assets/callout.png",
-    "Daily-Bullet-Journal/journals/2025/09-September/Pasted image 20250902181231.png",
-    "Daily-Bullet-Journal/_attachments/Pasted image 20250901173523.png",
-    "AdaptX/_attachments/41f5d232b263a3b8ba3cae2a81b2e364.png"
+    "Evergreen-Lists/🤖 AI Prompt/🤖 AI Prompt.gsheet"
   ]
 }
