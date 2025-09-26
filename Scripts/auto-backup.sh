@@ -36,7 +36,7 @@ for ((i=1; i<=total_dir_num; i++)); do
     fi
 
     # Handle stale Git lock files
-    if [ -f ".git/index.lock" ]; then
+    if [ -f ".git/index.lock" ] || find ".git/refs" -name "*.lock" -type f 2>/dev/null | grep -q .; then
         git fix-repo
         "$0" "$TARGET_DIR"
         continue
