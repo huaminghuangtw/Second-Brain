@@ -13,7 +13,11 @@ for ((i=1; i<=total_dir_num; i++)); do
     idx="${!i}"
     TARGET_DIR="${idx/#\~/$HOME}"
     
-    echo -e "${YELLOW}🔄 (${i} / ${total_dir_num}) Backup: $(basename "$TARGET_DIR")...${NC}"
+    if [ $total_dir_num -gt 1 ]; then
+        echo -e "${YELLOW}🔄 (${i} / ${total_dir_num}) Backup: $(basename "$TARGET_DIR")...${NC}"
+    else
+        echo -e "${YELLOW}🔄 Backup: $(basename "$TARGET_DIR")...${NC}"
+    fi
 
     if [ ! -d "$TARGET_DIR" ]; then
         echo -e "${RED}❌ Error: Directory '$TARGET_DIR' does not exist${NC}"
@@ -33,9 +37,7 @@ for ((i=1; i<=total_dir_num; i++)); do
 
     # Handle stale Git lock files
     if [ -f ".git/index.lock" ]; then
-        echo -e "${YELLOW}⚠️ Found a Git lock file in $(basename "$TARGET_DIR"). Running git fix-repo...${NC}"
         git fix-repo
-        echo -e "${YELLOW}🔄 Re-running backup for fixed repository...${NC}"
         "$0" "$TARGET_DIR"
         continue
     fi
