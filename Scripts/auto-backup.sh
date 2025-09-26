@@ -9,8 +9,6 @@ NC='\033[0m' # No Color
 
 total_dir_num=$#
 
-FAILED_REPOS=()
-
 for ((i=1; i<=total_dir_num; i++)); do
     idx="${!i}"
     TARGET_DIR="${idx/#\~/$HOME}"
@@ -35,16 +33,9 @@ for ((i=1; i<=total_dir_num; i++)); do
 
     # Handle stale Git lock files
     if [ -f ".git/index.lock" ]; then
-        echo -e "${YELLOW}⚠️ Found a Git lock file in $(basename "$TARGET_DIR"). Checking...${NC}"
-        if pgrep -f "git" > /dev/null; then
-            echo -e "${RED}❌ A git process is still running. Skipping repo: $(basename "$TARGET_DIR")${NC}"
-            FAILED_REPOS+=("$(basename "$TARGET_DIR")")
-            cd - > /dev/null 2>&1
-            continue
-        else
-            echo -e "${YELLOW}🧹 Removing stale lock file...${NC}"
-            rm -f ".git/index.lock"
-        fi
+        echo -e "${YELLOW}⚠️ Found a Git lock file in $(basename "$TARGET_DIR").${NC}"
+        fix
+        continue
     fi
     
     git status --porcelain | grep -E '\.(md|json|js|sh|py)("?)$' | while IFS= read -r status_line; do
@@ -107,17 +98,7 @@ for ((i=1; i<=total_dir_num; i++)); do
         echo -e "${GREEN}✅ Backup Completed: $(basename "$TARGET_DIR")${NC}"
     } || {
         echo -e "${RED}❌ Backup Failed: $(basename "$TARGET_DIR")${NC}"
-        FAILED_REPOS+=("$(basename "$TARGET_DIR")")
     }
 
     echo
 done
-
-if [ ${#FAILED_REPOS[@]} -ne 0 ]; then
-    echo -e "\n${RED}🗒️ Summary of failed repos:${NC}"
-    for repo in "${FAILED_REPOS[@]}"; do
-        echo "• $repo"
-    done
-else
-    echo -e "${GREEN}🎊 All repos backed up successfully!${NC}"
-fi
