@@ -3,6 +3,6 @@
     "id": "url-into-selection",
     "js": "main.js",
     "name": "Paste URL into selection",
-    "description": "Paste URL \"into\" selected text.",
-    "version": "1.7.0"
+    "description": "Paste URL \"into\" selected text to create markdown links.",
+    "version": "1.11.4"
 }

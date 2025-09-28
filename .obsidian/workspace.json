@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8baf258364b5585f",
+        "id": "fd5b3ca24e713639",
         "type": "tabs",
         "children": [
           {
-            "id": "b50708b0c6cdea77",
+            "id": "70e7218ce55e127b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,57 +30,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "bf9a83e6ae6a4e44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_27.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_09_27"
-            }
-          },
-          {
-            "id": "f4cafd05abeff35d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2024/09-September/2024_09_12.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2024_09_12"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rgb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_27.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_09_27"
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -232,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_27.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_09_27"
+              "title": "File properties for Homepage"
             }
           }
         ],
@@ -258,35 +209,38 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "bf9a83e6ae6a4e44",
+  "active": "70e7218ce55e127b",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_24.md",
-    "Daily-Bullet-Journal/journals/2022/09-September/2022_09_12.md",
-    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_12.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_12.md",
-    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_11.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_11.md",
-    "Daily-Bullet-Journal/journals/2022/09-September/2022_09_10.md",
-    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_10.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_10.md",
-    "Evergreen-Notes/Permanent-Notes/love.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_28.md",
     "Daily-Bullet-Journal/journals/2025/09-September/2025_09_27.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_04.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_26.md",
-    "Evergreen-Notes/Permanent-Notes/walk.md",
+    "Evergreen-Notes/Permanent-Notes/Systems Thinking.md",
+    "Weekly-Mindware-Update/issues/2025/2025_Week_39.md",
     "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
-    "Evergreen-Notes/Permanent-Notes/change-yourself-to-change-the-world.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_13.md",
-    "Evergreen-Notes/Permanent-Notes/the-art-of-quitting.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_09.md",
-    "AdaptX/posts/the-monkey-and-pedestal-mindset.md",
-    "Evergreen-Notes/Permanent-Notes/readers-are-leaders.md",
-    "Evergreen-Notes/Permanent-Notes/integrity.md",
-    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
-    "Evergreen-Notes/Permanent-Notes/perfectionism.md",
-    "Evergreen-Notes/Permanent-Notes/Duality versus Polarity.md",
-    "Daily-Bullet-Journal/_attachments/Pasted image 20250926054820.png",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_21.md",
+    "Weekly-Mindware-Update/issues/2025/2025_Week_38.md",
+    "Evergreen-Notes/Permanent-Notes/be-ready-to-change-your-mind-completely-at-any-given-time.md",
+    "Evergreen-Notes/Permanent-Notes/how-to-ask-good-and-right-questions.md",
+    "Evergreen-Notes/Permanent-Notes/Low Information Diet.md",
+    "Evergreen-Notes/Permanent-Notes/Themed Days.md",
+    "Evergreen-Notes/Permanent-Notes/The Arrival Fallacy.md",
+    "Evergreen-Notes/Permanent-Notes/Information Overwhelm.md",
+    "Evergreen-Notes/Permanent-Notes/specialization-is-for-insects.md",
+    "Evergreen-Notes/Permanent-Notes/adaptability.md",
+    "Evergreen-Notes/Permanent-Notes/Creativity is just connecting things.md",
+    "Evergreen-Notes/Permanent-Notes/what-you-work-on-is-far-more-important-than-how-productively-you-work.md",
+    "Evergreen-Notes/Permanent-Notes/busyness.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_26.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_27.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_24.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_21.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_22.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_23.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_25.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_26.md",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Dungeon Diving.jpeg",
+    "Daily-Bullet-Journal/journals/2025/09-September/Pasted image 20250928073324.png",
+    "Daily-Bullet-Journal/journals/2025/09-September/Pasted image 20250928073225.png",
+    "Daily-Bullet-Journal/_attachments/da03c23f04be644596490c29a80273bf.png",
     "Evergreen-Lists/README.md.tmp",
     "Evergreen-Lists/my_file",
     "Daily-Bullet-Journal/journals/2025/09-September/Pasted image 20250926054820.png",
@@ -295,9 +249,6 @@
     "Evergreen-Notes/_attachments/Pasted image 20250924054012.png",
     "Daily-Bullet-Journal/_attachments/Pasted image 20250923054611.png",
     "Evergreen-Notes/Permanent-Notes/Pasted image 20250924054012.png",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Storm Raider.jpeg",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Fresh Start.jpeg",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Back on Track.jpeg",
     "pre-commit",
     "Deep-Work-Machine/Number of Words/2025/08-August/number-of-words_2025-08.json",
     "Deep-Work-Machine/Number of Words/2025/08-August/number-of-words_2025-08.csv",
