@@ -797,15 +797,6 @@
       "key": "T"
     }
   ],
-  "file-recovery:open": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "S"
-    }
-  ],
   "obsidian-text-format:capitalize-sentence": [
     {
       "modifiers": [

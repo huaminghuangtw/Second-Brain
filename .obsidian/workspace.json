@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fd5b3ca24e713639",
+        "id": "18d4158b8e2486a0",
         "type": "tabs",
         "children": [
           {
-            "id": "70e7218ce55e127b",
+            "id": "08fe1bceebd444fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_29.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2025_09_29"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rgb",
+                "query": "insanely",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 2025_09_29"
             }
           },
           {
@@ -183,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_29.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for 2025_09_29"
             }
           }
         ],
@@ -209,34 +209,36 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "70e7218ce55e127b",
+  "active": "08fe1bceebd444fa",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_28.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_27.md",
-    "Evergreen-Notes/Permanent-Notes/Systems Thinking.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_39.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_21.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_38.md",
-    "Evergreen-Notes/Permanent-Notes/be-ready-to-change-your-mind-completely-at-any-given-time.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-ask-good-and-right-questions.md",
-    "Evergreen-Notes/Permanent-Notes/Low Information Diet.md",
-    "Evergreen-Notes/Permanent-Notes/Themed Days.md",
-    "Evergreen-Notes/Permanent-Notes/The Arrival Fallacy.md",
-    "Evergreen-Notes/Permanent-Notes/Information Overwhelm.md",
-    "Evergreen-Notes/Permanent-Notes/specialization-is-for-insects.md",
-    "Evergreen-Notes/Permanent-Notes/adaptability.md",
-    "Evergreen-Notes/Permanent-Notes/Creativity is just connecting things.md",
-    "Evergreen-Notes/Permanent-Notes/what-you-work-on-is-far-more-important-than-how-productively-you-work.md",
-    "Evergreen-Notes/Permanent-Notes/busyness.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_26.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_27.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_24.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_21.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_22.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_23.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_25.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_26.md",
+    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_19.md",
+    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_19.md",
+    "Daily-Bullet-Journal/Journal-Backlog.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_26.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_23.md",
+    "Daily-Bullet-Journal/journals/2023/11-November/2023_11_11.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_06.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_15.md",
+    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_20.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_29.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_10.md",
+    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_10.md",
+    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_24.md",
+    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_18.md",
+    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_18.md",
+    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_07.md",
+    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_17.md",
+    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_16.md",
+    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_08.md",
+    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_09.md",
+    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_10.md",
+    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_11.md",
+    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_12.md",
+    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_13.md",
+    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_14.md",
+    "Daily-Bullet-Journal/_attachments/Pasted image 20250928073225.png",
+    "Daily-Bullet-Journal/_attachments/Pasted image 20250928073324.png",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Dungeon Diving.jpeg",
     "Daily-Bullet-Journal/journals/2025/09-September/Pasted image 20250928073324.png",
     "Daily-Bullet-Journal/journals/2025/09-September/Pasted image 20250928073225.png",
@@ -247,8 +249,6 @@
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Valkyrie.jpeg",
     "Visuals/Fitness/Darebee/ExerciseOfTheDay/Wall-Sit.gif",
     "Evergreen-Notes/_attachments/Pasted image 20250924054012.png",
-    "Daily-Bullet-Journal/_attachments/Pasted image 20250923054611.png",
-    "Evergreen-Notes/Permanent-Notes/Pasted image 20250924054012.png",
     "pre-commit",
     "Deep-Work-Machine/Number of Words/2025/08-August/number-of-words_2025-08.json",
     "Deep-Work-Machine/Number of Words/2025/08-August/number-of-words_2025-08.csv",

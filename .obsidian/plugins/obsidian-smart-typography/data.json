@@ -5,7 +5,7 @@
   "arrows": true,
   "comparisons": true,
   "fractions": false,
-  "guillemets": true,
+  "guillemets": false,
   "skipEnDash": false,
   "openSingle": "'",
   "closeSingle": "'",
