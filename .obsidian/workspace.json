@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "db63d1bec72d2082",
+        "id": "4178aa6108b27315",
         "type": "tabs",
         "children": [
           {
-            "id": "b356dcc6135f73d9",
+            "id": "adbde6f8cdaa88d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_29.md",
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "8f339de83e79cb04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +52,143 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_09_29"
+              "title": "2025_09_30"
+            }
+          },
+          {
+            "id": "5a057d606a91d464",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_10_01"
+            }
+          },
+          {
+            "id": "1f8f3676ef8b24b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/01-January/2025_01_15.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_01_15"
+            }
+          },
+          {
+            "id": "3cc7735ee75d20a5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Daily-Bullet-Journal/_attachments/c4e15f838653ca6a514f1ff25d06a4dc.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "c4e15f838653ca6a514f1ff25d06a4dc"
+            }
+          },
+          {
+            "id": "870dcdf7863a8e36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/Problem Solving.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Problem Solving"
+            }
+          },
+          {
+            "id": "dfac6ebc2c57c811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/journaling.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "journaling"
+            }
+          },
+          {
+            "id": "8290eb79206522cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/the-art-of-quitting.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "the-art-of-quitting"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -63,7 +220,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Let success\"",
+                "query": "leuch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_29.md",
+                "file": "Evergreen-Notes/Permanent-Notes/journaling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +273,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_09_29"
+              "title": "Backlinks for journaling"
             }
           },
           {
@@ -183,10 +340,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_29.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_09_29"
+              "title": "File properties for Homepage"
             }
           }
         ],
@@ -209,53 +366,52 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "b356dcc6135f73d9",
+  "active": "dfac6ebc2c57c811",
   "lastOpenFiles": [
-    "Evergreen-Notes/Permanent-Notes/avoid-telling-people-your-goals.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_29.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_30.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_28.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_27.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_26.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_24.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_23.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_25.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_22.md",
-    "Homepage.md",
+    "Evergreen-Notes/Permanent-Notes/Problem Solving.md",
+    "Daily-Bullet-Journal/_attachments/c4e15f838653ca6a514f1ff25d06a4dc.jpeg",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_15.md",
+    "Life-Notes/Alignment/🤡 My Identities & Characters.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_01.md",
+    "Life-Notes/Business/Business Model (Machine).md",
+    "Evergreen-Notes/Permanent-Notes/work-in-sprints-work-with-your-biology.md",
+    "AdaptX/_attachments/68235a778eb9edab1be0e70e219a16c2.png",
+    "AdaptX/_attachments/Gemini_Generated_Image_jrmkonjrmkonjrmk.png",
+    "AdaptX/_attachments/unnamed.png",
+    "AdaptX/posts/the-monkey-and-pedestal-mindset.md",
     "Evergreen-Notes/Permanent-Notes/the-art-of-quitting.md",
-    "Evergreen-Lists/⌨️ Keyboard Hotkey/⌨️ Keyboard Hotkey.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_39.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_12.md",
+    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_09.md",
+    "Evergreen-Notes/Permanent-Notes/Simple is beautiful.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_30.md",
+    "Homepage.md",
+    "AdaptX/_attachments/b949794eaae9cc559197a7bb489a7dd5.png",
+    "AdaptX/_attachments/f218731ceb2ba5987b83a816c27baefe.png",
+    "Evergreen-Notes/Permanent-Notes/Premortem.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_10.md",
+    "Evergreen-Notes/Permanent-Notes/focus-is-about-saying-no.md",
+    "Notes-to-Self/posts/2025-08-24.md",
+    "Evergreen-Notes/Permanent-Notes/busyness.md",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Upperbody.jpeg",
+    "Evergreen-Notes/Permanent-Notes/Prioritization.md",
+    "Evergreen-Notes/Permanent-Notes/Eat the biggest frog first thing in the morning.md",
+    "Evergreen-Notes/Permanent-Notes/deep-work.md",
+    "Evergreen-Lists/💭 Journal Prompt/💭 Journal Prompt.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_19.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_28.md",
+    "Dear-Today-Me/Dear-Today-Me.md",
+    "Daily-Bullet-Journal/journals/2025/10-October",
     "Visuals/Fitness/Darebee/ExerciseOfTheDay/Scissors.gif",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Burnout.jpeg",
-    "Notes-to-Self/posts/2025-08-04.md",
-    "Evergreen-Notes/Permanent-Notes/Duality versus Polarity.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-live-a-life.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_19.md",
-    "Evergreen-Notes/Permanent-Notes/Life is shorter than you think.md",
-    "Shortcutomation/posts/live-each-day-as-it-were-your-last.md",
-    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_30.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_30.md",
-    "Daily-Bullet-Journal/journals/2022/09-September/2022_09_30.md",
-    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
-    "Evergreen-Notes/Permanent-Notes/wine.md",
     "Evergreen-Notes/_attachments/d105a195a8101f688b64fa12cdaf9a36.png",
-    "Daily-Bullet-Journal/_attachments/Pasted image 20250928073225.png",
-    "Daily-Bullet-Journal/_attachments/Pasted image 20250928073324.png",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Dungeon Diving.jpeg",
-    "Daily-Bullet-Journal/journals/2025/09-September/Pasted image 20250928073324.png",
-    "Daily-Bullet-Journal/journals/2025/09-September/Pasted image 20250928073225.png",
-    "Daily-Bullet-Journal/_attachments/da03c23f04be644596490c29a80273bf.png",
     "Evergreen-Lists/README.md.tmp",
     "Evergreen-Lists/my_file",
-    "Daily-Bullet-Journal/journals/2025/09-September/Pasted image 20250926054820.png",
     "pre-commit",
     "Deep-Work-Machine/Number of Words/2025/08-August/number-of-words_2025-08.json",
     "Deep-Work-Machine/Number of Words/2025/08-August/number-of-words_2025-08.csv",
     "Deep-Work-Machine/Number of Words/2025/08-August",
     "Deep-Work-Machine/Number of Flows/2025/08-August/number-of-flows_2025-08.json",
     "Deep-Work-Machine/Number of Flows/2025/08-August/number-of-flows_2025-08.csv",
-    "Deep-Work-Machine/Number of Flows/2025/08-August",
-    "Notes-to-Self/posts"
+    "Deep-Work-Machine/Number of Flows/2025/08-August"
   ]
 }
