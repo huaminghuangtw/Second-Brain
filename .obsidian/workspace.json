@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c985db5c7ba62a50",
+        "id": "dbcd24923559d6f8",
         "type": "tabs",
         "children": [
           {
-            "id": "0c143b93ee6e4134",
+            "id": "c2798771be9a9082",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AdaptX/posts/death.md",
-                "mode": "preview",
+                "file": "Notes-to-Self/posts/2025-09-06.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "death"
+              "title": "2025-09-06"
+            }
+          },
+          {
+            "id": "10c760643a3c2007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/relationships.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "relationships"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "蘇格蘭",
+                "query": "擔心 關心",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AdaptX/posts/death.md",
+                "file": "Evergreen-Notes/Permanent-Notes/relationships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for death"
+              "title": "Backlinks for relationships"
             }
           },
           {
@@ -183,10 +208,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "AdaptX/posts/death.md"
+                "file": "Evergreen-Notes/Permanent-Notes/relationships.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for death"
+              "title": "File properties for relationships"
             }
           },
           {
@@ -219,35 +244,44 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "0c143b93ee6e4134",
+  "active": "10c760643a3c2007",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_03.md",
-    "AdaptX/posts/death.md",
-    "Today-I-Learned/posts/.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_02.md",
+    "Notes-to-Self/posts/2025-09-06.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_13.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_05.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_03.md",
-    "Evergreen-Notes/Permanent-Notes/hope-for-the-best-prepare-for-the-worst.md",
-    "Evergreen-Notes/Permanent-Notes/Peace from mind.md",
-    "Evergreen-Notes/Permanent-Notes/How to use AI effectively.md",
-    "AdaptX/posts/the-monkey-and-pedestal-mindset.md",
-    "Evergreen-Notes/Permanent-Notes/stress-and-anxiety.md",
-    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_02.md",
-    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_03.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_02.md",
-    "Daily-Bullet-Journal/journals/2022/10-October/2022_10_03.md",
+    "Evergreen-Notes/Permanent-Notes/resilience.md",
+    "Evergreen-Notes/Permanent-Notes/reflect-and-review.md",
+    "Evergreen-Notes/Permanent-Notes/Never lose faith and hope.md",
+    "Evergreen-Notes/Permanent-Notes/be-ready-to-change-your-mind-completely-at-any-given-time.md",
+    "Evergreen-Notes/Permanent-Notes/have-the-courage-to-do-the-right-things.md",
+    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
+    "Evergreen-Notes/Permanent-Notes/Impostor Syndrome.md",
+    "Evergreen-Notes/Permanent-Notes/advice.md",
+    "Evergreen-Notes/Permanent-Notes/leadership.md",
+    "Notes-to-Self/posts/2025-09-04.md",
+    "Notes-to-Self/posts/2025-10-05.md",
+    "Notes-to-Self/posts/2025-09-05.md",
+    "Evergreen-Notes/Permanent-Notes/love.md",
+    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
+    "Evergreen-Notes/Permanent-Notes/the-growth-mindset.md",
+    "Evergreen-Notes/Permanent-Notes/your-identity-dictates-your-actions.md",
+    "Evergreen-Notes/Permanent-Notes/feedback.md",
+    "Dear-Today-Me/Dear-Today-Me.md",
+    "Notes-to-Self/posts/2025-08-31.md",
     "Notes-to-Self/posts/2025-09-01.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_19.md",
-    "Evergreen-Notes/Permanent-Notes/Not caring lets us perform better.md",
+    "Notes-to-Self/posts/2025-09-02.md",
+    "Notes-to-Self/posts/2025-09-03.md",
+    "Deep-Work-Machine/Number of Flows/2025/09-September/number-of-flows_2025-09.png",
+    "Deep-Work-Machine/Number of Flows/2025/09-September/number-of-flows_2025-09.json",
+    "Deep-Work-Machine/Number of Flows/2025/09-September/number-of-flows_2025-09.csv",
+    "Deep-Work-Machine/Number of Words/2025/09-September/number-of-words_2025-09.png",
+    "Deep-Work-Machine/Number of Words/2025/09-September/number-of-words_2025-09.json",
+    "Deep-Work-Machine/Number of Words/2025/09-September/number-of-words_2025-09.csv",
+    "Deep-Work-Machine/Number of Words/2025/09-September",
+    "Deep-Work-Machine/Number of Flows/2025/09-September",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Glutes, Quads, Hamstrings & Calves.jpeg",
     "Daily-Bullet-Journal/journals/2022/10-October",
-    "Evergreen-Notes/Permanent-Notes/attention-residue.md",
-    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
-    "Evergreen-Notes/Permanent-Notes/money.md",
-    "Evergreen-Notes/Permanent-Notes/behavioral-economics.md",
-    "Evergreen-Notes/Permanent-Notes/the-anchoring-effect.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_11.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_01.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_09.md",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Iron Tendons Lowerbody.jpeg",
     "Daily-Bullet-Journal/_attachments/c4e15f838653ca6a514f1ff25d06a4dc.jpeg",
     "AdaptX/_attachments/68235a778eb9edab1be0e70e219a16c2.png",
@@ -255,17 +289,8 @@
     "AdaptX/_attachments/unnamed.png",
     "AdaptX/_attachments/b949794eaae9cc559197a7bb489a7dd5.png",
     "AdaptX/_attachments/f218731ceb2ba5987b83a816c27baefe.png",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Upperbody.jpeg",
     "Daily-Bullet-Journal/journals/2025/10-October",
-    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Scissors.gif",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Burnout.jpeg",
     "Evergreen-Lists/README.md.tmp",
-    "Evergreen-Lists/my_file",
-    "pre-commit",
-    "Deep-Work-Machine/Number of Words/2025/08-August/number-of-words_2025-08.json",
-    "Deep-Work-Machine/Number of Words/2025/08-August/number-of-words_2025-08.csv",
-    "Deep-Work-Machine/Number of Words/2025/08-August",
-    "Deep-Work-Machine/Number of Flows/2025/08-August/number-of-flows_2025-08.json",
-    "Deep-Work-Machine/Number of Flows/2025/08-August/number-of-flows_2025-08.csv"
+    "Evergreen-Lists/my_file"
   ]
 }
