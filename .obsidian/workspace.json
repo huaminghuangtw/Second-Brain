@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b679be0e498516bd",
+        "id": "00a8e142fd1e11d3",
         "type": "tabs",
         "children": [
           {
-            "id": "47f879e80f5a5e6c",
+            "id": "9de374456f2197c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_04.md",
-                "mode": "source",
-                "source": true,
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_05.md",
+                "mode": "preview",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_10_04"
+              "title": "2025_10_05"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "後背包",
+                "query": "試圖",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "right": {
     "id": "622d958ae975569a",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_04.md",
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_10_04"
+              "title": "Backlinks for 2025_10_05"
             }
           },
           {
@@ -182,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/money.md"
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_05.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for money"
+              "title": "File properties for 2025_10_05"
             }
           },
           {
@@ -198,7 +199,8 @@
               "title": "References"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -217,100 +219,51 @@
       "templater-obsidian:Templater": true
     }
   },
-  "floating": {
-    "id": "c9417e61d77d901f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4d75680bc3a73e89",
-        "type": "window",
-        "children": [
-          {
-            "id": "99b4f95e38bb2b7e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "19053b0492834259",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_04.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025_10_04"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1920,
-        "height": 1080,
-        "maximize": false,
-        "zoom": 2.5
-      }
-    ]
-  },
-  "active": "47f879e80f5a5e6c",
+  "active": "9de374456f2197c1",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_02.md",
-    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_29.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_03.md",
     "Daily-Bullet-Journal/journals/2025/10-October/2025_10_04.md",
     "Daily-Bullet-Journal/journals/2025/10-October/2025_10_05.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_03.md",
-    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_02.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_01.md",
     "Daily-Bullet-Journal/journals/2025/09-September/2025_09_29.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_06.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_30.md",
+    "Evergreen-Notes/Permanent-Notes/trust-your-gut.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_07.md",
+    "Evergreen-Notes/Permanent-Notes/premortem.md",
+    "Evergreen-Notes/Permanent-Notes/Work hard.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_15.md",
+    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_29.md",
     "Evergreen-Notes/Permanent-Notes/money.md",
-    "Evergreen-Notes/Permanent-Notes/embrace-the-beauty-of-enoughness.md",
-    "Evergreen-Notes/Permanent-Notes/The Game of Life.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Evergreen-Notes/Permanent-Notes/be-ready-to-change-your-mind-completely-at-any-given-time.md",
-    "Evergreen-Notes/Permanent-Notes/Empathy.md",
-    "Evergreen-Notes/Permanent-Notes/stress-and-anxiety.md",
-    "Life-Notes/Business/🛠️ Tools for business.md",
-    "Notes-to-Self/posts/2025-09-06.md",
-    "Evergreen-Notes/Permanent-Notes/relationships.md",
-    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
-    "Evergreen-Notes/Permanent-Notes/Meditation.md",
-    "Notes-to-Self/posts/2025-09-02.md",
+    "Evergreen-Notes/Permanent-Notes/visualization.md",
+    "Homepage.md",
+    "Evergreen-Notes/Permanent-Notes/j-lsdf-jlk.md",
+    "AdaptX/posts/sdfj-lksdf.md",
+    "AdaptX/posts/you-work-is-best.md",
+    "Evergreen-Notes/Permanent-Notes/ssda.md",
+    "Evergreen-Notes/Permanent-Notes/just-getting-started.md",
+    "Evergreen-Notes/Permanent-Notes/energy-management.md",
+    "Evergreen-Notes/Permanent-Notes/Do great work.md",
+    "AdaptX/posts/the-monkey-and-pedestal-mindset.md",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Epic Calves.jpeg",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_06.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_05.md",
+    "Daily-Bullet-Journal/_attachments/2025_10_07_06_55_32.jpg",
+    "Daily-Bullet-Journal/_attachments/2025_10_07_06_51_23.jpg",
+    "Daily-Bullet-Journal/_attachments/2025_10_07_06_55_47.jpg",
+    "Daily-Bullet-Journal/_attachments/2025_10_07_06_51_14.jpg",
+    "Daily-Bullet-Journal/journals/2025/10-October/Pasted image 20251007054424.png",
+    "Daily-Bullet-Journal/journals/2025/10-October/Pasted image 20251007054227.png",
+    "Daily-Bullet-Journal/_attachments/Pasted image 20251006115149.png",
     "Daily-Bullet-Journal/journals/2025/10-October/Pasted image 20251006115149.png",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_08.md",
-    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_06.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_06.md",
-    "Life-Notes/Finance/Investment 101.md",
-    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
     "Deep-Work-Machine/Number of Flows/2025/09-September/number-of-flows_2025-09.png",
     "Deep-Work-Machine/Number of Flows/2025/09-September/number-of-flows_2025-09.json",
     "Deep-Work-Machine/Number of Flows/2025/09-September/number-of-flows_2025-09.csv",
-    "Deep-Work-Machine/Number of Words/2025/09-September/number-of-words_2025-09.png",
     "Deep-Work-Machine/Number of Words/2025/09-September/number-of-words_2025-09.json",
     "Deep-Work-Machine/Number of Words/2025/09-September/number-of-words_2025-09.csv",
     "Deep-Work-Machine/Number of Words/2025/09-September",
     "Deep-Work-Machine/Number of Flows/2025/09-September",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Glutes, Quads, Hamstrings & Calves.jpeg",
     "Daily-Bullet-Journal/journals/2022/10-October",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Iron Tendons Lowerbody.jpeg",
-    "Daily-Bullet-Journal/_attachments/c4e15f838653ca6a514f1ff25d06a4dc.jpeg",
-    "AdaptX/_attachments/68235a778eb9edab1be0e70e219a16c2.png",
-    "AdaptX/_attachments/Gemini_Generated_Image_jrmkonjrmkonjrmk.png",
-    "AdaptX/_attachments/unnamed.png",
-    "AdaptX/_attachments/b949794eaae9cc559197a7bb489a7dd5.png",
     "Daily-Bullet-Journal/journals/2025/10-October",
     "Evergreen-Lists/README.md.tmp",
     "Evergreen-Lists/my_file"
