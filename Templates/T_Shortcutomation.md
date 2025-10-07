@@ -1,14 +1,14 @@
 <%*
 const result = await tp.user.createBlogPost(tp);
-const { title, blog, tags } = result;
+const { title, fileName, blog } = result;
 -%>
 ---
-canonicalURL: <% `https://shortcutomation.com/${moment().format('YYYY/M/D')}/${tp.user.slugify(title)}` %>
+canonicalURL: <% `https://shortcutomation.com/${moment().format('YYYY/M/D')}/${fileName}` %>
 draft: true
 featured: false
 title: <% title %>
 description:
-tags: <% tags %>
+tags: [/<% blog %>/]
 ---
 
 <% tp.file.cursor() %>
