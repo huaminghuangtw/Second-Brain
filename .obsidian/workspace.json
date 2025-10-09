@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f9f5d5b70d97e732",
+        "id": "f966a1db92556f0e",
         "type": "tabs",
         "children": [
           {
-            "id": "f7d335952cb18d0f",
+            "id": "64d4fe10dde906d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "0dfa74eaad7c7955",
+            "id": "980118a04440347b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_07.md",
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_10_07"
+              "title": "2025_10_09"
+            }
+          },
+          {
+            "id": "5e17e5116886219c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "week41.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "week41"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "黃仁勳",
+                "query": "\"inbox zero\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_07.md",
+                "file": "week41.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_10_07"
+              "title": "Backlinks for week41"
             }
           },
           {
@@ -203,17 +227,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_07.md",
+                "file": "Daily-Bullet-Journal/journals/2024/10-October/2024_10_09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025_10_07"
+              "title": "Outline of 2024_10_09"
+            }
+          },
+          {
+            "id": "90682b0df1f42a6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_08.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 2025_10_08"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -232,34 +268,37 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "0dfa74eaad7c7955",
+  "active": "5e17e5116886219c",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_09.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_27.md",
+    "Evergreen-Notes/Permanent-Notes/embrace-the-beauty-of-enoughness.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_05.md",
+    "Life-Notes/Alignment/🤡 My Identities & Characters.md",
+    "Life-Notes/Business/Brand Name & Logo Ideas & Profile Bios.md",
     "Daily-Bullet-Journal/journals/2025/10-October/2025_10_08.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_07.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/Pasted image 20251008203432.png",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_06.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_29.md",
+    "Evergreen-Notes/Permanent-Notes/death.md",
+    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
+    "Evergreen-Notes/Permanent-Notes/integrity.md",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Shieldmaiden.jpeg",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_02.md",
+    "Evergreen-Notes/Permanent-Notes/Psychology.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_07.md",
     "week41.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_24.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_28.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_34.md",
-    "Evergreen-Notes/Permanent-Notes/breathing-techniques.md",
-    "Evergreen-Notes/Permanent-Notes/Neuroscience.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_20.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_33.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_06.md",
-    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_16.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_30.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_28.md",
-    "Evergreen-Notes/Permanent-Notes/do-hard-things.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_29.md",
-    "Evergreen-Notes/Permanent-Notes/Delayed Gratification.md",
+    "Evergreen-Notes/Permanent-Notes/change-yourself-to-change-the-world.md",
     "Evergreen-Notes/Permanent-Notes/relationships.md",
-    "Weekly-Mindware-Update/issues/2024/2024_Week_41.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_27.md",
-    "Evergreen-Notes/Permanent-Notes/advice.md",
+    "Evergreen-Notes/Permanent-Notes/confirmation Bias.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_02.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_10.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_09.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_10.md",
+    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_09.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_03.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_09.md",
+    "Evergreen-Notes/Permanent-Notes/hedonic-happiness-and-eudaimonic-happiness.md",
+    "Daily-Bullet-Journal/_attachments/Pasted image 20251008203432.png",
+    "Daily-Bullet-Journal/journals/2025/10-October/Pasted image 20251008203432.png",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Gone Wild.jpeg",
     "Daily-Bullet-Journal/_attachments/Pasted image 20251007054227.png",
     "Daily-Bullet-Journal/_attachments/Pasted image 20251007054424.png",
@@ -267,8 +306,6 @@
     "Daily-Bullet-Journal/_attachments/2025_10_07_06_55_32.jpg",
     "Daily-Bullet-Journal/_attachments/2025_10_07_06_51_23.jpg",
     "Daily-Bullet-Journal/_attachments/2025_10_07_06_55_47.jpg",
-    "Daily-Bullet-Journal/_attachments/2025_10_07_06_51_14.jpg",
-    "Daily-Bullet-Journal/journals/2025/10-October/Pasted image 20251007054424.png",
     "Deep-Work-Machine/Number of Flows/2025/09-September/number-of-flows_2025-09.json",
     "Deep-Work-Machine/Number of Flows/2025/09-September/number-of-flows_2025-09.csv",
     "Deep-Work-Machine/Number of Words/2025/09-September/number-of-words_2025-09.json",
