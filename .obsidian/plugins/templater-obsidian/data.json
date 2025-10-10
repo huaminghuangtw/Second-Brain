@@ -32,5 +32,6 @@
     "Templates/T_AdaptX.md"
   ],
   "startup_templates": [],
+  "intellisense_render": 1,
   "enable_ribbon_icon": true
 }

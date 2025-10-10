@@ -805,5 +805,14 @@
       ],
       "key": "S"
     }
+  ],
+  "templater-obsidian:create-Templates/T_The-Enoughist.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "E"
+    }
   ]
 }
