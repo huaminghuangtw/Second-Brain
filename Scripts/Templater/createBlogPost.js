@@ -39,7 +39,7 @@ async function createBlogPost(tp) {
     let title = tp.user.toTitleCase(rawTitle);
 
     let rawFileName = "";
-    if (blog === "AdaptX") {
+    if (blog === "AdaptX" || blog === "Enoughness") {
         rawFileName = await tp.system.prompt("Filename?");
         if (!rawFileName) return null;
     } else {
@@ -65,10 +65,16 @@ async function createBlogPost(tp) {
         await tp.file.move(folder + fileName);
     }
 
+    const issueNumber = app.vault
+        .getFiles()
+        .filter((f) => f.path.startsWith(folder) && f.extension === "md")
+        .length;
+
     return {
         title,
         fileName,
         blog,
+        issueNumber,
     };
 }
 
