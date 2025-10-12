@@ -12,7 +12,7 @@
   ],
   "trashOption": "local",
   "showUnsupportedFiles": false,
-  "livePreview": true,
+  "livePreview": false,
   "showLineNumber": false,
   "attachmentFolderPath": "./",
   "alwaysUpdateLinks": true,

@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0280444967d4ad6a",
+        "id": "815e47f9fb0311c1",
         "type": "tabs",
         "children": [
           {
-            "id": "d75640abcfe90819",
+            "id": "009a98f3100b2014",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_10.md",
+                "file": "Daily-Bullet-Journal/journals/2025/02-February/2025_02_16.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_10_10"
+              "title": "2025_02_16"
+            }
+          },
+          {
+            "id": "563bf18d0101655c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Anu\"",
+                "query": "line:(strength tomorrow)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_10.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_10_10"
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -178,13 +203,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_10.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025_10_10"
+              "title": "Outline"
             }
           },
           {
@@ -193,10 +217,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_10.md"
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_11.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_10_10"
+              "title": "File properties for 2025_10_11"
             }
           }
         ],
@@ -219,46 +243,46 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "d75640abcfe90819",
+  "active": "563bf18d0101655c",
   "lastOpenFiles": [
-    "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/embrace-the-beauty-of-enoughness.md",
-    "Evergreen-Notes/Permanent-Notes/two-types-of-work.md",
-    "Enoughness/posts/the-power-of-quiet.md",
-    "The-Enoughist/posts/2025-10-09.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_16.md",
+    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
+    "Evergreen-Notes/Permanent-Notes/relationships.md",
+    "Evergreen-Notes/Permanent-Notes/addition-by-subtraction.md",
+    "Evergreen-Notes/Permanent-Notes/Information Overwhelm.md",
+    "Evergreen-Notes/Permanent-Notes/Systems Thinking.md",
+    "Evergreen-Notes/Permanent-Notes/delayed-gratification.md",
+    "Life-Notes/Business/Startups.md",
+    "Evergreen-Notes/Permanent-Notes/do-hard-things.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_12.md",
+    "Life-Notes/Career/Career Advice.md",
+    "Evergreen-Notes/Permanent-Notes/The Game of Life.md",
+    "Dear-Today-Me/Dear-Today-Me.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_24.md",
+    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_11.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_10.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_20.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_09.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_28.md",
+    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
+    "Evergreen-Notes/Permanent-Notes/dispel-your-narratives.md",
+    "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
+    "Evergreen-Notes/Permanent-Notes/discipline-equals-freedom.md",
+    "Evergreen-Notes/Permanent-Notes/simple-is-beautiful.md",
+    "Evergreen-Notes/Permanent-Notes/Minimalism.md",
+    "Daily-Bullet-Journal/_attachments/2025_10_12_13_34_39.PNG",
+    "Daily-Bullet-Journal/_attachments/2025_10_11_15_48_20.PNG",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Tendons & Core.jpeg",
+    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Reverse Angels.gif",
+    "Daily-Bullet-Journal/journals/2024/10-October/Pasted image 20251011062324.png",
     "The-Enoughist/posts",
     "The-Enoughist",
-    "The-Enoughist/posts/the-power-of-quiet.md",
-    "Evergreen-Notes/Permanent-Notes/Active Listening.md",
-    "Evergreen-Notes/Permanent-Notes/relationships.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_29.md",
-    "Evergreen-Notes/Permanent-Notes/breathing-techniques.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_27.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_01.md",
-    "Daily-Bullet-Journal/journals/2023/11-November/2023_11_09.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_22.md",
-    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_03.md",
-    "Daily-Bullet-Journal/journals/2022/10-October/2022_10_10.md",
-    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_10.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_10.md",
-    "Evergreen-Notes/Permanent-Notes/intentional-living.md",
-    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
-    "Evergreen-Notes/Permanent-Notes/Journey over destination.md",
-    "Evergreen-Notes/Permanent-Notes/The Arrival Fallacy.md",
-    "Evergreen-Notes/Permanent-Notes/work-smart.md",
-    "Evergreen-Notes/Permanent-Notes/The Endowment Effect.md",
-    "Evergreen-Notes/Permanent-Notes/push-your-limits.md",
-    "Evergreen-Notes/Permanent-Notes/Speak less, listen more.md",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Shieldmaiden.jpeg",
     "Daily-Bullet-Journal/_attachments/Pasted image 20251008203432.png",
     "Daily-Bullet-Journal/journals/2025/10-October/Pasted image 20251008203432.png",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Gone Wild.jpeg",
     "Daily-Bullet-Journal/_attachments/Pasted image 20251007054227.png",
-    "Daily-Bullet-Journal/_attachments/Pasted image 20251007054424.png",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Epic Calves.jpeg",
-    "Daily-Bullet-Journal/_attachments/2025_10_07_06_55_32.jpg",
-    "Daily-Bullet-Journal/_attachments/2025_10_07_06_51_23.jpg",
-    "Daily-Bullet-Journal/_attachments/2025_10_07_06_55_47.jpg",
     "Deep-Work-Machine/Number of Flows/2025/09-September/number-of-flows_2025-09.json",
     "Deep-Work-Machine/Number of Flows/2025/09-September/number-of-flows_2025-09.csv",
     "Deep-Work-Machine/Number of Words/2025/09-September/number-of-words_2025-09.json",
