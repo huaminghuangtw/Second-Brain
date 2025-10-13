@@ -88,7 +88,7 @@ for ((i=1; i<=total_dir_num; i++)); do
         git commit -m "Add stats for $year $month"
     }
 
-    if git diff --cached --name-only | grep -q 'README.md'; then
+    if git diff --name-only | grep -q 'README.md'; then
         git add README.md
         git commit -m "Update: README.md"
     fi
