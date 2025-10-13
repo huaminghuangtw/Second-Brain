@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "815e47f9fb0311c1",
+        "id": "9ad0c70bc13a564c",
         "type": "tabs",
         "children": [
           {
-            "id": "009a98f3100b2014",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/02-February/2025_02_16.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_02_16"
-            }
-          },
-          {
-            "id": "563bf18d0101655c",
+            "id": "a84717b7347c90c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Homepage.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -54,9 +30,225 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "a67f0109566af383",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_13.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_10_13"
+            }
+          },
+          {
+            "id": "c804b3ffce9b7d75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_12.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_10_12"
+            }
+          },
+          {
+            "id": "97aec1603b5bb583",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/change-yourself-to-change-the-world.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "change-yourself-to-change-the-world"
+            }
+          },
+          {
+            "id": "31dde29f41067e73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "✍️ My Writing Principles & Rules"
+            }
+          },
+          {
+            "id": "045cb4a44ec7d88e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/Planning and preparation help maximize your productivity.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Planning and preparation help maximize your productivity"
+            }
+          },
+          {
+            "id": "8ea294df9cbe43ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/everyone-is-on-their-own-timeline.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "everyone-is-on-their-own-timeline"
+            }
+          },
+          {
+            "id": "254287fa160d2dfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "who-do-we-spend-time-with-across-our-lifetime"
+            }
+          },
+          {
+            "id": "08d236abac588afd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_13.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_10_13"
+            }
+          },
+          {
+            "id": "8a0ff0d4b0942bb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_09.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_10_09"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -88,7 +280,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(strength tomorrow)",
+                "query": "大盤大",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +333,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 2025_10_09"
             }
           },
           {
@@ -216,11 +408,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_11.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 2025_10_11"
+              "title": "File properties"
             }
           }
         ],
@@ -243,53 +433,53 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "563bf18d0101655c",
+  "active": "8a0ff0d4b0942bb4",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_16.md",
-    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
-    "Evergreen-Notes/Permanent-Notes/relationships.md",
-    "Evergreen-Notes/Permanent-Notes/addition-by-subtraction.md",
-    "Evergreen-Notes/Permanent-Notes/Information Overwhelm.md",
-    "Evergreen-Notes/Permanent-Notes/Systems Thinking.md",
-    "Evergreen-Notes/Permanent-Notes/delayed-gratification.md",
-    "Life-Notes/Business/Startups.md",
-    "Evergreen-Notes/Permanent-Notes/do-hard-things.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_12.md",
-    "Life-Notes/Career/Career Advice.md",
-    "Evergreen-Notes/Permanent-Notes/The Game of Life.md",
-    "Dear-Today-Me/Dear-Today-Me.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_24.md",
-    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_11.md",
+    "Evergreen-Lists/README.md.tmp",
+    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime1.mdx",
+    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime1.md",
+    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.mdx",
     "Daily-Bullet-Journal/journals/2025/10-October/2025_10_10.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_20.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_09.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_28.md",
-    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
-    "Evergreen-Notes/Permanent-Notes/dispel-your-narratives.md",
-    "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
-    "Evergreen-Notes/Permanent-Notes/discipline-equals-freedom.md",
-    "Evergreen-Notes/Permanent-Notes/simple-is-beautiful.md",
-    "Evergreen-Notes/Permanent-Notes/Minimalism.md",
-    "Daily-Bullet-Journal/_attachments/2025_10_12_13_34_39.PNG",
-    "Daily-Bullet-Journal/_attachments/2025_10_11_15_48_20.PNG",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Tendons & Core.jpeg",
-    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Reverse Angels.gif",
-    "Daily-Bullet-Journal/journals/2024/10-October/Pasted image 20251011062324.png",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_11.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_12.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_13.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_28.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_03.md",
+    "Evergreen-Notes/Permanent-Notes/live-in-the-present.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/Pasted image 20251013160006.png",
+    "AdaptX/_attachments/time-spent-with-relationships-by-age-combined.png",
+    "AdaptX/_attachments/time-spent-with-coworkers-by-age.png",
+    "AdaptX/_attachments/time-spent-with-partner-by-age.png",
+    "AdaptX/_attachments/time-spent-with-family-by-age.png",
+    "AdaptX/_attachments/time-spent-with-children-by-age.png",
+    "AdaptX/_attachments/time-spent-with-friends-by-age.png",
+    "AdaptX/_attachments/time-spent-with-alone-by-age.png",
+    "Homepage.md",
+    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
+    "Evergreen-Notes/Permanent-Notes/Planning and preparation help maximize your productivity.md",
+    "Evergreen-Notes/Permanent-Notes/everyone-is-on-their-own-timeline.md",
+    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.md",
+    "AdaptX/posts/you-and-your-timeline.md",
+    "Evergreen-Notes/Permanent-Notes/change-yourself-to-change-the-world.md",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Zen Mode.jpeg",
+    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_13.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_13.md",
+    "Evergreen-Notes/Permanent-Notes/trust-your-gut.md",
+    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_27.md",
+    "Evergreen-Notes/Permanent-Notes/Deliberate Practice.md",
+    "Evergreen-Notes/Permanent-Notes/rest, reset, relax, recharge.md",
+    "Evergreen-Notes/Permanent-Notes/fame.md",
+    "Evergreen-Notes/Permanent-Notes/Self-compassion.md",
+    "Daily-Bullet-Journal/_attachments/Pasted image 20251011062324.png",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_16.md",
     "The-Enoughist/posts",
     "The-Enoughist",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Shieldmaiden.jpeg",
-    "Daily-Bullet-Journal/_attachments/Pasted image 20251008203432.png",
-    "Daily-Bullet-Journal/journals/2025/10-October/Pasted image 20251008203432.png",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Gone Wild.jpeg",
-    "Daily-Bullet-Journal/_attachments/Pasted image 20251007054227.png",
     "Deep-Work-Machine/Number of Flows/2025/09-September/number-of-flows_2025-09.json",
     "Deep-Work-Machine/Number of Flows/2025/09-September/number-of-flows_2025-09.csv",
     "Deep-Work-Machine/Number of Words/2025/09-September/number-of-words_2025-09.json",
     "Deep-Work-Machine/Number of Words/2025/09-September/number-of-words_2025-09.csv",
     "Deep-Work-Machine/Number of Words/2025/09-September",
-    "Deep-Work-Machine/Number of Flows/2025/09-September",
-    "Daily-Bullet-Journal/journals/2022/10-October",
-    "Daily-Bullet-Journal/journals/2025/10-October"
+    "Deep-Work-Machine/Number of Flows/2025/09-September"
   ]
 }

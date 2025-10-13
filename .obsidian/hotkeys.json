@@ -814,5 +814,22 @@
       ],
       "key": "E"
     }
+  ],
+  "graph:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
   ]
 }
