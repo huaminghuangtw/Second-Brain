@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T17:18:12
-modified: 2025-09-01T17:33:34
+modified: 2025-10-13T20:34:42
 ---
 
 <!-- four-quarters-in-a-day -->
@@ -93,7 +93,7 @@ if (onDesktop) {
 
     const getAverage = (data, valueLabel, filterFn) => {
         const getValue = valueLabel === "Number of Words" ? s => s.words : f => f.length;
-        const values = Object.entries(data).filter(([d]) => filterFn(dv.date(d))).map(([, v]) => getValue(v));
+        const values = Object.entries(data).filter(([d]) => filterFn(dv.date(d))).map(([, v]) => getValue(v)).filter(v => v > 0);
         return values.length ? Math.round(values.reduce((s, v) => s + v, 0) / values.length) : 0;
     };
 
@@ -119,9 +119,9 @@ if (onDesktop) {
     dv.table(
         ["", "**Last Week Average**", "**This Week Average**", "**Yesterday**", "**Today**"],
         [
-            ["**🍅 Flows**", `${results["Number of Flows"][0]}`, ...results["Number of Flows"].slice(1, 3),
+            ["**🍅 [Flows](https://github.com/huaminghuangtw/Deep-Work-Machine)**", `${results["Number of Flows"][0]}`, ...results["Number of Flows"].slice(1, 3),
              results["Number of Flows"][3] >= CONFIG.thresholds["Number of Flows"] ? `👌 ${results["Number of Flows"][3]}` : `💪 ${results["Number of Flows"][3]}`],
-            ["**✍️ Words**", `${results["Number of Words"][0]}`, ...results["Number of Words"].slice(1, 3),
+            ["**✍️ [Words](https://github.com/huaminghuangtw/Deep-Work-Machine)**", `${results["Number of Words"][0]}`, ...results["Number of Words"].slice(1, 3),
              results["Number of Words"][3] >= CONFIG.thresholds["Number of Words"] ? `👌 ${results["Number of Words"][3]}` : `💪 ${results["Number of Words"][3]}`]
         ]
     );
@@ -421,24 +421,6 @@ if (onDesktop) {
             }
         ]
     });
-}
-```
-
-# [🦸🏽‍♂️ Deep Work Machine](https://github.com/huaminghuangtw/Deep-Work-Machine)
-
-```dataviewjs
-let onDesktop = window.innerWidth > 768;
-if (onDesktop) {
-    const { Utils } = await cJS();
-
-    const images = ["Number of Flows", "Number of Words"].map(metric =>
-        encodeURI(Utils.getAllFilesByExtension(`Deep-Work-Machine/${metric}`, "png")[0].path)
-    );
-
-    dv.paragraph(`
-> [!EXAMPLE] ‎
-> ${images.map(imagePath => `![500](${imagePath})`).join("\n> ")}
-`)
 }
 ```
 
