@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b78f594cb960ea17",
+        "id": "38dd8c01294d9f87",
         "type": "tabs",
         "children": [
           {
-            "id": "16de154d88cb9181",
+            "id": "1b1d7d6994082d7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_14.md",
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_15.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_10_14"
+              "title": "2025_10_15"
             }
           },
           {
-            "id": "643e0b233a4d672c",
+            "id": "ece7a0ca9a785e6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2024/12-December/2024_12_10.md",
+                "file": "Life-Notes/Alignment/🎯 Life Vision Board.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2024_12_10"
+              "title": "🎯 Life Vision Board"
             }
           },
           {
-            "id": "385b6e3e303ecedd",
+            "id": "6c94262cb0b8d110",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/Planning and preparation help maximize your productivity.md",
+                "file": "Daily-Bullet-Journal/journals/2024/07-July/2024_07_05.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Planning and preparation help maximize your productivity"
+              "title": "2024_07_05"
             }
           },
           {
-            "id": "e3b5a99f7f6fc060",
+            "id": "2321c95198eba24f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/resilience.md",
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_15.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -100,11 +100,203 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "resilience"
+              "title": "2025_10_15"
+            }
+          },
+          {
+            "id": "361ba981468e676d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_15.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_10_15"
+            }
+          },
+          {
+            "id": "8505d82b20d01f0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/Information Overwhelm.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Information Overwhelm"
+            }
+          },
+          {
+            "id": "c82b79cfcd857a7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/readers-are-leaders.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "readers-are-leaders"
+            }
+          },
+          {
+            "id": "6a1866453ed781c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/Creativity is just connecting things.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Creativity is just connecting things"
+            }
+          },
+          {
+            "id": "ea1386031964987d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "c53ddc2e20bfde16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2024/12-December/2024_12_29.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2024_12_29"
+            }
+          },
+          {
+            "id": "71ee636f7a4a6b27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AdaptX/posts/30-things-i-wish-i-knew-in-20s.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "30-things-i-wish-i-knew-in-20s"
+            }
+          },
+          {
+            "id": "a0fcb1eaa404d33f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_15.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_10_15"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -136,7 +328,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fisherman",
+                "query": "graveyard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,8 +349,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,7 +370,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/resilience.md",
+                "file": "AdaptX/posts/30-things-i-wish-i-knew-in-20s.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +380,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for resilience"
+              "title": "Backlinks for 30-things-i-wish-i-knew-in-20s"
             }
           },
           {
@@ -265,10 +456,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/resilience.md"
+                "file": "AdaptX/posts/30-things-i-wish-i-knew-in-20s.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for resilience"
+              "title": "File properties for 30-things-i-wish-i-knew-in-20s"
             }
           }
         ],
@@ -291,41 +482,40 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "e3b5a99f7f6fc060",
+  "active": "71ee636f7a4a6b27",
   "lastOpenFiles": [
-    "Evergreen-Notes/Permanent-Notes/Planning and preparation help maximize your productivity.md",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_10.md",
+    "AdaptX/_attachments/000e30aa1958044e4daeb981190cdbe4.png",
+    "AdaptX/posts/30-things-i-wish-i-knew-in-20s.md",
     "Daily-Bullet-Journal/journals/2024/12-December/2024_12_29.md",
-    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_14.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_13.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_12.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_11.md",
-    "Evergreen-Notes/Permanent-Notes/Creativity is just connecting things.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_15.md",
     "Homepage.md",
+    "Evergreen-Notes/Permanent-Notes/sleep.md",
+    "Evergreen-Notes/Permanent-Notes/Creativity is just connecting things.md",
+    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
+    "Life-Notes/Business/🏰 My Biz Empire.md",
+    "Evergreen-Notes/Permanent-Notes/readers-are-leaders.md",
+    "Evergreen-Notes/Permanent-Notes/Information Overwhelm.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_11.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_12.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_02.md",
+    "Evergreen-Notes/Permanent-Notes/advice.md",
+    "Evergreen-Notes/Permanent-Notes/trust-your-gut.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_05.md",
+    "Evergreen-Notes/Permanent-Notes/News Sobriety.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "AdaptX/posts/death.md",
+    "Evergreen-Notes/Permanent-Notes/death.md",
     "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.md",
-    "Evergreen-Notes/Permanent-Notes/Time is the most valuable asset.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_10.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_11.md",
-    "Evergreen-Notes/Permanent-Notes/always-do-your-best-as-possible.md",
+    "Evergreen-Notes/Permanent-Notes/solitude.md",
     "Daily-Bullet-Journal/journals/2025/10-October/2025_10_09.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_16.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_20.md",
-    "Deep-Work-Machine/README.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_10.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_08.md",
     "Deep-Work-Machine/assets/dashboard.png",
     "Deep-Work-Machine/assets/alert.png",
     "Deep-Work-Machine/assets/dashboard.png",
-    "AdaptX/_attachments/image.png",
     "AdaptX/_attachments/9367cb3d910baa4e43f8a7e3cb3aef4c.png",
-    "Notes-to-Self/posts/2025-09-08.md",
-    "Evergreen-Notes/Permanent-Notes/You are the average of the five people you associate with most.md",
-    "who-do-we-spend-time-with-across-our-lifetime.md",
     "AdaptX/_attachments/dfde931f7914b88f7d309950f572cebc.jpeg",
-    "AdaptX/posts/sherlock-holmes-brain-attic.md",
-    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime1.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_23.md",
     "AdaptX/posts/2024_09_23_19_03_12.jpeg",
-    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_12.md",
     "Daily-Bullet-Journal/_attachments/a71f7df9e508a36be267ec55f30867e5.PNG",
     "Daily-Bullet-Journal/_attachments/d15a66b59033a0d4b0944aa2011fdfb1.PNG",
     "Daily-Bullet-Journal/_attachments/Pasted image 20251011062324.png",
