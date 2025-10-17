@@ -1,5 +1,6 @@
 <%*
-const result = await tp.user.createBlogPost(tp);
+const result = await tp.user.createWritingPost(tp);
+if (!result) return;
 const { title } = result;
 -%>
 ---
