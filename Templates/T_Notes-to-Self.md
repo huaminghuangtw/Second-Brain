@@ -1,6 +1,6 @@
 <%*
-const result = await tp.user.createBlogPost(tp);
-const { title, blog } = result;
+const result = await tp.user.createWritingPost(tp);
+const { title } = result;
 -%>
 ---
 canonicalURL: <% `https://adaptx.tw/${title}` %>
