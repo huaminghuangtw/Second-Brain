@@ -762,14 +762,6 @@
       "key": "A"
     }
   ],
-  "templater-obsidian:create-Templates/T_Enoughness.md": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "E"
-    }
-  ],
   "templater-obsidian:create-Templates/T_Notes-to-Self.md": [
     {
       "modifiers": [
@@ -830,6 +822,16 @@
         "Mod"
       ],
       "key": "G"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_Enoughness.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "E"
     }
   ]
 }

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "38dd8c01294d9f87",
+        "id": "82c2b2afc834a2e4",
         "type": "tabs",
         "children": [
           {
-            "id": "1b1d7d6994082d7f",
+            "id": "018c9e2c3cb994fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_15.md",
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_17.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,184 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_10_15"
+              "title": "2025_10_17"
             }
           },
           {
-            "id": "ece7a0ca9a785e6b",
+            "id": "33011884eaa57cd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life-Notes/Alignment/🎯 Life Vision Board.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "🎯 Life Vision Board"
-            }
-          },
-          {
-            "id": "6c94262cb0b8d110",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2024/07-July/2024_07_05.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2024_07_05"
-            }
-          },
-          {
-            "id": "2321c95198eba24f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_15.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_10_15"
-            }
-          },
-          {
-            "id": "361ba981468e676d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_15.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_10_15"
-            }
-          },
-          {
-            "id": "8505d82b20d01f0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/Information Overwhelm.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Information Overwhelm"
-            }
-          },
-          {
-            "id": "c82b79cfcd857a7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/readers-are-leaders.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "readers-are-leaders"
-            }
-          },
-          {
-            "id": "6a1866453ed781c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/Creativity is just connecting things.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Creativity is just connecting things"
-            }
-          },
-          {
-            "id": "ea1386031964987d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homepage.md",
+                "file": "Life-Notes/Business/Mindsets.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -220,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Mindsets"
             }
           },
           {
-            "id": "c53ddc2e20bfde16",
+            "id": "0ea7a619da8fb3f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2024/12-December/2024_12_29.md",
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_17.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -244,41 +76,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2024_12_29"
+              "title": "2025_10_17"
             }
           },
           {
-            "id": "71ee636f7a4a6b27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AdaptX/posts/30-things-i-wish-i-knew-in-20s.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "30-things-i-wish-i-knew-in-20s"
-            }
-          },
-          {
-            "id": "a0fcb1eaa404d33f",
+            "id": "9ab0ad5f00dcc653",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_15.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -293,10 +101,106 @@
               },
               "icon": "lucide-file",
               "title": "2025_10_15"
+            }
+          },
+          {
+            "id": "081e0b45a47a1892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enoughness/posts/2025-week-42.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-week-42"
+            }
+          },
+          {
+            "id": "0b7c5d06a92ef8cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shortcutomation/posts/live-each-day-as-if-it-were-your-last.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "live-each-day-as-if-it-were-your-last"
+            }
+          },
+          {
+            "id": "52de3ab2bd1f93ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AdaptX/posts/the-power-of-quiet.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "the-power-of-quiet"
+            }
+          },
+          {
+            "id": "2418be49931dd057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AdaptX/posts/the-monkey-and-pedestal-mindset.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "the-monkey-and-pedestal-mindset"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -328,7 +232,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "graveyard",
+                "query": "更任性",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -353,8 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5,
-    "collapsed": true
+    "width": 381.5
   },
   "right": {
     "id": "622d958ae975569a",
@@ -370,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AdaptX/posts/30-things-i-wish-i-knew-in-20s.md",
+                "file": "AdaptX/posts/the-power-of-quiet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -380,7 +283,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 30-things-i-wish-i-knew-in-20s"
+              "title": "Backlinks for the-power-of-quiet"
             }
           },
           {
@@ -456,10 +359,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "AdaptX/posts/30-things-i-wish-i-knew-in-20s.md"
+                "file": "Enoughness/posts/2025w42.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 30-things-i-wish-i-knew-in-20s"
+              "title": "File properties for 2025w42"
             }
           }
         ],
@@ -482,43 +385,44 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "71ee636f7a4a6b27",
+  "active": "52de3ab2bd1f93ed",
   "lastOpenFiles": [
-    "AdaptX/_attachments/000e30aa1958044e4daeb981190cdbe4.png",
-    "AdaptX/posts/30-things-i-wish-i-knew-in-20s.md",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_29.md",
+    "AdaptX/posts/the-monkey-and-pedestal-mindset.md",
+    "AdaptX/posts/the-power-of-quiet.md",
+    "AdaptX/_attachments/f218731ceb2ba5987b83a816c27baefe.png",
+    "AdaptX/_attachments/657b3960557c19ebb0a001c932a1e6ee.png",
+    "Shortcutomation/posts/live-each-day-as-if-it-were-your-last.md",
+    "Enoughness/posts/2025-week-42.md",
     "Daily-Bullet-Journal/journals/2025/10-October/2025_10_15.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_17.md",
+    "Evergreen-Notes/Permanent-Notes/breathing-techniques.md",
+    "Evergreen-Notes/Permanent-Notes/Courage is knowing what not to fear.md",
     "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/sleep.md",
-    "Evergreen-Notes/Permanent-Notes/Creativity is just connecting things.md",
-    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
-    "Life-Notes/Business/🏰 My Biz Empire.md",
-    "Evergreen-Notes/Permanent-Notes/readers-are-leaders.md",
-    "Evergreen-Notes/Permanent-Notes/Information Overwhelm.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_11.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_12.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_02.md",
-    "Evergreen-Notes/Permanent-Notes/advice.md",
-    "Evergreen-Notes/Permanent-Notes/trust-your-gut.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_05.md",
-    "Evergreen-Notes/Permanent-Notes/News Sobriety.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "AdaptX/posts/death.md",
-    "Evergreen-Notes/Permanent-Notes/death.md",
+    "Life-Notes/Business/Mindsets.md",
+    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_24.md",
+    "AdaptX/posts/30-things-i-wish-i-knew-in-20s.md",
     "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.md",
-    "Evergreen-Notes/Permanent-Notes/solitude.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_09.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_16.md",
+    "Dear-Today-Me/Dear-Today-Me.md",
+    "Enoughness/_attachments/9e500f8f1de981e3319613b1cacb3a5b.jpeg",
     "Daily-Bullet-Journal/journals/2025/10-October/2025_10_10.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_08.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_11.md",
+    "Evergreen-Notes/Permanent-Notes/embrace-the-beauty-of-enoughness.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_09.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_17.md",
+    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_17.md",
+    "Evergreen-Notes/Permanent-Notes/Brain Attic.md",
+    "Evergreen-Notes/Permanent-Notes/Eat the biggest frog first thing in the morning.md",
+    "Evergreen-Notes/Permanent-Notes/Humanilty.md",
+    "Daily-Bullet-Journal/_attachments/00402b72becd3cb1cfcb447d82cf109a.png",
+    "Scripts/Templater/createWritingPost.js",
+    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Raised Legs Hold.gif",
+    "AdaptX/_attachments/000e30aa1958044e4daeb981190cdbe4.png",
     "Deep-Work-Machine/assets/dashboard.png",
     "Deep-Work-Machine/assets/alert.png",
     "Deep-Work-Machine/assets/dashboard.png",
     "AdaptX/_attachments/9367cb3d910baa4e43f8a7e3cb3aef4c.png",
-    "AdaptX/_attachments/dfde931f7914b88f7d309950f572cebc.jpeg",
-    "AdaptX/posts/2024_09_23_19_03_12.jpeg",
-    "Daily-Bullet-Journal/_attachments/a71f7df9e508a36be267ec55f30867e5.PNG",
-    "Daily-Bullet-Journal/_attachments/d15a66b59033a0d4b0944aa2011fdfb1.PNG",
-    "Daily-Bullet-Journal/_attachments/Pasted image 20251011062324.png",
     "Evergreen-Lists/README.md.tmp",
     "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime1.mdx",
     "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.mdx",
@@ -527,7 +431,6 @@
     "Deep-Work-Machine/Number of Flows/2025/09-September/number-of-flows_2025-09.json",
     "Deep-Work-Machine/Number of Flows/2025/09-September/number-of-flows_2025-09.csv",
     "Deep-Work-Machine/Number of Words/2025/09-September/number-of-words_2025-09.json",
-    "Deep-Work-Machine/Number of Words/2025/09-September/number-of-words_2025-09.csv",
-    "Deep-Work-Machine/Number of Words/2025/09-September"
+    "Deep-Work-Machine/Number of Words/2025/09-September/number-of-words_2025-09.csv"
   ]
 }
