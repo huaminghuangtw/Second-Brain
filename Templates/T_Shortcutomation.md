@@ -8,7 +8,7 @@ draft: true
 featured: false
 title: <% title %>
 description:
-tags: [/<% blog %>/]
+tags: [<% blog %>/]
 ---
 
 <% tp.file.cursor() %>
