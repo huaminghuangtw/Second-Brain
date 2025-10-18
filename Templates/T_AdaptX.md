@@ -1,6 +1,6 @@
 <%*
-const result = await tp.user.createBlogPost(tp);
-const { title, fileName, blog } = result;
+const result = await tp.user.createWritingPost(tp);
+const { title, fileName, collection } = result;
 -%>
 ---
 canonicalURL: <% `https://adaptx.tw/${moment().format('YYYY/M/D')}/${fileName}` %>
@@ -8,8 +8,8 @@ draft: true
 featured: false
 title: <% title %>
 description:
-tags: [<% blog %>/]
-ogImage: ../_attachments/
+tags: [<% collection %>/]
+ogImage: ../_attachments/.png
 ---
 
 <% tp.file.cursor() %>
