@@ -50,7 +50,7 @@ async function createWritingPost(tp) {
     };
     const folder = folderMap[collection] || `${collection}/posts/`;
     const file = tp.file.find_tfile(folder + fileName);
-    if (file) {
+    if (file) {w
         window.open(
             `obsidian://adv-uri?filepath=${encodeURIComponent(
                 file.path
