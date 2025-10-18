@@ -661,14 +661,6 @@
       "key": " "
     }
   ],
-  "templater-obsidian:create-Templates/T_Today-I-Learned.md": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "T"
-    }
-  ],
   "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1740516620458": [
     {
       "modifiers": [
@@ -676,14 +668,6 @@
         "Shift"
       ],
       "key": "K"
-    }
-  ],
-  "templater-obsidian:create-Templates/T_Shortcutomation.md": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "S"
     }
   ],
   "editor:fold-all": [
@@ -729,14 +713,6 @@
       "key": "F"
     }
   ],
-  "templater-obsidian:create-Templates/T_Permanent-Notes.md": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "P"
-    }
-  ],
   "properties:open-local": [
     {
       "modifiers": [
@@ -744,31 +720,6 @@
         "Shift"
       ],
       "key": "\\"
-    }
-  ],
-  "obsidian-shellcommands:shell-command-q75w5aah23": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "J"
-    }
-  ],
-  "templater-obsidian:create-Templates/T_AdaptX.md": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "A"
-    }
-  ],
-  "templater-obsidian:create-Templates/T_Notes-to-Self.md": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "N"
     }
   ],
   "random-note": [
@@ -832,6 +783,76 @@
         "Shift"
       ],
       "key": "E"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_Brainfoodie.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_AdaptX.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_Notes-to-Self.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_Permanent-Notes.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_Shortcutomation.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_Today-I-Learned.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-shellcommands:shell-command-q75w5aah23": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "J"
     }
   ]
 }
