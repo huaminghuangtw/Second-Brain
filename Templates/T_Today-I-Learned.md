@@ -1,13 +1,13 @@
 <%*
-const result = await tp.user.createBlogPost(tp);
-const { title, blog } = result;
+const result = await tp.user.createWritingPost(tp);
+const { title, collection } = result;
 -%>
 ---
 draft: true
 featured: false
 title: <% title %>
 description:
-tags: [/<% blog %>/]
+tags: [/<% collection %>/]
 sources: []
 ---
 
