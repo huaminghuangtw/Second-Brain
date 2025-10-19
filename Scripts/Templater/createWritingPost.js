@@ -29,14 +29,15 @@ async function createWritingPost(tp) {
                 : tp.date.now("YYYY-MM-DD");
         }
     } else {
-        const userInput = await tp.system.prompt("Title?");
+        const userInput = await tp.system.prompt("✏️ Title?");
         rawTitle = userInput || temp;
     }
     let title = tp.user.toTitleCase(rawTitle);
 
     let rawFileName;
-    if (collection === "AdaptX") {
-        const userInput = await tp.system.prompt("Filename?");
+    const isChinese = /[\u4e00-\u9fff]/.test(title);
+    if (isChinese) {
+        const userInput = await tp.system.prompt("📁 Filename?");
         rawFileName = userInput || temp;
     } else if (collection === "Enoughness") {
         rawFileName = tp.date.now("YYYY[-week-]ww");
