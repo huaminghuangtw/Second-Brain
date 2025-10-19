@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0cd3e4ddce1b225a",
+        "id": "8c9b4e2c732a859f",
         "type": "tabs",
         "children": [
           {
-            "id": "ca56b3a366501c3f",
+            "id": "6981039c981fbd04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_17.md",
-                "mode": "source",
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_14.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,17 +28,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_10_17"
+              "title": "2025_10_14"
             }
           },
           {
-            "id": "2eaed639db97f70c",
+            "id": "1cbfba209c76a708",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/relationships.md",
-                "mode": "source",
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_19.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,16 +52,64 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "relationships"
+              "title": "2025_10_19"
             }
           },
           {
-            "id": "1172fc40065a1469",
+            "id": "eb5092fb0fd7690c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/kindness.md",
+                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_05.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_09_05"
+            }
+          },
+          {
+            "id": "091b7f165ef79a71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2024/10-October/2024_10_30.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2024_10_30"
+            }
+          },
+          {
+            "id": "a7dddd71ba387548",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brainfoodie/posts/how-to-do-great-work.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -76,7 +124,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "kindness"
+              "title": "how-to-do-great-work"
+            }
+          },
+          {
+            "id": "7a4a242ff07cc2ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brainfoodie/posts/nine-things-i-learned-in-ninety-year.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "nine-things-i-learned-in-ninety-year"
             }
           }
         ],
@@ -112,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "法老王",
+                "query": "flic.kr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,12 +205,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 381.5,
-    "collapsed": true
+    "width": 381.5
   },
   "right": {
     "id": "622d958ae975569a",
@@ -154,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/kindness.md",
+                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +236,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for kindness"
+              "title": "Backlinks for 2025_09_05"
             }
           },
           {
@@ -240,10 +312,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/kindness.md"
+                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_05.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for kindness"
+              "title": "File properties for 2025_09_05"
             }
           }
         ],
@@ -266,47 +338,46 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "1172fc40065a1469",
+  "active": "eb5092fb0fd7690c",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_18.md",
-    "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
-    "Evergreen-Notes/Permanent-Notes/Courage is knowing what not to fear.md",
-    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
-    "Evergreen-Notes/Permanent-Notes/be-primarily-internally-driven-with-intrinsic-motivation.md",
-    "Evergreen-Notes/Permanent-Notes/you-dont-need-to-be-liked-to-be-loved.md",
-    "Evergreen-Notes/Permanent-Notes/if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md",
-    "Evergreen-Notes/Permanent-Notes/seven-things-successful-people-say-no-to-every-day.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_17.md",
-    "Brainfoodie/posts/nine-things-i-learned-in-ninety-year.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_09.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_11.md",
-    "Enoughness/posts/2025-week-42.md",
-    "Brainfoodie/posts/temp-2025-10-18-15-53-51.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_26.md",
+    "Daily-Bullet-Journal/_attachments/da03c23f04be644596490c29a80273bf.png",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_07.md",
+    "Daily-Bullet-Journal/_attachments/dc49737bf1704b1bfdd7dfe0e6898313.png",
+    "Weekly-Mindware-Update/issues/2025/2025_Week_24.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_30.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_17.md",
+    "Daily-Bullet-Journal/_attachments/cf89a5f59bd08ef094b82a92b52f2ce0.jpeg",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_18.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_19.md",
+    "Daily-Bullet-Journal/_attachments/f5af1370e22cbf8410e7bc2785ebe02f.jpeg",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_20.md",
+    "Daily-Bullet-Journal/_attachments/679840af1b1801d66bf2036d00756695.jpeg",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_22.md",
+    "Daily-Bullet-Journal/_attachments/3508b81a96a3791830254955cc634181.jpeg",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_23.md",
+    "Daily-Bullet-Journal/_attachments/d9beb10523a7d1ffe0b0277dc1c925a7.jpeg",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_25.md",
+    "Daily-Bullet-Journal/_attachments/be74d9fadb575c8d004e77d54ae3bb3d.jpeg",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_27.md",
+    "Daily-Bullet-Journal/_attachments/1081d56b7b337a3a5da7ad80076b2331.jpeg",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_31.md",
+    "Daily-Bullet-Journal/_attachments/4d8dbb43b8d8098035ac6a3ce37dadbe.jpeg",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_01.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_02.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_08.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_12.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_14.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_15.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_16.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_18.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_24.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_14.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_19.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_09.md",
     "Brainfoodie/posts",
     "Brainfoodie",
-    "Templates/T_Brainfoodie.md",
-    "Templates/T_AdaptX copy.md",
-    "Deep-Work-Machine/README.md",
-    "Homepage.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Evergreen-Notes/Permanent-Notes/kindness.md",
-    "Evergreen-Notes/Permanent-Notes/your-identity-dictates-your-actions.md",
-    "Evergreen-Notes/Permanent-Notes/character-is-who-you-are-when-nobodys-watching.md",
-    "Evergreen-Notes/Permanent-Notes/relationships.md",
-    "AdaptX/posts/30-things-i-wish-i-knew-in-20s.md",
-    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_26.md",
-    "AdaptX/_attachments/657b3960557c19ebb0a001c932a1e6ee.png",
-    "Daily-Bullet-Journal/_attachments/2025_10_17_13_14_28.jpg",
-    "Enoughness/_attachments/9e500f8f1de981e3319613b1cacb3a5b.jpeg",
-    "AdaptX/_attachments/f218731ceb2ba5987b83a816c27baefe.png",
-    "Daily-Bullet-Journal/_attachments/00402b72becd3cb1cfcb447d82cf109a.png",
     "Scripts/Templater/createWritingPost.js",
-    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Raised Legs Hold.gif",
-    "AdaptX/_attachments/000e30aa1958044e4daeb981190cdbe4.png",
-    "Deep-Work-Machine/assets/dashboard.png",
-    "Deep-Work-Machine/assets/alert.png",
-    "Deep-Work-Machine/assets/dashboard.png",
     "Evergreen-Lists/README.md.tmp",
     "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime1.mdx",
     "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.mdx",
