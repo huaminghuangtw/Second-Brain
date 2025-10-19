@@ -22,11 +22,12 @@ class Utils {
         );
     }
 
-    toTitleCase(str) {
-        return str.replace(/\w\S*/g, function (text) {
-            return text.charAt(0).toUpperCase() + text.substr(1).toLowerCase();
-        });
-    }
+    // Remove?
+    // toTitleCase(str) {
+    //     return str.replace(/\w\S*/g, function (text) {
+    //         return text.charAt(0).toUpperCase() + text.substr(1).toLowerCase();
+    //     });
+    // }
 
     async buildObsidianOpenFileURI(filePath, lineNumber = null) {
         return (
