@@ -7,7 +7,7 @@ const url = await tp.system.prompt("🔗 URL?") || "https://";
 -%>
 ---
 draft: true
-title: ▍ <% title %>
+title: ▍<% title %>
 description:
 category: <% category %>
 url: <% url %>
