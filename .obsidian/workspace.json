@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c9b4e2c732a859f",
+        "id": "e575d9b586f3b5ed",
         "type": "tabs",
         "children": [
           {
-            "id": "6981039c981fbd04",
+            "id": "fd633b0fe8ffb4d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_14.md",
+                "file": "Homepage.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,131 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_10_14"
-            }
-          },
-          {
-            "id": "1cbfba209c76a708",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_19.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_10_19"
-            }
-          },
-          {
-            "id": "eb5092fb0fd7690c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_05.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_09_05"
-            }
-          },
-          {
-            "id": "091b7f165ef79a71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2024/10-October/2024_10_30.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2024_10_30"
-            }
-          },
-          {
-            "id": "a7dddd71ba387548",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brainfoodie/posts/how-to-do-great-work.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "how-to-do-great-work"
-            }
-          },
-          {
-            "id": "7a4a242ff07cc2ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brainfoodie/posts/nine-things-i-learned-in-ninety-year.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "nine-things-i-learned-in-ninety-year"
+              "title": "Homepage"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flic.kr",
+                "query": "tag:#BuJo/🚀LifeChangingMoment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "right": {
     "id": "622d958ae975569a",
@@ -226,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_05.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_09_05"
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -312,14 +192,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_05.md"
+                "file": "Brainfoodie/posts/permission-to-feel.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_09_05"
+              "title": "File properties for permission-to-feel"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -338,43 +218,45 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "eb5092fb0fd7690c",
+  "active": "fd633b0fe8ffb4d7",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_26.md",
-    "Daily-Bullet-Journal/_attachments/da03c23f04be644596490c29a80273bf.png",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_07.md",
-    "Daily-Bullet-Journal/_attachments/dc49737bf1704b1bfdd7dfe0e6898313.png",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_24.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_30.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_17.md",
-    "Daily-Bullet-Journal/_attachments/cf89a5f59bd08ef094b82a92b52f2ce0.jpeg",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_18.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_19.md",
-    "Daily-Bullet-Journal/_attachments/f5af1370e22cbf8410e7bc2785ebe02f.jpeg",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_20.md",
-    "Daily-Bullet-Journal/_attachments/679840af1b1801d66bf2036d00756695.jpeg",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_22.md",
-    "Daily-Bullet-Journal/_attachments/3508b81a96a3791830254955cc634181.jpeg",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_23.md",
-    "Daily-Bullet-Journal/_attachments/d9beb10523a7d1ffe0b0277dc1c925a7.jpeg",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_25.md",
-    "Daily-Bullet-Journal/_attachments/be74d9fadb575c8d004e77d54ae3bb3d.jpeg",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_27.md",
-    "Daily-Bullet-Journal/_attachments/1081d56b7b337a3a5da7ad80076b2331.jpeg",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_31.md",
-    "Daily-Bullet-Journal/_attachments/4d8dbb43b8d8098035ac6a3ce37dadbe.jpeg",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_01.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_02.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_08.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_12.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_14.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_15.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_16.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_18.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_24.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_14.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_19.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_09.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_29.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_12.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_15.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_14.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_10.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_15.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_30.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_07.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_06.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_05.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_14.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_01.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_30.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_09.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_08.md",
+    "Today-I-Learned/posts/how-to-remove-markdown-frontmatter-programmatically.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_13.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_17.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_24.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_16.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_17.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_19.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_20.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_15.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_24.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_09.md",
+    "Daily-Bullet-Journal/update_navigation_links.py",
+    "Daily-Bullet-Journal/_attachments/9b39f027c7c3e5c10404e21d624fd889.jpeg",
+    "Daily-Bullet-Journal/_attachments/47f662c5d2dfc75b6e1fa7ea05943089.WEBP",
+    "Daily-Bullet-Journal/_attachments/380e03b6b4a92a8068cd2ebd89e077a7.png",
+    "Daily-Bullet-Journal/_attachments/a3072cb9341ea5504e4adfaf237f3156.jpeg",
+    "Daily-Bullet-Journal/_attachments/7c0d385ea65a32bc19cef7b682d523f5.png",
+    "Daily-Bullet-Journal/_attachments/aa952958d363ddbd206b8fb26ae6b14e.png",
+    "Daily-Bullet-Journal/_attachments/41d9b377707f6a312197963759018adb.jpeg",
+    "Daily-Bullet-Journal/_attachments/9233b88eca96b1deea3a0d7f9b8190f0.jpeg",
+    "Daily-Bullet-Journal/_attachments/49d81e8692301dde6eea0a991da344e4.png",
+    "Daily-Bullet-Journal/_attachments/5c6b168d13ec264864829de9b2461059.jpeg",
     "Brainfoodie/posts",
     "Brainfoodie",
     "Scripts/Templater/createWritingPost.js",
@@ -383,7 +265,6 @@
     "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.mdx",
     "The-Enoughist/posts",
     "The-Enoughist",
-    "Deep-Work-Machine/Number of Flows/2025/09-September/number-of-flows_2025-09.json",
-    "Deep-Work-Machine/Number of Flows/2025/09-September/number-of-flows_2025-09.csv"
+    "Deep-Work-Machine/Number of Flows/2025/09-September/number-of-flows_2025-09.json"
   ]
 }
