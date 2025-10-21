@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e575d9b586f3b5ed",
+        "id": "2f54085e1b92f1c8",
         "type": "tabs",
         "children": [
           {
-            "id": "fd633b0fe8ffb4d7",
+            "id": "d2f21a33c38f3695",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": true,
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_21.md",
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2025_10_21"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#BuJo/🚀LifeChangingMoment",
+                "query": "\"/notes/\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 2025_10_21"
             }
           },
           {
@@ -192,14 +192,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Brainfoodie/posts/permission-to-feel.md"
+                "file": "AdaptX/posts/is-snooze-button-a-dream-killer.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for permission-to-feel"
+              "title": "File properties for is-snooze-button-a-dream-killer"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -218,34 +218,35 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "fd633b0fe8ffb4d7",
+  "active": "d2f21a33c38f3695",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_29.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_12.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_15.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_14.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_10.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_15.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_30.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_07.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_06.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_05.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_14.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_01.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_30.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_09.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_08.md",
-    "Today-I-Learned/posts/how-to-remove-markdown-frontmatter-programmatically.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_13.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_17.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_24.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_16.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_17.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_19.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_20.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_15.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_24.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_09.md",
+    "AdaptX/posts/sherlock-holmes-brain-attic.md",
+    "Deep-Work-Machine/README.md",
+    "Homepage.md",
+    "Weekly-Mindware-Update/README.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_21.md",
+    "Weekly-Mindware-Update/add_slug_to_issues.py",
+    "Evergreen-Notes/Permanent-Notes/embrace-the-beauty-of-enoughness.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_20.md",
+    "Brainfoodie/posts/40-thoughts-on-turning-40.md",
+    "Brainfoodie/posts/nine-things-i-learned-in-ninety-year.md",
+    "Brainfoodie/posts/how-to-do-great-work.md",
+    "Brainfoodie/posts/permission-to-feel.md",
+    "Brainfoodie/posts/collection-jensen-huang.md",
+    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_24.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_29.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_12.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_28.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_25.md",
+    "AdaptX/posts/is-snooze-button-a-dream-killer.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_01.md",
+    "Evergreen-Notes/Permanent-Notes/discipline-equals-freedom.md",
+    "AdaptX/posts/snooze-button-is-a-dream-killer.md",
+    "Evergreen-Notes/Permanent-Notes/Always start and end the day right.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_23.md",
+    "Evergreen-Notes/Permanent-Notes/anger.md",
+    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_21.md",
     "Daily-Bullet-Journal/update_navigation_links.py",
     "Daily-Bullet-Journal/_attachments/9b39f027c7c3e5c10404e21d624fd889.jpeg",
     "Daily-Bullet-Journal/_attachments/47f662c5d2dfc75b6e1fa7ea05943089.WEBP",
@@ -264,7 +265,6 @@
     "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime1.mdx",
     "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.mdx",
     "The-Enoughist/posts",
-    "The-Enoughist",
-    "Deep-Work-Machine/Number of Flows/2025/09-September/number-of-flows_2025-09.json"
+    "The-Enoughist"
   ]
 }
