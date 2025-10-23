@@ -689,14 +689,6 @@
       "key": "H"
     }
   ],
-  "editor:toggle-highlight": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "H"
-    }
-  ],
   "editor:context-menu": [
     {
       "modifiers": [
@@ -853,6 +845,14 @@
         "Shift"
       ],
       "key": "J"
+    }
+  ],
+  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1761144577257": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
     }
   ]
 }

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "04faf55487a4efad",
+        "id": "483aa65f4aad5a6b",
         "type": "tabs",
         "children": [
           {
-            "id": "05723a79e7291717",
+            "id": "8741747796b02557",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,36 +32,12 @@
             }
           },
           {
-            "id": "590b5968a8dd583f",
+            "id": "629ec853807bafb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/push-your-limits.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "push-your-limits"
-            }
-          },
-          {
-            "id": "2032c4b860433866",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/happiness.md",
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_22.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -76,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "happiness"
+              "title": "2025_10_22"
             }
           },
           {
-            "id": "972562fd24940577",
+            "id": "a8deab8d07f1f109",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AdaptX/posts/the-power-of-quiet.md",
+                "file": "Enoughness/posts/2025-week-42.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -100,59 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "the-power-of-quiet"
+              "title": "2025-week-42"
             }
           },
           {
-            "id": "81d239ed3fd32ae4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life-Notes/Business/🇹🇼 Taiwanese Creators & Founders.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "🇹🇼 Taiwanese Creators & Founders"
-            }
-          },
-          {
-            "id": "baa0bcc88a7553b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weekly-Mindware-Update/README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "724947533b5784a6",
+            "id": "1e598dc4d3eda3f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,9 +102,105 @@
               "icon": "lucide-file",
               "title": "2025_10_21"
             }
+          },
+          {
+            "id": "01a35415b96d0e27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_23.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_10_23"
+            }
+          },
+          {
+            "id": "fd1505765a7fea4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "8fc0014951862ccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_19.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_10_19"
+            }
+          },
+          {
+            "id": "40f540ec26decc29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_16.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_10_16"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -208,7 +232,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"/wmu\"",
+                "query": "outreach",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -251,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly-Mindware-Update/README.md",
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +285,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for 2025_10_16"
             }
           },
           {
@@ -363,34 +387,35 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "baa0bcc88a7553b3",
+  "active": "40f540ec26decc29",
   "lastOpenFiles": [
-    "Life-Notes/Business/🇹🇼 Taiwanese Creators & Founders.md",
-    "Life-Notes/Business/🏰 My Biz Empire.md",
-    "Brainfoodie/posts/permission-to-feel.md",
-    "Brainfoodie/posts/how-to-do-great-work.md",
-    "Brainfoodie/posts/40-thoughts-on-turning-40.md",
-    "Brainfoodie/posts/collection-jensen-huang.md",
-    "AdaptX/posts/the-power-of-quiet.md",
-    "Evergreen-Notes/Permanent-Notes/happiness.md",
-    "Evergreen-Notes/Permanent-Notes/push-your-limits.md",
+    "Life-Notes/Business/Implementations & Strategies.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_16.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_13.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_23.md",
     "Daily-Bullet-Journal/journals/2025/10-October/2025_10_22.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_21.md",
-    "Evergreen-Notes/Permanent-Notes/Judgement.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_22.md",
-    "Daily-Bullet-Journal/journals/2022/10-October/2022_10_22.md",
-    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_22.md",
-    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_27.md",
-    "Evergreen-Notes/Permanent-Notes/control-the-controllable.md",
-    "Evergreen-Notes/Permanent-Notes/always-do-your-best-as-possible.md",
-    "Evergreen-Notes/Permanent-Notes/not-caring-lets-us-perform-better.md",
-    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_10.md",
-    "Evergreen-Notes/Permanent-Notes/a-man-who-is-a-master-of-patience-is-master-of-everything-else.md",
-    "Evergreen-Notes/Permanent-Notes/optic-flow.md",
-    "AdaptX/posts/sherlock-holmes-brain-attic.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_19.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_21.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_20.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_02.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_17.md",
+    "Enoughness/posts/2025-week-42.md",
+    "Enoughness/posts/2025-week-43.md",
     "Deep-Work-Machine/README.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_08.md",
+    "Enoughness/update_self_intro.py",
+    "Weekly-Mindware-Update/README.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_16.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_19.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_11.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_01.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_06.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_30.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_01.md",
+    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_16.md",
+    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_25.md",
     "Weekly-Mindware-Update/add_slug_to_issues.py",
     "Daily-Bullet-Journal/update_navigation_links.py",
     "Daily-Bullet-Journal/_attachments/9b39f027c7c3e5c10404e21d624fd889.jpeg",
@@ -409,7 +434,6 @@
     "Evergreen-Lists/README.md.tmp",
     "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime1.mdx",
     "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.mdx",
-    "The-Enoughist/posts",
-    "The-Enoughist"
+    "The-Enoughist/posts"
   ]
 }
