@@ -854,5 +854,15 @@
       ],
       "key": "H"
     }
+  ],
+  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1761213086334": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "S"
+    }
   ]
 }

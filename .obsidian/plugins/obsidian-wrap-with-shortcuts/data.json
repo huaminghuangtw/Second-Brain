@@ -29,6 +29,12 @@
       "name": "Underline",
       "startTag": "<u>",
       "endTag": "</u>"
+    },
+    {
+      "id": "w1761213086334",
+      "name": "書名號",
+      "startTag": "《",
+      "endTag": "》"
     }
   ]
 }
