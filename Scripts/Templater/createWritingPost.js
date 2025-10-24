@@ -45,13 +45,13 @@ async function createWritingPost(tp) {
         rawFileName = title;
     }
     let fileName = tp.user.slugify(rawFileName);
-
+    
     const folderMap = {
         "Permanent-Notes": "Evergreen-Notes/Permanent-Notes/",
     };
     const folder = folderMap[collection] || `${collection}/posts/`;
     const file = tp.file.find_tfile(folder + fileName);
-    if (file) {w
+    if (file) {
         window.open(
             `obsidian://adv-uri?filepath=${encodeURIComponent(
                 file.path
