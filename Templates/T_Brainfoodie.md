@@ -1,5 +1,6 @@
 <%*
 const result = await tp.user.createWritingPost(tp);
+if (!result) return;
 const { title, fileName } = result;
 const categories = ["Book", "Essay", "YouTube Video"];
 const category = await tp.system.suggester(categories, categories, false, "🤖 Which one? ");
