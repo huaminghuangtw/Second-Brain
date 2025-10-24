@@ -1,10 +1,16 @@
 <%*
+await tp.user.show_all_tags();
+await tp.user.show_tag_newsletter();
 const result = await tp.user.createWritingPost(tp);
-const { title, fileName } = result;
+if (!result) return;
+const { title, fileName } = result
 const issue = app.vault
     .getFiles()
     .filter((f) => f.path.startsWith("Enoughness/posts/") && f.extension === "md")
     .length;
+const [_, year, week] = fileName.match(/(\d{4})-week-(\d{2})/);
+const prev = `[[${year}-week-${Number(week) - 1}]]`;
+const next = `[[${year}-week-${Number(week) + 1}]]`;
 -%>
 ---
 draft: true
@@ -12,6 +18,9 @@ title: ⚖️ <% title %>
 slug: enoughness-<% issue %>
 description: "<% `Enoughness #${issue}` %>"
 issue: <% issue %>
+prev: "<% prev %>"
+next: "<% next %>"
+created: <% moment().weekday(5).format('YYYY-MM-DD[T00:00:00]') %>
 ---
 
 <!-- SELF-INTRO-START -->
