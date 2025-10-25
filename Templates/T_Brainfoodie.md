@@ -4,7 +4,7 @@ if (!result) return;
 const { title, fileName } = result;
 const categories = ["Book", "Essay", "YouTube Video"];
 const category = await tp.system.suggester(categories, categories, false, "🤖 Which one? ");
-const author = await tp.system.prompt("👤 Author?") ? tp.user.toTitleCase(authorInput) : "";
+const author = await tp.system.prompt("👤 Author?") || "";
 const url = await tp.system.prompt("🔗 URL?") || "";
 -%>
 ---
