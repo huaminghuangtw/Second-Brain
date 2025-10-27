@@ -24,7 +24,7 @@
         "Homepage.md",
         "/**/_attachments//"
     ],
-    "showInlineTitle": false,
+    "showInlineTitle": true,
     "useTab": true,
     "useMarkdownLinks": true,
     "uriCallbacks": true,

@@ -1,7 +1,16 @@
 {
   "command_timeout": 5,
   "templates_folder": "Templates",
-  "templates_pairs": [],
+  "templates_pairs": [
+    [
+      "show_all_tags",
+      "open \"obsidian://adv-uri?commandid=tag-pane%3Aopen\""
+    ],
+    [
+      "show_tag_newsletter",
+      "open \"obsidian://search?query=tag:%23Newsletter\""
+    ]
+  ],
   "trigger_on_file_creation": false,
   "auto_jump_to_cursor": true,
   "enable_system_commands": true,
@@ -29,8 +38,10 @@
     "Templates/T_Shortcutomation.md",
     "Templates/T_Enoughness.md",
     "Templates/T_Notes-to-Self.md",
-    "Templates/T_AdaptX.md"
+    "Templates/T_AdaptX.md",
+    "Templates/T_Brainfoodie.md"
   ],
   "startup_templates": [],
+  "intellisense_render": 1,
   "enable_ribbon_icon": true
 }

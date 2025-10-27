@@ -661,14 +661,6 @@
       "key": " "
     }
   ],
-  "templater-obsidian:create-Templates/T_Today-I-Learned.md": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "T"
-    }
-  ],
   "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1740516620458": [
     {
       "modifiers": [
@@ -676,14 +668,6 @@
         "Shift"
       ],
       "key": "K"
-    }
-  ],
-  "templater-obsidian:create-Templates/T_Shortcutomation.md": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "S"
     }
   ],
   "editor:fold-all": [
@@ -705,14 +689,6 @@
       "key": "H"
     }
   ],
-  "editor:toggle-highlight": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "H"
-    }
-  ],
   "editor:context-menu": [
     {
       "modifiers": [
@@ -729,14 +705,6 @@
       "key": "F"
     }
   ],
-  "templater-obsidian:create-Templates/T_Permanent-Notes.md": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "P"
-    }
-  ],
   "properties:open-local": [
     {
       "modifiers": [
@@ -744,39 +712,6 @@
         "Shift"
       ],
       "key": "\\"
-    }
-  ],
-  "obsidian-shellcommands:shell-command-q75w5aah23": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "J"
-    }
-  ],
-  "templater-obsidian:create-Templates/T_AdaptX.md": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "A"
-    }
-  ],
-  "templater-obsidian:create-Templates/T_Enoughness.md": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "E"
-    }
-  ],
-  "templater-obsidian:create-Templates/T_Notes-to-Self.md": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "N"
     }
   ],
   "random-note": [
@@ -797,20 +732,135 @@
       "key": "T"
     }
   ],
-  "file-recovery:open": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "S"
-    }
-  ],
   "obsidian-text-format:capitalize-sentence": [
     {
       "modifiers": [
         "Alt",
         "Ctrl"
+      ],
+      "key": "S"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_The-Enoughist.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "graph:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_Enoughness.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_Brainfoodie.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_AdaptX.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_Notes-to-Self.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_Permanent-Notes.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_Shortcutomation.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_Today-I-Learned.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-shellcommands:shell-command-q75w5aah23": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "J"
+    }
+  ],
+  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1761144577257": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1761213086334": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod"
       ],
       "key": "S"
     }

@@ -6,7 +6,6 @@
   "obsidian-advanced-uri",
   "obsidian-auto-link-title",
   "backlink-cache",
-  "better-word-count",
   "obsidian-collapse-all-plugin",
   "obsidian-editor-shortcuts",
   "obsidian-completr",
@@ -34,5 +33,6 @@
   "unique-attachments",
   "obsidian-wrap-with-shortcuts",
   "obsidian-zotero-desktop-connector",
-  "update-time-on-edit"
+  "update-time-on-edit",
+  "better-word-count"
 ]
