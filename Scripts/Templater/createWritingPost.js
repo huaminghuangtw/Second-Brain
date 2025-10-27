@@ -28,6 +28,8 @@ async function createWritingPost(tp) {
                 ? moment(files[0], "YYYY-MM-DD").subtract(1, "days").format("YYYY-MM-DD")
                 : tp.date.now("YYYY-MM-DD");
         }
+    } else if (collection === "Enoughness") {
+        rawTitle = temp;
     } else {
         const userInput = await tp.system.prompt("✏️ Title?");
         rawTitle = userInput || temp;
