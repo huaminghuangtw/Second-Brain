@@ -37,8 +37,8 @@ _嗨，我是 [黃樺明](https://huami.ng)，我熱愛 [寫作](https://huami.n
 
 <p align="center">
 <sub>
-“”
+
 <br>
-— 
+
 </sub>
 </p>
