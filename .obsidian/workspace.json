@@ -4,17 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "ef53a8c0484e1e63",
+        "id": "2ab017dbadff64f4",
         "type": "tabs",
         "children": [
           {
-            "id": "c5f6ebf4cdb725bb",
+            "id": "367816115cbfd0bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_27.md",
+                "file": "Homepage.md",
                 "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "cc5f43f6f0d2390f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2024/12-December/2024_12_29.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,11 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_10_27"
+              "title": "2024_12_29"
             }
           },
           {
-            "id": "1a96516dc2e5f2cd",
+            "id": "fb01c28caa8c0a4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,81 +78,9 @@
               "icon": "lucide-file",
               "title": "2025_10_29"
             }
-          },
-          {
-            "id": "5bcf29d75f6f344a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/change-yourself-to-change-the-world.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "change-yourself-to-change-the-world"
-            }
-          },
-          {
-            "id": "9a70027743fd34df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have"
-            }
-          },
-          {
-            "id": "82d2bb065f2e63c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/01-January/2025_01_01.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_01_01"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ken robin",
+                "query": "garmin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -275,13 +226,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enoughness/posts/2025-week-43.md",
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_29.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-week-43"
+              "title": "Outline of 2025_10_29"
             }
           },
           {
@@ -290,10 +241,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_29.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for 2025_10_29"
             }
           }
         ],
@@ -316,34 +267,36 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "1a96516dc2e5f2cd",
+  "active": "fb01c28caa8c0a4d",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_27.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_26.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_25.md",
-    "Homepage.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_30.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_29.md",
+    "Daily-Bullet-Journal/_attachments/2025_10_30_14_10_03.jpg",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_29.md",
+    "Life-Notes/Coding/workout data file format.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_29.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_25.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_22.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_16.md",
     "Enoughness/posts/2025-week-44.md",
     "Untitled.md",
-    "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
-    "Evergreen-Notes/Permanent-Notes/change-yourself-to-change-the-world.md",
-    "Evergreen-Notes/Permanent-Notes/Self-compassion.md",
-    "Evergreen-Notes/Permanent-Notes/choose-your-response.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_01.md",
-    "Evergreen-Notes/Permanent-Notes/Information Overwhelm.md",
-    "Brainfoodie/posts/permission-to-feel.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_29.md",
-    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
-    "Evergreen-Notes/Permanent-Notes/be-careful-how-you-are-talking-to-yourself.md",
-    "Evergreen-Notes/Permanent-Notes/push-your-limits.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_28.md",
-    "Daily-Bullet-Journal/journals/2022/10-October/2022_10_29.md",
-    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_29.md",
+    "AdaptX/posts/30-things-i-wish-i-knew-in-20s.md",
+    "Enoughness/posts/2025-week-43.md",
+    "Enoughness/posts/2025-week-42.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_27.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_06.md",
+    "Daily-Bullet-Journal/_attachments/f9cbbb8995607c320efb3a6f3f89e920.png",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_04.md",
+    "Daily-Bullet-Journal/_attachments/962016fd04959f89120a6cf4883c8292.jpeg",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_16.md",
+    "Daily-Bullet-Journal/journals/2022/10-October/2022_10_30.md",
+    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_30.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_30.md",
     "Daily-Bullet-Journal/journals/2024/10-October/2024_10_29.md",
-    "Evergreen-Notes/Permanent-Notes/You are the average of the five people you associate with most.md",
-    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
-    "Evergreen-Notes/Permanent-Notes/embrace-the-beauty-of-enoughness.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_28.md",
+    "Evergreen-Notes/Permanent-Notes/the-parkinsons-law.md",
+    "Evergreen-Notes/Permanent-Notes/the-asdasdarkinsons-law.md",
     "Brainfoodie/posts/Pasted image 20251025194026.png",
     "AdaptX/_attachments/93bae1325ed7953f4e2ec6ef1318c910.png",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Savage Core.jpeg",
@@ -354,9 +307,6 @@
     "Weekly-Mindware-Update/add_slug_to_issues.py",
     "Daily-Bullet-Journal/update_navigation_links.py",
     "Daily-Bullet-Journal/_attachments/9b39f027c7c3e5c10404e21d624fd889.jpeg",
-    "Daily-Bullet-Journal/_attachments/47f662c5d2dfc75b6e1fa7ea05943089.WEBP",
-    "Daily-Bullet-Journal/_attachments/380e03b6b4a92a8068cd2ebd89e077a7.png",
-    "Daily-Bullet-Journal/_attachments/a3072cb9341ea5504e4adfaf237f3156.jpeg",
     "Brainfoodie/posts",
     "Brainfoodie",
     "Scripts/Templater/createWritingPost.js",
