@@ -37,13 +37,12 @@ function toTitleCase(text) {
 
     return text
         .toString()
+        .replace(/'/g, "’")
         .toLowerCase()
-        .replace(/\b\w+/g, (word, index, fullString) => {
-            const words = fullString.match(/\b\w+/g);
-            const isFirstWord = index === 0;
-            const isLastWord = word === words[words.length - 1];
-
-            // Always capitalize first and last words, or if not in lowercase set
+        .replace(/\b[\w’]+/g, (word, offset, fullString) => {
+            const words = fullString.match(/\b[\w’]+/g);
+            const isFirstWord = offset === 0;
+            const isLastWord = words && word === words[words.length - 1];
             if (
                 isFirstWord ||
                 isLastWord ||
@@ -51,7 +50,6 @@ function toTitleCase(text) {
             ) {
                 return word.charAt(0).toUpperCase() + word.slice(1);
             }
-
             return word;
         });
 }
