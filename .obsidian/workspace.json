@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c6a51e7d19a43ab0",
+        "id": "5609e503e5f67d83",
         "type": "tabs",
         "children": [
           {
-            "id": "796c08f75ac525c7",
+            "id": "386bb8997021781b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": false,
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_01.md",
+                "mode": "source",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2025_11_01"
+            }
+          },
+          {
+            "id": "a41af76213b0d963",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_01.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_11_01"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Newsletter",
+                "query": "line:(idle)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 2025_11_01"
             }
           },
           {
@@ -193,10 +218,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Brainfoodie/posts/the-science-behind-dramatically-better-conversations.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for the-science-behind-dramatically-better-conversations"
             }
           }
         ],
@@ -219,45 +244,46 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "796c08f75ac525c7",
+  "active": "a41af76213b0d963",
   "lastOpenFiles": [
-    "Homepage.md",
-    "Brainfoodie/posts/kevin-tsai-drinking-library.md",
     "Daily-Bullet-Journal/journals/2025/11-November/2025_11_02.md",
-    "Enoughness/posts/2025-week-45.md",
-    "AdaptX/posts/you-are-not-a-fish-how-can-you-know-fishs-joy.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_30.md",
-    "Evergreen-Notes/Permanent-Notes/The Parable of the Mexican Fisherman.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_31.md",
     "Daily-Bullet-Journal/journals/2025/11-November/2025_11_01.md",
-    "Evergreen-Notes/Permanent-Notes/do-hard-things.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_15.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_22.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_10.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_31.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_01.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_44.md",
-    "AdaptX/posts/30-things-i-wish-i-knew-in-20s.md",
-    "Enoughness/posts/2025-week-44.md",
-    "Evergreen-Notes/Permanent-Notes/assets-vs-liabilities.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_02.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_23.md",
-    "Daily-Bullet-Journal/_attachments/2025_10_31_20_29_04.JPEG",
     "Dear-Today-Me/Dear-Today-Me.md",
-    "Evergreen-Notes/Permanent-Notes/fluid-intelligence-vs-crystallized-intelligence.md",
-    "Evergreen-Notes/Permanent-Notes/duality-vs-polarity.md",
-    "Daily-Bullet-Journal/journals/2023/11-November/2023_11_02.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_02.md",
+    "Daily-Bullet-Journal/journals/2022/12-December/2022_12_06.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_25.md",
+    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_08.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_31.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_03.md",
+    "Evergreen-Notes/Permanent-Notes/eat-the-biggest-frog-first-thing-in-the-morning.md",
+    "AdaptX/posts/the-power-of-quiet.md",
+    "AdaptX/_attachments/904ca555e4b4781eac14ba61fbe2f433.png",
+    "Visuals/Relationships/904ca555e4b4781eac14ba61fbe2f433.png",
+    "Evergreen-Notes/Permanent-Notes/Prioritization.md",
+    "Evergreen-Notes/Permanent-Notes/relationships.md",
+    "Evergreen-Notes/Permanent-Notes/steelmanning-vs-strawmanning.md",
+    "Evergreen-Notes/Permanent-Notes/confirmation-bias.md",
+    "Evergreen-Notes/Permanent-Notes/readers-are-leaders.md",
+    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
+    "Life-Notes/Business/Implementations & Strategies.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_18.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_27.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_17.md",
+    "Evergreen-Notes/Permanent-Notes/do-hard-things.md",
+    "Enoughness/posts/2025-week-45.md",
+    "Untitled.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_24.md",
+    "Evergreen-Notes/Permanent-Notes/character-is-who-you-are-when-nobodys-watching.md",
+    "Brainfoodie/posts/Pasted image 20251025194026.png",
+    "Brainfoodie/_attachments/Pasted image 20251025194026.png",
+    "Brainfoodie/_attachments",
+    "Daily-Bullet-Journal/_attachments/2025_10_31_20_29_04.JPEG",
     "Daily-Bullet-Journal/journals/2025/11-November",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Team Zombie.jpeg",
     "Daily-Bullet-Journal/_attachments/2025_10_31_20_49_46.JPEG",
     "Daily-Bullet-Journal/_attachments/2025_10_31_19_37_50.PNG",
     "Daily-Bullet-Journal/_attachments/2025_10_30_14_10_03.jpg",
     "Daily-Bullet-Journal/_attachments/f9cbbb8995607c320efb3a6f3f89e920.png",
-    "Daily-Bullet-Journal/_attachments/962016fd04959f89120a6cf4883c8292.jpeg",
-    "Brainfoodie/posts/Pasted image 20251025194026.png",
-    "AdaptX/_attachments/93bae1325ed7953f4e2ec6ef1318c910.png",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Savage Core.jpeg",
     "Enoughness/update_self_intro.py",
     "Weekly-Mindware-Update/add_slug_to_issues.py",
     "Daily-Bullet-Journal/update_navigation_links.py",
@@ -265,7 +291,6 @@
     "Brainfoodie",
     "Scripts/Templater/createWritingPost.js",
     "Evergreen-Lists/README.md.tmp",
-    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime1.mdx",
-    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.mdx"
+    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime1.mdx"
   ]
 }
