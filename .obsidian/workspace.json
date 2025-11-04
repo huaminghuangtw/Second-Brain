@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5609e503e5f67d83",
+        "id": "f9028a18a762023d",
         "type": "tabs",
         "children": [
           {
-            "id": "386bb8997021781b",
+            "id": "a9906ad05b6fcaa2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "2025_11_01"
             }
-          },
-          {
-            "id": "a41af76213b0d963",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_01.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_11_01"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(idle)",
+                "query": "我跑步",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,14 +193,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Brainfoodie/posts/the-science-behind-dramatically-better-conversations.md"
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_03.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for the-science-behind-dramatically-better-conversations"
+              "title": "File properties for 2025_11_03"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -244,36 +219,36 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "a41af76213b0d963",
+  "active": "a9906ad05b6fcaa2",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_02.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_19.md",
     "Daily-Bullet-Journal/journals/2025/11-November/2025_11_01.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_02.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_03.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2023/11-November/2023_11_04.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_04.md",
+    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
+    "Evergreen-Notes/Permanent-Notes/dispel-your-narratives.md",
+    "Evergreen-Notes/Permanent-Notes/the-ludic-fallacy.md",
+    "Untitled.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_30.md",
+    "Evergreen-Notes/Permanent-Notes/change-yourself-to-change-the-world.md",
+    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
+    "Brainfoodie/posts/kevin-tsai-drinking-library.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_16.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_22.md",
+    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
     "Dear-Today-Me/Dear-Today-Me.md",
     "Daily-Bullet-Journal/journals/2022/12-December/2022_12_06.md",
     "Daily-Bullet-Journal/journals/2024/08-August/2024_08_25.md",
     "Daily-Bullet-Journal/journals/2024/09-September/2024_09_08.md",
-    "Homepage.md",
     "Daily-Bullet-Journal/journals/2025/10-October/2025_10_31.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_03.md",
     "Evergreen-Notes/Permanent-Notes/eat-the-biggest-frog-first-thing-in-the-morning.md",
     "AdaptX/posts/the-power-of-quiet.md",
     "AdaptX/_attachments/904ca555e4b4781eac14ba61fbe2f433.png",
     "Visuals/Relationships/904ca555e4b4781eac14ba61fbe2f433.png",
-    "Evergreen-Notes/Permanent-Notes/Prioritization.md",
-    "Evergreen-Notes/Permanent-Notes/relationships.md",
-    "Evergreen-Notes/Permanent-Notes/steelmanning-vs-strawmanning.md",
-    "Evergreen-Notes/Permanent-Notes/confirmation-bias.md",
-    "Evergreen-Notes/Permanent-Notes/readers-are-leaders.md",
-    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
-    "Life-Notes/Business/Implementations & Strategies.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_18.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_27.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_17.md",
-    "Evergreen-Notes/Permanent-Notes/do-hard-things.md",
-    "Enoughness/posts/2025-week-45.md",
-    "Untitled.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_24.md",
-    "Evergreen-Notes/Permanent-Notes/character-is-who-you-are-when-nobodys-watching.md",
     "Brainfoodie/posts/Pasted image 20251025194026.png",
     "Brainfoodie/_attachments/Pasted image 20251025194026.png",
     "Brainfoodie/_attachments",
