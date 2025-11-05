@@ -4,83 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ec5b5a428fb5b9f",
+        "id": "4575312ee1d1b197",
         "type": "tabs",
         "children": [
           {
-            "id": "2f1868626d3c26c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/02-February/2025_02_02.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_02_02"
-            }
-          },
-          {
-            "id": "97910a524fee5a2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enoughness/posts/2025-week-42.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-week-42"
-            }
-          },
-          {
-            "id": "668a87f09eb2922c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_03.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_09_03"
-            }
-          },
-          {
-            "id": "6decc8e65f24a247",
+            "id": "ba3d836f1fafe69e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -102,57 +30,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "3774fa4221605cbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brainfoodie/posts/the-science-behind-dramatically-better-conversations.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "the-science-behind-dramatically-better-conversations"
-            }
-          },
-          {
-            "id": "f77843b8ded15d75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/communication.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "communication"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "_attachments/.png",
+                "query": "我跑步",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -299,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enoughness/posts/2025-week-43.md",
+                "file": "Evergreen-Notes/Permanent-Notes/Judge others by intentions, judge ourselves by actions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-week-43"
+              "title": "Outline of Judge others by intentions, judge ourselves by actions"
             }
           },
           {
@@ -314,14 +193,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_25.md"
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_03.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_10_25"
+              "title": "File properties for 2025_11_03"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -340,52 +219,53 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "6decc8e65f24a247",
+  "active": "ba3d836f1fafe69e",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_03.md",
-    "AdaptX/posts/nonchulant.md",
-    "AdaptX/posts/the-power-of-quiet.md",
-    "AdaptX/_attachments/93bae1325ed7953f4e2ec6ef1318c910.png",
-    "Evergreen-Notes/Permanent-Notes/communication.md",
-    "Brainfoodie/posts/the-science-behind-dramatically-better-conversations.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_25.md",
-    "Brainfoodie/posts/collection-jensen-huang.md",
-    "Evergreen-Notes/Permanent-Notes/relationships.md",
-    "AdaptX/posts/you-and-your-timeline.md",
-    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.md",
-    "AdaptX/posts/the-monkey-and-pedestal-mindset.md",
-    "AdaptX/posts/start-small.md",
-    "AdaptX/posts/sherlock-holmes-brain-attic.md",
-    "AdaptX/posts/death.md",
-    "AdaptX/posts/30-things-i-wish-i-knew-in-20s.md",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Savage Core.jpeg",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_08.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_17.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_24.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_01.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_19.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_02.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_03.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2023/11-November/2023_11_04.md",
     "Daily-Bullet-Journal/journals/2024/11-November/2024_11_04.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_10.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_20.md",
-    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_23.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_15.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_27.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_29.md",
-    "Enoughness/_attachments/f1c33b26261ef62abfbaf3ce8dbf54ff.png",
-    "Enoughness/_attachments/9e500f8f1de981e3319613b1cacb3a5b.jpeg",
-    "Enoughness/_attachments/Untitled design (1).png",
+    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
+    "Evergreen-Notes/Permanent-Notes/dispel-your-narratives.md",
+    "Evergreen-Notes/Permanent-Notes/the-ludic-fallacy.md",
+    "Untitled.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_30.md",
+    "Evergreen-Notes/Permanent-Notes/change-yourself-to-change-the-world.md",
+    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
+    "Brainfoodie/posts/kevin-tsai-drinking-library.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_16.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_22.md",
+    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
+    "Dear-Today-Me/Dear-Today-Me.md",
+    "Daily-Bullet-Journal/journals/2022/12-December/2022_12_06.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_25.md",
+    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_08.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_31.md",
+    "Evergreen-Notes/Permanent-Notes/eat-the-biggest-frog-first-thing-in-the-morning.md",
+    "AdaptX/posts/the-power-of-quiet.md",
+    "AdaptX/_attachments/904ca555e4b4781eac14ba61fbe2f433.png",
+    "Visuals/Relationships/904ca555e4b4781eac14ba61fbe2f433.png",
+    "Brainfoodie/posts/Pasted image 20251025194026.png",
+    "Brainfoodie/_attachments/Pasted image 20251025194026.png",
+    "Brainfoodie/_attachments",
+    "Daily-Bullet-Journal/_attachments/2025_10_31_20_29_04.JPEG",
+    "Daily-Bullet-Journal/journals/2025/11-November",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Team Zombie.jpeg",
+    "Daily-Bullet-Journal/_attachments/2025_10_31_20_49_46.JPEG",
+    "Daily-Bullet-Journal/_attachments/2025_10_31_19_37_50.PNG",
+    "Daily-Bullet-Journal/_attachments/2025_10_30_14_10_03.jpg",
+    "Daily-Bullet-Journal/_attachments/f9cbbb8995607c320efb3a6f3f89e920.png",
     "Enoughness/update_self_intro.py",
     "Weekly-Mindware-Update/add_slug_to_issues.py",
     "Daily-Bullet-Journal/update_navigation_links.py",
-    "Daily-Bullet-Journal/_attachments/9b39f027c7c3e5c10404e21d624fd889.jpeg",
-    "Daily-Bullet-Journal/_attachments/47f662c5d2dfc75b6e1fa7ea05943089.WEBP",
-    "Daily-Bullet-Journal/_attachments/380e03b6b4a92a8068cd2ebd89e077a7.png",
-    "Daily-Bullet-Journal/_attachments/a3072cb9341ea5504e4adfaf237f3156.jpeg",
-    "Daily-Bullet-Journal/_attachments/7c0d385ea65a32bc19cef7b682d523f5.png",
     "Brainfoodie/posts",
     "Brainfoodie",
     "Scripts/Templater/createWritingPost.js",
     "Evergreen-Lists/README.md.tmp",
-    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime1.mdx",
-    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.mdx",
-    "The-Enoughist/posts"
+    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime1.mdx"
   ]
 }

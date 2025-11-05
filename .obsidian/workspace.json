@@ -4,16 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "f9028a18a762023d",
+        "id": "7d032045c11f12ab",
         "type": "tabs",
         "children": [
           {
-            "id": "a9906ad05b6fcaa2",
+            "id": "7bd4500d503dcb3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_01.md",
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_05.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_11_05"
+            }
+          },
+          {
+            "id": "6eec8a3e97f7a7b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2016/03-March/2016_03_09.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2016_03_09"
+            }
+          },
+          {
+            "id": "bd523531c25c1f83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2016/03-March/2016_03_10.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +76,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_11_01"
+              "title": "2016_03_10"
+            }
+          },
+          {
+            "id": "c9550cf6fcb47cc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2016/03-March/2016_03_09.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2016_03_09"
             }
           }
         ]
@@ -63,10 +135,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "我跑步",
+                "query": " 雞蛋",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -84,8 +156,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_01.md",
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_11_01"
+              "title": "Backlinks for 2025_11_05"
             }
           },
           {
@@ -193,14 +264,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_03.md"
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_05.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_11_03"
+              "title": "File properties for 2025_11_05"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -219,53 +290,53 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "a9906ad05b6fcaa2",
+  "active": "7bd4500d503dcb3c",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_19.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_01.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_02.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_03.md",
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2023/11-November/2023_11_04.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_04.md",
-    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
-    "Evergreen-Notes/Permanent-Notes/dispel-your-narratives.md",
-    "Evergreen-Notes/Permanent-Notes/the-ludic-fallacy.md",
-    "Untitled.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_30.md",
-    "Evergreen-Notes/Permanent-Notes/change-yourself-to-change-the-world.md",
-    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
-    "Brainfoodie/posts/kevin-tsai-drinking-library.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_16.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_22.md",
-    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
-    "Dear-Today-Me/Dear-Today-Me.md",
-    "Daily-Bullet-Journal/journals/2022/12-December/2022_12_06.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_25.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_08.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_31.md",
-    "Evergreen-Notes/Permanent-Notes/eat-the-biggest-frog-first-thing-in-the-morning.md",
-    "AdaptX/posts/the-power-of-quiet.md",
-    "AdaptX/_attachments/904ca555e4b4781eac14ba61fbe2f433.png",
-    "Visuals/Relationships/904ca555e4b4781eac14ba61fbe2f433.png",
-    "Brainfoodie/posts/Pasted image 20251025194026.png",
-    "Brainfoodie/_attachments/Pasted image 20251025194026.png",
-    "Brainfoodie/_attachments",
-    "Daily-Bullet-Journal/_attachments/2025_10_31_20_29_04.JPEG",
-    "Daily-Bullet-Journal/journals/2025/11-November",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Team Zombie.jpeg",
-    "Daily-Bullet-Journal/_attachments/2025_10_31_20_49_46.JPEG",
-    "Daily-Bullet-Journal/_attachments/2025_10_31_19_37_50.PNG",
-    "Daily-Bullet-Journal/_attachments/2025_10_30_14_10_03.jpg",
-    "Daily-Bullet-Journal/_attachments/f9cbbb8995607c320efb3a6f3f89e920.png",
-    "Enoughness/update_self_intro.py",
-    "Weekly-Mindware-Update/add_slug_to_issues.py",
-    "Daily-Bullet-Journal/update_navigation_links.py",
-    "Brainfoodie/posts",
-    "Brainfoodie",
-    "Scripts/Templater/createWritingPost.js",
-    "Evergreen-Lists/README.md.tmp",
-    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime1.mdx"
+    "Daily-Bullet-Journal/journals/2016/03-March/2016_03_09.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_05.md",
+    "Daily-Bullet-Journal/journals/2016/03-March/2016_03_10.md",
+    "Daily-Bullet-Journal/journals/2021/03-March/2021_03_30.md",
+    "Daily-Bullet-Journal/journals/2021/03-March/2021_03_31.md",
+    "Daily-Bullet-Journal/journals/2021/04-April/2021_04_01.md",
+    "Daily-Bullet-Journal/journals/2016/12-December/2016_12_31.md",
+    "Daily-Bullet-Journal/journals/2015/11-November/2015_11_05.md",
+    "Daily-Bullet-Journal/journals/2015/11-November",
+    "Daily-Bullet-Journal/journals/2015",
+    "Daily-Bullet-Journal/journals/2016/12-December/Pasted image 20251105152224.png",
+    "Daily-Bullet-Journal/journals/2016/12-December/Pasted image 20251105152222 1.png",
+    "Daily-Bullet-Journal/journals/2016/12-December/Pasted image 20251105152222.png",
+    "Daily-Bullet-Journal/journals/2016/12-December/Pasted image 20251105152209.png",
+    "Daily-Bullet-Journal/journals/2016/12-December",
+    "Daily-Bullet-Journal/journals/2021/04-April",
+    "Daily-Bullet-Journal/journals/2016/03-March/2016_03_11.md",
+    "Daily-Bullet-Journal/journals/2021/03-March",
+    "Daily-Bullet-Journal/journals/2021",
+    "Daily-Bullet-Journal/journals/2023/01-January/2023_01_01.md",
+    "Daily-Bullet-Journal/journals/2022/12-December/2022_12_01.md",
+    "Daily-Bullet-Journal/journals/2022/11-November/2022_11_30.md",
+    "Daily-Bullet-Journal/journals/2022/11-November/2022_11_16.md",
+    "Daily-Bullet-Journal/journals/2022/11-November/2022_11_15.md",
+    "Daily-Bullet-Journal/journals/2022/10-October/2022_10_30.md",
+    "Daily-Bullet-Journal/journals/2022/10-October/2022_10_29.md",
+    "Daily-Bullet-Journal/journals/2022/10-October/2022_10_27.md",
+    "Daily-Bullet-Journal/journals/2022/10-October/2022_10_26.md",
+    "Daily-Bullet-Journal/journals/2022/10-October/2022_10_22.md",
+    "Daily-Bullet-Journal/journals/2022/10-October/2022_10_16.md",
+    "Daily-Bullet-Journal/journals/2022/10-October/2022_10_14.md",
+    "Daily-Bullet-Journal/journals/2022/10-October/2022_10_12.md",
+    "Daily-Bullet-Journal/journals/2022/10-October/2022_10_11.md",
+    "Daily-Bullet-Journal/journals/2022/10-October/2022_10_10.md",
+    "Daily-Bullet-Journal/journals/2022/10-October/2022_10_08.md",
+    "Daily-Bullet-Journal/journals/2022/10-October/2022_10_05.md",
+    "Daily-Bullet-Journal/journals/2016/03-March",
+    "Daily-Bullet-Journal/journals/2016/09-September",
+    "Daily-Bullet-Journal/journals/2016",
+    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Balance Front Kicks.gif",
+    "Deep-Work-Machine/Number of Words/2025/10-October/number-of-words_2025-10.png",
+    "Deep-Work-Machine/Number of Words/2025/10-October/number-of-words_2025-10.json",
+    "Deep-Work-Machine/Number of Flows/2025/10-October/number-of-flows_2025-10.png",
+    "Daily-Bullet-Journal/journals/2025/11-November/Pasted image 20251105091035.png",
+    "Evergreen-Notes/Permanent-Notes/Pasted image 20251104203457.png",
+    "AdaptX/_attachments/904ca555e4b4781eac14ba61fbe2f433.png"
   ]
 }
