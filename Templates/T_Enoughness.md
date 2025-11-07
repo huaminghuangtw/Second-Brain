@@ -11,6 +11,7 @@ const issue = app.vault
 const [_, year, week] = fileName.match(/(\d{4})-week-(\d{2})/);
 const prev = `[[${year}-week-${Number(week) - 1}]]`;
 const next = `[[${year}-week-${Number(week) + 1}]]`;
+const fridayDate = moment().weekday(5);
 -%>
 ---
 draft: true
@@ -20,7 +21,7 @@ description: "<% `Enoughness #${issue}` %>"
 issue: <% issue %>
 prev: "<% prev %>"
 next: "<% next %>"
-created: <% moment().weekday(5).format('YYYY-MM-DD[T00:00:00]') %>
+created: <% fridayDate.format('YYYY-MM-DD[T00:00:00]') %>
 ---
 
 <!-- SELF-INTRO-START -->
@@ -31,7 +32,7 @@ _嗨，我是 [黃樺明](https://huami.ng)，我熱愛 [寫作](https://huami.n
 
 1. <% tp.file.cursor() %>
 
-— [樺明](https://huami.ng/<% moment().format('YYYY/M/D') %>/enoughness-<% issue %>)
+— [樺明](https://huami.ng/<% fridayDate.format('YYYY/M/D') %>/enoughness-<% issue %>)
 
 ---
 
