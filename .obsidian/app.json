@@ -35,5 +35,6 @@
   "newFileFolderPath": "",
   "readableLineLength": true,
   "mobileQuickRibbonItem": "command-palette:Open command palette",
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "tabSize": 2
 }
