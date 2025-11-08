@@ -12,6 +12,7 @@
     ],
     "trashOption": "local",
     "showUnsupportedFiles": false,
+    "tabSize": 2,
     "promptDelete": false,
     "livePreview": true,
     "showLineNumber": false,

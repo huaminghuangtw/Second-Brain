@@ -184,7 +184,7 @@
     },
     "convert-spaces-to-tabs": {
       "enabled": true,
-      "tabsize": "4"
+      "tabsize": "2"
     },
     "empty-line-around-blockquotes": {
       "enabled": true

@@ -1,0 +1,39 @@
+{
+    "mobileQuickRibbonItem": "command-palette:Open command palette",
+    "mobileToolbarCommands": [
+        "editor:delete-paragraph",
+        "editor:insert-tag",
+        "editor:swap-line-up",
+        "editor:swap-line-down",
+        "editor:go-start",
+        "editor:go-end",
+        "editor:undo",
+        "editor:redo"
+    ],
+    "trashOption": "local",
+    "showUnsupportedFiles": false,
+    "promptDelete": false,
+    "livePreview": true,
+    "showLineNumber": false,
+    "attachmentFolderPath": "./",
+    "alwaysUpdateLinks": true,
+    "userIgnoreFilters": [
+        "Scripts/",
+        "Templates/",
+        "Visuals/",
+        "Homepage.md",
+        "/**/_attachments//"
+    ],
+    "showInlineTitle": true,
+    "useTab": true,
+    "useMarkdownLinks": true,
+    "uriCallbacks": true,
+    "newLinkFormat": "relative",
+    "showIndentGuide": true,
+    "propertiesInDocument": "hidden",
+    "newFileLocation": "folder",
+    "mobilePullAction": "editor:toggle-source",
+    "newFileFolderPath": "",
+    "readableLineLength": true,
+    "smartIndentList": true
+}

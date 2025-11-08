@@ -1,0 +1,10 @@
+{
+    "author": "Alexis Rondeau, Micha Brugger, Jason Qin",
+    "isDesktopOnly": true,
+    "id": "obsidian-footnotes",
+    "minAppVersion": "0.12.0",
+    "version": "0.1.3",
+    "description": "Insert and write footnotes faster",
+    "name": "Footnote Shortcut",
+    "authorUrl": "https://publish.obsidian.md/alexisrondeau"
+}
