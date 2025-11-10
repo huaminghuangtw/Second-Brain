@@ -4,65 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4d8db266e5776458",
+        "id": "da9d6ef526a26135",
         "type": "tabs",
         "children": [
           {
-            "id": "4c23a64563f0132a",
+            "id": "35d8bcbf1ef27214",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_08.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_11_08"
-            }
-          },
-          {
-            "id": "e5c53ac71ead49bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_08.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_11_08"
-            }
-          },
-          {
-            "id": "88cd50c65f238b0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life-Notes/Business/Startups.md",
-                "mode": "source",
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_10.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Startups"
-            }
-          },
-          {
-            "id": "166375edac9b6570",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/Systems Thinking.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Systems Thinking"
+              "title": "2025_11_10"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Emergence",
+                "query": "youbike",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/Systems Thinking.md",
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Systems Thinking"
+              "title": "Backlinks for 2025_11_10"
             }
           },
           {
@@ -266,10 +193,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/Systems Thinking.md"
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_08.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Systems Thinking"
+              "title": "File properties for 2025_11_08"
             }
           }
         ],
@@ -292,44 +219,43 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "166375edac9b6570",
+  "active": "35d8bcbf1ef27214",
   "lastOpenFiles": [
-    "Evergreen-Notes/Permanent-Notes/Systems Thinking.md",
-    "Life-Notes/Business/Startups.md",
-    "Evergreen-Notes/Permanent-Notes/Boredom promotes creativity.md",
-    "Evergreen-Notes/Permanent-Notes/wu-wei.md",
-    "Notes-to-Self/posts/2025-09-10.md",
-    "Notes-to-Self/posts/2025-09-09.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_10.md",
     "Homepage.md",
-    "Notes-to-Self/posts/2025-09-09 2.md",
-    "Enoughness/posts/2025-week-44.md",
-    "Evergreen-Notes/Permanent-Notes/the-law-of-diminishing-returns.md",
-    "Enoughness/posts/Pasted image 20251109143129.png",
-    "Enoughness/posts/2025-week-45.md",
-    "Enoughness/posts/2025-week-46.md",
-    "Evergreen-Notes/Permanent-Notes/just-focus-on-the-next-decision.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_07.md",
     "Daily-Bullet-Journal/journals/2025/11-November/2025_11_08.md",
     "Daily-Bullet-Journal/journals/2025/11-November/2025_11_09.md",
-    "Evergreen-Notes/Permanent-Notes/Active Listening.md",
+    "Daily-Bullet-Journal/_attachments/2025_11_10_16_16_08.png",
+    "Daily-Bullet-Journal/_attachments/2025_11_10_16_15_57.png",
+    "Daily-Bullet-Journal/_attachments/2025_11_10_16_04_58.bmp",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_06.md",
+    "Evergreen-Notes/Permanent-Notes/Peace from mind.md",
+    "Evergreen-Notes/Permanent-Notes/Working Memory.md",
+    "Evergreen-Notes/Permanent-Notes/eat-the-biggest-frog-first-thing-in-the-morning.md",
+    "Evergreen-Notes/Permanent-Notes/time-management.md",
+    "Evergreen-Notes/Permanent-Notes/dopamine.md",
+    "Enoughness/posts/2025-week-42.md",
+    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_28.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_05.md",
+    "Daily-Bullet-Journal/_attachments/2025_11_10_13_56_53.png",
+    "Evergreen-Notes/Permanent-Notes/healthy-eating-habits.md",
+    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
+    "Evergreen-Notes/Permanent-Notes/walk.md",
+    "AdaptX/posts/you-and-your-timeline.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_25.md",
+    "Evergreen-Notes/Permanent-Notes/sunlight-viewing.md",
+    "Evergreen-Notes/Permanent-Notes/be-careful-how-you-are-talking-to-yourself.md",
+    "Evergreen-Notes/Permanent-Notes/the-reitoff-principle.md",
+    "Evergreen-Notes/Permanent-Notes/the-most-productive-people-prioritize-intentional-rest.md",
+    "~~self~~-compassion.md",
+    "Evergreen-Notes/Permanent-Notes/Raw honey.md",
+    "Enoughness/_attachments/1efabbc2d82c4ed6c8bbd572b3a0f3b5.png",
+    "Enoughness/_attachments/ada8e095d1826420c7c1a6303b313aaa.png",
+    "Enoughness/posts/Pasted image 20251109143129.png",
     "Enoughness/posts/Pasted image 20251109140031.png",
     "Enoughness/posts/Pasted image 20251109135840.png",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_15.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_45.md",
-    "Evergreen-Notes/Permanent-Notes/embrace-the-beauty-of-enoughness.md",
-    "Daily-Bullet-Journal/journals/2023/11-November/2023_11_09.md",
-    "Enoughness/posts/2025-week-43.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_09.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_11.md",
-    "Evergreen-Notes/Permanent-Notes/Self-compassion.md",
-    "Evergreen-Notes/Permanent-Notes/be-careful-how-you-are-talking-to-yourself.md",
-    "Evergreen-Notes/Permanent-Notes/always-start-small.md",
     "Enoughness/_attachments/d2b422b9c4b556db4089c861e8570c26.jpeg",
-    "Enoughness/_attachments/3828a7d6722e0e90c27af8774af0a89e.png",
-    "Enoughness/_attachments/3828a7d6722e0e90c27af8774af0a89e.png",
-    "Enoughness/_attachments/Adobe Express - file.png",
-    "Enoughness/posts/d2b422b9c4b556db4089c861e8570c26.jpeg",
-    "Evergreen-Notes/_attachments/d86e9204d02448bdfc7b575dae17d40f.png",
-    "Daily-Bullet-Journal/_attachments/8bda95dfa670f67643cb06c337d69898.png",
     "Daily-Bullet-Journal/update_journal_headings.py",
     "Daily-Bullet-Journal/journals/2015/11-November",
     "Daily-Bullet-Journal/journals/2015",
