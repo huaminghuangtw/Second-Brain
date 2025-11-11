@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "da9d6ef526a26135",
+        "id": "27adcd35b6dd1809",
         "type": "tabs",
         "children": [
           {
-            "id": "35d8bcbf1ef27214",
+            "id": "e0d587b384e5a9c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_10.md",
-                "mode": "preview",
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_24.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,10 +28,107 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_11_10"
+              "title": "2025_10_24"
+            }
+          },
+          {
+            "id": "fe1ecb12670567dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AdaptX/posts/ted-taipei-2025.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ted-taipei-2025"
+            }
+          },
+          {
+            "id": "0d9471fce6f18409",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_01.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_11_01"
+            }
+          },
+          {
+            "id": "96efa41c52515e05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have"
+            }
+          },
+          {
+            "id": "87df624dcfc2ff4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_11.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_11_11"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -63,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "youbike",
+                "query": "錯把",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_10.md",
+                "file": "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +213,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_11_10"
+              "title": "Backlinks for your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have"
             }
           },
           {
@@ -193,10 +290,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_08.md"
+                "file": "AdaptX/posts/ted-taipei-2025.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_11_08"
+              "title": "File properties for ted-taipei-2025"
             }
           }
         ],
@@ -219,37 +316,38 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "35d8bcbf1ef27214",
+  "active": "96efa41c52515e05",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_10.md",
+    "Evergreen-Notes/Permanent-Notes/you-dont-need-to-be-liked-to-be-loved.md",
+    "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
+    "Evergreen-Notes/Permanent-Notes/Never lose faith and hope.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_01.md",
+    "AdaptX/posts/ted-taipei-2025.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_19.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_11.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_27.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_24.md",
     "Homepage.md",
+    "Daily-Bullet-Journal/Journal-Backlog.md",
     "Daily-Bullet-Journal/journals/2025/11-November/2025_11_07.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_08.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_09.md",
-    "Daily-Bullet-Journal/_attachments/2025_11_10_16_16_08.png",
     "Daily-Bullet-Journal/_attachments/2025_11_10_16_15_57.png",
-    "Daily-Bullet-Journal/_attachments/2025_11_10_16_04_58.bmp",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_06.md",
-    "Evergreen-Notes/Permanent-Notes/Peace from mind.md",
-    "Evergreen-Notes/Permanent-Notes/Working Memory.md",
-    "Evergreen-Notes/Permanent-Notes/eat-the-biggest-frog-first-thing-in-the-morning.md",
-    "Evergreen-Notes/Permanent-Notes/time-management.md",
-    "Evergreen-Notes/Permanent-Notes/dopamine.md",
-    "Enoughness/posts/2025-week-42.md",
-    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_28.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_05.md",
-    "Daily-Bullet-Journal/_attachments/2025_11_10_13_56_53.png",
+    "Enoughness/posts/2025-week-44.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
     "Evergreen-Notes/Permanent-Notes/healthy-eating-habits.md",
-    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
-    "Evergreen-Notes/Permanent-Notes/walk.md",
-    "AdaptX/posts/you-and-your-timeline.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_25.md",
-    "Evergreen-Notes/Permanent-Notes/sunlight-viewing.md",
-    "Evergreen-Notes/Permanent-Notes/be-careful-how-you-are-talking-to-yourself.md",
-    "Evergreen-Notes/Permanent-Notes/the-reitoff-principle.md",
-    "Evergreen-Notes/Permanent-Notes/the-most-productive-people-prioritize-intentional-rest.md",
-    "~~self~~-compassion.md",
-    "Evergreen-Notes/Permanent-Notes/Raw honey.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_09.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_10.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_08.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_06.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_05.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_04.md",
+    "Evergreen-Notes/Permanent-Notes/do-it-anyway-by-mother-teresa.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_03.md",
+    "Untitled.md",
+    "Enoughness/posts/2025-week-42.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_29.md",
+    "Daily-Bullet-Journal/_attachments/fdcea0bd8e24c90dcccb1cc0af1f6b7d.png",
+    "Daily-Bullet-Journal/_attachments/2025_11_10_16_04_58.bmp",
+    "Daily-Bullet-Journal/_attachments/2025_11_10_13_56_53.png",
     "Enoughness/_attachments/1efabbc2d82c4ed6c8bbd572b3a0f3b5.png",
     "Enoughness/_attachments/ada8e095d1826420c7c1a6303b313aaa.png",
     "Enoughness/posts/Pasted image 20251109143129.png",
