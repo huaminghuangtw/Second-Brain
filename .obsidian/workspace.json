@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "50a873ba4223a78e",
+        "id": "08d48702f0448f43",
         "type": "tabs",
         "children": [
           {
-            "id": "e0a9bf2de83b2b52",
+            "id": "acab0535735b120f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_19.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_10_19"
-            }
-          },
-          {
-            "id": "2a5dd8679b9a7e55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_14.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "2ff220dee9eabe1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_01.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_11_01"
+              "title": "2025_11_14"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "醍醐灌頂",
+                "query": "鳥居",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for 2025_11_14"
             }
           },
           {
@@ -227,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_14.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 2025_11_14"
             }
           },
           {
@@ -242,14 +193,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_14.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled"
+              "title": "File properties for 2025_11_14"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -268,44 +219,45 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "2a5dd8679b9a7e55",
+  "active": "acab0535735b120f",
   "lastOpenFiles": [
-    "Evergreen-Lists/README.md.tmp",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_01.md",
-    "Untitled.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_19.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_09.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_14.md",
+    "AdaptX/posts/ted-taipei-2025.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_12.md",
     "Daily-Bullet-Journal/journals/2025/11-November/2025_11_13.md",
-    "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/Work hard.md",
+    "Enoughness/posts/2025-week-44.md",
+    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.md",
     "Enoughness/posts/2025-week-46.md",
+    "Daily-Bullet-Journal/_attachments/2025_11_14_19_15_21.PNG",
+    "Daily-Bullet-Journal/_attachments/2025_11_14_19_15_06.PNG",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_01.md",
+    "Homepage.md",
+    "Evergreen-Notes/Permanent-Notes/you-dont-need-to-be-liked-to-be-loved.md",
+    "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
+    "Evergreen-Notes/Permanent-Notes/just-focus-on-the-next-decision.md",
+    "Evergreen-Notes/Permanent-Notes/Productivity.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_13.md",
+    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
+    "Evergreen-Notes/Permanent-Notes/always-start-small.md",
+    "AdaptX/posts/start-small.md",
+    "Evergreen-Notes/Permanent-Notes/decision-making.md",
+    "Evergreen-Notes/Permanent-Notes/ask-for-forgiveness-not-permission.md",
+    "AdaptX/posts/30-things-i-wish-i-knew-in-20s.md",
+    "Evergreen-Notes/Permanent-Notes/Ask for forgiveness not permission.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_07.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_31.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_24.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_17.md",
+    "Enoughness/_attachments/2025_11_09_09_55_09.jpeg",
+    "Enoughness/_attachments/659eca5f34a3fd534e4b77bb0733d243.jpeg",
+    "Evergreen-Notes/_attachments/4b19e8a421f26f1dc59cd99fdc1e7439.png",
+    "Evergreen-Lists/README.md.tmp",
     "Evergreen-Notes/Permanent-Notes/8b6e4c1908690b49af86aebc972860e6.jpg",
     "Enoughness/_attachments/8b6e4c1908690b49af86aebc972860e6.jpg",
     "Evergreen-Notes/Permanent-Notes/Pasted image 20251113144844.png",
-    "Evergreen-Notes/Permanent-Notes/the-most-productive-people-prioritize-intentional-rest.md",
     "Enoughness/posts/2025_11_09_09_55_09.jpeg",
-    "Enoughness/posts/2025-week-45.md",
-    "Enoughness/posts/2025-week-44.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_16.md",
-    "Enoughness/posts/2025-week-43.md",
-    "Enoughness/posts/2025-week-42.md",
-    "Untitled 1.md",
-    "Life-Notes/Business/Implementations & Strategies.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-make-a-conversation-with-anyone.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_27.md",
-    "Life-Notes/Career/Career Advice.md",
-    "Evergreen-Notes/Permanent-Notes/advice.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_12.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_26.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_29.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_16.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_09.md",
     "AdaptX/_attachments/db8ac301faf2da7c717ecc5cfc04a8b8.jpeg",
-    "AdaptX/_attachments/6ed42148b09e112dfb5986397df77813.png",
-    "AdaptX/_attachments/428241c73a210c06c5441e59cf860d55.jpeg",
-    "AdaptX/_attachments/6669c751024d3169e87ec66aef578953.png",
-    "AdaptX/_attachments/31565468c17cf0d10f66dace566aee67.jpeg",
-    "Daily-Bullet-Journal/_attachments/69b2edcc3af312378cdc68865f45b3e7.PNG",
     "Daily-Bullet-Journal/update_journal_headings.py",
     "Daily-Bullet-Journal/journals/2015/11-November",
     "Daily-Bullet-Journal/journals/2015",
@@ -314,7 +266,6 @@
     "Daily-Bullet-Journal/journals/2021/03-March",
     "Daily-Bullet-Journal/journals/2021",
     "Daily-Bullet-Journal/journals/2016/03-March",
-    "Daily-Bullet-Journal/journals/2016/09-September",
-    "Daily-Bullet-Journal/journals/2016"
+    "Daily-Bullet-Journal/journals/2016/09-September"
   ]
 }
