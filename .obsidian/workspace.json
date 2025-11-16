@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0ee9a89f1dadaa37",
+        "id": "c12d58eaf0fa4ea0",
         "type": "tabs",
         "children": [
           {
-            "id": "3e51ca906d9c234b",
+            "id": "8ac77edc64d5d3df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_15.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_11_15"
-            }
-          },
-          {
-            "id": "2d0ee3786e31847c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/work-smart.md",
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_16.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "work-smart"
+              "title": "2025_11_16"
             }
           },
           {
-            "id": "c2c90106e4e066cd",
+            "id": "df42003b02de33eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/Frameworks to structure your day.md",
+                "file": "Evergreen-Notes/Permanent-Notes/comparison-is-the-thief-of-joy.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -76,18 +52,18 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Frameworks to structure your day"
+              "title": "comparison-is-the-thief-of-joy"
             }
           },
           {
-            "id": "ce18f7a3e80878ba",
+            "id": "9ce59b3e9d91114b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_14.md",
-                "mode": "source",
-                "source": false,
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_28.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -100,10 +76,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_11_14"
+              "title": "2025_10_28"
+            }
+          },
+          {
+            "id": "440d7042ba5d1178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life-Notes/Business/🏰 My Biz Empire.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "🏰 My Biz Empire"
+            }
+          },
+          {
+            "id": "7fbd7924e74597c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/the-compounding-effect.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "the-compounding-effect"
+            }
+          },
+          {
+            "id": "daa26b7b906a1996",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/How to use AI effectively.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How to use AI effectively"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -135,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "灰階",
+                "query": "Beta Test",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_15.md",
+                "file": "Evergreen-Notes/Permanent-Notes/How to use AI effectively.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +237,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_11_15"
+              "title": "Backlinks for How to use AI effectively"
             }
           },
           {
@@ -265,14 +314,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_15.md"
+                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_26.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_11_15"
+              "title": "File properties for 2025_10_26"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -291,34 +340,35 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "3e51ca906d9c234b",
+  "active": "daa26b7b906a1996",
   "lastOpenFiles": [
+    "Evergreen-Notes/Permanent-Notes/the-compounding-effect.md",
+    "Life-Notes/Business/🏰 My Biz Empire.md",
+    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
+    "Dear-Today-Me/Dear-Today-Me.md",
+    "Evergreen-Notes/Permanent-Notes/failing-forward-turns-setbacks-into-stepping-stones.md",
+    "Evergreen-Lists/💭 Journal Prompt/💭 Journal Prompt.md",
+    "Evergreen-Notes/Permanent-Notes/simple-is-beautiful.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_28.md",
+    "Evergreen-Notes/Permanent-Notes/Judgement.md",
+    "Evergreen-Notes/Permanent-Notes/comparison-is-the-thief-of-joy.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_16.md",
     "Daily-Bullet-Journal/journals/2025/11-November/2025_11_15.md",
-    "Evergreen-Notes/Permanent-Notes/have-the-courage-to-do-the-right-things.md",
-    "Evergreen-Notes/Permanent-Notes/duality-vs-polarity.md",
-    "Evergreen-Notes/Permanent-Notes/from-binary-thinking-to-full-spectrum-thinking.md",
-    "Evergreen-Notes/Permanent-Notes/Everything in life has an opportunity cost.md",
-    "Evergreen-Notes/Permanent-Notes/probabilistic-thinking.md",
-    "Evergreen-Notes/Permanent-Notes/be-ready-to-change-your-mind-completely-at-any-given-time.md",
-    "Evergreen-Notes/Permanent-Notes/dispel-your-narratives.md",
-    "Evergreen-Notes/Permanent-Notes/Lateral Thinking.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_20.md",
-    "Daily-Bullet-Journal/journals/2022/10-October/2022_10_14.md",
-    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
-    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
-    "Evergreen-Notes/Permanent-Notes/do-great-work.md",
-    "Evergreen-Notes/Permanent-Notes/work-in-sprints-work-with-your-biology.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_23.md",
-    "Evergreen-Notes/Permanent-Notes/mistake.md",
-    "Evergreen-Notes/Permanent-Notes/always-do-your-best-as-possible.md",
-    "Enoughness/posts/2025-week-46.md",
-    "Evergreen-Notes/Permanent-Notes/Frameworks to structure your day.md",
-    "Evergreen-Notes/Permanent-Notes/work-smart.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_14.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_26.md",
+    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_17.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_27.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_21.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_27.md",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_09.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_26.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_04.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_29.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_26.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_10.md",
+    "Evergreen-Notes/Permanent-Notes/Emotion Control.md",
+    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.md",
+    "Evergreen-Notes/Permanent-Notes/how-to-live-a-life.md",
+    "Evergreen-Notes/Permanent-Notes/death.md",
+    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
+    "Life-Notes/_attachments/f6910fb0a6b8daa262c97c6a6ecee5fd.png",
     "Evergreen-Notes/Permanent-Notes/Pasted image 20251115084113.png",
     "Daily-Bullet-Journal/_attachments/2025_11_14_19_15_21.PNG",
     "Daily-Bullet-Journal/_attachments/2025_11_14_19_15_06.PNG",
@@ -329,7 +379,6 @@
     "Evergreen-Notes/Permanent-Notes/8b6e4c1908690b49af86aebc972860e6.jpg",
     "Enoughness/_attachments/8b6e4c1908690b49af86aebc972860e6.jpg",
     "Evergreen-Notes/Permanent-Notes/Pasted image 20251113144844.png",
-    "Enoughness/posts/2025_11_09_09_55_09.jpeg",
     "Daily-Bullet-Journal/update_journal_headings.py",
     "Daily-Bullet-Journal/journals/2015/11-November",
     "Daily-Bullet-Journal/journals/2015",
