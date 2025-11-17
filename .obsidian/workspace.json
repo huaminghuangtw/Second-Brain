@@ -4,64 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c12d58eaf0fa4ea0",
+        "id": "4248e98af83fb7aa",
         "type": "tabs",
         "children": [
           {
-            "id": "8ac77edc64d5d3df",
+            "id": "b6788f23519f0e89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_16.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_11_16"
-            }
-          },
-          {
-            "id": "df42003b02de33eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/comparison-is-the-thief-of-joy.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "comparison-is-the-thief-of-joy"
-            }
-          },
-          {
-            "id": "9ce59b3e9d91114b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_28.md",
+                "file": "Homepage.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -76,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_10_28"
+              "title": "Homepage"
             }
           },
           {
-            "id": "440d7042ba5d1178",
+            "id": "a9a63742e22fb621",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life-Notes/Business/🏰 My Biz Empire.md",
+                "file": "Evergreen-Notes/Permanent-Notes/wittgensteins-ladder.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -100,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🏰 My Biz Empire"
+              "title": "wittgensteins-ladder"
             }
           },
           {
-            "id": "7fbd7924e74597c2",
+            "id": "72cb7956002fac86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/the-compounding-effect.md",
+                "file": "Evergreen-Notes/Permanent-Notes/be-careful-how-you-are-talking-to-yourself.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -124,35 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "the-compounding-effect"
-            }
-          },
-          {
-            "id": "daa26b7b906a1996",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/How to use AI effectively.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "How to use AI effectively"
+              "title": "be-careful-how-you-are-talking-to-yourself"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Beta Test",
+                "query": "guilt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/How to use AI effectively.md",
+                "file": "Evergreen-Notes/Permanent-Notes/be-careful-how-you-are-talking-to-yourself.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for How to use AI effectively"
+              "title": "Backlinks for be-careful-how-you-are-talking-to-yourself"
             }
           },
           {
@@ -314,14 +242,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_26.md"
+                "file": "Evergreen-Notes/Permanent-Notes/be-careful-how-you-are-talking-to-yourself.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_10_26"
+              "title": "File properties for be-careful-how-you-are-talking-to-yourself"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -340,34 +268,34 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "daa26b7b906a1996",
+  "active": "72cb7956002fac86",
   "lastOpenFiles": [
-    "Evergreen-Notes/Permanent-Notes/the-compounding-effect.md",
-    "Life-Notes/Business/🏰 My Biz Empire.md",
-    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
-    "Dear-Today-Me/Dear-Today-Me.md",
-    "Evergreen-Notes/Permanent-Notes/failing-forward-turns-setbacks-into-stepping-stones.md",
-    "Evergreen-Lists/💭 Journal Prompt/💭 Journal Prompt.md",
-    "Evergreen-Notes/Permanent-Notes/simple-is-beautiful.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_28.md",
-    "Evergreen-Notes/Permanent-Notes/Judgement.md",
-    "Evergreen-Notes/Permanent-Notes/comparison-is-the-thief-of-joy.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_16.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_15.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_26.md",
-    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_17.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_27.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_21.md",
+    "Evergreen-Notes/Permanent-Notes/wittgensteins-ladder.md",
+    "Evergreen-Notes/Permanent-Notes/Lateral Thinking.md",
+    "Evergreen-Notes/Permanent-Notes/The Go-First Principle.md",
+    "Evergreen-Notes/Permanent-Notes/walk.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_04.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_29.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_26.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_10.md",
-    "Evergreen-Notes/Permanent-Notes/Emotion Control.md",
-    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-live-a-life.md",
-    "Evergreen-Notes/Permanent-Notes/death.md",
-    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_17.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_28.md",
+    "Evergreen-Notes/Permanent-Notes/stress-and-anxiety.md",
+    "Evergreen-Notes/Permanent-Notes/the-cost-of-interrupted-work.md",
+    "Evergreen-Notes/Permanent-Notes/task-switching.md",
+    "Evergreen-Notes/Permanent-Notes/attention-residue.md",
+    "Evergreen-Notes/Permanent-Notes/You can achieve anything if you focus on one thing at a time.md",
+    "Life-Notes/Business/Startups.md",
+    "Evergreen-Notes/Permanent-Notes/Neuroscience.md",
+    "Evergreen-Notes/Permanent-Notes/negative-thoughts-and-emotions.md",
+    "Evergreen-Notes/Permanent-Notes/the-sedona-method.md",
+    "Evergreen-Notes/Permanent-Notes/acceptance-and-commitment-therapy.md",
+    "Evergreen-Notes/Permanent-Notes/discipline-equals-freedom.md",
+    "Enoughness/posts/2025-week-46.md",
+    "Evergreen-Notes/Permanent-Notes/you-are-the-average-of-the-five-people-you-associate-with-most.md",
+    "Evergreen-Notes/Permanent-Notes/have-the-courage-to-do-the-right-things.md",
+    "Daily-Bullet-Journal/journals/2023/11-November/2023_11_10.md",
+    "Evergreen-Notes/Permanent-Notes/information-overwhelm.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_27.md",
+    "Life-Notes/Missions/教育改革.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_15.md",
     "Life-Notes/_attachments/f6910fb0a6b8daa262c97c6a6ecee5fd.png",
     "Evergreen-Notes/Permanent-Notes/Pasted image 20251115084113.png",
     "Daily-Bullet-Journal/_attachments/2025_11_14_19_15_21.PNG",
