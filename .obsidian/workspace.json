@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4248e98af83fb7aa",
+        "id": "85ea718423554815",
         "type": "tabs",
         "children": [
           {
-            "id": "b6788f23519f0e89",
+            "id": "554c1bfc8fb144e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "a9a63742e22fb621",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/wittgensteins-ladder.md",
+                "file": "Life-Notes/Missions/教育改革.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "wittgensteins-ladder"
-            }
-          },
-          {
-            "id": "72cb7956002fac86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/be-careful-how-you-are-talking-to-yourself.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "be-careful-how-you-are-talking-to-yourself"
+              "title": "教育改革"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "guilt",
+                "query": "tag:#Newsletter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/be-careful-how-you-are-talking-to-yourself.md",
+                "file": "Life-Notes/Missions/教育改革.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for be-careful-how-you-are-talking-to-yourself"
+              "title": "Backlinks for 教育改革"
             }
           },
           {
@@ -242,14 +193,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/be-careful-how-you-are-talking-to-yourself.md"
+                "file": "Life-Notes/Missions/教育改革.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for be-careful-how-you-are-talking-to-yourself"
+              "title": "File properties for 教育改革"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -268,34 +219,34 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "72cb7956002fac86",
+  "active": "554c1bfc8fb144e3",
   "lastOpenFiles": [
-    "Evergreen-Notes/Permanent-Notes/wittgensteins-ladder.md",
-    "Evergreen-Notes/Permanent-Notes/Lateral Thinking.md",
-    "Evergreen-Notes/Permanent-Notes/The Go-First Principle.md",
-    "Evergreen-Notes/Permanent-Notes/walk.md",
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_17.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_28.md",
-    "Evergreen-Notes/Permanent-Notes/stress-and-anxiety.md",
-    "Evergreen-Notes/Permanent-Notes/the-cost-of-interrupted-work.md",
-    "Evergreen-Notes/Permanent-Notes/task-switching.md",
-    "Evergreen-Notes/Permanent-Notes/attention-residue.md",
-    "Evergreen-Notes/Permanent-Notes/You can achieve anything if you focus on one thing at a time.md",
+    "Evergreen-Notes/Permanent-Notes/always-start-with-end-in-mind.md",
+    "Evergreen-Notes/Permanent-Notes/anger.md",
     "Life-Notes/Business/Startups.md",
-    "Evergreen-Notes/Permanent-Notes/Neuroscience.md",
-    "Evergreen-Notes/Permanent-Notes/negative-thoughts-and-emotions.md",
-    "Evergreen-Notes/Permanent-Notes/the-sedona-method.md",
-    "Evergreen-Notes/Permanent-Notes/acceptance-and-commitment-therapy.md",
-    "Evergreen-Notes/Permanent-Notes/discipline-equals-freedom.md",
-    "Enoughness/posts/2025-week-46.md",
-    "Evergreen-Notes/Permanent-Notes/you-are-the-average-of-the-five-people-you-associate-with-most.md",
-    "Evergreen-Notes/Permanent-Notes/have-the-courage-to-do-the-right-things.md",
-    "Daily-Bullet-Journal/journals/2023/11-November/2023_11_10.md",
-    "Evergreen-Notes/Permanent-Notes/information-overwhelm.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_27.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Enoughness/posts/2025-week-47.md",
     "Life-Notes/Missions/教育改革.md",
+    "Evergreen-Notes/Permanent-Notes/how-to-live-a-life.md",
+    "Evergreen-Notes/Permanent-Notes/goal-setting.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_17.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_18.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_17.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_16.md",
     "Daily-Bullet-Journal/journals/2025/11-November/2025_11_15.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_14.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_12.md",
+    "Weekly-Mindware-Update/issues/2024/2024_Week_10.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_28.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_28.md",
+    "Evergreen-Notes/Permanent-Notes/always-do-your-best-as-possible.md",
+    "Evergreen-Notes/Permanent-Notes/love.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_11.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_10.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_10.md",
+    "Evergreen-Notes/Permanent-Notes/instant-gratification.md",
+    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_06.md",
     "Life-Notes/_attachments/f6910fb0a6b8daa262c97c6a6ecee5fd.png",
     "Evergreen-Notes/Permanent-Notes/Pasted image 20251115084113.png",
     "Daily-Bullet-Journal/_attachments/2025_11_14_19_15_21.PNG",
