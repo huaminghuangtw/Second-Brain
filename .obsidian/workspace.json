@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "85ea718423554815",
+        "id": "e06fbb4c165d7408",
         "type": "tabs",
         "children": [
           {
-            "id": "554c1bfc8fb144e3",
+            "id": "d8f99c7041d2b87a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life-Notes/Missions/教育改革.md",
-                "mode": "source",
+                "file": "Homepage.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "教育改革"
+              "title": "Homepage"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Newsletter",
+                "query": "line:(每天 運動)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life-Notes/Missions/教育改革.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 教育改革"
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -178,29 +177,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_15.md",
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_18.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025_11_15"
-            }
-          },
-          {
-            "id": "b552e61e97a6e49a",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Life-Notes/Missions/教育改革.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for 教育改革"
+              "title": "Outline of 2025_11_18"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -219,45 +206,45 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "554c1bfc8fb144e3",
+  "active": "d8f99c7041d2b87a",
   "lastOpenFiles": [
-    "Evergreen-Notes/Permanent-Notes/always-start-with-end-in-mind.md",
-    "Evergreen-Notes/Permanent-Notes/anger.md",
-    "Life-Notes/Business/Startups.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Enoughness/posts/2025-week-47.md",
-    "Life-Notes/Missions/教育改革.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-live-a-life.md",
-    "Evergreen-Notes/Permanent-Notes/goal-setting.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_17.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_19.md",
     "Daily-Bullet-Journal/journals/2025/11-November/2025_11_18.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_17.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_16.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_15.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_14.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_12.md",
-    "Weekly-Mindware-Update/issues/2024/2024_Week_10.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_28.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_28.md",
-    "Evergreen-Notes/Permanent-Notes/always-do-your-best-as-possible.md",
-    "Evergreen-Notes/Permanent-Notes/love.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_11.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_10.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_10.md",
-    "Evergreen-Notes/Permanent-Notes/instant-gratification.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_06.md",
-    "Life-Notes/_attachments/f6910fb0a6b8daa262c97c6a6ecee5fd.png",
-    "Evergreen-Notes/Permanent-Notes/Pasted image 20251115084113.png",
-    "Daily-Bullet-Journal/_attachments/2025_11_14_19_15_21.PNG",
-    "Daily-Bullet-Journal/_attachments/2025_11_14_19_15_06.PNG",
-    "Enoughness/_attachments/2025_11_09_09_55_09.jpeg",
-    "Enoughness/_attachments/659eca5f34a3fd534e4b77bb0733d243.jpeg",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_01.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_24.md",
+    "Daily-Bullet-Journal/journals/2023/02-February/2023_02_13.md",
+    "Shortcutomation/posts/how-i-build-daily-exercise-habits-using-apple-shortcuts.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_04.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_21.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_02.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_02.md",
+    "Evergreen-Notes/Permanent-Notes/self-compassion.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_17.md",
+    "Daily-Bullet-Journal/journals/2022/11-November/2022_11_16.md",
+    "Daily-Bullet-Journal/journals/2022/11-November/2022_11_15.md",
+    "Evergreen-Notes/Permanent-Notes/change-yourself-to-change-the-world.md",
+    "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
+    "Shortcutomation/_attachments/4e31fc5512c582ce9056a85baf0e0017.png",
+    "Shortcutomation/_attachments/2d28399fa18c3b51fd2258e7f7b3b44b.gif",
+    "Shortcutomation/_attachments/4e31fc5512c582ce9056a85baf0e0017.PNG",
+    "Shortcutomation/_attachments/image.png",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_07.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_10.md",
+    "Evergreen-Notes/Permanent-Notes/you-dont-need-to-be-liked-to-be-loved.md",
+    "Evergreen-Notes/Permanent-Notes/if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md",
+    "Enoughness/posts/2025-week-47.md",
+    "Untitled.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_15.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_27.md",
+    "Evergreen-Notes/Permanent-Notes/push-your-limits.md",
+    "Shortcutomation/_attachments/57fdc2d2fd3ec378e43e0a09f69ecfd0.PNG",
+    "Shortcutomation/_attachments/c534c6f9d8118cbfd9a6f7d3b05626c0.PNG",
+    "Shortcutomation/_attachments/6e72b2697c7092a5ec3180bd5d050a41.PNG",
+    "Shortcutomation/_attachments/7a82573b61bec7ed8cb6b014f2b4beef.GIF",
+    "Shortcutomation/_attachments/08bf0b9bf606f3058219a94adb75a1b8.PNG",
     "Evergreen-Notes/_attachments/4b19e8a421f26f1dc59cd99fdc1e7439.png",
     "Evergreen-Lists/README.md.tmp",
-    "Evergreen-Notes/Permanent-Notes/8b6e4c1908690b49af86aebc972860e6.jpg",
-    "Enoughness/_attachments/8b6e4c1908690b49af86aebc972860e6.jpg",
-    "Evergreen-Notes/Permanent-Notes/Pasted image 20251113144844.png",
     "Daily-Bullet-Journal/update_journal_headings.py",
     "Daily-Bullet-Journal/journals/2015/11-November",
     "Daily-Bullet-Journal/journals/2015",
