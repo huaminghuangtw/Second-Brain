@@ -283,15 +283,7 @@
   "linterLocale": "system-default",
   "logLevel": "ERROR",
   "lintCommands": [],
-  "customRegexes": [
-    {
-      "label": "",
-      "find": "'(?=\\w)",
-      "replace": "’",
-      "flags": "g",
-      "enabled": true
-    }
-  ],
+  "customRegexes": [],
   "commonStyles": {
     "aliasArrayStyle": "multi-line",
     "tagArrayStyle": "multi-line",

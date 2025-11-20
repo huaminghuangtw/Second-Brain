@@ -1,0 +1,31 @@
+{
+  "ignoreFolders": [
+    "Visuals/Fitness/Darebee/",
+    "Deep-Work-Machine/",
+    "Weekly-Mindware-Update/",
+    "Brain-Food/",
+    "Evergreen-Lists/",
+    "Dear-Today-Me/"
+  ],
+  "renameFileTypes": [
+    "png",
+    "jpg",
+    "jpeg",
+    "gif",
+    "svg",
+    "webp",
+    "avif",
+    "heic",
+    "PNG",
+    "JPG",
+    "JPEG",
+    "GIF",
+    "SVG",
+    "WEBP",
+    "AVIF",
+    "HEIC"
+  ],
+  "renameOnlyLinkedAttachments": false,
+  "mergeTheSameAttachments": true,
+  "savePreviousName": false
+}

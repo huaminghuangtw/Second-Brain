@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e06fbb4c165d7408",
+        "id": "19456f1f11df2589",
         "type": "tabs",
         "children": [
           {
-            "id": "d8f99c7041d2b87a",
+            "id": "8c1341926926d705",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_20.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2025_11_20"
+            }
+          },
+          {
+            "id": "d443005948209a8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shortcutomation/posts/this-apple-shortcut-got-me-to-exercise-every-single-day.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "this-apple-shortcut-got-me-to-exercise-every-single-day"
+            }
+          },
+          {
+            "id": "7235ae4dd8525a33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enoughness/posts/2025-week-47.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-week-47"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(每天 運動)",
+                "query": "obsidian meeting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +133,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Enoughness/posts/2025-week-47.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 2025-week-47"
             }
           },
           {
@@ -185,9 +235,21 @@
               "icon": "lucide-list",
               "title": "Outline of 2025_11_18"
             }
+          },
+          {
+            "id": "a0bd8828513ab830",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Enoughness/posts/2025-week-47.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 2025-week-47"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -206,44 +268,44 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "d8f99c7041d2b87a",
+  "active": "7235ae4dd8525a33",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_19.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_18.md",
+    "Shortcutomation/posts/this-apple-shortcut-got-me-to-exercise-every-single-day.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_28.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_20.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_01.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_24.md",
-    "Daily-Bullet-Journal/journals/2023/02-February/2023_02_13.md",
-    "Shortcutomation/posts/how-i-build-daily-exercise-habits-using-apple-shortcuts.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_04.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_21.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_02.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_02.md",
-    "Evergreen-Notes/Permanent-Notes/self-compassion.md",
     "Daily-Bullet-Journal/journals/2025/11-November/2025_11_17.md",
-    "Daily-Bullet-Journal/journals/2022/11-November/2022_11_16.md",
-    "Daily-Bullet-Journal/journals/2022/11-November/2022_11_15.md",
-    "Evergreen-Notes/Permanent-Notes/change-yourself-to-change-the-world.md",
-    "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
-    "Shortcutomation/_attachments/4e31fc5512c582ce9056a85baf0e0017.png",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_16.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_15.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_14.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_13.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_18.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_19.md",
+    "Evergreen-Notes/Permanent-Notes/stress-and-anxiety.md",
+    "Enoughness/posts/2025-week-47.md",
+    "Evergreen-Notes/Permanent-Notes/if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md",
+    "Evergreen-Notes/Permanent-Notes/the-5-25-rule.md",
+    "Evergreen-Notes/Permanent-Notes/eat-the-biggest-frog-first-thing-in-the-morning.md",
+    "Evergreen-Notes/Permanent-Notes/seven-things-successful-people-say-no-to-every-day.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_02.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_16.md",
+    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_12.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_16.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_24.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_06.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_20.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_10.md",
+    "Evergreen-Notes/_attachments/c0e397b355179aa12b94aebb19402907.png",
+    "Shortcutomation/_attachments/21c1c47d98c5333045192ad0b1e458a9.png",
     "Shortcutomation/_attachments/2d28399fa18c3b51fd2258e7f7b3b44b.gif",
     "Shortcutomation/_attachments/4e31fc5512c582ce9056a85baf0e0017.PNG",
     "Shortcutomation/_attachments/image.png",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_07.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_10.md",
-    "Evergreen-Notes/Permanent-Notes/you-dont-need-to-be-liked-to-be-loved.md",
-    "Evergreen-Notes/Permanent-Notes/if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md",
-    "Enoughness/posts/2025-week-47.md",
-    "Untitled.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_15.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_27.md",
-    "Evergreen-Notes/Permanent-Notes/push-your-limits.md",
     "Shortcutomation/_attachments/57fdc2d2fd3ec378e43e0a09f69ecfd0.PNG",
     "Shortcutomation/_attachments/c534c6f9d8118cbfd9a6f7d3b05626c0.PNG",
     "Shortcutomation/_attachments/6e72b2697c7092a5ec3180bd5d050a41.PNG",
     "Shortcutomation/_attachments/7a82573b61bec7ed8cb6b014f2b4beef.GIF",
     "Shortcutomation/_attachments/08bf0b9bf606f3058219a94adb75a1b8.PNG",
-    "Evergreen-Notes/_attachments/4b19e8a421f26f1dc59cd99fdc1e7439.png",
     "Evergreen-Lists/README.md.tmp",
     "Daily-Bullet-Journal/update_journal_headings.py",
     "Daily-Bullet-Journal/journals/2015/11-November",
