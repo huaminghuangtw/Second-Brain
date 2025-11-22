@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T17:18:12
-modified: 2025-10-25T08:17:30
+modified: 2025-11-20T18:10:26
 ---
 
 <!-- four-quarters-in-a-day -->
@@ -162,7 +162,7 @@ if (onDesktop) {
 > function getData(days) {
 >     return dv.pages('"Daily-Bullet-Journal"')
 >         .where(p => p.date >= today.minus({ days }) && p.date < today.plus({ days: 1 }))
->         .sort(p => p.date, 'desc')
+>         .sort(p => p.date, ’desc')
 >         .map((entry, i, entries) => {
 >             const prev = entries[i + 1];
 >             const sleepTime = prev?.bedTime && entry.wakeUpTime
@@ -175,7 +175,7 @@ if (onDesktop) {
 >                 steps: entry.steps || NO_DATA
 >             };
 >         })
->         .slice(0, -1); // Exclude the last entry since it won't have a "yesterday" entry
+>         .slice(0, -1); // Exclude the last entry since it won’t have a "yesterday" entry
 > }
 >
 > const [data7, data30, data90, data180] = [7, 30, 90, 180].map(getData);
@@ -204,7 +204,7 @@ if (onDesktop) {
 > const metrics = ["🛌 Sleep Time", "📱 Screen Time", "🚶 Steps"];
 > const periods = ["7-Day", "30-Day", "90-Day", "180-Day"];
 > const datasets = [data7, data30, data90, data180];
-> const keys = ['sleepTime', 'screenTime', 'steps'];
+> const keys = [’sleepTime', ’screenTime', ’steps'];
 > const isTimeMetric = [true, true, false];
 >
 > dv.table(
@@ -412,11 +412,11 @@ if (onDesktop) {
                 )
             },
             {
-                headerText: "🗓 Last Week's Journals",
+                headerText: "🗓 Last Week’s Journals",
                 pages: await Utils.getJournalsURLs(dv,
                     p => p.date &&
-                    p.date >= today.minus({ weeks: 1 }).startOf('week') &&
-                    p.date <= today.minus({ weeks: 1 }).endOf('week')
+                    p.date >= today.minus({ weeks: 1 }).startOf(’week') &&
+                    p.date <= today.minus({ weeks: 1 }).endOf(’week')
                 )
             }
         ]
