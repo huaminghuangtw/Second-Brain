@@ -1,11 +1,11 @@
 {
-  "id": "consistent-attachments-and-links",
-  "name": "Consistent Attachments and Links",
-  "version": "3.31.12",
-  "minAppVersion": "1.9.14",
-  "description": "This plugin ensures the consistency of attachments and links",
-  "author": "Dmitry Savosh",
-  "authorUrl": "https://github.com/dy-sh/",
-  "isDesktopOnly": false,
-  "fundingUrl": "https://www.buymeacoffee.com/mnaoumov"
+    "author": "Dmitry Savosh",
+    "isDesktopOnly": true,
+    "id": "consistent-attachments-and-links",
+    "minAppVersion": "1.9.14",
+    "fundingUrl": "https://www.buymeacoffee.com/mnaoumov",
+    "version": "3.31.12",
+    "description": "This plugin ensures the consistency of attachments and links",
+    "name": "Consistent Attachments and Links",
+    "authorUrl": "https://github.com/dy-sh/"
 }

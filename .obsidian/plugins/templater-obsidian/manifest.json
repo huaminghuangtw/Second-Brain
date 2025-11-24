@@ -1,11 +1,11 @@
 {
+    "author": "SilentVoid",
+    "isDesktopOnly": true,
     "id": "templater-obsidian",
-    "name": "Templater",
+    "minAppVersion": "1.5.0",
+    "helpUrl": "https://silentvoid13.github.io/Templater/",
     "version": "2.16.2",
     "description": "Create and use templates",
-    "minAppVersion": "1.5.0",
-    "author": "SilentVoid",
-    "authorUrl": "https://github.com/SilentVoid13",
-    "helpUrl": "https://silentvoid13.github.io/Templater/",
-    "isDesktopOnly": false
+    "name": "Templater",
+    "authorUrl": "https://github.com/SilentVoid13"
 }

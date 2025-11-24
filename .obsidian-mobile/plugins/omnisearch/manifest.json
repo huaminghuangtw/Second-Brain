@@ -7,7 +7,7 @@
         "Github": "https://github.com/sponsors/scambier",
         "Ko-fi": "https://ko-fi.com/scambier"
     },
-    "version": "1.27.2",
+    "version": "1.27.3",
     "description": "A search engine that just works",
     "name": "Omnisearch",
     "authorUrl": "https://github.com/scambier/obsidian-omnisearch"

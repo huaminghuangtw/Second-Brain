@@ -2,9 +2,9 @@
     "author": "mnaoumov",
     "isDesktopOnly": true,
     "id": "backlink-cache",
-    "minAppVersion": "1.9.12",
+    "minAppVersion": "1.9.14",
     "fundingUrl": "https://www.buymeacoffee.com/mnaoumov",
-    "version": "2.11.14",
+    "version": "2.11.17",
     "description": "Stores backlink cache to speed up `app.metadataCache.getBacklinksForFile`",
     "name": "Backlink Cache",
     "authorUrl": "https://github.com/mnaoumov/"
