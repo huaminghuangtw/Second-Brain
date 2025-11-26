@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bbd78e287e4200e5",
+        "id": "09f890cfe15a46ed",
         "type": "tabs",
         "children": [
           {
-            "id": "470e5c21b17ca0c7",
+            "id": "49736de167297962",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Homepage.md",
                 "mode": "preview",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "19ddcbca9a94a4e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_19.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_11_19"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +63,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Vattenfall",
-                "matchingCase": false,
+                "query": "tag:#BuJo/🔍Novelty×Adventure×SideQuests",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -131,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_19.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_11_19"
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -218,14 +193,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_19.md"
+                "file": "Daily-Bullet-Journal/journals/2025/02-February/2025_02_08.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_11_19"
+              "title": "File properties for 2025_02_08"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -244,34 +219,34 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "19ddcbca9a94a4e3",
+  "active": "49736de167297962",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_25.md",
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_19.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_20.md",
+    "Daily-Bullet-Journal/_attachments/d1559267a3b675ff95dddf08624f24ee.png",
     "Daily-Bullet-Journal/journals/2025/11-November/2025_11_21.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_22.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_23.md",
+    "About.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_14.md",
+    "Weekly-Mindware-Update/issues/2025/2025_Week_05.md",
+    "Dear-Today-Me/Dear-Today-Me.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_18.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_19.md",
     "Daily-Bullet-Journal/journals/2025/11-November/2025_11_24.md",
-    "Evergreen-Notes/Permanent-Notes/be-careful-how-you-are-talking-to-yourself.md",
-    "Evergreen-Notes/Permanent-Notes/Quit social media.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_19.md",
-    "Evergreen-Notes/Permanent-Notes/seek-for-the-truth.md",
-    "Evergreen-Notes/Permanent-Notes/Peace from mind.md",
-    "Evergreen-Notes/Permanent-Notes/be-a-habit-and-routine-machine.md",
-    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
-    "Daily-Bullet-Journal/journals/2022/11-November/2022_11_25.md",
-    "Daily-Bullet-Journal/journals/2023/11-November/2023_11_25.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_25.md",
-    "Evergreen-Notes/Permanent-Notes/randomly-intermittent-reward-timing.md",
-    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
-    "Evergreen-Notes/Permanent-Notes/trust-your-gut.md",
-    "Evergreen-Notes/Permanent-Notes/love.md",
-    "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
-    "Evergreen-Notes/Permanent-Notes/The Game of Life.md",
-    "AdaptX/posts/you-and-your-timeline.md",
-    "Evergreen-Notes/Permanent-Notes/reflect-and-review.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_25.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_22.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_20.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_17.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_26.md",
+    "Evergreen-Notes/Permanent-Notes/kindness.md",
+    "Evergreen-Notes/Permanent-Notes/Fasting.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_05.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_11.md",
+    "Evergreen-Notes/Permanent-Notes/live-in-the-present.md",
+    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_18.md",
+    "Evergreen-Notes/Permanent-Notes/sleep.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_08.md",
+    "Enoughness/posts/2025-week-48.md",
+    "Evergreen-Notes/Permanent-Notes/mastering-yourself-is-superpower.md",
+    "Weekly-Mindware-Update/issues/2025/2025_Week_30.md",
     "Daily-Bullet-Journal/journals/2025/11-November/Pasted image 20251124124121.png",
     "Visuals/Fitness/Darebee/ExerciseOfTheDay/V-Extensions.gif",
     "Evergreen-Notes/_attachments/7250564ec2d06c4dedc8ef32672fbc90.jpg",

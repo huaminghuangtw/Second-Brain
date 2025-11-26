@@ -286,7 +286,7 @@
   "customRegexes": [
     {
       "label": "",
-      "find": "'(?=\\w)",
+      "find": "'(?=(s|t|d|re|ll|ve)\\b)",
       "replace": "’",
       "flags": "g",
       "enabled": true

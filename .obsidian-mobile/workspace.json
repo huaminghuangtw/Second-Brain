@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8bda6b39dc4decef",
+        "id": "09f890cfe15a46ed",
         "type": "tabs",
         "children": [
           {
-            "id": "a8aa01de465aa59f",
+            "id": "49736de167297962",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,8 +63,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "林之晨",
-                "matchingCase": false,
+                "query": "tag:#BuJo/🔍Novelty×Adventure×SideQuests",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -193,14 +193,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "AdaptX/posts/you-and-your-timeline.md"
+                "file": "Daily-Bullet-Journal/journals/2025/02-February/2025_02_08.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for you-and-your-timeline"
+              "title": "File properties for 2025_02_08"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -219,34 +219,37 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "a8aa01de465aa59f",
+  "active": "49736de167297962",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_15.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_08.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_19.md",
-    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_23.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_01.md",
-    "Life-Notes/Alignment/🤡 My Identities & Characters.md",
-    "Evergreen-Notes/Permanent-Notes/goal-setting.md",
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_02.md",
-    "Evergreen-Notes/Permanent-Notes/healthy-eating-habits.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_22.md",
-    "Evergreen-Notes/Permanent-Notes/breathing-techniques.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_07.md",
-    "Evergreen-Notes/Permanent-Notes/intentional-living.md",
-    "Evergreen-Notes/Permanent-Notes/Speak less, listen more.md",
-    "Evergreen-Notes/Permanent-Notes/hope-for-the-best-prepare-for-the-worst.md",
-    "Evergreen-Notes/Permanent-Notes/never-lose-faith-and-hope.md",
-    "Enoughness/posts/2025-week-43.md",
-    "AdaptX/posts/you-and-your-timeline.md",
-    "Evergreen-Notes/Permanent-Notes/Be impeccable with your word.md",
-    "Evergreen-Notes/Permanent-Notes/active-listening.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_47.md",
+    "Daily-Bullet-Journal/_attachments/Pasted image 20251124124121.png",
     "Daily-Bullet-Journal/journals/2025/11-November/2025_11_21.md",
-    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_01.md",
-    "Evergreen-Notes/Permanent-Notes/everyone-is-on-their-own-timeline.md",
+    "About.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_14.md",
+    "Weekly-Mindware-Update/issues/2025/2025_Week_05.md",
+    "Dear-Today-Me/Dear-Today-Me.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_18.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_19.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_24.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_25.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_22.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_20.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_17.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_26.md",
+    "Evergreen-Notes/Permanent-Notes/kindness.md",
+    "Evergreen-Notes/Permanent-Notes/Fasting.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_05.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_11.md",
+    "Evergreen-Notes/Permanent-Notes/live-in-the-present.md",
+    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_18.md",
+    "Evergreen-Notes/Permanent-Notes/sleep.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_08.md",
+    "Enoughness/posts/2025-week-48.md",
+    "Evergreen-Notes/Permanent-Notes/mastering-yourself-is-superpower.md",
+    "Weekly-Mindware-Update/issues/2025/2025_Week_30.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/Pasted image 20251124124121.png",
+    "Visuals/Fitness/Darebee/ExerciseOfTheDay/V-Extensions.gif",
+    "Evergreen-Notes/_attachments/7250564ec2d06c4dedc8ef32672fbc90.jpg",
     "Evergreen-Notes/_attachments/c0e397b355179aa12b94aebb19402907.png",
     "Shortcutomation/_attachments/21c1c47d98c5333045192ad0b1e458a9.png",
     "Shortcutomation/_attachments/2d28399fa18c3b51fd2258e7f7b3b44b.gif",
@@ -254,9 +257,6 @@
     "Shortcutomation/_attachments/image.png",
     "Shortcutomation/_attachments/57fdc2d2fd3ec378e43e0a09f69ecfd0.PNG",
     "Shortcutomation/_attachments/c534c6f9d8118cbfd9a6f7d3b05626c0.PNG",
-    "Shortcutomation/_attachments/6e72b2697c7092a5ec3180bd5d050a41.PNG",
-    "Shortcutomation/_attachments/7a82573b61bec7ed8cb6b014f2b4beef.GIF",
-    "Shortcutomation/_attachments/08bf0b9bf606f3058219a94adb75a1b8.PNG",
     "Evergreen-Lists/README.md.tmp",
     "Daily-Bullet-Journal/update_journal_headings.py",
     "Daily-Bullet-Journal/journals/2015/11-November",
