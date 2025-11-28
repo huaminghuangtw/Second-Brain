@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3f7b816d609f08b4",
+        "id": "cc508ac2e85c6f82",
         "type": "tabs",
         "children": [
           {
-            "id": "ef12d79ad96c3bbc",
+            "id": "e669bf0a01da84ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_27.md",
-                "mode": "source",
+                "file": "Enoughness/posts/2025-week-46.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,18 +28,18 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_11_27"
+              "title": "2025-week-46"
             }
           },
           {
-            "id": "1e4a23df7d48ea6e",
+            "id": "901e72746d90d587",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_27.md",
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_28.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_11_27"
+              "title": "2025_11_28"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "赤足鞋",
+                "query": "蝦皮",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_27.md",
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_11_27"
+              "title": "Backlinks for 2025_11_28"
             }
           },
           {
@@ -218,10 +218,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_27.md"
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_28.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_11_27"
+              "title": "File properties for 2025_11_28"
             }
           }
         ],
@@ -244,34 +244,34 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "1e4a23df7d48ea6e",
+  "active": "901e72746d90d587",
   "lastOpenFiles": [
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_27.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_27.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_26.md",
-    "Life-Notes/Alignment/🐤 New Hobbies.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_25.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_28.md",
     "Enoughness/posts/2025-week-48.md",
-    "Evergreen-Notes/Permanent-Notes/a-man-who-is-a-master-of-patience-is-master-of-everything-else.md",
-    "Life-Notes/Coding/Programmer Best Practices.md",
-    "Evergreen-Notes/Permanent-Notes/change-yourself-to-change-the-world.md",
-    "Evergreen-Notes/Permanent-Notes/perfectionism.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_24.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_05.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_18.md",
-    "Evergreen-Notes/Permanent-Notes/Frameworks to structure your day.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_27.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_17.md",
+    "Enoughness/posts/2025-week-46.md",
     "Enoughness/posts/2025-week-47.md",
-    "Evergreen-Notes/Permanent-Notes/never-ever-complain-about-anything.md",
-    "Untitled.md",
-    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
-    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_20.md",
-    "Daily-Bullet-Journal/journals/2022/11-November/2022_11_27.md",
-    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_01.md",
-    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_21.md",
+    "Homepage.md",
+    "Evergreen-Notes/Permanent-Notes/blue-zones.md",
+    "Evergreen-Notes/Permanent-Notes/healthy-eating-habits.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_25.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_14.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_02.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_16.md",
+    "Evergreen-Notes/Permanent-Notes/change-yourself-to-change-the-world.md",
     "Evergreen-Notes/Permanent-Notes/mastering-yourself-is-superpower.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_27.md",
-    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_31.md",
+    "Evergreen-Notes/Permanent-Notes/jordan-petersons-12-rules-for-life.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_26.md",
+    "Evergreen-Notes/Permanent-Notes/Apple Shortcuts.md",
+    "Daily-Bullet-Journal/journals/2022/11-November/2022_11_28.md",
+    "Daily-Bullet-Journal/journals/2023/11-November/2023_11_28.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_28.md",
+    "Evergreen-Notes/Permanent-Notes/Body Language.md",
+    "Evergreen-Notes/Permanent-Notes/URL_Schemes.md",
+    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_06.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_27.md",
     "Daily-Bullet-Journal/_attachments/d1559267a3b675ff95dddf08624f24ee.png",
     "Daily-Bullet-Journal/journals/2025/11-November/Pasted image 20251124124121.png",
     "Visuals/Fitness/Darebee/ExerciseOfTheDay/V-Extensions.gif",
