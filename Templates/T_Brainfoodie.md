@@ -10,9 +10,9 @@ const url = await tp.system.prompt("🔗 URL?") || "";
 -%>
 ---
 draft: true
-title: "▍<% title %>"
+title: “▍<% title %>”
 category: <% category %>
-author: <% authors.length === 1 ? authors[0] : `\n${authors.map(a => `  - ${a}`).join('\n')}` %>
+author: <% authors.length === 1 ? authors[0] : `\n${authors.map(a => ` - ${a}`).join('\n')}` %>
 url: <% url %>
 ---
 
