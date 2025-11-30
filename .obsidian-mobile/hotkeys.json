@@ -865,5 +865,15 @@
       ],
       "key": "S"
     }
+  ],
+  "obsidian-shellcommands:shell-command-kelulfeihc": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
   ]
 }
