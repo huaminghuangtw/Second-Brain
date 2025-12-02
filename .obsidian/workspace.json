@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2308a2cfb0ee2526",
+        "id": "2f25a9243b16558c",
         "type": "tabs",
         "children": [
           {
-            "id": "60845f0095f08db4",
+            "id": "1446727cd291fc36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes-to-Self/posts/2025-09-07.md",
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_30.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-07"
-            }
-          },
-          {
-            "id": "b4e26f50cb7adfd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_01.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_12_01"
-            }
-          },
-          {
-            "id": "0800e9020b4a103d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dear-Today-Me/README.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "2025_11_30"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "簡立峰",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dear-Today-Me/README.md",
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for 2025_11_30"
             }
           },
           {
@@ -242,10 +193,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dear-Today-Me/README.md"
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_30.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for README"
+              "title": "File properties for 2025_11_30"
             }
           }
         ],
@@ -303,8 +254,33 @@
                   "icon": "lucide-file",
                   "title": "communication"
                 }
+              },
+              {
+                "id": "2b1d02aca1caf5d1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_01.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025_12_01"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -317,34 +293,37 @@
       }
     ]
   },
-  "active": "0800e9020b4a103d",
+  "active": "1446727cd291fc36",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_01.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_23.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_06.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_09.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_30.md",
-    "Evergreen-Notes/Permanent-Notes/stress-and-anxiety.md",
-    "Evergreen-Notes/Permanent-Notes/resilience.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_17.md",
-    "Life-Notes/Finance/Investment 101.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_20.md",
-    "Evergreen-Notes/Permanent-Notes/intentional-living.md",
-    "Evergreen-Notes/Permanent-Notes/communication.md",
-    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_25.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_29.md",
-    "Evergreen-Notes/Permanent-Notes/the-compounding-effect.md",
-    "Evergreen-Notes/Permanent-Notes/Prioritization.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_24.md",
-    "Evergreen-Notes/Permanent-Notes/Emotion Control.md",
-    "Evergreen-Notes/Permanent-Notes/the-law-of-attraction.md",
+    "Evergreen-Lists/🌍 World Cuisine/🌍 World Cuisine.pdf",
     "Homepage.md",
-    "Notes-to-Self/posts/2025-09-07.md",
-    "Daily-Bullet-Journal/journals/2022/11-November/2022_11_30.md",
-    "Daily-Bullet-Journal/journals/2022/12-December/2022_12_01.md",
-    "Daily-Bullet-Journal/journals/2023/12-December/2023_12_01.md",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_01.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_02.md",
+    "Shortcutomation/posts/hidden-keyboard-shortcuts-for-apple-shortcuts.md",
+    "Evergreen-Lists/📱 Shortcuts Dev Tip/📱 Shortcuts Dev Tip.pdf",
+    "Evergreen-Lists/👑 Life Pro Tip/👑 Life Pro Tip.pdf",
+    "Evergreen-Lists/⌨️ Keyboard Hotkey/Keyboard-Hotkey.pdf",
+    "Shortcutomation/posts/a-nighttime-routine-i-do-every-day.md",
+    "Shortcutomation/posts/a-midday-routine-i-do-every-day.md",
+    "Shortcutomation/posts/live-each-day-as-if-it-were-your-last.md",
+    "Dear-Today-Me/Dear-Today-Me.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_01.md",
+    "Brainfoodie/posts/kindled.md",
+    "Enoughness/posts/2025-week-47.md",
+    "Brainfoodie/posts/natural-farming.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_19.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_18.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_30.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_29.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_28.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_27.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_26.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_25.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_24.md",
+    "Enoughness/posts/2025-week-48.md",
+    "Enoughness/posts/2025-week-49.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_24.md",
+    "Templates/T_Enoughness.md",
+    "Untitled.md",
     "Daily-Bullet-Journal/journals/2025/12-December",
     "Evergreen-Notes/_attachments/5633e2ff39cb06efd22e09b534270123.jpeg",
     "Scripts/cleanup_flow_data.py",
@@ -361,9 +340,6 @@
     "Daily-Bullet-Journal/update_journal_headings.py",
     "Daily-Bullet-Journal/journals/2015/11-November",
     "Daily-Bullet-Journal/journals/2015",
-    "Daily-Bullet-Journal/journals/2016/12-December",
-    "Daily-Bullet-Journal/journals/2021/04-April",
-    "Daily-Bullet-Journal/journals/2021/03-March",
-    "Daily-Bullet-Journal/journals/2021"
+    "Daily-Bullet-Journal/journals/2016/12-December"
   ]
 }

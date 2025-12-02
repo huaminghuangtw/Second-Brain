@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "717c9658ad8dcdc2",
+        "id": "554702bbd869a7f3",
         "type": "tabs",
         "children": [
           {
-            "id": "25dbc85dd8ca91cd",
+            "id": "98e70b49a2a1d341",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "稻香",
+                "query": "簡立峰",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,10 +193,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_30.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_11_30"
+              "title": "File properties for Homepage"
             }
           }
         ],
@@ -219,34 +219,85 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "25dbc85dd8ca91cd",
+  "floating": {
+    "id": "fda2fc751cd687f3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "72ccf1f846063063",
+        "type": "window",
+        "children": [
+          {
+            "id": "984375094f542ed8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9028a935de6c8599",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Evergreen-Notes/Permanent-Notes/communication.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "communication"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "maximize": false,
+        "zoom": 1.5
+      }
+    ]
+  },
+  "active": "98e70b49a2a1d341",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_30.md",
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_07.md",
-    "Life-Notes/Business/🇹🇼 Taiwanese Creators & Founders.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_20.md",
-    "Evergreen-Notes/Permanent-Notes/push-your-limits.md",
-    "Weekly-Mindware-Update/README.md",
-    "Shortcutomation/posts/this-apple-shortcut-got-me-to-exercise-every-single-day.md",
-    "Evergreen-Notes/Permanent-Notes/always-start-small.md",
-    "Evergreen-Lists/README.md",
-    "Brain-Food/README.md",
-    "Deep-Work-Machine/README.md",
-    "Shortcutomation/posts/a-nighttime-routine-i-do-every-day.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_48.md",
-    "Shortcutomation/posts/shortcut-input-magic-youre-probably-missing.md",
     "Dear-Today-Me/README.md",
-    "Shortcutomation/posts/live-each-day-as-if-it-were-your-last.md",
-    "AdaptX/posts/death.md",
-    "Shortcutomation/posts/a-midday-routine-i-do-every-day.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_13.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_15.md",
-    "Dear-Today-Me/Dear-Today-Me.md",
-    "Evergreen-Notes/Permanent-Notes/the-absence-of-desire-is-true-happiness.md",
-    "Weekly-Mindware-Update/issues/2024/2024_Week_10.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_30.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_15.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_01.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_23.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_06.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_09.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_30.md",
+    "Evergreen-Notes/Permanent-Notes/stress-and-anxiety.md",
+    "Evergreen-Notes/Permanent-Notes/resilience.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_17.md",
+    "Life-Notes/Finance/Investment 101.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_20.md",
+    "Evergreen-Notes/Permanent-Notes/intentional-living.md",
+    "Evergreen-Notes/Permanent-Notes/communication.md",
+    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_25.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_29.md",
+    "Evergreen-Notes/Permanent-Notes/the-compounding-effect.md",
+    "Evergreen-Notes/Permanent-Notes/Prioritization.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_24.md",
+    "Evergreen-Notes/Permanent-Notes/Emotion Control.md",
+    "Evergreen-Notes/Permanent-Notes/the-law-of-attraction.md",
+    "Homepage.md",
+    "Notes-to-Self/posts/2025-09-07.md",
+    "Daily-Bullet-Journal/journals/2022/11-November/2022_11_30.md",
+    "Daily-Bullet-Journal/journals/2022/12-December/2022_12_01.md",
+    "Daily-Bullet-Journal/journals/2023/12-December/2023_12_01.md",
+    "Daily-Bullet-Journal/journals/2025/12-December",
+    "Evergreen-Notes/_attachments/5633e2ff39cb06efd22e09b534270123.jpeg",
     "Scripts/cleanup_flow_data.py",
     "Daily-Bullet-Journal/_attachments/d1559267a3b675ff95dddf08624f24ee.png",
     "Daily-Bullet-Journal/journals/2025/11-November/Pasted image 20251124124121.png",
@@ -257,7 +308,6 @@
     "Shortcutomation/_attachments/2d28399fa18c3b51fd2258e7f7b3b44b.gif",
     "Shortcutomation/_attachments/4e31fc5512c582ce9056a85baf0e0017.PNG",
     "Shortcutomation/_attachments/image.png",
-    "Shortcutomation/_attachments/57fdc2d2fd3ec378e43e0a09f69ecfd0.PNG",
     "Evergreen-Lists/README.md.tmp",
     "Daily-Bullet-Journal/update_journal_headings.py",
     "Daily-Bullet-Journal/journals/2015/11-November",
@@ -265,7 +315,6 @@
     "Daily-Bullet-Journal/journals/2016/12-December",
     "Daily-Bullet-Journal/journals/2021/04-April",
     "Daily-Bullet-Journal/journals/2021/03-March",
-    "Daily-Bullet-Journal/journals/2021",
-    "Daily-Bullet-Journal/journals/2016/03-March"
+    "Daily-Bullet-Journal/journals/2021"
   ]
 }
