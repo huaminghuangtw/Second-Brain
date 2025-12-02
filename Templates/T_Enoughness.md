@@ -17,10 +17,10 @@ const fridayDate = moment().weekday(5);
 draft: true
 title: ⚖️ <% title %>
 slug: enoughness-<% issue %>
-description: “<% `Enoughness #${issue}` %>”
+description: "<% `Enoughness #${issue}` %>"
 issue: <% issue %>
-prev: “<% prev %>”
-next: “<% next %>”
+prev: "<% prev %>"
+next: "<% next %>"
 created: <% fridayDate.format('YYYY-MM-DD[T00:00:00]') %>
 ---
 
@@ -44,7 +44,7 @@ _嗨，我是 [黃樺明](https://huami.ng)，我熱愛 [寫作](https://huami.n
 
 # 5
 
-— [樺明](<https://huami.ng/><% fridayDate.format('YYYY/M/D') %>/enoughness-<% issue %>)
+— [樺明](https://huami.ng/<% fridayDate.format('YYYY/M/D') %>/enoughness-<% issue %>)
 
 ---
 
