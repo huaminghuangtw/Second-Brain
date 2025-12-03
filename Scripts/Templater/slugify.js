@@ -39,6 +39,7 @@ function slugify(text) {
         "€": "euro",
         "£": "pound",
         $: "dollar",
+        "%": "percent",
     };
 
     return (
@@ -51,7 +52,7 @@ function slugify(text) {
             .replace(/[\u0300-\u036f]/g, "")
             // Replace known characters using charMap
             .replace(
-                /[àáâãäåæçèéêëìíîïñòóôõöøùúûüýÿßœ&@©®™€£$]/g,
+                /[àáâãäåæçèéêëìíîïñòóôõöøùúûüýÿßœ&@©®™€£$%]/g,
                 (char) => charMap[char] || char
             )
             // Replace whitespace and underscores with hyphens
