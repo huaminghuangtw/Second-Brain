@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2f25a9243b16558c",
+        "id": "5d7dfbb384e5bdbb",
         "type": "tabs",
         "children": [
           {
-            "id": "1446727cd291fc36",
+            "id": "0599ecfb138837cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_30.md",
-                "mode": "preview",
+                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_03.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_11_30"
+              "title": "2025_12_03"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"找工作 \\\\& 投履歷\"",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_30.md",
+                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_11_30"
+              "title": "Backlinks for 2025_12_03"
             }
           },
           {
@@ -193,14 +193,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_30.md"
+                "file": "Life-Notes/WebDev/Astro.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_11_30"
+              "title": "File properties for Astro"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -256,6 +256,150 @@
                 }
               },
               {
+                "id": "395a0a264716f8aa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_02.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025_12_02"
+                }
+              },
+              {
+                "id": "0beb79e685d26d44",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_03.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025_12_03"
+                }
+              },
+              {
+                "id": "1545465d683147f0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Evergreen-Notes/Permanent-Notes/why-i-write-and-run-every-single-day.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "why-i-write-and-run-every-single-day"
+                }
+              },
+              {
+                "id": "50d5300be01164a5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Life-Notes/Missions/教育改革.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "教育改革"
+                }
+              },
+              {
+                "id": "3574fb12184ed24e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Evergreen-Notes/Permanent-Notes/intentional-living.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "intentional-living"
+                }
+              },
+              {
+                "id": "fff087b51aa34bb8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Evergreen-Notes/Permanent-Notes/escape-competition-through-authenticity.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "escape-competition-through-authenticity"
+                }
+              },
+              {
                 "id": "2b1d02aca1caf5d1",
                 "type": "leaf",
                 "state": {
@@ -278,9 +422,57 @@
                   "icon": "lucide-file",
                   "title": "2025_12_01"
                 }
+              },
+              {
+                "id": "660b287a3926c1bd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_03.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025_12_03"
+                }
+              },
+              {
+                "id": "0c4de699611b03a5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Evergreen-Notes/Permanent-Notes/journaling.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "journaling"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
@@ -290,43 +482,91 @@
         "height": 1080,
         "maximize": false,
         "zoom": 1.5
+      },
+      {
+        "id": "a0ca7673f7ccd944",
+        "type": "window",
+        "children": [
+          {
+            "id": "91fbeb334f542481",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6441794b13dcaa21",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Evergreen-Notes/Permanent-Notes/escape-competition-through-authenticity.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "escape-competition-through-authenticity"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1.5
       }
     ]
   },
-  "active": "1446727cd291fc36",
+  "active": "0599ecfb138837cb",
   "lastOpenFiles": [
-    "Evergreen-Lists/🌍 World Cuisine/🌍 World Cuisine.pdf",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_15.md",
+    "Life-Notes/Business/Startups.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_10.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_05.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_02.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_12.md",
+    "Enoughness/posts/2025-week-45.md",
+    "Evergreen-Notes/Permanent-Notes/embrace-the-beauty-of-enoughness.md",
+    "Daily-Bullet-Journal/journals/2023/12-December/2023_12_02.md",
+    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_22.md",
+    "Evergreen-Notes/Permanent-Notes/decision-making.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_29.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_17.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_03.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_02.md",
-    "Shortcutomation/posts/hidden-keyboard-shortcuts-for-apple-shortcuts.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_17.md",
+    "Evergreen-Notes/Permanent-Notes/control-the-controllable.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_05.md",
+    "Evergreen-Notes/Permanent-Notes/why-i-write-and-run-every-single-day.md",
+    "Evergreen-Notes/Permanent-Notes/journaling.md",
+    "Life-Notes/Missions/教育改革.md",
+    "Evergreen-Notes/Permanent-Notes/escape-competition-through-authenticity.md",
+    "Evergreen-Notes/Permanent-Notes/intentional-living.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_04.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_03.md",
+    "Evergreen-Lists/👨‍💻 Tech Pro Tip/👨‍💻 Tech Pro Tip.pdf",
+    "Evergreen-Lists/🤖 AI Prompt/🤖 AI Prompt.pdf",
+    "Evergreen-Lists/💭 Journal Prompt/💭 Journal Prompt.pdf",
+    "Evergreen-Lists/🌱 Healthy Food/🌱 Healthy Food.pdf",
+    "Evergreen-Lists/🦾 Gym Workout/🦾 Gym Workout.pdf",
+    "Evergreen-Lists/📋 Cheat Sheet/📋 Cheat Sheet.pdf",
+    "Evergreen-Lists/⌨️ Keyboard Hotkey/⌨️ Keyboard Hotkey.pdf",
+    "Evergreen-Lists/💪 Home Exercise/💪 Home Exercise.pdf",
+    "Evergreen-Lists/🌍 World Cuisine/🌍 World Cuisine.pdf",
     "Evergreen-Lists/📱 Shortcuts Dev Tip/📱 Shortcuts Dev Tip.pdf",
-    "Evergreen-Lists/👑 Life Pro Tip/👑 Life Pro Tip.pdf",
-    "Evergreen-Lists/⌨️ Keyboard Hotkey/Keyboard-Hotkey.pdf",
-    "Shortcutomation/posts/a-nighttime-routine-i-do-every-day.md",
-    "Shortcutomation/posts/a-midday-routine-i-do-every-day.md",
-    "Shortcutomation/posts/live-each-day-as-if-it-were-your-last.md",
-    "Dear-Today-Me/Dear-Today-Me.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_01.md",
-    "Brainfoodie/posts/kindled.md",
-    "Enoughness/posts/2025-week-47.md",
-    "Brainfoodie/posts/natural-farming.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_19.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_18.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_30.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_29.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_28.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_27.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_26.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_25.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_24.md",
-    "Enoughness/posts/2025-week-48.md",
-    "Enoughness/posts/2025-week-49.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_24.md",
-    "Templates/T_Enoughness.md",
-    "Untitled.md",
-    "Daily-Bullet-Journal/journals/2025/12-December",
     "Evergreen-Notes/_attachments/5633e2ff39cb06efd22e09b534270123.jpeg",
-    "Scripts/cleanup_flow_data.py",
     "Daily-Bullet-Journal/_attachments/d1559267a3b675ff95dddf08624f24ee.png",
     "Daily-Bullet-Journal/journals/2025/11-November/Pasted image 20251124124121.png",
     "Visuals/Fitness/Darebee/ExerciseOfTheDay/V-Extensions.gif",
@@ -335,11 +575,6 @@
     "Shortcutomation/_attachments/21c1c47d98c5333045192ad0b1e458a9.png",
     "Shortcutomation/_attachments/2d28399fa18c3b51fd2258e7f7b3b44b.gif",
     "Shortcutomation/_attachments/4e31fc5512c582ce9056a85baf0e0017.PNG",
-    "Shortcutomation/_attachments/image.png",
-    "Evergreen-Lists/README.md.tmp",
-    "Daily-Bullet-Journal/update_journal_headings.py",
-    "Daily-Bullet-Journal/journals/2015/11-November",
-    "Daily-Bullet-Journal/journals/2015",
-    "Daily-Bullet-Journal/journals/2016/12-December"
+    "Shortcutomation/_attachments/image.png"
   ]
 }
