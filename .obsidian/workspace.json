@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5d7dfbb384e5bdbb",
+        "id": "a4c1fdb4880a7281",
         "type": "tabs",
         "children": [
           {
-            "id": "0599ecfb138837cb",
+            "id": "1b87965a5384570d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_03.md",
-                "mode": "source",
+                "file": "Homepage.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_12_03"
+              "title": "Homepage"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"找工作 \\\\& 投履歷\"",
+                "query": "蘋果捷徑",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_03.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_12_03"
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -193,10 +193,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Life-Notes/WebDev/Astro.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Astro"
+              "title": "File properties for Homepage"
             }
           }
         ],
@@ -304,12 +304,12 @@
                 }
               },
               {
-                "id": "1545465d683147f0",
+                "id": "624f67d90c3b592d",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Evergreen-Notes/Permanent-Notes/why-i-write-and-run-every-single-day.md",
+                    "file": "Evergreen-Notes/Permanent-Notes/second-order-thinking.md",
                     "mode": "source",
                     "source": true,
                     "backlinks": true,
@@ -324,7 +324,31 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "why-i-write-and-run-every-single-day"
+                  "title": "second-order-thinking"
+                }
+              },
+              {
+                "id": "ef2bfe8f7e865a2c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Evergreen-Notes/Permanent-Notes/first-principle-thinking.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "first-principle-thinking"
                 }
               },
               {
@@ -472,7 +496,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 5
           }
         ],
         "direction": "vertical",
@@ -492,12 +516,36 @@
             "type": "tabs",
             "children": [
               {
-                "id": "6441794b13dcaa21",
+                "id": "49841c6f32e0d743",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Evergreen-Notes/Permanent-Notes/escape-competition-through-authenticity.md",
+                    "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_03.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025_12_03"
+                }
+              },
+              {
+                "id": "49352e45b3185bcc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Enoughness/posts/2025-week-49.md",
                     "mode": "source",
                     "source": true,
                     "backlinks": true,
@@ -512,10 +560,35 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "escape-competition-through-authenticity"
+                  "title": "2025-week-49"
+                }
+              },
+              {
+                "id": "9c918bf09334ce2b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Evergreen-Notes/Permanent-Notes/stress-and-anxiety.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "stress-and-anxiety"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -528,34 +601,34 @@
       }
     ]
   },
-  "active": "0599ecfb138837cb",
+  "active": "1b87965a5384570d",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_15.md",
-    "Life-Notes/Business/Startups.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_10.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_05.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_02.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_04.md",
+    "Evergreen-Notes/Permanent-Notes/goal-setting.md",
+    "Enoughness/posts/2025-week-49.md",
+    "Homepage.md",
+    "Evergreen-Notes/_attachments/160334acd1948c90882736472543a676.JPG",
+    "Evergreen-Notes/Permanent-Notes/parenting.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_03.md",
     "Daily-Bullet-Journal/journals/2025/06-June/2025_06_12.md",
-    "Enoughness/posts/2025-week-45.md",
-    "Evergreen-Notes/Permanent-Notes/embrace-the-beauty-of-enoughness.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_02.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_19.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_29.md",
+    "Life-Notes/Business/Astro 網頁開發接案.md",
+    "Life-Notes/Career/找工作.md",
+    "Evergreen-Notes/Permanent-Notes/discipline-equals-freedom.md",
+    "Evergreen-Notes/Permanent-Notes/why-i-write-and-run-every-single-day.md",
     "Daily-Bullet-Journal/journals/2023/12-December/2023_12_02.md",
     "Daily-Bullet-Journal/journals/2024/06-June/2024_06_22.md",
-    "Evergreen-Notes/Permanent-Notes/decision-making.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_29.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_17.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_03.md",
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_17.md",
-    "Evergreen-Notes/Permanent-Notes/control-the-controllable.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_05.md",
-    "Evergreen-Notes/Permanent-Notes/why-i-write-and-run-every-single-day.md",
-    "Evergreen-Notes/Permanent-Notes/journaling.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_16.md",
+    "Enoughness/posts/2025-week-48.md",
+    "Enoughness/posts/2025-week-47.md",
+    "Enoughness/posts/2025-week-46.md",
+    "Evergreen-Notes/Permanent-Notes/stress-and-anxiety.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_09.md",
+    "Evergreen-Notes/Permanent-Notes/how-to-live-a-life.md",
     "Life-Notes/Missions/教育改革.md",
-    "Evergreen-Notes/Permanent-Notes/escape-competition-through-authenticity.md",
-    "Evergreen-Notes/Permanent-Notes/intentional-living.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_04.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_03.md",
+    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_12.md",
     "Evergreen-Lists/👨‍💻 Tech Pro Tip/👨‍💻 Tech Pro Tip.pdf",
     "Evergreen-Lists/🤖 AI Prompt/🤖 AI Prompt.pdf",
     "Evergreen-Lists/💭 Journal Prompt/💭 Journal Prompt.pdf",
@@ -574,7 +647,6 @@
     "Evergreen-Notes/_attachments/c0e397b355179aa12b94aebb19402907.png",
     "Shortcutomation/_attachments/21c1c47d98c5333045192ad0b1e458a9.png",
     "Shortcutomation/_attachments/2d28399fa18c3b51fd2258e7f7b3b44b.gif",
-    "Shortcutomation/_attachments/4e31fc5512c582ce9056a85baf0e0017.PNG",
-    "Shortcutomation/_attachments/image.png"
+    "Shortcutomation/_attachments/4e31fc5512c582ce9056a85baf0e0017.PNG"
   ]
 }
