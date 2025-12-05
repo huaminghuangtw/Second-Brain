@@ -20,10 +20,10 @@
     "alwaysUpdateLinks": true,
     "userIgnoreFilters": [
         "Scripts/",
-        "Templates/",
         "Visuals/",
         "Homepage.md",
-        "/**/_attachments//"
+        "/**/_attachments//",
+        "Templates/"
     ],
     "showInlineTitle": true,
     "useTab": true,
