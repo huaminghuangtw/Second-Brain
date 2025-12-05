@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T17:18:12
-modified: 2025-11-24T06:23:29
+modified: 2025-12-05T05:38:44
 ---
 
 <!-- four-quarters-in-a-day -->
@@ -395,10 +395,6 @@ if (onDesktop) {
     const { Utils } = await cJS();
 
     let today = dv.date("today");
-
-    dv.paragraph(`
-> [!TODO] 🐥 <a href="${await Utils.buildObsidianOpenFileURI("Daily-Bullet-Journal/Journal-Backlog.md")}">**Backlog**</a>
-`);
 
     await dv.view("Scripts/view_callout_journal_retrospection", {
         arr: [
