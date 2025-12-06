@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9fc8d75aa6df1085",
+        "id": "d7b4420313ad7323",
         "type": "tabs",
         "children": [
           {
-            "id": "bc37fbf8df325506",
+            "id": "9d63db848e7d001a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/07-July/2025_07_23.md",
+                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_06.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_07_23"
+              "title": "2025_12_06"
             }
           },
           {
-            "id": "e25e88e51253bf1a",
+            "id": "55b8c430345e9494",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/money.md",
+                "file": "Evergreen-Notes/Permanent-Notes/live-in-the-present.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,40 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "money"
+              "title": "live-in-the-present"
             }
           },
           {
-            "id": "75116a9f6af3e9f7",
+            "id": "9f1c98ca921b5329",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/goal-setting.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "goal-setting"
-            }
-          },
-          {
-            "id": "650b686e4d04cd69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_04.md",
+                "file": "Evergreen-Notes/Permanent-Notes/you-can-achieve-anything-if-you-focus-on-one-thing-at-a-time.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -100,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_12_04"
+              "title": "you-can-achieve-anything-if-you-focus-on-one-thing-at-a-time"
             }
           },
           {
-            "id": "ca13f8fd4ecdfcb3",
+            "id": "b00f5cfb3387c304",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/ben-franklins-thirteen-virtues.md",
+                "file": "Evergreen-Notes/Permanent-Notes/do-great-work.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -124,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ben-franklins-thirteen-virtues"
+              "title": "do-great-work"
             }
           },
           {
-            "id": "9049d6213120568e",
+            "id": "4a224545381d7afd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_05.md",
+                "file": "Evergreen-Notes/Permanent-Notes/Speak less, listen more.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -148,59 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_12_05"
-            }
-          },
-          {
-            "id": "8b955f87ffd7cb51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_05.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_12_05"
-            }
-          },
-          {
-            "id": "9bf8356da6f540f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_05.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025_12_05"
+              "title": "Speak less, listen more"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -232,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "barbell",
+                "query": "line:(when eat eat)",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -258,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5,
-    "collapsed": true
+    "width": 381.5
   },
   "right": {
     "id": "622d958ae975569a",
@@ -275,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/money.md",
+                "file": "Evergreen-Notes/Permanent-Notes/you-can-achieve-anything-if-you-focus-on-one-thing-at-a-time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +212,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for money"
+              "title": "Backlinks for you-can-achieve-anything-if-you-focus-on-one-thing-at-a-time"
             }
           },
           {
@@ -362,10 +289,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_05.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_12_05"
+              "title": "File properties for Homepage"
             }
           }
         ],
@@ -388,37 +315,38 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "e25e88e51253bf1a",
+  "active": "9f1c98ca921b5329",
   "lastOpenFiles": [
-    "Life-Notes/Finance/Investment 101.md",
-    "Evergreen-Notes/Permanent-Notes/investing-in-yourself-is-the-highest-roi-investment-youll-ever-make-in-your-life.md",
-    "Evergreen-Notes/Permanent-Notes/money.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_23.md",
-    "Evergreen-Notes/Permanent-Notes/the-compounding-effect.md",
-    "Evergreen-Lists/👨‍💻 Tech Pro Tip/👨‍💻 Tech Pro Tip.md",
-    "AdaptX/posts/you-are-not-a-fish-how-can-you-know-fishs-joy.md",
-    "Enoughness/posts/2025-week-45.md",
-    "Evergreen-Lists/🌍 World Cuisine/🌍 World Cuisine.md",
+    "Evergreen-Notes/Permanent-Notes/live-in-the-present.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_06.md",
+    "Evergreen-Notes/Permanent-Notes/always-start-small.md",
+    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
+    "Evergreen-Notes/Permanent-Notes/systems-over-goals.md",
+    "Evergreen-Notes/Permanent-Notes/stress-and-anxiety.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_24.md",
+    "Life-Notes/Business/Startups.md",
+    "Daily-Bullet-Journal/journals/2023/12-December/2023_12_04.md",
+    "Evergreen-Notes/Permanent-Notes/innovation.md",
+    "Evergreen-Notes/Permanent-Notes/the-pareto-principle.md",
+    "Evergreen-Notes/Permanent-Notes/dr-rhonda-patricks-smoothie.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_27.md",
+    "Evergreen-Notes/Permanent-Notes/attention-residue.md",
+    "Evergreen-Notes/Permanent-Notes/the-hofstadters-law.md",
+    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
+    "Evergreen-Notes/Permanent-Notes/the-parkinsons-law.md",
+    "Evergreen-Notes/Permanent-Notes/dr-rhonda-patricks-smoothie 2.md",
+    "Evergreen-Notes/Permanent-Notes/do-great-work.md",
+    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_22.md",
+    "__temp__innovation.md",
+    "Dear-Today-Me/README.md",
+    "Evergreen-Notes/Permanent-Notes/Be impeccable with your word.md",
+    "Evergreen-Notes/Permanent-Notes/Speak less, listen more.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_10.md",
+    "Evergreen-Notes/Permanent-Notes/the-one-percent-rule.md",
+    "Visuals/Personal Growth/IMG_4668.JPG",
     "Evergreen-Lists/🌍 World Cuisine/🌍 World Cuisine.pdf",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_05.md",
-    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
-    "Evergreen-Lists/🤖 AI Prompt/🤖 AI Prompt.md",
-    "Evergreen-Lists/💪 Home Exercise/💪 Home Exercise.md",
-    "Evergreen-Lists/📱 Shortcuts Dev Tip/📱 Shortcuts Dev Tip.md",
-    "Evergreen-Lists/👑 Life Pro Tip/👑 Life Pro Tip.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_19.md",
-    "Enoughness/posts/2025-week-44.md",
-    "Evergreen-Notes/Permanent-Notes/fear-of-failure-and-success.md",
-    "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
-    "Evergreen-Notes/Permanent-Notes/push-your-limits.md",
-    "Evergreen-Lists/💭 Journal Prompt/💭 Journal Prompt.md",
-    "Evergreen-Lists/🌱 Healthy Food/🌱 Healthy Food.md",
-    "Evergreen-Lists/⌨️ Keyboard Hotkey/⌨️ Keyboard Hotkey.md",
     "Evergreen-Lists/⌨️ Keyboard Hotkey/⌨️ Keyboard Hotkey.pdf",
-    "Evergreen-Lists/📋 Cheat Sheet/📋 Cheat Sheet.md",
     "Evergreen-Lists/📋 Cheat Sheet/📋 Cheat Sheet.pdf",
-    "Enoughness/posts/2025-week-49.md",
-    "Evergreen-Notes/Permanent-Notes/you-are-the-average-of-the-five-people-you-associate-with-most.md",
     "Deep-Work-Machine/Number of Flows/2025/11-November/number-of-flows_2025-11.png",
     "Deep-Work-Machine/Number of Flows/2025/11-November/number-of-flows_2025-11.json",
     "Deep-Work-Machine/Number of Flows/2025/11-November/number-of-flows_2025-11.csv",
@@ -434,7 +362,6 @@
     "Daily-Bullet-Journal/journals/2025/11-November/Pasted image 20251124124121.png",
     "Visuals/Fitness/Darebee/ExerciseOfTheDay/V-Extensions.gif",
     "Evergreen-Notes/_attachments/7250564ec2d06c4dedc8ef32672fbc90.jpg",
-    "Evergreen-Notes/_attachments/c0e397b355179aa12b94aebb19402907.png",
-    "Shortcutomation/_attachments/21c1c47d98c5333045192ad0b1e458a9.png"
+    "Evergreen-Notes/_attachments/c0e397b355179aa12b94aebb19402907.png"
   ]
 }

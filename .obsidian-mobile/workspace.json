@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9fc8d75aa6df1085",
+        "id": "231a4f64f62c4cdc",
         "type": "tabs",
         "children": [
           {
-            "id": "f7c27f0fd60c61f0",
+            "id": "aa74c5635d758a7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "蘋果捷徑",
+                "query": "barbell",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,14 +193,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_05.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for 2025_12_05"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -219,434 +219,53 @@
       "templater-obsidian:Templater": true
     }
   },
-  "floating": {
-    "id": "fda2fc751cd687f3",
-    "type": "floating",
-    "children": [
-      {
-        "id": "72ccf1f846063063",
-        "type": "window",
-        "children": [
-          {
-            "id": "984375094f542ed8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9028a935de6c8599",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Evergreen-Notes/Permanent-Notes/communication.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "communication"
-                }
-              },
-              {
-                "id": "395a0a264716f8aa",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_02.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025_12_02"
-                }
-              },
-              {
-                "id": "0beb79e685d26d44",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_03.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025_12_03"
-                }
-              },
-              {
-                "id": "624f67d90c3b592d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Evergreen-Notes/Permanent-Notes/second-order-thinking.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "second-order-thinking"
-                }
-              },
-              {
-                "id": "ef2bfe8f7e865a2c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Evergreen-Notes/Permanent-Notes/first-principle-thinking.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "first-principle-thinking"
-                }
-              },
-              {
-                "id": "50d5300be01164a5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Life-Notes/Missions/教育改革.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "教育改革"
-                }
-              },
-              {
-                "id": "3574fb12184ed24e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Evergreen-Notes/Permanent-Notes/intentional-living.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "intentional-living"
-                }
-              },
-              {
-                "id": "fff087b51aa34bb8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Evergreen-Notes/Permanent-Notes/escape-competition-through-authenticity.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "escape-competition-through-authenticity"
-                }
-              },
-              {
-                "id": "2b1d02aca1caf5d1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_01.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025_12_01"
-                }
-              },
-              {
-                "id": "660b287a3926c1bd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_03.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025_12_03"
-                }
-              },
-              {
-                "id": "0c4de699611b03a5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Evergreen-Notes/Permanent-Notes/journaling.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "journaling"
-                }
-              }
-            ],
-            "currentTab": 5
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1920,
-        "height": 1080,
-        "maximize": false,
-        "zoom": 1.5
-      },
-      {
-        "id": "a0ca7673f7ccd944",
-        "type": "window",
-        "children": [
-          {
-            "id": "91fbeb334f542481",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "49841c6f32e0d743",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_03.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025_12_03"
-                }
-              },
-              {
-                "id": "49352e45b3185bcc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Enoughness/posts/2025-week-49.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-week-49"
-                }
-              },
-              {
-                "id": "9c918bf09334ce2b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Evergreen-Notes/Permanent-Notes/stress-and-anxiety.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "stress-and-anxiety"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1.5
-      }
-    ]
-  },
-  "active": "f7c27f0fd60c61f0",
+  "active": "aa74c5635d758a7e",
   "lastOpenFiles": [
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_04.md",
-    "Evergreen-Notes/Permanent-Notes/goal-setting.md",
-    "Enoughness/posts/2025-week-49.md",
-    "Evergreen-Notes/_attachments/160334acd1948c90882736472543a676.JPG",
-    "Evergreen-Notes/Permanent-Notes/parenting.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_03.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_12.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_02.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_19.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_29.md",
-    "Life-Notes/Business/Astro 網頁開發接案.md",
-    "Life-Notes/Career/找工作.md",
-    "Evergreen-Notes/Permanent-Notes/discipline-equals-freedom.md",
-    "Evergreen-Notes/Permanent-Notes/why-i-write-and-run-every-single-day.md",
-    "Daily-Bullet-Journal/journals/2023/12-December/2023_12_02.md",
-    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_22.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_16.md",
-    "Enoughness/posts/2025-week-48.md",
-    "Enoughness/posts/2025-week-47.md",
-    "Enoughness/posts/2025-week-46.md",
-    "Evergreen-Notes/Permanent-Notes/stress-and-anxiety.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_09.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-live-a-life.md",
-    "Life-Notes/Missions/教育改革.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_12.md",
-    "Evergreen-Lists/👨‍💻 Tech Pro Tip/👨‍💻 Tech Pro Tip.pdf",
-    "Evergreen-Lists/🤖 AI Prompt/🤖 AI Prompt.pdf",
-    "Evergreen-Lists/💭 Journal Prompt/💭 Journal Prompt.pdf",
-    "Evergreen-Lists/🌱 Healthy Food/🌱 Healthy Food.pdf",
-    "Evergreen-Lists/🦾 Gym Workout/🦾 Gym Workout.pdf",
-    "Evergreen-Lists/📋 Cheat Sheet/📋 Cheat Sheet.pdf",
-    "Evergreen-Lists/⌨️ Keyboard Hotkey/⌨️ Keyboard Hotkey.pdf",
-    "Evergreen-Lists/💪 Home Exercise/💪 Home Exercise.pdf",
+    "Evergreen-Notes/Permanent-Notes/money.md",
+    "Life-Notes/Finance/Investment 101.md",
+    "Evergreen-Notes/Permanent-Notes/investing-in-yourself-is-the-highest-roi-investment-youll-ever-make-in-your-life.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_23.md",
+    "Evergreen-Notes/Permanent-Notes/the-compounding-effect.md",
+    "Evergreen-Lists/👨‍💻 Tech Pro Tip/👨‍💻 Tech Pro Tip.md",
+    "AdaptX/posts/you-are-not-a-fish-how-can-you-know-fishs-joy.md",
+    "Enoughness/posts/2025-week-45.md",
+    "Evergreen-Lists/🌍 World Cuisine/🌍 World Cuisine.md",
     "Evergreen-Lists/🌍 World Cuisine/🌍 World Cuisine.pdf",
-    "Evergreen-Lists/📱 Shortcuts Dev Tip/📱 Shortcuts Dev Tip.pdf",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_05.md",
+    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
+    "Evergreen-Lists/🤖 AI Prompt/🤖 AI Prompt.md",
+    "Evergreen-Lists/💪 Home Exercise/💪 Home Exercise.md",
+    "Evergreen-Lists/📱 Shortcuts Dev Tip/📱 Shortcuts Dev Tip.md",
+    "Evergreen-Lists/👑 Life Pro Tip/👑 Life Pro Tip.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_19.md",
+    "Enoughness/posts/2025-week-44.md",
+    "Evergreen-Notes/Permanent-Notes/fear-of-failure-and-success.md",
+    "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
+    "Evergreen-Notes/Permanent-Notes/push-your-limits.md",
+    "Evergreen-Lists/💭 Journal Prompt/💭 Journal Prompt.md",
+    "Evergreen-Lists/🌱 Healthy Food/🌱 Healthy Food.md",
+    "Evergreen-Lists/⌨️ Keyboard Hotkey/⌨️ Keyboard Hotkey.md",
+    "Evergreen-Lists/⌨️ Keyboard Hotkey/⌨️ Keyboard Hotkey.pdf",
+    "Evergreen-Lists/📋 Cheat Sheet/📋 Cheat Sheet.md",
+    "Evergreen-Lists/📋 Cheat Sheet/📋 Cheat Sheet.pdf",
+    "Enoughness/posts/2025-week-49.md",
+    "Evergreen-Notes/Permanent-Notes/you-are-the-average-of-the-five-people-you-associate-with-most.md",
+    "Deep-Work-Machine/Number of Flows/2025/11-November/number-of-flows_2025-11.png",
+    "Deep-Work-Machine/Number of Flows/2025/11-November/number-of-flows_2025-11.json",
+    "Deep-Work-Machine/Number of Flows/2025/11-November/number-of-flows_2025-11.csv",
+    "Deep-Work-Machine/Number of Flows/2025/11-November",
+    "Deep-Work-Machine/Number of Words/2025/11-November/number-of-words_2025-11.png",
+    "Deep-Work-Machine/Number of Words/2025/11-November/number-of-words_2025-11.json",
+    "Deep-Work-Machine/Number of Words/2025/11-November/number-of-words_2025-11.csv",
+    "Deep-Work-Machine/Number of Words/2025/11-November",
+    "Evergreen-Lists/🌱 Healthy Food/🌱 Healthy Food.pdf",
+    "Evergreen-Notes/_attachments/160334acd1948c90882736472543a676.JPG",
     "Evergreen-Notes/_attachments/5633e2ff39cb06efd22e09b534270123.jpeg",
     "Daily-Bullet-Journal/_attachments/d1559267a3b675ff95dddf08624f24ee.png",
     "Daily-Bullet-Journal/journals/2025/11-November/Pasted image 20251124124121.png",
     "Visuals/Fitness/Darebee/ExerciseOfTheDay/V-Extensions.gif",
     "Evergreen-Notes/_attachments/7250564ec2d06c4dedc8ef32672fbc90.jpg",
     "Evergreen-Notes/_attachments/c0e397b355179aa12b94aebb19402907.png",
-    "Shortcutomation/_attachments/21c1c47d98c5333045192ad0b1e458a9.png",
-    "Shortcutomation/_attachments/2d28399fa18c3b51fd2258e7f7b3b44b.gif",
-    "Shortcutomation/_attachments/4e31fc5512c582ce9056a85baf0e0017.PNG"
+    "Shortcutomation/_attachments/21c1c47d98c5333045192ad0b1e458a9.png"
   ]
 }
