@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d7b4420313ad7323",
+        "id": "cbfc580f7cff57a9",
         "type": "tabs",
         "children": [
           {
-            "id": "9d63db848e7d001a",
+            "id": "f0a977b2c198e06c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_06.md",
-                "mode": "source",
+                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,107 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_12_06"
-            }
-          },
-          {
-            "id": "55b8c430345e9494",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/live-in-the-present.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "live-in-the-present"
-            }
-          },
-          {
-            "id": "9f1c98ca921b5329",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/you-can-achieve-anything-if-you-focus-on-one-thing-at-a-time.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "you-can-achieve-anything-if-you-focus-on-one-thing-at-a-time"
-            }
-          },
-          {
-            "id": "b00f5cfb3387c304",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/do-great-work.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "do-great-work"
-            }
-          },
-          {
-            "id": "4a224545381d7afd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/Speak less, listen more.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Speak less, listen more"
+              "title": "2025_12_07"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(when eat eat)",
+                "query": "蘋果",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "right": {
     "id": "622d958ae975569a",
@@ -202,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/you-can-achieve-anything-if-you-focus-on-one-thing-at-a-time.md",
+                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for you-can-achieve-anything-if-you-focus-on-one-thing-at-a-time"
+              "title": "Backlinks for 2025_12_07"
             }
           },
           {
@@ -289,10 +193,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for 2025_12_07"
             }
           }
         ],
@@ -315,34 +219,34 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "9f1c98ca921b5329",
+  "active": "f0a977b2c198e06c",
   "lastOpenFiles": [
-    "Evergreen-Notes/Permanent-Notes/live-in-the-present.md",
+    "Weekly-Mindware-Update/issues/2025/2025_Week_49.md",
+    "Enoughness/posts/2025-week-49.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_30.md",
     "Daily-Bullet-Journal/journals/2025/12-December/2025_12_06.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_23.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2022/12-December/2022_12_07.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_29.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_18.md",
+    "Daily-Bullet-Journal/journals/2023/12-December/2023_12_07.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_07.md",
+    "Daily-Bullet-Journal/journals/2023/05-May/2023_05_01.md",
+    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
+    "Evergreen-Notes/Permanent-Notes/Veggies & Fruit.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_19.md",
+    "Evergreen-Notes/Permanent-Notes/healthy-eating-habits.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_09.md",
+    "Evergreen-Notes/Permanent-Notes/live-in-the-present.md",
+    "Evergreen-Notes/Permanent-Notes/you-can-achieve-anything-if-you-focus-on-one-thing-at-a-time.md",
     "Evergreen-Notes/Permanent-Notes/always-start-small.md",
     "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
     "Evergreen-Notes/Permanent-Notes/systems-over-goals.md",
     "Evergreen-Notes/Permanent-Notes/stress-and-anxiety.md",
     "Daily-Bullet-Journal/journals/2025/09-September/2025_09_24.md",
     "Life-Notes/Business/Startups.md",
-    "Daily-Bullet-Journal/journals/2023/12-December/2023_12_04.md",
-    "Evergreen-Notes/Permanent-Notes/innovation.md",
-    "Evergreen-Notes/Permanent-Notes/the-pareto-principle.md",
-    "Evergreen-Notes/Permanent-Notes/dr-rhonda-patricks-smoothie.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_27.md",
-    "Evergreen-Notes/Permanent-Notes/attention-residue.md",
-    "Evergreen-Notes/Permanent-Notes/the-hofstadters-law.md",
-    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
-    "Evergreen-Notes/Permanent-Notes/the-parkinsons-law.md",
-    "Evergreen-Notes/Permanent-Notes/dr-rhonda-patricks-smoothie 2.md",
-    "Evergreen-Notes/Permanent-Notes/do-great-work.md",
-    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_22.md",
-    "__temp__innovation.md",
-    "Dear-Today-Me/README.md",
-    "Evergreen-Notes/Permanent-Notes/Be impeccable with your word.md",
-    "Evergreen-Notes/Permanent-Notes/Speak less, listen more.md",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_10.md",
-    "Evergreen-Notes/Permanent-Notes/the-one-percent-rule.md",
     "Visuals/Personal Growth/IMG_4668.JPG",
     "Evergreen-Lists/🌍 World Cuisine/🌍 World Cuisine.pdf",
     "Evergreen-Lists/⌨️ Keyboard Hotkey/⌨️ Keyboard Hotkey.pdf",
