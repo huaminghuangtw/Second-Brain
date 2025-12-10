@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f858343d44772917",
+        "id": "07b0cf865c1e4998",
         "type": "tabs",
         "children": [
           {
-            "id": "a57850dbbe7a5142",
+            "id": "784c81e9befd1fdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "蘋果",
+                "query": "越早",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,10 +193,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_08.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for 2025_12_08"
             }
           }
         ],
@@ -219,35 +219,35 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "a57850dbbe7a5142",
+  "active": "784c81e9befd1fdd",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_49.md",
-    "Enoughness/posts/2025-week-49.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_30.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_06.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_23.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2022/12-December/2022_12_07.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_29.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_18.md",
-    "Daily-Bullet-Journal/journals/2023/12-December/2023_12_07.md",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_07.md",
-    "Daily-Bullet-Journal/journals/2023/05-May/2023_05_01.md",
-    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
-    "Evergreen-Notes/Permanent-Notes/Veggies & Fruit.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_19.md",
-    "Evergreen-Notes/Permanent-Notes/healthy-eating-habits.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_09.md",
-    "Evergreen-Notes/Permanent-Notes/live-in-the-present.md",
-    "Evergreen-Notes/Permanent-Notes/you-can-achieve-anything-if-you-focus-on-one-thing-at-a-time.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_17.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_08.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_09.md",
+    "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
+    "Evergreen-Notes/Permanent-Notes/goal-setting.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_16.md",
+    "Evergreen-Notes/Permanent-Notes/the-compounding-effect.md",
+    "Evergreen-Notes/Permanent-Notes/from-binary-thinking-to-full-spectrum-thinking.md",
+    "Evergreen-Notes/Permanent-Notes/a-thousand-miles-by-one-step.md",
+    "Evergreen-Notes/Permanent-Notes/just-focus-on-the-next-decision.md",
+    "Evergreen-Notes/Permanent-Notes/just-getting-started.md",
     "Evergreen-Notes/Permanent-Notes/always-start-small.md",
-    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
-    "Evergreen-Notes/Permanent-Notes/systems-over-goals.md",
-    "Evergreen-Notes/Permanent-Notes/stress-and-anxiety.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_24.md",
-    "Life-Notes/Business/Startups.md",
-    "Visuals/Personal Growth/IMG_4668.JPG",
+    "Evergreen-Notes/Permanent-Notes/negative-thoughts-and-emotions.md",
+    "Brainfoodie/posts/the-gift-exchange.md",
+    "AdaptX/posts/you-and-your-timeline.md",
+    "Life-Notes/Alignment/🐤 New Hobbies.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_19.md",
+    "Life-Notes/Coffee/Notes.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_18.md",
+    "Evergreen-Notes/Permanent-Notes/decision-making.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_31.md",
+    "Evergreen-Notes/Permanent-Notes/the-law-of-attraction.md",
+    "Weekly-Mindware-Update/issues/2025/2025_Week_49.md",
+    "Evergreen-Notes/Permanent-Notes/work-in-sprints-work-with-your-biology.md",
+    "Visuals/Personal Growth/7e91d1675417af56240245b65fdaba81.JPG",
     "Evergreen-Lists/🌍 World Cuisine/🌍 World Cuisine.pdf",
     "Evergreen-Lists/⌨️ Keyboard Hotkey/⌨️ Keyboard Hotkey.pdf",
     "Evergreen-Lists/📋 Cheat Sheet/📋 Cheat Sheet.pdf",
