@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5f24c253a71678fa",
+        "id": "1c0cfa7fc50bc57c",
         "type": "tabs",
         "children": [
           {
-            "id": "0d97701c052400dc",
+            "id": "9f9e413b76bae817",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,14 +32,14 @@
             }
           },
           {
-            "id": "0a195d3053f7422b",
+            "id": "54fccb8e09860959",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_13.md",
-                "mode": "preview",
-                "source": false,
+                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_11.md",
+                "mode": "source",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_12_13"
+              "title": "2025_12_11"
             }
           },
           {
-            "id": "1491fc89fc7eab28",
+            "id": "0701f89038cc14fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_14.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_12_14"
+            }
+          },
+          {
+            "id": "49a578a1d6096d5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,12 +104,12 @@
             }
           },
           {
-            "id": "e2470c89ebe0388f",
+            "id": "f75263ef6f1bf82d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/push-your-limits.md",
+                "file": "Enoughness/posts/2025-week-46.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -100,16 +124,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "push-your-limits"
+              "title": "2025-week-46"
             }
           },
           {
-            "id": "37ec2c140177c140",
+            "id": "7e6974e309ccadd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
+                "file": "Evergreen-Notes/Permanent-Notes/do-hard-things.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -124,107 +148,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "a-true-transformation-begins-with-a-mental-shift"
-            }
-          },
-          {
-            "id": "84f0fc47c911500a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "✍️ My Writing Principles & Rules"
-            }
-          },
-          {
-            "id": "65988b89db67924b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AdaptX/posts/ted-taipei-2025.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ted-taipei-2025"
-            }
-          },
-          {
-            "id": "8765cb7d603c10e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AdaptX/posts/sherlock-holmes-brain-attic.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "sherlock-holmes-brain-attic"
-            }
-          },
-          {
-            "id": "ccb0a05695dfedc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Today-I-Learned/posts/handling-case-sensitive-file-renames-in-git.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "handling-case-sensitive-file-renames-in-git"
+              "title": "do-hard-things"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -256,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Heliocentrism",
+                "query": "古早味",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -299,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AdaptX/posts/sherlock-holmes-brain-attic.md",
+                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +237,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for sherlock-holmes-brain-attic"
+              "title": "Backlinks for 2025_12_14"
             }
           },
           {
@@ -376,10 +304,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "AdaptX/posts/sherlock-holmes-brain-attic.md"
+                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_14.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for sherlock-holmes-brain-attic"
+              "title": "File properties for 2025_12_14"
             }
           },
           {
@@ -398,7 +326,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "AdaptX/posts/sherlock-holmes-brain-attic.md"
+                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_14.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -424,53 +352,53 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "8765cb7d603c10e7",
+  "active": "0701f89038cc14fd",
   "lastOpenFiles": [
-    "Evergreen-Notes/Permanent-Notes/brain-attic.md",
-    "AdaptX/posts/sherlock-holmes-brain-attic.md",
-    "AdaptX/posts/ted-taipei-2025.md",
-    "AdaptX/posts/the-monkey-and-pedestal-mindset.md",
-    "AdaptX/posts/you-and-your-timeline.md",
-    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
-    "Enoughness/posts/2025-week-50.md",
-    "Enoughness/posts/2025-week-44.md",
-    "About.md",
-    "Enoughness/posts/2025-week-48.md",
-    "AdaptX/posts/the-power-of-quiet.md",
-    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.md",
-    "Evergreen-Notes/Permanent-Notes/just-focus-on-the-next-decision.md",
-    "AdaptX/posts/goodbye-past-me.md",
-    "Today-I-Learned/posts/handling-case-sensitive-file-renames-in-git.md",
-    "Weekly-Mindware-Update/issues/2024/2024_Week_47.md",
-    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
-    "Evergreen-Notes/Permanent-Notes/mastering-yourself-is-superpower.md",
-    "Evergreen-Notes/Permanent-Notes/push-your-limits.md",
-    "Weekly-Mindware-Update/issues/2024/2024_Week_30.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_14.md",
     "Daily-Bullet-Journal/journals/2025/12-December/2025_12_13.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_12.md",
-    "Evergreen-Notes/Permanent-Notes/habit-stacking.md",
-    "Evergreen-Notes/Permanent-Notes/be-a-habit-and-routine-machine.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_11.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2023/12-December/2023_12_13.md",
+    "Evergreen-Notes/Permanent-Notes/be-ready-to-change-your-mind-completely-at-any-given-time.md",
+    "Weekly-Mindware-Update/issues/2024/2024_Week_43.md",
+    "AdaptX/posts/goodbye-past-me.md",
+    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
+    "Evergreen-Notes/Permanent-Notes/Pasted image 20251214193141.png",
+    "Visuals/Personal Growth/71b5846377ef53feb1865157279a0895.png",
+    "Daily-Bullet-Journal/journals/2025/12-December/Pasted image 20251214192533.png",
+    "Evergreen-Notes/Permanent-Notes/love.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_12.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_24.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_25.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_23.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_22.md",
+    "Enoughness/posts/2025-week-46.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_15.md",
+    "Evergreen-Notes/Permanent-Notes/the-trap-of-good-enough.md",
+    "Enoughness/posts/2025-week-50.md",
+    "Evergreen-Notes/Permanent-Notes/courage-is-knowing-what-not-to-fear.md",
+    "Evergreen-Notes/Permanent-Notes/adaptability.md",
+    "Evergreen-Notes/Permanent-Notes/do-hard-things.md",
+    "Evergreen-Notes/Permanent-Notes/always-do-your-best-as-possible.md",
+    "Evergreen-Notes/Permanent-Notes/push-your-limits.md",
+    "Evergreen-Notes/Permanent-Notes/lateral-thinking.md",
+    "Evergreen-Notes/Permanent-Notes/be-careful-how-you-are-talking-to-yourself.md",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Cleric.jpeg",
+    "Users/huaminghuang/Library/Group Containers/group.com.apple.shortcuts/Temporary/com.apple.WorkflowKit.BackgroundShortcutRunner",
+    "Users/huaminghuang/Library/Group Containers/group.com.apple.shortcuts/Temporary",
+    "Users/huaminghuang/Library/Group Containers/group.com.apple.shortcuts",
+    "Users/huaminghuang/Library/Group Containers",
+    "Users/huaminghuang/Library",
+    "Users/huaminghuang",
+    "Users",
     "AdaptX/_attachments/46c91a134331aaea44f4b7ad6be191c4.png",
     "Enoughness/_attachments/4583779e4477d44535c8a24505e3069a.png",
     "Enoughness/_attachments/ceee7b73be3efd6a75e7120165325b59.png",
     "Enoughness/_attachments/bc59c84309f32363c8cb3789ee35b847.jpeg",
     "Enoughness/_attachments/f746497b619882fde6c546cdf91e51eb.jpeg",
     "Enoughness/_attachments/4c5eaa63b3f587ca0fd24fcd9b081daa.jpg",
-    "AdaptX/_attachments/67cb0dae01bfddcf6882795599773d01.png",
-    "AdaptX/_attachments/8b85b57c1e4c993fca169958832f8038.png",
-    "AdaptX/posts/Pasted image 20251212121008.png",
-    "Enoughness/_attachments/fbb14ccb28991a710e29af7c1e78c4c1.jpg",
     "Evergreen-Lists/🌍 World Cuisine/🌍 World Cuisine.pdf",
     "Evergreen-Lists/⌨️ Keyboard Hotkey/⌨️ Keyboard Hotkey.pdf",
-    "Evergreen-Lists/📋 Cheat Sheet/📋 Cheat Sheet.pdf",
-    "Deep-Work-Machine/Number of Flows/2025/11-November/number-of-flows_2025-11.json",
-    "Deep-Work-Machine/Number of Flows/2025/11-November/number-of-flows_2025-11.csv",
-    "Deep-Work-Machine/Number of Flows/2025/11-November",
-    "Deep-Work-Machine/Number of Words/2025/11-November/number-of-words_2025-11.json",
-    "Deep-Work-Machine/Number of Words/2025/11-November/number-of-words_2025-11.csv",
-    "Deep-Work-Machine/Number of Words/2025/11-November",
-    "Evergreen-Lists/🌱 Healthy Food/🌱 Healthy Food.pdf"
+    "Evergreen-Lists/📋 Cheat Sheet/📋 Cheat Sheet.pdf"
   ]
 }
