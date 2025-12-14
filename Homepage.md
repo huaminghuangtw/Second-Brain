@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T17:18:12
-modified: 2025-12-05T05:38:44
+modified: 2025-12-14T07:07:42
 ---
 
 <!-- four-quarters-in-a-day -->
@@ -361,11 +361,6 @@ if (onDesktop) {
 >
 >     return { linkResults, embedResults };
 > }
->
-> dv.header(4, "**❥ Forgotten Notes**");
-> dv.list(getRandomFilteredPages(
->     p => dv.date(p.file.mtime) < today.minus({ months: 3 })
-> ));
 >
 > dv.header(4, "**❥ Empty Notes**");
 > dv.list(getRandomFilteredPages(
