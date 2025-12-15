@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1c0cfa7fc50bc57c",
+        "id": "9eebb5af08cd4e16",
         "type": "tabs",
         "children": [
           {
-            "id": "9f9e413b76bae817",
+            "id": "0e17d0968584e675",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "54fccb8e09860959",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_11.md",
+                "file": "Evergreen-Notes/Permanent-Notes/the-day-of-no-reason-when-logic-meets-joy.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_12_11"
+              "title": "the-day-of-no-reason-when-logic-meets-joy"
             }
           },
           {
-            "id": "0701f89038cc14fd",
+            "id": "d592f66f49b19b18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_14.md",
+                "file": "Evergreen-Notes/Permanent-Notes/live-in-the-present.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -76,83 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_12_14"
-            }
-          },
-          {
-            "id": "49a578a1d6096d5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enoughness/posts/2025-week-50.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-week-50"
-            }
-          },
-          {
-            "id": "f75263ef6f1bf82d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enoughness/posts/2025-week-46.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-week-46"
-            }
-          },
-          {
-            "id": "7e6974e309ccadd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/do-hard-things.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "do-hard-things"
+              "title": "live-in-the-present"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "古早味",
+                "query": "line:(listen body)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_14.md",
+                "file": "Evergreen-Notes/Permanent-Notes/the-day-of-no-reason-when-logic-meets-joy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_12_14"
+              "title": "Backlinks for the-day-of-no-reason-when-logic-meets-joy"
             }
           },
           {
@@ -304,10 +207,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_14.md"
+                "file": "Daily-Bullet-Journal/journals/2024/12-December/2024_12_15.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_12_14"
+              "title": "File properties for 2024_12_15"
             }
           },
           {
@@ -326,7 +229,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_14.md"
+                "file": "Evergreen-Notes/Permanent-Notes/the-day-of-no-reason-when-logic-meets-joy.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -352,37 +255,43 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "0701f89038cc14fd",
+  "active": "0e17d0968584e675",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_14.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_13.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_11.md",
+    "Evergreen-Notes/Permanent-Notes/adaptability.md",
+    "Evergreen-Notes/Permanent-Notes/the-day-of-no-reason-when-logic-meets-joy.md",
+    "Evergreen-Notes/Permanent-Notes/live-in-the-present.md",
+    "Evergreen-Notes/Permanent-Notes/human-sponges.md",
+    "Evergreen-Notes/Permanent-Notes/information-overwhelm.md",
+    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
+    "Evergreen-Notes/Permanent-Notes/wu-wei.md",
+    "Evergreen-Notes/Permanent-Notes/Productivity.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_15.md",
+    "Evergreen-Notes/Permanent-Notes/The Parable of the Mexican Fisherman.md",
+    "Evergreen-Notes/Permanent-Notes/planning-and-preparation-help-maximize-your-productivity.md",
+    "Evergreen-Notes/Permanent-Notes/life-is-chaotic.md",
+    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_16.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_30.md",
+    "Dear-Today-Me/Dear-Today-Me.md",
+    "Evergreen-Notes/Permanent-Notes/self-compassion.md",
+    "Evergreen-Notes/Permanent-Notes/a-letter-to-my-body.md",
     "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/be-ready-to-change-your-mind-completely-at-any-given-time.md",
-    "Weekly-Mindware-Update/issues/2024/2024_Week_43.md",
-    "AdaptX/posts/goodbye-past-me.md",
-    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_14.md",
+    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_15.md",
+    "Evergreen-Notes/Permanent-Notes/trust-your-gut.md",
+    "Evergreen-Notes/Permanent-Notes/judgment-is-the-most-important-skill-in-an-age-of-infinite-leverage.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/Pasted image 20251215115739.png",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_20.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_30.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_11.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_14.md",
+    "Daily-Bullet-Journal/_attachments/a474fd7a1557aa4f08fca8cc24f9e261.png",
+    "Evergreen-Notes/_attachments/f1c590ea6270da0b5c903f9809e4da19.png",
+    "Evergreen-Notes/_attachments/ae4c5ced67ee74bc5197f513c2d957f4.png",
+    "Evergreen-Notes/_attachments/434d2c1c4288416ded92570da0a9ec50.png",
+    "Evergreen-Notes/_attachments/d0c80df590f2aca5835478eeff947ff1.png",
     "Evergreen-Notes/Permanent-Notes/Pasted image 20251214193141.png",
     "Visuals/Personal Growth/71b5846377ef53feb1865157279a0895.png",
     "Daily-Bullet-Journal/journals/2025/12-December/Pasted image 20251214192533.png",
-    "Evergreen-Notes/Permanent-Notes/love.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_12.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_24.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_25.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_23.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_22.md",
-    "Enoughness/posts/2025-week-46.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_15.md",
-    "Evergreen-Notes/Permanent-Notes/the-trap-of-good-enough.md",
-    "Enoughness/posts/2025-week-50.md",
-    "Evergreen-Notes/Permanent-Notes/courage-is-knowing-what-not-to-fear.md",
-    "Evergreen-Notes/Permanent-Notes/adaptability.md",
-    "Evergreen-Notes/Permanent-Notes/do-hard-things.md",
-    "Evergreen-Notes/Permanent-Notes/always-do-your-best-as-possible.md",
-    "Evergreen-Notes/Permanent-Notes/push-your-limits.md",
-    "Evergreen-Notes/Permanent-Notes/lateral-thinking.md",
-    "Evergreen-Notes/Permanent-Notes/be-careful-how-you-are-talking-to-yourself.md",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Cleric.jpeg",
     "Users/huaminghuang/Library/Group Containers/group.com.apple.shortcuts/Temporary/com.apple.WorkflowKit.BackgroundShortcutRunner",
     "Users/huaminghuang/Library/Group Containers/group.com.apple.shortcuts/Temporary",
@@ -391,12 +300,6 @@
     "Users/huaminghuang/Library",
     "Users/huaminghuang",
     "Users",
-    "AdaptX/_attachments/46c91a134331aaea44f4b7ad6be191c4.png",
-    "Enoughness/_attachments/4583779e4477d44535c8a24505e3069a.png",
-    "Enoughness/_attachments/ceee7b73be3efd6a75e7120165325b59.png",
-    "Enoughness/_attachments/bc59c84309f32363c8cb3789ee35b847.jpeg",
-    "Enoughness/_attachments/f746497b619882fde6c546cdf91e51eb.jpeg",
-    "Enoughness/_attachments/4c5eaa63b3f587ca0fd24fcd9b081daa.jpg",
     "Evergreen-Lists/🌍 World Cuisine/🌍 World Cuisine.pdf",
     "Evergreen-Lists/⌨️ Keyboard Hotkey/⌨️ Keyboard Hotkey.pdf",
     "Evergreen-Lists/📋 Cheat Sheet/📋 Cheat Sheet.pdf"

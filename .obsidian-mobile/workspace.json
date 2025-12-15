@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "07b0cf865c1e4998",
+        "id": "cb10b0f16e71731c",
         "type": "tabs",
         "children": [
           {
-            "id": "784c81e9befd1fdd",
+            "id": "4e04e819e8a6f866",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,8 +63,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "越早",
-                "matchingCase": true,
+                "query": "古早味",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -163,7 +163,34 @@
             }
           },
           {
-            "id": "e1479c298014152d",
+            "id": "52b2e580dafee484",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Enoughness/posts/2025-week-50.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-week-50"
+            }
+          },
+          {
+            "id": "a0bd8828513ab830",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_14.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 2025_12_14"
+            }
+          },
+          {
+            "id": "e486c18ce1ce37e9",
             "type": "leaf",
             "state": {
               "type": "ReferenceListView",
@@ -173,34 +200,19 @@
             }
           },
           {
-            "id": "52b2e580dafee484",
+            "id": "6dd94bd33afdc58a",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_18.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_14.md"
               },
-              "icon": "lucide-list",
-              "title": "Outline of 2025_11_18"
-            }
-          },
-          {
-            "id": "a0bd8828513ab830",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_08.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for 2025_12_08"
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -219,53 +231,53 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "784c81e9befd1fdd",
+  "active": "4e04e819e8a6f866",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/_attachments/a474fd7a1557aa4f08fca8cc24f9e261.png",
+    "Evergreen-Notes/_attachments/f1c590ea6270da0b5c903f9809e4da19.png",
+    "Evergreen-Notes/_attachments/Pasted image 20251214193141.png",
+    "Evergreen-Notes/_attachments/434d2c1c4288416ded92570da0a9ec50.png",
+    "Evergreen-Notes/_attachments/d0c80df590f2aca5835478eeff947ff1.png",
+    "Brainfoodie/posts/the-game-changers.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_14.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_13.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_11.md",
     "Homepage.md",
+    "Evergreen-Notes/Permanent-Notes/be-ready-to-change-your-mind-completely-at-any-given-time.md",
+    "Weekly-Mindware-Update/issues/2024/2024_Week_43.md",
+    "AdaptX/posts/goodbye-past-me.md",
+    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
+    "Evergreen-Notes/Permanent-Notes/Pasted image 20251214193141.png",
+    "Visuals/Personal Growth/71b5846377ef53feb1865157279a0895.png",
+    "Daily-Bullet-Journal/journals/2025/12-December/Pasted image 20251214192533.png",
+    "Evergreen-Notes/Permanent-Notes/love.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_12.md",
     "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_17.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_08.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_09.md",
-    "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
-    "Evergreen-Notes/Permanent-Notes/goal-setting.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_16.md",
-    "Evergreen-Notes/Permanent-Notes/the-compounding-effect.md",
-    "Evergreen-Notes/Permanent-Notes/from-binary-thinking-to-full-spectrum-thinking.md",
-    "Evergreen-Notes/Permanent-Notes/a-thousand-miles-by-one-step.md",
-    "Evergreen-Notes/Permanent-Notes/just-focus-on-the-next-decision.md",
-    "Evergreen-Notes/Permanent-Notes/just-getting-started.md",
-    "Evergreen-Notes/Permanent-Notes/always-start-small.md",
-    "Evergreen-Notes/Permanent-Notes/negative-thoughts-and-emotions.md",
-    "Brainfoodie/posts/the-gift-exchange.md",
-    "AdaptX/posts/you-and-your-timeline.md",
-    "Life-Notes/Alignment/🐤 New Hobbies.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_19.md",
-    "Life-Notes/Coffee/Notes.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_18.md",
-    "Evergreen-Notes/Permanent-Notes/decision-making.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_31.md",
-    "Evergreen-Notes/Permanent-Notes/the-law-of-attraction.md",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_49.md",
-    "Evergreen-Notes/Permanent-Notes/work-in-sprints-work-with-your-biology.md",
-    "Visuals/Personal Growth/7e91d1675417af56240245b65fdaba81.JPG",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_24.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_25.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_23.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_22.md",
+    "Enoughness/posts/2025-week-46.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_15.md",
+    "Evergreen-Notes/Permanent-Notes/the-trap-of-good-enough.md",
+    "Enoughness/posts/2025-week-50.md",
+    "Evergreen-Notes/Permanent-Notes/courage-is-knowing-what-not-to-fear.md",
+    "Evergreen-Notes/Permanent-Notes/adaptability.md",
+    "Evergreen-Notes/Permanent-Notes/do-hard-things.md",
+    "Evergreen-Notes/Permanent-Notes/always-do-your-best-as-possible.md",
+    "Evergreen-Notes/Permanent-Notes/push-your-limits.md",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Cleric.jpeg",
+    "Users/huaminghuang/Library/Group Containers/group.com.apple.shortcuts/Temporary/com.apple.WorkflowKit.BackgroundShortcutRunner",
+    "Users/huaminghuang/Library/Group Containers/group.com.apple.shortcuts/Temporary",
+    "Users/huaminghuang/Library/Group Containers/group.com.apple.shortcuts",
+    "Users/huaminghuang/Library/Group Containers",
+    "Users/huaminghuang/Library",
+    "Users/huaminghuang",
+    "Users",
+    "AdaptX/_attachments/46c91a134331aaea44f4b7ad6be191c4.png",
+    "Enoughness/_attachments/4583779e4477d44535c8a24505e3069a.png",
     "Evergreen-Lists/🌍 World Cuisine/🌍 World Cuisine.pdf",
     "Evergreen-Lists/⌨️ Keyboard Hotkey/⌨️ Keyboard Hotkey.pdf",
-    "Evergreen-Lists/📋 Cheat Sheet/📋 Cheat Sheet.pdf",
-    "Deep-Work-Machine/Number of Flows/2025/11-November/number-of-flows_2025-11.png",
-    "Deep-Work-Machine/Number of Flows/2025/11-November/number-of-flows_2025-11.json",
-    "Deep-Work-Machine/Number of Flows/2025/11-November/number-of-flows_2025-11.csv",
-    "Deep-Work-Machine/Number of Flows/2025/11-November",
-    "Deep-Work-Machine/Number of Words/2025/11-November/number-of-words_2025-11.png",
-    "Deep-Work-Machine/Number of Words/2025/11-November/number-of-words_2025-11.json",
-    "Deep-Work-Machine/Number of Words/2025/11-November/number-of-words_2025-11.csv",
-    "Deep-Work-Machine/Number of Words/2025/11-November",
-    "Evergreen-Lists/🌱 Healthy Food/🌱 Healthy Food.pdf",
-    "Evergreen-Notes/_attachments/160334acd1948c90882736472543a676.JPG",
-    "Evergreen-Notes/_attachments/5633e2ff39cb06efd22e09b534270123.jpeg",
-    "Daily-Bullet-Journal/_attachments/d1559267a3b675ff95dddf08624f24ee.png",
-    "Daily-Bullet-Journal/journals/2025/11-November/Pasted image 20251124124121.png",
-    "Visuals/Fitness/Darebee/ExerciseOfTheDay/V-Extensions.gif",
-    "Evergreen-Notes/_attachments/7250564ec2d06c4dedc8ef32672fbc90.jpg",
-    "Evergreen-Notes/_attachments/c0e397b355179aa12b94aebb19402907.png"
+    "Evergreen-Lists/📋 Cheat Sheet/📋 Cheat Sheet.pdf"
   ]
 }
