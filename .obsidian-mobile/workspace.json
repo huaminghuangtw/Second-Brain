@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb10b0f16e71731c",
+        "id": "15d826ede837c2eb",
         "type": "tabs",
         "children": [
           {
-            "id": "4e04e819e8a6f866",
+            "id": "5b31cac5d45f9f64",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "古早味",
+                "query": "foodpanda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_14.md"
+                "file": "Daily-Bullet-Journal/journals/2024/12-December/2024_12_15.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_12_14"
+              "title": "File properties for 2024_12_15"
             }
           },
           {
@@ -205,7 +205,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_14.md"
+                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_15.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -231,41 +231,43 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "4e04e819e8a6f866",
+  "active": "5b31cac5d45f9f64",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/_attachments/Pasted image 20251215115739.png",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_15.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_12.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_10.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_13.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_14.md",
+    "Evergreen-Notes/Permanent-Notes/the-day-of-no-reason-when-logic-meets-joy.md",
+    "Evergreen-Notes/Permanent-Notes/live-in-the-present.md",
+    "Evergreen-Notes/Permanent-Notes/adaptability.md",
+    "Evergreen-Notes/Permanent-Notes/human-sponges.md",
+    "Evergreen-Notes/Permanent-Notes/information-overwhelm.md",
+    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
+    "Evergreen-Notes/Permanent-Notes/wu-wei.md",
+    "Evergreen-Notes/Permanent-Notes/Productivity.md",
+    "Evergreen-Notes/Permanent-Notes/The Parable of the Mexican Fisherman.md",
+    "Evergreen-Notes/Permanent-Notes/planning-and-preparation-help-maximize-your-productivity.md",
+    "Evergreen-Notes/Permanent-Notes/life-is-chaotic.md",
+    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_16.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_30.md",
+    "Dear-Today-Me/Dear-Today-Me.md",
+    "Evergreen-Notes/Permanent-Notes/self-compassion.md",
+    "Evergreen-Notes/Permanent-Notes/a-letter-to-my-body.md",
+    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_15.md",
+    "Evergreen-Notes/Permanent-Notes/trust-your-gut.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/Pasted image 20251215115739.png",
     "Daily-Bullet-Journal/_attachments/a474fd7a1557aa4f08fca8cc24f9e261.png",
     "Evergreen-Notes/_attachments/f1c590ea6270da0b5c903f9809e4da19.png",
-    "Evergreen-Notes/_attachments/Pasted image 20251214193141.png",
+    "Evergreen-Notes/_attachments/ae4c5ced67ee74bc5197f513c2d957f4.png",
     "Evergreen-Notes/_attachments/434d2c1c4288416ded92570da0a9ec50.png",
     "Evergreen-Notes/_attachments/d0c80df590f2aca5835478eeff947ff1.png",
-    "Brainfoodie/posts/the-game-changers.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_14.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_13.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_11.md",
-    "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/be-ready-to-change-your-mind-completely-at-any-given-time.md",
-    "Weekly-Mindware-Update/issues/2024/2024_Week_43.md",
-    "AdaptX/posts/goodbye-past-me.md",
-    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
     "Evergreen-Notes/Permanent-Notes/Pasted image 20251214193141.png",
     "Visuals/Personal Growth/71b5846377ef53feb1865157279a0895.png",
     "Daily-Bullet-Journal/journals/2025/12-December/Pasted image 20251214192533.png",
-    "Evergreen-Notes/Permanent-Notes/love.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_12.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_24.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_25.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_23.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_22.md",
-    "Enoughness/posts/2025-week-46.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_15.md",
-    "Evergreen-Notes/Permanent-Notes/the-trap-of-good-enough.md",
-    "Enoughness/posts/2025-week-50.md",
-    "Evergreen-Notes/Permanent-Notes/courage-is-knowing-what-not-to-fear.md",
-    "Evergreen-Notes/Permanent-Notes/adaptability.md",
-    "Evergreen-Notes/Permanent-Notes/do-hard-things.md",
-    "Evergreen-Notes/Permanent-Notes/always-do-your-best-as-possible.md",
-    "Evergreen-Notes/Permanent-Notes/push-your-limits.md",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Cleric.jpeg",
     "Users/huaminghuang/Library/Group Containers/group.com.apple.shortcuts/Temporary/com.apple.WorkflowKit.BackgroundShortcutRunner",
     "Users/huaminghuang/Library/Group Containers/group.com.apple.shortcuts/Temporary",
@@ -274,8 +276,6 @@
     "Users/huaminghuang/Library",
     "Users/huaminghuang",
     "Users",
-    "AdaptX/_attachments/46c91a134331aaea44f4b7ad6be191c4.png",
-    "Enoughness/_attachments/4583779e4477d44535c8a24505e3069a.png",
     "Evergreen-Lists/🌍 World Cuisine/🌍 World Cuisine.pdf",
     "Evergreen-Lists/⌨️ Keyboard Hotkey/⌨️ Keyboard Hotkey.pdf",
     "Evergreen-Lists/📋 Cheat Sheet/📋 Cheat Sheet.pdf"

@@ -1,0 +1,10 @@
+{
+    "author": "avr",
+    "isDesktopOnly": true,
+    "id": "obsidian-reading-time",
+    "minAppVersion": "0.12.17",
+    "version": "1.1.2",
+    "description": "Add the current note's reading time to Obsidian's status bar.",
+    "name": "Reading Time",
+    "authorUrl": "https://github.com/avr"
+}
