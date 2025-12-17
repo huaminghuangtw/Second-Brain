@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "15d826ede837c2eb",
+        "id": "f519a39d4e0f870a",
         "type": "tabs",
         "children": [
           {
-            "id": "5b31cac5d45f9f64",
+            "id": "c943b0c786dd0048",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "foodpanda",
+                "query": "Foodpanda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2024/12-December/2024_12_15.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2024_12_15"
+              "title": "File properties for Homepage"
             }
           },
           {
@@ -205,14 +205,14 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_15.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -231,34 +231,36 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "5b31cac5d45f9f64",
+  "active": "c943b0c786dd0048",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/_attachments/Pasted image 20251215115739.png",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_15.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_12.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_10.md",
+    "Evergreen-Notes/_attachments/Pasted image 20251216093647.png",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_13.md",
+    "Evergreen-Notes/Permanent-Notes/how-to-fuel-in-endurance-sports.md",
+    "Evergreen-Notes/Permanent-Notes/microwave-mug-recipes.md",
+    "Evergreen-Notes/Permanent-Notes/daily-microwave-eggs.md",
+    "Evergreen-Notes/Permanent-Notes/News Sobriety.md",
     "Daily-Bullet-Journal/journals/2025/12-December/2025_12_14.md",
-    "Evergreen-Notes/Permanent-Notes/the-day-of-no-reason-when-logic-meets-joy.md",
-    "Evergreen-Notes/Permanent-Notes/live-in-the-present.md",
-    "Evergreen-Notes/Permanent-Notes/adaptability.md",
-    "Evergreen-Notes/Permanent-Notes/human-sponges.md",
-    "Evergreen-Notes/Permanent-Notes/information-overwhelm.md",
-    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
-    "Evergreen-Notes/Permanent-Notes/wu-wei.md",
-    "Evergreen-Notes/Permanent-Notes/Productivity.md",
-    "Evergreen-Notes/Permanent-Notes/The Parable of the Mexican Fisherman.md",
-    "Evergreen-Notes/Permanent-Notes/planning-and-preparation-help-maximize-your-productivity.md",
-    "Evergreen-Notes/Permanent-Notes/life-is-chaotic.md",
-    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_16.md",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_30.md",
-    "Dear-Today-Me/Dear-Today-Me.md",
-    "Evergreen-Notes/Permanent-Notes/self-compassion.md",
-    "Evergreen-Notes/Permanent-Notes/a-letter-to-my-body.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_15.md",
-    "Evergreen-Notes/Permanent-Notes/trust-your-gut.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_13.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_12.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_11.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_10.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_09.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_08.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_08.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md",
+    "Evergreen-Lists/👑 Life Pro Tip/👑 Life Pro Tip.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_14.md",
+    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.md",
+    "AdaptX/posts/the-monkey-and-pedestal-mindset.md",
+    "AdaptX/posts/sherlock-holmes-brain-attic.md",
+    "Evergreen-Notes/Permanent-Notes/communication.md",
+    "Enoughness/posts/2025-week-44.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_15.md",
+    "Evergreen-Notes/Permanent-Notes/Skin Care.md",
+    "Evergreen-Notes/Permanent-Notes/readers-are-leaders.md",
+    "Evergreen-Notes/Permanent-Notes/eat-the-biggest-frog-first-thing-in-the-morning.md",
+    "Evergreen-Notes/Permanent-Notes/Pasted image 20251216093647.png",
+    "Daily-Bullet-Journal/_attachments/306de592343a5617ef097fb38e3d2c2d.png",
     "Daily-Bullet-Journal/journals/2025/12-December/Pasted image 20251215115739.png",
     "Daily-Bullet-Journal/_attachments/a474fd7a1557aa4f08fca8cc24f9e261.png",
     "Evergreen-Notes/_attachments/f1c590ea6270da0b5c903f9809e4da19.png",
@@ -267,8 +269,6 @@
     "Evergreen-Notes/_attachments/d0c80df590f2aca5835478eeff947ff1.png",
     "Evergreen-Notes/Permanent-Notes/Pasted image 20251214193141.png",
     "Visuals/Personal Growth/71b5846377ef53feb1865157279a0895.png",
-    "Daily-Bullet-Journal/journals/2025/12-December/Pasted image 20251214192533.png",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Cleric.jpeg",
     "Users/huaminghuang/Library/Group Containers/group.com.apple.shortcuts/Temporary/com.apple.WorkflowKit.BackgroundShortcutRunner",
     "Users/huaminghuang/Library/Group Containers/group.com.apple.shortcuts/Temporary",
     "Users/huaminghuang/Library/Group Containers/group.com.apple.shortcuts",
