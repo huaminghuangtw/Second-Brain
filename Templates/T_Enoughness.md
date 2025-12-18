@@ -9,10 +9,12 @@ const issue = app.vault
 		.filter((f) => f.path.startsWith("Enoughness/posts/") && f.extension === "md")
 		.length;
 const fridayDate = moment().weekday(5);
+const permalink = `${fridayDate.format('YYYY/M/D')}/enoughness-${issue}`;
 -%>
 ---
 draft: true
 title: ⚖️ <% title %>
+permalink: <% permalink %>
 slug: enoughness-<% issue %>
 description: "<% `Enoughness #${issue}` %>"
 issue: <% issue %>
@@ -39,7 +41,7 @@ _嗨，我是 [黃樺明](https://huami.ng)，我熱愛 [寫作](https://huami.n
 
 # 5
 
-— [樺明](https://huami.ng/<% fridayDate.format('YYYY/M/D') %>/enoughness-<% issue %>)
+— [樺明](https://huami.ng/<% permalink %>)
 
 ---
 
