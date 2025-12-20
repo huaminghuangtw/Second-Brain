@@ -3,10 +3,6 @@
   "templates_folder": "Templates",
   "templates_pairs": [
     [
-      "show_all_tags",
-      "open \"obsidian://adv-uri?commandid=tag-pane%3Aopen\""
-    ],
-    [
       "show_tag_newsletter",
       "open \"obsidian://search?query=tag:%23Newsletter\""
     ]
