@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d6a4279d60e58f7f",
+        "id": "207f66b07ee3d4d6",
         "type": "tabs",
         "children": [
           {
-            "id": "a5de47d14848c179",
+            "id": "0689a927981e1e32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_17.md",
+                "file": "Homepage.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_12_17"
+              "title": "Homepage"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Will Smith\"",
+                "query": "古早味",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_17.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_12_17"
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -183,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Enoughness/posts/2025-week-51.md"
+                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_20.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025-week-51"
+              "title": "File properties for 2025_12_20"
             }
           },
           {
@@ -212,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -231,53 +231,53 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "a5de47d14848c179",
+  "active": "0689a927981e1e32",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_11.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_20.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_08.md",
     "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/resilience.md",
-    "Notes-to-Self/posts/2025-09-05.md",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_13.md",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_03.md",
-    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_12.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_18.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_23.md",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_17.md",
-    "AdaptX/posts/how-to-tie-shoelaces.md",
-    "Enoughness/posts/2025-week-51.md",
-    "AdaptX/posts/unnamed.jpg",
-    "AdaptX/posts/IMG_4828.jpg",
-    "Weekly-Mindware-Update/issues/2025/2025_Week_49.md",
-    "Enoughness/posts/2025-week-45.md",
-    "Evergreen-Notes/Permanent-Notes/push-your-limits.md",
-    "Enoughness/posts/2025-week-43.md",
-    "Daily-Bullet-Journal/journals/2022/12-December/2022_12_19.md",
-    "Enoughness/_attachments/1679752c2621b2228a98cf81faa16790.png",
-    "AdaptX/posts/ted-taipei-2025.md",
-    "Enoughness/_attachments/204f441723d5b827775916ba9801c812.png",
-    "Enoughness/_attachments/56f42d39eec9e0cc402bef7da11bd574.png",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_24.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_22.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_11.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_05.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_17.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_24.md",
-    "Daily-Bullet-Journal/journals/2023/12-December/2023_12_19.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_18.md",
+    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_25.md",
+    "Enoughness/posts/2025-week-46.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_02.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_06.md",
+    "Evergreen-Notes/Permanent-Notes/how-to-live-a-life.md",
     "Enoughness/posts/2025-week-50.md",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Mr Grinch.jpeg",
+    "Enoughness/posts/2025-week-47.md",
+    "Enoughness/posts/2025-week-48.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_10.md",
+    "AdaptX/posts/how-to-tie-shoelaces.md",
+    "Weekly-Mindware-Update/issues/2024/2024w36.md",
+    "Notes-to-Self/posts/2025-08-28.md",
+    "Enoughness/posts/2025-week-51.md",
+    "Enoughness/posts/Pasted image 20251220063718.png",
+    "Enoughness/posts/Pasted image 20251220063101.png",
+    "AdaptX/posts/the-power-of-quiet.md",
+    "Enoughness/posts/Pasted image 20251220063253.png",
+    "Enoughness/posts/Pasted image 20251220062848.png",
+    "Enoughness/posts/Pasted image 20251220062724.png",
+    "Evergreen-Notes/Permanent-Notes/the-tunnel-effect.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_12.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_16.md",
     "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
-    "Daily-Bullet-Journal/_attachments/679f2503abcf6394ad60f633bcf85263.png",
-    "Evergreen-Notes/_attachments/f5b50132790bb4fe839a90f620cbdb06.png",
-    "Evergreen-Notes/_attachments/a5118a788a3fae38c1eb98c76a1bc0ec.jpeg",
-    "AdaptX/_attachments/7903d0e05eda3fff513fe7ce4daa83c1.png",
-    "AdaptX/_attachments/030905b2eba08473ea1034f327737172.png",
-    "Scripts/add_footnotes_field.py",
-    "Users/huaminghuang/Library/Group Containers/group.com.apple.shortcuts/Temporary/com.apple.WorkflowKit.BackgroundShortcutRunner",
-    "Users/huaminghuang/Library/Group Containers/group.com.apple.shortcuts/Temporary",
-    "Users/huaminghuang/Library/Group Containers/group.com.apple.shortcuts",
-    "Users/huaminghuang/Library/Group Containers",
-    "Users/huaminghuang/Library",
-    "Users/huaminghuang",
-    "Users",
-    "Evergreen-Lists/🌍 World Cuisine/🌍 World Cuisine.pdf",
-    "Evergreen-Lists/⌨️ Keyboard Hotkey/⌨️ Keyboard Hotkey.pdf"
+    "Daily-Bullet-Journal/journals/2022/12-December/2022_12_19.md",
+    "Weekly-Mindware-Update/issues/2024/2024w1.md",
+    "Weekly-Mindware-Update/issues/update_frontmatter.py",
+    "Evergreen-Lists/tech-pro-tip/tech-pro-tip.json",
+    "Evergreen-Lists/tech-pro-tip/tech-pro-tip.pdf",
+    "Evergreen-Lists/tech-pro-tip/tech-pro-tip.gsheet",
+    "Evergreen-Lists/tech-pro-tip/👨‍💻 Tech Pro Tip.pdf",
+    "Evergreen-Lists/tech-pro-tip/👨‍💻 Tech Pro Tip.json",
+    "Evergreen-Lists/tech-pro-tip/👨‍💻 Tech Pro Tip.gsheet",
+    "Evergreen-Lists/tech-pro-tip",
+    "Evergreen-Lists/home-exercise/home-exercise.json",
+    "Evergreen-Lists/home-exercise/home-exercise.pdf",
+    "Enoughness/_attachments/1efabbc2d82c4ed6c8bbd572b3a0f3b5.png",
+    "AdaptX/posts/b9299ea25139562fbc330e7c32d79875.jpg",
+    "AdaptX/posts/71f1761c91467de06d2dca100a5238f6.jpg",
+    "Enoughness/_attachments/1679752c2621b2228a98cf81faa16790.png"
   ]
 }

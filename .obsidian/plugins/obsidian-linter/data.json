@@ -290,6 +290,13 @@
       "replace": "’",
       "flags": "g",
       "enabled": true
+    },
+    {
+      "label": "",
+      "find": " ― ",
+      "replace": " — ",
+      "flags": "g",
+      "enabled": true
     }
   ],
   "commonStyles": {

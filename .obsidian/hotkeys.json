@@ -537,15 +537,6 @@
       "key": "L"
     }
   ],
-  "permalink-opener:open-dev-url": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "P"
-    }
-  ],
   "permalink-opener:open-prod-url": [
     {
       "modifiers": [
@@ -884,5 +875,14 @@
       "key": "Enter"
     }
   ],
-  "editor:follow-link": []
+  "editor:follow-link": [],
+  "permalink-opener:open-dev-url": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "P"
+    }
+  ]
 }
