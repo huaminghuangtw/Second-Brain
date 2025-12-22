@@ -1,5 +1,5 @@
 {
-  "keyName": "permalink",
-  "devUrl": "http://127.0.0.1:4000",
+  "keyName": "canonicalPath",
+  "devUrl": "http://localhost:4321",
   "prodUrl": "https://huami.ng"
 }

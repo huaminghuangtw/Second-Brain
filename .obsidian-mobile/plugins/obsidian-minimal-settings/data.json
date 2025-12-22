@@ -1,7 +1,7 @@
 {
     "maxWidth": 88,
     "imgWidth": "img-default-width",
-    "textNormal": 20,
+    "textNormal": 18,
     "iframeWidth": "iframe-default-width",
     "colorfulHeadings": true,
     "mapWidth": "map-default-width",

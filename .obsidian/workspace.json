@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a031e08df1cc401",
+        "id": "560b92cd1eb65ff4",
         "type": "tabs",
         "children": [
           {
-            "id": "7cb9b3f5d85cc313",
+            "id": "bb2b1b851a44bd3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,78 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
-            }
-          },
-          {
-            "id": "4480019f40aa6fe4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Today-I-Learned/posts/temporarily-ignore-local-changes-to-a-tracked-file-in-git.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "temporarily-ignore-local-changes-to-a-tracked-file-in-git"
-            }
-          },
-          {
-            "id": "7c6726da92d2b983",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/the-art-of-quitting.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "the-art-of-quitting"
-            }
-          },
-          {
-            "id": "b6ddc10cd94249c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AdaptX/posts/30-things-i-wish-i-knew-in-20s.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "30-things-i-wish-i-knew-in-20s"
             }
           }
         ]
@@ -135,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "角膜厚度",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +99,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -302,42 +231,46 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "7cb9b3f5d85cc313",
+  "active": "bb2b1b851a44bd3f",
   "lastOpenFiles": [
-    "Enoughness/posts/2025-week-50.md",
-    "Shortcutomation/posts/shortcut-input-magic-youre-probably-missing.md",
-    "AdaptX/posts/30-things-i-wish-i-knew-in-20s.md",
-    "AdaptX/posts/the-power-of-quiet.md",
-    "Evergreen-Notes/Permanent-Notes/the-art-of-quitting.md",
-    "Today-I-Learned/posts/temporarily-ignore-local-changes-to-a-tracked-file-in-git.md",
-    "Today-I-Learned/posts/vs-code-cli-and-url-schemes.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-live-a-life.md",
+    "Evergreen-Notes/Permanent-Notes/intentional-living.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_21.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_22.md",
+    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_22.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_24.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_19.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_08.md",
+    "Evergreen-Notes/Permanent-Notes/recovery.md",
+    "Daily-Bullet-Journal/journals/2022/12-December/2022_12_22.md",
+    "Daily-Bullet-Journal/journals/2023/12-December/2023_12_22.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_22.md",
+    "Daily-Bullet-Journal/_attachments/e059d52b82fd70f2c540a0d45d966b8f.jpeg",
+    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
+    "Enoughness/posts/2025-week-49.md",
+    "Daily-Bullet-Journal/journals/2022/07-July/2022_07_30 7.md",
+    "Daily-Bullet-Journal/journals/2022/07-July/2022_07_30 8.md",
+    "Evergreen-Notes/Permanent-Notes/the-sedona-method 5.md",
+    "Enoughness/posts/2025-week-45 3.md",
+    "Evergreen-Notes/Permanent-Notes/the-sedona-method 4.md",
+    "Enoughness/posts/2025-week-45.md",
+    "Enoughness/posts/2025-week-45 2.md",
+    "Notes-to-Self/posts/2025-09-10 2.md",
+    "Notes-to-Self/posts/2025-09-10.md",
+    "Notes-to-Self/posts/2025-09-10 3.md",
+    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
+    "Enoughness/_attachments/4724290f121e5745e7429f9aae5dc0fe.png",
+    "Enoughness/_attachments/fde9411a9b5e27d59d35abf3b7a146f3.png",
+    "Enoughness/_attachments/ea3910160ddbf73987e2ad3a907ec65e.png",
+    "Enoughness/_attachments/df2e3cfb5bf6fed2d1ea3da55103eed5.png",
+    "AdaptX/_attachments/b9299ea25139562fbc330e7c32d79875.jpg",
+    "AdaptX/_attachments/71f1761c91467de06d2dca100a5238f6.jpg",
+    "Evergreen-Notes/Permanent-Notes/optimism.md",
     "Scripts/add_canonical_path.py",
     "Today-I-Learned/add_canonical_path.py",
-    "AdaptX/posts/test.md",
-    "AdaptX/posts/goodbye-past-me.md",
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2023/12-December/2023_12_21.md",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_21.md",
-    "Evergreen-Notes/Permanent-Notes/pain-is-inevitable-suffering-is-optional.md",
-    "Evergreen-Notes/Permanent-Notes/emotion-control.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_20.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_11.md",
-    "Evergreen-Notes/Permanent-Notes/the-ability-to-bounce-back-quickly-is-one-of-the-most-important-life-skills.md",
-    "Daily-Bullet-Journal/journals/2022/12-December/2022_12_21.md",
-    "Life-Notes/Missions/教育改革.md",
-    "Notes-to-Self/posts/2025-10-05.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Evergreen-Notes/Permanent-Notes/dont-panic.md",
-    "Dear-Today-Me/Dear-Today-Me.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_21.md",
-    "Evergreen-Notes/Permanent-Notes/longevity.md",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Mr Grinch.jpeg",
     "Enoughness/posts/Pasted image 20251220063718.png",
     "Enoughness/posts/Pasted image 20251220063101.png",
-    "Enoughness/posts/Pasted image 20251220063253.png",
-    "Enoughness/posts/Pasted image 20251220062848.png",
-    "Enoughness/posts/Pasted image 20251220062724.png",
     "Weekly-Mindware-Update/issues/update_frontmatter.py",
     "Evergreen-Lists/tech-pro-tip/tech-pro-tip.json",
     "Evergreen-Lists/tech-pro-tip/tech-pro-tip.pdf",
@@ -345,10 +278,6 @@
     "Evergreen-Lists/tech-pro-tip/👨‍💻 Tech Pro Tip.pdf",
     "Evergreen-Lists/tech-pro-tip/👨‍💻 Tech Pro Tip.json",
     "Evergreen-Lists/tech-pro-tip/👨‍💻 Tech Pro Tip.gsheet",
-    "Evergreen-Lists/tech-pro-tip",
-    "Enoughness/_attachments/1efabbc2d82c4ed6c8bbd572b3a0f3b5.png",
-    "AdaptX/posts/b9299ea25139562fbc330e7c32d79875.jpg",
-    "AdaptX/posts/71f1761c91467de06d2dca100a5238f6.jpg",
-    "Enoughness/_attachments/1679752c2621b2228a98cf81faa16790.png"
+    "Evergreen-Lists/tech-pro-tip"
   ]
 }
