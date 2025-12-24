@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "006de652cf15298a",
+        "id": "83ad88240b46def5",
         "type": "tabs",
         "children": [
           {
-            "id": "149044f375b0d1eb",
+            "id": "1ad8a215e3cf5d4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_24.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2025_12_24"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "好吵",
+                "query": "mdi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 2025_12_24"
             }
           },
           {
@@ -183,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Shortcutomation/posts/anxiety.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for anxiety"
             }
           },
           {
@@ -205,14 +205,14 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2022/12-December/2022_12_18.md"
+                "file": "Shortcutomation/posts/anxiety.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -231,46 +231,46 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "149044f375b0d1eb",
+  "active": "1ad8a215e3cf5d4e",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_21.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_15.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_20.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_19.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_18.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_17.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_16.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_15.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_23.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2022/09-September/2022_09_06.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_13.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_22.md",
-    "Evergreen-Notes/Permanent-Notes/peace-from-mind.md",
-    "Evergreen-Notes/Permanent-Notes/overthinking.md",
-    "Evergreen-Notes/Permanent-Notes/be-ready-to-change-your-mind-completely-at-any-given-time.md",
-    "Evergreen-Notes/Permanent-Notes/never-ever-complain-about-anything.md",
-    "Evergreen-Notes/Permanent-Notes/creativity-is-just-connecting-things.md",
-    "Evergreen-Notes/Permanent-Notes/the-sunk-cost-fallacy.md",
-    "Evergreen-Notes/Permanent-Notes/the-ability-to-bounce-back-quickly-is-one-of-the-most-important-life-skills.md",
-    "Evergreen-Notes/Permanent-Notes/dare-to-be-different.md",
-    "Evergreen-Notes/Permanent-Notes/failing-forward-turns-setbacks-into-stepping-stones.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_20.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_04.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_24.md",
+    "Evergreen-Notes/Permanent-Notes/the-tunnel-effect.md",
+    "Evergreen-Notes/Permanent-Notes/be-careful-how-you-are-talking-to-yourself.md",
+    "Brainfoodie/posts/the-science-behind-dramatically-better-conversations.md",
+    "Brainfoodie/posts/44-harsh-truths-about-human-nature.md",
+    "Shortcutomation/posts/hidden-keyboard-shortcuts-for-apple-shortcuts.md",
+    "Notes-to-Self/posts/2025-08-19.md",
+    "Notes-to-Self/posts/2025-10-05.md",
+    "Shortcutomation/posts/why-i-watch-the-earth-spin-every-night-before-bed.md",
+    "Shortcutomation/posts/live-each-day-as-if-it-were-your-last.md",
+    "Shortcutomation/posts/a-nighttime-routine-i-do-every-day.md",
+    "Shortcutomation/posts/a-midday-routine-i-do-every-day.md",
+    "Shortcutomation/posts/shortcut-input-magic-youre-probably-missing.md",
+    "Evergreen-Notes/Permanent-Notes/abandon-your-ego.md",
+    "Evergreen-Notes/Permanent-Notes/be-primarily-internally-driven-with-intrinsic-motivation.md",
     "Evergreen-Notes/Permanent-Notes/love.md",
+    "Evergreen-Notes/Permanent-Notes/escape-competition-through-authenticity.md",
+    "Evergreen-Notes/Permanent-Notes/dont-chase-attract.md",
     "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
-    "Life-Notes/Business/Business Model (Machine).md",
-    "Life-Notes/Business/🏰 My Biz Empire.md",
+    "Evergreen-Notes/Permanent-Notes/the-absence-of-desire-is-true-happiness.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_02.md",
+    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Wall Sit.gif",
+    "Shortcutomation/posts/this-apple-shortcut-got-me-to-exercise-every-single-day.md",
+    "Enoughness/posts/2025-week-51.md",
+    "Enoughness/_attachments/fde9411a9b5e27d59d35abf3b7a146f3.png",
+    "Shortcutomation/_attachments/08f1ff30f09a13e6604cb3ab89c1c974.png",
+    "Shortcutomation/posts/Pasted image 20251224082746.png",
     "Daily-Bullet-Journal/_attachments/e059d52b82fd70f2c540a0d45d966b8f.jpeg",
     "Enoughness/_attachments/4724290f121e5745e7429f9aae5dc0fe.png",
-    "Enoughness/_attachments/fde9411a9b5e27d59d35abf3b7a146f3.png",
     "Enoughness/_attachments/ea3910160ddbf73987e2ad3a907ec65e.png",
     "Enoughness/_attachments/df2e3cfb5bf6fed2d1ea3da55103eed5.png",
     "AdaptX/_attachments/b9299ea25139562fbc330e7c32d79875.jpg",
     "AdaptX/_attachments/71f1761c91467de06d2dca100a5238f6.jpg",
     "Scripts/add_canonical_path.py",
     "Today-I-Learned/add_canonical_path.py",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Mr Grinch.jpeg",
-    "Enoughness/posts/Pasted image 20251220063718.png",
-    "Enoughness/posts/Pasted image 20251220063101.png",
     "Weekly-Mindware-Update/issues/update_frontmatter.py",
     "Evergreen-Lists/tech-pro-tip/tech-pro-tip.json",
     "Evergreen-Lists/tech-pro-tip/tech-pro-tip.pdf",
