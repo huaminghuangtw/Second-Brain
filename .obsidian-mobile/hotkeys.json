@@ -884,5 +884,13 @@
       ],
       "key": "P"
     }
+  ],
+  "file-recovery:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
   ]
 }
