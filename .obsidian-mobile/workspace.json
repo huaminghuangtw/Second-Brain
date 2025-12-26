@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aaef5ec018178a4e",
+        "id": "4ad3e8a092e41af2",
         "type": "tabs",
         "children": [
           {
-            "id": "6f04de573f02814a",
+            "id": "8df0356f0869da12",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mdi",
+                "query": "line:(sincere serious)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Shortcutomation/posts/anxiety.md"
+                "file": "Enoughness/posts/2025-week-52.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for anxiety"
+              "title": "File properties for 2025-week-52"
             }
           },
           {
@@ -205,14 +205,14 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Shortcutomation/posts/anxiety.md"
+                "file": "Enoughness/posts/2025-week-52.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -231,44 +231,44 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "6f04de573f02814a",
+  "active": "8df0356f0869da12",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_24.md",
+    "Enoughness/_attachments/Pasted image 20251225155553.png",
+    "Enoughness/_attachments/Pasted image 20251225145410.png",
+    "Enoughness/_attachments/Pasted image 20251225154815.png",
+    "Shortcutomation/_attachments/Pasted image 20251225141927.png",
+    "Evergreen-Notes/_attachments/Pasted image 20251225074103.png",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_20.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_04.md",
-    "Evergreen-Notes/Permanent-Notes/the-tunnel-effect.md",
-    "Evergreen-Notes/Permanent-Notes/be-careful-how-you-are-talking-to-yourself.md",
-    "Brainfoodie/posts/the-science-behind-dramatically-better-conversations.md",
-    "Brainfoodie/posts/44-harsh-truths-about-human-nature.md",
-    "Shortcutomation/posts/hidden-keyboard-shortcuts-for-apple-shortcuts.md",
-    "Notes-to-Self/posts/2025-08-19.md",
-    "Notes-to-Self/posts/2025-10-05.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_25.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_24.md",
+    "Enoughness/posts/2025-week-43.md",
+    "Enoughness/posts/Pasted image 20251225155553.png",
+    "Enoughness/posts/Pasted image 20251225154815.png",
+    "Enoughness/posts/2025-week-52.md",
     "Shortcutomation/posts/why-i-watch-the-earth-spin-every-night-before-bed.md",
-    "Shortcutomation/posts/live-each-day-as-if-it-were-your-last.md",
-    "Shortcutomation/posts/a-nighttime-routine-i-do-every-day.md",
-    "Shortcutomation/posts/a-midday-routine-i-do-every-day.md",
-    "Shortcutomation/posts/shortcut-input-magic-youre-probably-missing.md",
-    "Evergreen-Notes/Permanent-Notes/abandon-your-ego.md",
-    "Evergreen-Notes/Permanent-Notes/be-primarily-internally-driven-with-intrinsic-motivation.md",
-    "Evergreen-Notes/Permanent-Notes/love.md",
-    "Evergreen-Notes/Permanent-Notes/escape-competition-through-authenticity.md",
-    "Evergreen-Notes/Permanent-Notes/dont-chase-attract.md",
-    "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
-    "Evergreen-Notes/Permanent-Notes/the-absence-of-desire-is-true-happiness.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_02.md",
-    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Wall Sit.gif",
-    "Shortcutomation/posts/this-apple-shortcut-got-me-to-exercise-every-single-day.md",
+    "Evergreen-Notes/Permanent-Notes/not-caring-lets-us-perform-better.md",
+    "Evergreen-Notes/Permanent-Notes/push-your-limits.md",
+    "Evergreen-Notes/Permanent-Notes/pain-is-inevitable-suffering-is-optional.md",
+    "Enoughness/posts/Pasted image 20251225145410.png",
+    "Shortcutomation/posts/Pasted image 20251225141927.png",
+    "Enoughness/posts/Pasted image 20251225093003.png",
+    "Evergreen-Notes/Permanent-Notes/why-i-write-and-run-every-single-day.md",
     "Enoughness/posts/2025-week-51.md",
-    "Enoughness/_attachments/fde9411a9b5e27d59d35abf3b7a146f3.png",
-    "Shortcutomation/_attachments/08f1ff30f09a13e6604cb3ab89c1c974.png",
-    "Shortcutomation/posts/Pasted image 20251224082746.png",
-    "Daily-Bullet-Journal/_attachments/e059d52b82fd70f2c540a0d45d966b8f.jpeg",
-    "Enoughness/_attachments/4724290f121e5745e7429f9aae5dc0fe.png",
-    "Enoughness/_attachments/ea3910160ddbf73987e2ad3a907ec65e.png",
-    "Enoughness/_attachments/df2e3cfb5bf6fed2d1ea3da55103eed5.png",
-    "AdaptX/_attachments/b9299ea25139562fbc330e7c32d79875.jpg",
-    "AdaptX/_attachments/71f1761c91467de06d2dca100a5238f6.jpg",
+    "Enoughness/posts/2025-week-48.md",
+    "Enoughness/posts/2025-week-47.md",
+    "Enoughness/posts/2025-week-49.md",
+    "Enoughness/posts/2025-week-50.md",
+    "Evergreen-Notes/Permanent-Notes/be-primarily-internally-driven-with-intrinsic-motivation.md",
+    "Evergreen-Notes/Permanent-Notes/the-sedona-method.md",
+    "Evergreen-Notes/Permanent-Notes/the-sedona-method 4.md",
+    "Evergreen-Notes/Permanent-Notes/the-sedona-method 3.md",
+    "Evergreen-Notes/Permanent-Notes/the-sedona-method 2.md",
+    "Evergreen-Notes/Permanent-Notes/the-cost-of-interrupted-work 2.md",
+    "Evergreen-Notes/Permanent-Notes/the-empty-boat-mindset.md",
+    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Minutes Meditation.gif",
+    "Evergreen-Notes/Permanent-Notes/when-in-doubt-zoom-out.md",
+    "Brainfoodie/posts/pale-blue-dot.md",
+    "AdaptX/posts/goodbye-past-me.md",
     "Scripts/add_canonical_path.py",
     "Today-I-Learned/add_canonical_path.py",
     "Weekly-Mindware-Update/issues/update_frontmatter.py",

@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "395d88f57bb80227",
+        "id": "90a5072d60828960",
         "type": "tabs",
         "children": [
           {
-            "id": "e227f393e76ab0d6",
+            "id": "6dcfe2cc4efa7e2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_25.md",
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "0b5e2663eadf1dbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2024/08-August/2024_08_29.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,10 +52,131 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_12_25"
+              "title": "2024_08_29"
+            }
+          },
+          {
+            "id": "efcd918fc31efd64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enoughness/posts/2025-week-49.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-week-49"
+            }
+          },
+          {
+            "id": "116f9c52a0f3235e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enoughness/posts/2025-week-52.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-week-52"
+            }
+          },
+          {
+            "id": "fb85e00eff8ed3db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/always-start-and-end-the-day-right.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "always-start-and-end-the-day-right"
+            }
+          },
+          {
+            "id": "69587832e3d2dcca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "b4f56acd6c267207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -63,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(sincere serious)",
+                "query": "古典音樂",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_25.md",
+                "file": "Enoughness/posts/2025-week-52.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +276,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_12_25"
+              "title": "Backlinks for 2025-week-52"
             }
           },
           {
@@ -231,43 +376,44 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "e227f393e76ab0d6",
+  "active": "116f9c52a0f3235e",
   "lastOpenFiles": [
+    "Enoughness/posts/2025-week-49.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_24.md",
+    "Enoughness/posts/2025-week-46.md",
+    "Enoughness/posts/2025-week-48.md",
     "Enoughness/posts/2025-week-43.md",
+    "Enoughness/posts/2025-week-52.md",
+    "Evergreen-Notes/Permanent-Notes/always-start-and-end-the-day-right.md",
+    "Evergreen-Notes/Permanent-Notes/sleep.md",
+    "Evergreen-Notes/Permanent-Notes/caffeine.md",
+    "Daily-Bullet-Journal/journals/2023/05-May/2023_05_07.md",
+    "Evergreen-Notes/Permanent-Notes/the-two-day-rule.md",
+    "Homepage.md",
+    "Evergreen-Notes/_attachments/3c8feaa5b5177879bf5a07e276913749.png",
+    "Evergreen-Notes/Permanent-Notes/Pasted image 20251226081509.png",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_25.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_24.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_25.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_29.md",
+    "Enoughness/posts/2025-week-52 2.md",
+    "Daily-Bullet-Journal/journals/2022/12-December/2022_12_22.md",
+    "Untitled.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Shortcutomation/posts/why-i-watch-the-earth-spin-every-night-before-bed.md",
+    "Shortcutomation/_attachments/55d1de78da4c22a7ad69504a9f8ae553.png",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_26.md",
+    "Evergreen-Notes/Permanent-Notes/intentional-living.md",
+    "Daily-Bullet-Journal/journals/2022/12-December/2022_12_26.md",
+    "Daily-Bullet-Journal/journals/2023/12-December/2023_12_26.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_26.md",
+    "Visuals/Fitness/Darebee/ExerciseOfTheDay/5 Minutes Meditation.gif",
+    "Enoughness/_attachments/74acf07ae4f2f43d32eed6a074ae326d.png",
+    "Enoughness/_attachments/868f4cec391c04dd28bd3f3394f70d4c.png",
+    "Enoughness/_attachments/1da39cec8f0baeb88540f6cc2df8dcf0.png",
     "Enoughness/posts/Pasted image 20251225155553.png",
     "Enoughness/posts/Pasted image 20251225154815.png",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_25.md",
-    "Enoughness/posts/2025-week-52.md",
-    "Shortcutomation/posts/why-i-watch-the-earth-spin-every-night-before-bed.md",
-    "Evergreen-Notes/Permanent-Notes/not-caring-lets-us-perform-better.md",
-    "Evergreen-Notes/Permanent-Notes/push-your-limits.md",
-    "Evergreen-Notes/Permanent-Notes/pain-is-inevitable-suffering-is-optional.md",
     "Enoughness/posts/Pasted image 20251225145410.png",
-    "Shortcutomation/posts/Pasted image 20251225141927.png",
-    "Enoughness/posts/Pasted image 20251225093003.png",
-    "Evergreen-Notes/Permanent-Notes/why-i-write-and-run-every-single-day.md",
-    "Enoughness/posts/2025-week-51.md",
-    "Enoughness/posts/2025-week-48.md",
-    "Enoughness/posts/2025-week-47.md",
-    "Enoughness/posts/2025-week-49.md",
-    "Enoughness/posts/2025-week-50.md",
-    "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/be-primarily-internally-driven-with-intrinsic-motivation.md",
-    "Evergreen-Notes/Permanent-Notes/the-sedona-method.md",
-    "Evergreen-Notes/Permanent-Notes/the-sedona-method 4.md",
-    "Evergreen-Notes/Permanent-Notes/the-sedona-method 3.md",
-    "Evergreen-Notes/Permanent-Notes/the-sedona-method 2.md",
-    "Evergreen-Notes/Permanent-Notes/the-cost-of-interrupted-work 2.md",
-    "Evergreen-Notes/Permanent-Notes/the-empty-boat-mindset.md",
-    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Minutes Meditation.gif",
-    "Evergreen-Notes/Permanent-Notes/when-in-doubt-zoom-out.md",
-    "Brainfoodie/posts/pale-blue-dot.md",
-    "AdaptX/posts/goodbye-past-me.md",
-    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
-    "Daily-Bullet-Journal/_attachments/e959994c9bb4b20602ec5d59eacb1251.jpeg",
-    "Evergreen-Notes/Permanent-Notes/Pasted image 20251225074103.png",
-    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Wall Sit.gif",
-    "Enoughness/_attachments/fde9411a9b5e27d59d35abf3b7a146f3.png",
     "Scripts/add_canonical_path.py",
     "Today-I-Learned/add_canonical_path.py",
     "Weekly-Mindware-Update/issues/update_frontmatter.py",
