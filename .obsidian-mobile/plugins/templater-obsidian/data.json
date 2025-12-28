@@ -1,0 +1,43 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Templates",
+  "templates_pairs": [
+    [
+      "show_tag_newsletter",
+      "open \"obsidian://search?query=tag:%23Newsletter\""
+    ]
+  ],
+  "trigger_on_file_creation": false,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "Scripts/Templater",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Evergreen-Notes/Permanent-Notes",
+      "template": "Templates/T_Permanent-Notes.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": true,
+  "enabled_templates_hotkeys": [
+    "Templates/T_Permanent-Notes.md",
+    "Templates/T_Today-I-Learned.md",
+    "Templates/T_Shortcutomation.md",
+    "Templates/T_Enoughness.md",
+    "Templates/T_Notes-to-Self.md",
+    "Templates/T_AdaptX.md",
+    "Templates/T_Brainfoodie.md"
+  ],
+  "startup_templates": [],
+  "intellisense_render": 1,
+  "enable_ribbon_icon": true
+}

@@ -112,7 +112,7 @@
       "enabled": true
     },
     "auto-correct-common-misspellings": {
-      "enabled": true,
+      "enabled": false,
       "ignore-words": "",
       "extra-auto-correct-files": [],
       "skip-words-with-multiple-capitals": false
@@ -294,6 +294,13 @@
     {
       "label": "",
       "find": " ― ",
+      "replace": " — ",
+      "flags": "g",
+      "enabled": true
+    },
+    {
+      "label": "",
+      "find": " – ",
       "replace": " — ",
       "flags": "g",
       "enabled": true
