@@ -2,7 +2,7 @@
 await tp.user.show_tag_newsletter();
 const result = await tp.user.createWritingPost(tp);
 if (!result) return;
-const { title, fileName } = result
+const { title } = result
 const issue = app.vault
 		.getFiles()
 		.filter((f) => f.path.startsWith("Enoughness/posts/") && f.extension === "md")
