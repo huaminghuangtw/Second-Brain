@@ -1,0 +1,10 @@
+{
+    "author": "mgmeyers",
+    "authorUrl": "https://github.com/mgmeyers/obsidian-style-settings",
+    "id": "obsidian-style-settings",
+    "minAppVersion": "0.11.5",
+    "version": "1.0.9",
+    "description": "Offers controls for adjusting theme, plugin, and snippet CSS variables.",
+    "name": "Style Settings",
+    "isDesktopOnly": false
+}

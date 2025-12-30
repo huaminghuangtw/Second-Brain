@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2168a82f34d5f33c",
+        "id": "3a6d1b9c7857270e",
         "type": "tabs",
         "children": [
           {
-            "id": "d9dc0e6824fb3524",
+            "id": "1db03be0d17820ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "節約",
+                "query": "存在本身就是價值",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_28.md"
+                "file": "Enoughness/posts/2026-week-01.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_12_28"
+              "title": "File properties for 2026-week-01"
             }
           },
           {
@@ -231,35 +231,37 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "d9dc0e6824fb3524",
+  "active": "1db03be0d17820ba",
   "lastOpenFiles": [
-    "Evergreen-Notes/_attachments/unnamed.jpg",
-    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
-    "Evergreen-Notes/Permanent-Notes/readers-are-leaders.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_12.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_28.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_26.md",
-    "Evergreen-Notes/Permanent-Notes/frameworks-to-structure-your-day.md",
-    "AdaptX/posts/you-and-your-timeline.md",
-    "Evergreen-Notes/Permanent-Notes/the-day-of-no-reason-when-logic-meets-joy.md",
+    "Enoughness/_attachments/Pasted image 20251229162516.png",
     "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/unnamed.jpg",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_31.md",
-    "Evergreen-Notes/Permanent-Notes/change-yourself-to-change-the-world.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_27.md",
+    "Evergreen-Notes/Permanent-Notes/the-day-of-no-reason-when-logic-meets-joy.md",
+    "Enoughness/posts/2026-week-01.md",
+    "AdaptX/posts/ted-taipei-2025.md",
+    "Enoughness/posts/Pasted image 20251229162516.png",
+    "Evergreen-Notes/Permanent-Notes/love.md",
+    "Evergreen-Notes/_attachments/d4505d78f9eaaaf332422fc2bf37d056.jpg",
+    "Evergreen-Notes/Permanent-Notes/cynicism.md",
+    "Life-Notes/laser-eye-surgery.md",
+    "Untitled.md",
+    "Evergreen-Notes/Permanent-Notes/be-grateful.md",
+    "Evergreen-Notes/Permanent-Notes/self-compassion.md",
+    "Evergreen-Notes/Permanent-Notes/the-law-of-attraction.md",
     "Daily-Bullet-Journal/journals/2025/12-December/2025_12_11.md",
     "Daily-Bullet-Journal/journals/2024/12-December/2024_12_26.md",
-    "Evergreen-Notes/Permanent-Notes/healthy-eating-habits.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_22.md",
-    "Enoughness/posts/2025-week-52.md",
-    "Enoughness/posts/2025-week-50.md",
-    "AdaptX/posts/goodbye-past-me.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_26.md",
-    "Weekly-Mindware-Update/issues/2025/2025w52.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_27.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_28.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_29.md",
+    "Daily-Bullet-Journal/journals/2022/11-November/2022_11_30.md",
+    "Evergreen-Notes/Permanent-Notes/change-yourself-to-change-the-world.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_31.md",
+    "Evergreen-Notes/Permanent-Notes/the-two-day-rule.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_28.md",
+    "Daily-Bullet-Journal/journals/2022/12-December/2022_12_29.md",
     "Enoughness/posts/2025-week-46.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_16.md",
-    "Evergreen-Notes/Permanent-Notes/control-the-controllable.md",
-    "Life-Notes/Alignment/🐤 New Hobbies.md",
+    "Daily-Bullet-Journal/journals/2023/12-December/2023_12_29.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_29.md",
+    "Evergreen-Notes/Permanent-Notes/unnamed.jpg",
     "Evergreen-Notes/_attachments/ea37e9ac03d4cde587d3a8999e49c4bc.png",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/I've Got This!.jpeg",
     "Enoughness/_attachments/868f4cec391c04dd28bd3f3394f70d4c.png",
@@ -267,8 +269,6 @@
     "Evergreen-Notes/Permanent-Notes/Pasted image 20251226081509.png",
     "Shortcutomation/_attachments/55d1de78da4c22a7ad69504a9f8ae553.png",
     "Visuals/Fitness/Darebee/ExerciseOfTheDay/5 Minutes Meditation.gif",
-    "Enoughness/_attachments/74acf07ae4f2f43d32eed6a074ae326d.png",
-    "Enoughness/_attachments/1da39cec8f0baeb88540f6cc2df8dcf0.png",
     "Scripts/add_canonical_path.py",
     "Today-I-Learned/add_canonical_path.py",
     "Weekly-Mindware-Update/issues/update_frontmatter.py",
