@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "17b7d1ad18c51945",
+        "id": "1ed6671202cbd1bc",
         "type": "tabs",
         "children": [
           {
-            "id": "bc18f82c8d5ecfee",
+            "id": "35868110808354a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Homepage.md",
                 "mode": "preview",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "f5248925c1c6fdde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_01.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026_01_01"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "近視雷射",
+                "query": "靈魂之窗",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_01.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026_01_01"
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -208,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_01.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_01_01"
+              "title": "File properties for Homepage"
             }
           },
           {
@@ -230,14 +205,14 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_01.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -256,46 +231,46 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "f5248925c1c6fdde",
+  "active": "35868110808354a9",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_28.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_01.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_31.md",
+    "Life-Notes/laser-eye-surgery.md",
+    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_02.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_02.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_02.md",
     "Enoughness/posts/2026-week-01.md",
-    "AdaptX/posts/ted-taipei-2025.md",
-    "Untitled.md",
+    "Evergreen-Notes/Permanent-Notes/love.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_01.md",
     "Homepage.md",
+    "Evergreen-Notes/Permanent-Notes/lazy-cooking-tips.md",
+    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
+    "Evergreen-Notes/Permanent-Notes/just-getting-started.md",
+    "Enoughness/_attachments/33c527d633bc40074414bdf266c492fc.png",
+    "Enoughness/posts/2025-week-43.md",
+    "AdaptX/posts/ted-taipei-2025.md",
+    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.md",
+    "AdaptX/posts/you-and-your-timeline.md",
+    "Enoughness/posts/2025-week-47.md",
+    "AdaptX/posts/the-monkey-and-pedestal-mindset.md",
+    "Enoughness/posts/2025-week-45.md",
+    "Enoughness/_attachments/d42378f28cc3061a25449670b71a18d3.png",
+    "Enoughness/_attachments/cba361a758f373eb153182448bba00cb.png",
+    "Evergreen-Notes/Permanent-Notes/quit-social-media.md",
+    "Untitled.md",
+    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_28.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_31.md",
     "Daily-Bullet-Journal/journals/2025/01-January/2025_01_01.md",
     "Daily-Bullet-Journal/journals/2024/01-January/2024_01_01.md",
     "Daily-Bullet-Journal/journals/2023/01-January/2023_01_01.md",
     "Evergreen-Notes/Permanent-Notes/when-in-doubt-zoom-out.md",
     "Daily-Bullet-Journal/journals/2026/01-January",
     "Daily-Bullet-Journal/journals/2026",
-    "Evergreen-Notes/Permanent-Notes/Plant-based Diet.md",
-    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
-    "Life-Notes/laser-eye-surgery.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_22.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_27.md",
-    "Enoughness/posts/2025-week-47.md",
-    "Enoughness/posts/2025-week-46.md",
-    "Enoughness/posts/Pasted image 20251231084726.png",
-    "Enoughness/posts/2025-week-45.md",
-    "Enoughness/posts/2025-week-44.md",
-    "AdaptX/posts/30-things-i-wish-i-knew-in-20s.md",
-    "Enoughness/posts/Pasted image 20251231083300.png",
-    "Daily-Bullet-Journal/journals/2016/12-December/2016_12_31.md",
-    "Daily-Bullet-Journal/journals/2022/12-December/2022_12_31.md",
-    "Daily-Bullet-Journal/journals/2023/12-December/2023_12_31.md",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_31.md",
-    "Enoughness/posts/2025-week-43.md",
-    "Enoughness/posts/Pasted image 20251231072614.png",
+    "Enoughness/_attachments/b9343713f6bafd617070f6e3770af1cf.png",
+    "Enoughness/_attachments/10722c1909496cb13aaa6cf493fb33bd.png",
     "Evergreen-Notes/_attachments/d4505d78f9eaaaf332422fc2bf37d056.jpg",
     "Evergreen-Notes/_attachments/c9257a85882e36fd0382be51f7500a5f.png",
     "Enoughness/_attachments/f1c33b26261ef62abfbaf3ce8dbf54ff.png",
     "Enoughness/posts/Pasted image 20251229162516.png",
     "Evergreen-Notes/Permanent-Notes/unnamed.jpg",
-    "Evergreen-Notes/_attachments/ea37e9ac03d4cde587d3a8999e49c4bc.png",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/I've Got This!.jpeg",
     "Scripts/add_canonical_path.py",
     "Today-I-Learned/add_canonical_path.py",
     "Weekly-Mindware-Update/issues/update_frontmatter.py",
