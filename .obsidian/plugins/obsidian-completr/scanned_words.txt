@@ -1856,6 +1856,7 @@ tolerances
 tissue
 thin
 thick
+tsai
 Escape
 Everything
 Earl
@@ -3555,6 +3556,9 @@ ENA
 EzP
 EBDQ
 EvmI
+Equivalent
+Entrenchment
+Excellency
 competition
 created
 concerned
@@ -5947,6 +5951,12 @@ curl
 crisp
 corrects
 curvature
+console
+clinic
+corrections
+contacts
+corneas
+caveats
 authenticity
 and
 avoids
@@ -8022,6 +8032,15 @@ aberrations
 ablation
 astigmatism
 approximation
+alcon
+abdf
+adbae
+abberations
+abberometer
+anyways
+astigmatisms
+aspheric
+acbdb
 modified
 means
 mind
@@ -9893,6 +9912,8 @@ mandolin
 myopia
 millimetres
 micrometers
+measurements
+measured
 popular
 pause
 prisons
@@ -12036,6 +12057,10 @@ parchment
 procedures
 periphery
 presbyopia
+porch
+prints
+protected
+passphrase
 is
 it
 in
@@ -14010,6 +14035,11 @@ inzm
 ivP
 infra
 irregular
+induces
+irregularities
+inducing
+insert
+innervated
 wrong
 world
 with
@@ -16971,6 +17001,8 @@ OVzU
 OOd
 OEbB
 Overwrite
+Ophthalmologist
+Optimal
 Wilde
 Whenever
 Woolf
@@ -18498,6 +18530,8 @@ WyW
 WvYC
 WPa
 WXQ
+Wasserhahn
+Weasel
 To
 The
 Tzu
@@ -20392,6 +20426,8 @@ Tlu
 TUmW
 Toasting
 Thickening
+Topo
+Tasking
 escape
 eyes
 everyone
@@ -22333,6 +22369,8 @@ ejm
 esI
 excess
 ectasia
+ecca
+ensured
 from
 first
 find
@@ -24396,6 +24434,8 @@ fallen
 favour
 farsightedness
 flap
+fab
+flatness
 one
 opinions
 of
@@ -25874,6 +25914,8 @@ oEmI
 oKA
 oversalted
 optical
+optimizes
+obscure
 not
 no
 needed
@@ -27415,6 +27457,7 @@ nBO
 nDS
 negate
 nearsightedness
+ningloart
 Dogen
 Don
 Dr
@@ -30767,6 +30810,7 @@ VOa
 VgCX
 VPNQ
 VND
+VISX
 go
 given
 greater
@@ -32362,6 +32406,8 @@ gSW
 grating
 ginger
 glares
+genau
+google
 defeated
 do
 distinctiveness
@@ -34484,6 +34530,10 @@ deli
 dishwasher
 deemed
 diopters
+dbbe
+ddcff
+deviation
+disproves
 seek
 side
 successful
@@ -37121,6 +37171,10 @@ spherical
 surgeons
 surgeon
 scleral
+subset
+surgeries
+swipes
+sdjhksdj
 battle
 be
 but
@@ -39204,6 +39258,7 @@ breadcrumbs
 buns
 buttered
 billionth
+blindness
 Sun
 Seuss
 Sam
@@ -41361,6 +41416,10 @@ SAb
 Spy
 Sag
 Spherical
+Sommerzeit
+Schwind
+Slit
+Sayers
 you
 yourself
 your
@@ -42787,6 +42846,7 @@ yRY
 yPQL
 yBn
 ykld
+yard
 reflect
 receive
 rewards
@@ -46677,6 +46737,7 @@ MUH
 Myopes
 MAXXIVA
 Munnerlyn
+Miguel
 If
 In
 It
@@ -50054,6 +50115,9 @@ lids
 lasers
 lenticule
 lenses
+laughs
+lap
+loads
 Nightingale
 Normalcy
 Normal
@@ -51565,6 +51629,8 @@ NfEe
 Nyol
 NjO
 Nearsighted
+Necessary
+Ning
 happen
 have
 happiness
@@ -57927,6 +57993,8 @@ Buk
 BVw
 BhKR
 Blumen
+Bausch
+Bins
 Coco
 Channel
 Chase
@@ -59863,6 +59931,13 @@ Coma
 Cornea
 Cure
 Corneal
+CONTOURA
+Configuration
+CTRL
+Cervantes
+Consensus
+Cozy
+Corners
 All
 Always
 Against
@@ -61644,6 +61719,12 @@ Afa
 AADyF
 AMdL
 Ablation
+Alcon
+Axis
+Abberometer
+AFAIK
+Aspheric
+Available
 version
 very
 visual
@@ -64640,6 +64721,9 @@ GuN
 GsR
 GwP
 Gorilla
+Glasses
+Grandchildren
+Gestures
 universe
 undervalue
 uniqueness
@@ -66292,6 +66376,7 @@ uEr
 uuZ
 ufa
 uncorrected
+unbiased
 Forbes
 Fight
 Find
@@ -67941,6 +68026,8 @@ Flavors
 Fish
 Freezing
 Flicking
+Fluffy
+FROM
 Rita
 Romans
 Rumi
@@ -69909,6 +69996,9 @@ RnC
 RDTS
 Retina
 Refractive
+Reintroduce
+Retreatment
+Relaxing
 Pfeffer
 Parker
 Pattern
@@ -71764,6 +71854,7 @@ ProductiveLazy
 Preventing
 Peel
 Pupils
+Preservative
 Lewis
 Lean
 Let
@@ -73327,6 +73418,9 @@ LCZ
 LbK
 Large
 Larger
+Lomb
+LifeNotes
+Lamp
 Uncondition
 Undo
 Use
@@ -79227,6 +79321,8 @@ kSA
 kcL
 kappa
 knives
+keypress
+keratometry
 How
 Highlights
 HR
@@ -85036,6 +85132,7 @@ KMp
 Kappa
 Kappas
 Kosher
+Kmean
 Xx
 Xg
 XN

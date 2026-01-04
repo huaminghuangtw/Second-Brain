@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1ed6671202cbd1bc",
+        "id": "fe444f49a9289c90",
         "type": "tabs",
         "children": [
           {
-            "id": "35868110808354a9",
+            "id": "9c5c17266db47f6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -231,8 +231,9 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "35868110808354a9",
+  "active": "9c5c17266db47f6a",
   "lastOpenFiles": [
+    "Homepage.md",
     "Life-Notes/laser-eye-surgery.md",
     "Daily-Bullet-Journal/journals/2024/01-January/2024_01_02.md",
     "Daily-Bullet-Journal/journals/2025/01-January/2025_01_02.md",
@@ -240,7 +241,6 @@
     "Enoughness/posts/2026-week-01.md",
     "Evergreen-Notes/Permanent-Notes/love.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_01.md",
-    "Homepage.md",
     "Evergreen-Notes/Permanent-Notes/lazy-cooking-tips.md",
     "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
     "Evergreen-Notes/Permanent-Notes/just-getting-started.md",
