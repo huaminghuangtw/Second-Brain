@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T17:18:12
-modified: 2025-12-14T07:07:42
+modified: 2026-01-06T14:58:55
 ---
 
 <!-- four-quarters-in-a-day -->
@@ -362,10 +362,15 @@ if (onDesktop) {
 >     return { linkResults, embedResults };
 > }
 >
-> dv.header(4, "**❥ Empty Notes**");
-> dv.list(getRandomFilteredPages(
->     p => p.file.size >= 0 && p.file.size < 10
-> ));
+> // dv.header(4, "**❥ Empty Notes**");
+> // dv.list(getRandomFilteredPages(
+> //     p => p.file.size >= 0 && p.file.size < 10
+> // )); -->
+>
+> // dv.header(4, "**❥ Orphaned Notes**");
+> // dv.list(getRandomFilteredPages(
+> //     p => p.file.inlinks && p.file.outlinks
+> // )); -->
 >
 > dv.header(4, "**❥ Bad Links**");
 > dv.list(await findBadLinksAndEmbeds().linkResults);
@@ -376,10 +381,6 @@ if (onDesktop) {
 > dv.header(4, "**❥ Orphaned Images**");
 > dv.list(findOrphanedImages());
 >
-> dv.header(4, "**❥ Orphaned Notes**");
-> dv.list(getRandomFilteredPages(
->     p => p.file.inlinks && p.file.outlinks
-> ));
 > ```
 
 # [📝 Journaling](https://github.com/huaminghuangtw/Daily-Bullet-Journal)
