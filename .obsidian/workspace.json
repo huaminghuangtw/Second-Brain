@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fce98d91990bc410",
+        "id": "62d56331949d2aa6",
         "type": "tabs",
         "children": [
           {
-            "id": "b9a075da545157db",
+            "id": "8b6aa049d98b4ead",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "8cee65ff8099600f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enoughness/posts/2025-week-47.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-week-47"
+            }
+          },
+          {
+            "id": "4a03fd1cfb37c1b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life-Notes/WebDev/Astro.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Astro"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "天靈蓋",
+                "query": "Imgix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +148,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Life-Notes/WebDev/Astro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +180,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for Astro"
             }
           },
           {
@@ -182,10 +232,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Life-Notes/WebDev/Astro.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for Astro"
             }
           },
           {
@@ -231,35 +281,38 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "b9a075da545157db",
+  "active": "4a03fd1cfb37c1b3",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_26.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_27.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_28.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_29.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_30.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_31.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_01.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_02.md",
+    "Enoughness/posts/2025-week-47.md",
+    "Enoughness/posts/Pasted image 20260107162735.png",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_30.md",
+    "Enoughness/posts/Pasted image 20260107162218.png",
+    "Enoughness/posts/2025-week-45 2.md",
+    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_29.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_19.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_07.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_03.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_04.md",
-    "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/resilience.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_20.md",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_30.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_06.md",
-    "Enoughness/posts/2026-week-01.md",
-    "Evergreen-Notes/Permanent-Notes/slow-down-to-speed-up.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_30.md",
-    "Evergreen-Notes/Permanent-Notes/do-not-use-your-willpower-unless-you-absolutely-have-to.md",
-    "Evergreen-Notes/Permanent-Notes/dare-to-be-different.md",
-    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_24.md",
-    "Evergreen-Notes/Permanent-Notes/instant-gratification.md",
-    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_27.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_05.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_02.md",
-    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_03.md",
-    "Daily-Bullet-Journal/_attachments/2026_01_04_20_38_11.jpg",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_06.md",
+    "Evergreen-Notes/Permanent-Notes/intentional-living.md",
+    "Evergreen-Notes/Permanent-Notes/starting-from-scratch-isnt-failure-its-the-beginning-of-something-new.md",
+    "Enoughness/posts/2025-week-49.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_16.md",
+    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_27.md",
+    "Evergreen-Notes/Permanent-Notes/just-getting-started.md",
+    "AdaptX/posts/you-and-your-timeline.md",
+    "AdaptX/posts/goodbye-past-me.md",
+    "AdaptX/_attachments/ab6d048cb84db54e34571bf7f18b3213.jpeg",
+    "Enoughness/posts/2026-week-02.md",
+    "Evergreen-Notes/Permanent-Notes/always-start-with-end-in-mind.md",
+    "Evergreen-Notes/Permanent-Notes/choose-your-response.md",
+    "Evergreen-Notes/Permanent-Notes/dispel-your-narratives.md",
+    "Evergreen-Notes/Permanent-Notes/duality-vs-polarity.md",
+    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
+    "Enoughness/posts/Pasted image 20260106184613.png",
+    "Daily-Bullet-Journal/_attachments/d3ad950a5d97d4d3a02d818f7c148113.jpg",
     "Daily-Bullet-Journal/journals/2026/01-January",
     "Daily-Bullet-Journal/journals/2025/12-December",
     "Daily-Bullet-Journal/journals/2025/11-November",
@@ -270,14 +323,10 @@
     "Daily-Bullet-Journal/journals/2025/06-June",
     "Daily-Bullet-Journal/journals/2025/05-May",
     "Daily-Bullet-Journal/journals/2025/04-April",
-    "Daily-Bullet-Journal/_attachments/2026_01_04_20_38_40.jpg",
+    "Daily-Bullet-Journal/_attachments/ecf904093c48a504d4a463289ce69735.jpg",
     "Enoughness/_attachments/33c527d633bc40074414bdf266c492fc.png",
     "Enoughness/_attachments/d42378f28cc3061a25449670b71a18d3.png",
     "Enoughness/_attachments/cba361a758f373eb153182448bba00cb.png",
-    "Enoughness/_attachments/b9343713f6bafd617070f6e3770af1cf.png",
-    "Enoughness/_attachments/10722c1909496cb13aaa6cf493fb33bd.png",
-    "Evergreen-Notes/_attachments/d4505d78f9eaaaf332422fc2bf37d056.jpg",
-    "Evergreen-Notes/_attachments/c9257a85882e36fd0382be51f7500a5f.png",
-    "Enoughness/_attachments/f1c33b26261ef62abfbaf3ce8dbf54ff.png"
+    "Enoughness/_attachments/b9343713f6bafd617070f6e3770af1cf.png"
   ]
 }
