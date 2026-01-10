@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c691ea347d3496fe",
+        "id": "4bdc4ed594a9a79a",
         "type": "tabs",
         "children": [
           {
-            "id": "3aa6e67ed3ac9a89",
+            "id": "1bb0038d4c365fd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,13 +32,13 @@
             }
           },
           {
-            "id": "8d407b0b2e56bb93",
+            "id": "cd59c925b270c7b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2023/01-January/2023_01_09.md",
-                "mode": "preview",
+                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_19.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2023_01_09"
+              "title": "2025_12_19"
             }
           },
           {
-            "id": "c1634e2079e3ca3f",
+            "id": "dae8c195a161b395",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_09.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -76,16 +76,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2025_12_09"
             }
           },
           {
-            "id": "55b7af010b58023a",
+            "id": "0752889819f856d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enoughness/posts/2026-week-02.md",
+                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_06.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026_01_06"
+            }
+          },
+          {
+            "id": "f9cdd9f470c8a82b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_23.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -100,11 +124,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-week-02"
+              "title": "2025_12_23"
+            }
+          },
+          {
+            "id": "6e7e0086dbaabf92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enoughness/posts/2025-week-48.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-week-48"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -136,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "淺嚐即止",
+                "query": "雞蛋",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,8 +220,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enoughness/posts/2026-week-02.md",
+                "file": "Enoughness/posts/2025-week-48.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +251,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-week-02"
+              "title": "Backlinks for 2025-week-48"
             }
           },
           {
@@ -256,10 +303,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Enoughness/posts/2026-week-02.md"
+                "file": "Enoughness/posts/2025-week-48.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026-week-02"
+              "title": "File properties for 2025-week-48"
             }
           },
           {
@@ -305,44 +352,44 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "55b7af010b58023a",
+  "active": "6e7e0086dbaabf92",
   "lastOpenFiles": [
-    "Enoughness/posts/2025-week-47.md",
-    "Enoughness/posts/2026-week-01.md",
-    "Homepage.md",
+    "Enoughness/posts/Pasted image 20260110163510.png",
+    "Enoughness/posts/Pasted image 20260110163345.png",
     "Enoughness/posts/2026-week-02.md",
-    "Enoughness/_attachments/7d8acfce8e1a318c714aed877ba0aa3b.png",
-    "Enoughness/posts/2025-week-52.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_21.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_05.md",
-    "Enoughness/posts/2025-week-48.md",
-    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.md",
-    "Evergreen-Notes/Permanent-Notes/intentional-living.md",
-    "Dear-Today-Me/Dear-Today-Me.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_09.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-live-a-life.md",
-    "Evergreen-Notes/Permanent-Notes/longevity.md",
-    "Enoughness/_attachments/96cbe124796cfcc6eb270958172d03b5.png",
-    "Daily-Bullet-Journal/journals/2023/01-January/2023_01_09.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_18.md",
-    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_09.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_08.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_28.md",
-    "Evergreen-Notes/Permanent-Notes/do-great-work.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_09.md",
-    "Evergreen-Notes/Permanent-Notes/journaling.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_23.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_17.md",
+    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_06.md",
+    "Evergreen-Notes/Permanent-Notes/always-do-your-best-as-possible.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_09.md",
+    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_02.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_19.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_01.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_09.md",
-    "Evergreen-Notes/Permanent-Notes/dental-and-oral-hygiene.md",
-    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
+    "AdaptX/posts/you-and-your-timeline.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_22.md",
+    "Evergreen-Notes/Permanent-Notes/healthy-eating-habits.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_22.md",
+    "AdaptX/posts/ted-taipei-2025.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_10.md",
+    "Life-Notes/Finance/Investment 101.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md",
+    "Weekly-Mindware-Update/issues/2025/2025w6.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_07.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_10.md",
+    "Enoughness/_attachments/e34c0476e188b229eca492393de614fa.png",
+    "Enoughness/_attachments/7d8acfce8e1a318c714aed877ba0aa3b.png",
+    "Enoughness/_attachments/96cbe124796cfcc6eb270958172d03b5.png",
     "Enoughness/_attachments/5b88616ae7936c6d3d431dec7848611c.png",
     "Enoughness/posts/Pasted image 20260108171104.png",
     "Enoughness/_attachments/0d870e68569d5dae15d584d4afc57956.png",
     "Enoughness/_attachments/025d97ba939e03be2e28c0ed0e91c756.png",
     "Enoughness/posts/Pasted image 20260107162735.png",
     "Enoughness/posts/Pasted image 20260107162218.png",
-    "AdaptX/_attachments/ab6d048cb84db54e34571bf7f18b3213.jpeg",
-    "Enoughness/posts/Pasted image 20260106184613.png",
     "Daily-Bullet-Journal/journals/2026/01-January",
     "Daily-Bullet-Journal/journals/2025/12-December",
     "Daily-Bullet-Journal/journals/2025/11-November",
