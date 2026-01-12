@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9c8fbbe548611fb2",
+        "id": "17f08f361c0b54a3",
         "type": "tabs",
         "children": [
           {
-            "id": "9ff6707e33c3f494",
+            "id": "291b28d9d1e6548c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_03.md",
-                "mode": "preview",
-                "source": true,
+                "file": "Evergreen-Notes/Permanent-Notes/healthy-eating-habits.md",
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_01_03"
+              "title": "healthy-eating-habits"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "新鮮雞蛋",
+                "query": " 找工作",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_03.md",
+                "file": "Evergreen-Notes/Permanent-Notes/healthy-eating-habits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026_01_03"
+              "title": "Backlinks for healthy-eating-habits"
             }
           },
           {
@@ -183,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_03.md"
+                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_11.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_01_03"
+              "title": "File properties for 2026_01_11"
             }
           },
           {
@@ -232,34 +232,34 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "9ff6707e33c3f494",
+  "active": "291b28d9d1e6548c",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_03.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_12.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_04.md",
     "Homepage.md",
+    "Evergreen-Notes/Permanent-Notes/healthy-eating-habits.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_31.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_07.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_20.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_09.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_11.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_10.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_12.md",
+    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_12.md",
+    "Daily-Bullet-Journal/journals/2023/01-January/2023_01_12.md",
+    "Daily-Bullet-Journal/journals/2023/01-January/2023_01_11.md",
+    "Enoughness/posts/2025-week-49.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_10.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_14.md",
+    "Life-Notes/Alignment/🤡 My Identities & Characters.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_29.md",
+    "Evergreen-Notes/Permanent-Notes/the-mueller-lyer-illusion.md",
+    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_03.md",
     "Daily-Bullet-Journal/journals/2025/12-December/2025_12_23.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_08.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_11.md",
     "Evergreen-Notes/Permanent-Notes/a-man-who-is-a-master-of-patience-is-master-of-everything-else.md",
-    "Evergreen-Notes/Permanent-Notes/the-hofstadters-law.md",
-    "Evergreen-Notes/Permanent-Notes/slow-down-to-speed-up.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_10.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_21.md",
-    "Evergreen-Notes/Permanent-Notes/intentional-living.md",
-    "Dear-Today-Me/Dear-Today-Me.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_31.md",
-    "Life-Notes/Missions/學生運動員.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_09.md",
-    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
-    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_01.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_01.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_15.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_11.md",
-    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_21.md",
-    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_17.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_22.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_21.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_20.md",
     "Enoughness/_attachments/eac2499bee6356637d248d6cc298209d.png",
     "Enoughness/_attachments/37fe893d87e16240c3257a7c4c57f501.png",
     "Enoughness/_attachments/c44ba0fe8fee90887a2d6add64fc893c.png",
