@@ -21,7 +21,3 @@ Book
 shortcut
 shortcuts
 shortcutomaing
-APO
-APOq
-UUI
-UUIL
