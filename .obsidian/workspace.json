@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6b219af7e252f3b5",
+        "id": "50796fddab520d9e",
         "type": "tabs",
         "children": [
           {
-            "id": "7a59784c01c95d1f",
+            "id": "7c8667891c553086",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_14.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2026_01_14"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "保護眼睛",
+                "query": "手寫",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5,
-    "collapsed": true
+    "width": 381.5
   },
   "right": {
     "id": "622d958ae975569a",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 2026_01_14"
             }
           },
           {
@@ -183,10 +182,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_14.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for 2026_01_14"
             }
           },
           {
@@ -211,7 +210,8 @@
               "title": "Footnotes"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -231,34 +231,36 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "7a59784c01c95d1f",
+  "active": "09de3fe4648a779a",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_07.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_12.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_08.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_14.md",
     "Homepage.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_07.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_13.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_17.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_24.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_04.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_12.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_14.md",
+    "Life-Notes/razor.md",
+    "Evergreen-Notes/Permanent-Notes/push-your-limits.md",
+    "Evergreen-Notes/Permanent-Notes/peace-from-mind.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_14.md",
+    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_14.md",
+    "Daily-Bullet-Journal/journals/2023/01-January/2023_01_14.md",
+    "Enoughness/posts/2026-week-03.md",
+    "Evergreen-Notes/Permanent-Notes/the-matthew-effect.md",
+    "Evergreen-Notes/Permanent-Notes/the-winner-take-all-effects.md",
+    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
+    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Sit-Up Punches.gif",
+    "Visuals/Relationships/IMG_5039.PNG",
     "Daily-Bullet-Journal/journals/2025/04-April/2025_04_12.md",
     "Life-Notes/Business/Implementations & Strategies.md",
     "Evergreen-Notes/Permanent-Notes/adaptability.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_13.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_10.md",
     "Daily-Bullet-Journal/journals/2025/10-October/2025_10_22.md",
     "Daily-Bullet-Journal/journals/2023/02-February/2023_02_01.md",
-    "Evergreen-Notes/Permanent-Notes/the-game-of-life.md",
-    "Evergreen-Notes/Permanent-Notes/specialization-is-for-insects.md",
-    "Life-Notes/Finance/台股.md",
-    "Life-Notes/Finance/財金金融相關知識&專業術語&詞彙.md",
-    "Life-Notes/Finance/ETF.md",
-    "Life-Notes/Finance/Investment 101.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_11.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_09.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_03.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_24.md",
-    "Evergreen-Notes/Permanent-Notes/URL_Schemes.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_05.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_29.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_01.md",
     "Evergreen-Lists/README.md.tmp",
     "Enoughness/_attachments/eac2499bee6356637d248d6cc298209d.png",
     "Enoughness/_attachments/37fe893d87e16240c3257a7c4c57f501.png",
@@ -268,8 +270,6 @@
     "Enoughness/_attachments/e34c0476e188b229eca492393de614fa.png",
     "Enoughness/_attachments/7d8acfce8e1a318c714aed877ba0aa3b.png",
     "Enoughness/_attachments/96cbe124796cfcc6eb270958172d03b5.png",
-    "Enoughness/_attachments/5b88616ae7936c6d3d431dec7848611c.png",
-    "Enoughness/posts/Pasted image 20260108171104.png",
     "Daily-Bullet-Journal/journals/2026/01-January",
     "Daily-Bullet-Journal/journals/2025/12-December",
     "Daily-Bullet-Journal/journals/2025/11-November",
