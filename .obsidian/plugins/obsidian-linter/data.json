@@ -293,14 +293,7 @@
     },
     {
       "label": "",
-      "find": " ― ",
-      "replace": " — ",
-      "flags": "g",
-      "enabled": true
-    },
-    {
-      "label": "",
-      "find": " – ",
+      "find": " (―|—|–) ",
       "replace": " — ",
       "flags": "g",
       "enabled": true
