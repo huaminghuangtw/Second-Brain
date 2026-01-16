@@ -297,6 +297,13 @@
       "replace": " — ",
       "flags": "g",
       "enabled": true
+    },
+    {
+      "label": "",
+      "find": "(\\d+)(st|nd|rd|th)\\s+Birthday",
+      "replace": "$1<sup>$2</sup> Birthday",
+      "flags": "gm",
+      "enabled": true
     }
   ],
   "commonStyles": {

@@ -14,7 +14,7 @@
   "showUnsupportedFiles": false,
   "livePreview": false,
   "showLineNumber": false,
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "./_attachments",
   "alwaysUpdateLinks": true,
   "userIgnoreFilters": [
     "Scripts/",
