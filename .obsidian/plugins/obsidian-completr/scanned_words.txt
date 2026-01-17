@@ -13472,6 +13472,7 @@ pkIt
 pkK
 pAmn
 pGqP
+periodically
 is
 it
 in
@@ -15690,6 +15691,7 @@ iOQH
 iNOqS
 isw
 iGLRg
+interoperability
 wrong
 world
 with
@@ -25213,6 +25215,7 @@ eFNW
 eij
 eNT
 eecfa
+export
 from
 first
 find
@@ -41658,6 +41661,9 @@ sYc
 sTC
 scJ
 sUN
+surrounding
+slashes
+subfolders
 battle
 be
 but
@@ -46431,6 +46437,8 @@ SHM
 SfU
 Semi
 Srujan
+Subfolder
+Standalone
 you
 yourself
 your
@@ -50386,6 +50394,8 @@ rsL
 riL
 res
 rjl
+relocated
+referenced
 Mark
 Matshona
 Malcolm
@@ -65150,6 +65160,7 @@ BaV
 BPwf
 BGP
 Bldx
+Blockroll
 Coco
 Channel
 Chase
@@ -67300,6 +67311,7 @@ CHq
 CFq
 Cowrz
 CWc
+Charty
 All
 Always
 Against
@@ -69314,6 +69326,8 @@ ANri
 AQB
 AbS
 Americans
+Absolute
+Alignment
 version
 very
 visual
@@ -78762,6 +78776,7 @@ RRFdw
 Rim
 RcL
 RqT
+Reisessig
 Pfeffer
 Parker
 Pattern
@@ -84533,6 +84548,7 @@ UkUs
 UQt
 UTa
 UqZ
+Unused
 Quintana
 Qualification
 Quarkus
@@ -91372,6 +91388,7 @@ Hel
 HFjc
 HjF
 HVAC
+Had
 question
 quiet
 questions
