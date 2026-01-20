@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7541901948d7b0eb",
+        "id": "633ebdbdccbf24bb",
         "type": "tabs",
         "children": [
           {
-            "id": "b74c5d1f0da5b6a9",
+            "id": "e60acc65ee3cc4e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_16.md",
-                "mode": "source",
-                "source": false,
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_01_16"
+              "title": "Homepage"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "youtu.be flic.kr",
+                "query": "專家",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,8 +99,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_16.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026_01_16"
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -183,10 +182,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_16.md"
+                "file": "Daily-Bullet-Journal/journals/2024/01-January/2024_01_19.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_01_16"
+              "title": "File properties for 2024_01_19"
             }
           },
           {
@@ -221,7 +220,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
       "bases:Create new base": false,
       "graph:Open graph view": true,
       "command-palette:Open command palette": true,
@@ -232,34 +230,38 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "b74c5d1f0da5b6a9",
+  "active": "e60acc65ee3cc4e6",
   "lastOpenFiles": [
-    "Life-Notes/razor.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_16.md",
+    "Daily-Bullet-Journal/journals/2018/01-January/2018_01_20.md",
+    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_19.md",
+    "Daily-Bullet-Journal/journals/2017/01-January/2017_01_19.md",
+    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_20.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2018/01-January",
+    "Daily-Bullet-Journal/journals/2018",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_31.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_20.md",
+    "Daily-Bullet-Journal/journals/2017/01-January",
+    "Daily-Bullet-Journal/journals/2017",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_16.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_14.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_30.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_02.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_08.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_18.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_17.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_16.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_15.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_30.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_07.md",
+    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_22.md",
+    "Evergreen-Notes/Permanent-Notes/be-primarily-internally-driven-with-intrinsic-motivation.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_14.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_13.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_22.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_18.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_12.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_09.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_09.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_19.md",
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_15.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_13.md",
-    "Evergreen-Notes/Permanent-Notes/be-grateful.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_21.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_28.md",
-    "Life-Notes/Coding/Rewriting Git commit history.md",
-    "Enoughness/posts/2026-week-03.md",
-    "Evergreen-Notes/Permanent-Notes/change-yourself-to-change-the-world.md",
-    "Evergreen-Notes/Permanent-Notes/Skin Care.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_04.md",
-    "Evergreen-Notes/Permanent-Notes/mastering-yourself-is-superpower.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_20.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_19.md",
-    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_19.md",
-    "Daily-Bullet-Journal/journals/2023/01-January/2023_01_19.md",
+    "Evergreen-Notes/Permanent-Notes/solitude.md",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/No-Equipment Bicep Builder.jpeg",
     "Enoughness/posts/_attachments/8a4c8a9583c074b70f4fcbdf8b8c75f6.png",
     "Enoughness/posts/_attachments/66fca761c564a5d4269c378d3e909acc.png",
@@ -275,10 +277,6 @@
     "Enoughness/posts/Perfect_Days_13.jpg.crdownload",
     "Enoughness/posts/Perfect_Days_05.jpg.crdownload",
     "Evergreen-Lists/README.md.tmp",
-    "Daily-Bullet-Journal/journals/2026/01-January",
-    "Daily-Bullet-Journal/journals/2025/12-December",
-    "Daily-Bullet-Journal/journals/2025/11-November",
-    "Daily-Bullet-Journal/journals/2025/10-October",
-    "Daily-Bullet-Journal/journals/2025/09-September"
+    "Daily-Bullet-Journal/journals/2026/01-January"
   ]
 }

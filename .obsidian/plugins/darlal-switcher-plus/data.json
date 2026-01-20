@@ -11,6 +11,8 @@
   "headingsListCommand": "#",
   "bookmarksListCommand": "'",
   "commandListCommand": ">",
+  "recentCommandDisplayOrder": "desc",
+  "maxRecentCommands": 25,
   "vaultListCommand": "vault ",
   "relatedItemsListCommand": "~",
   "relatedItemsListActiveEditorCommand": "^ ",
@@ -59,7 +61,11 @@
     "backlink",
     "outgoing-link"
   ],
-  "showOptionalIndicatorIcons": true,
+  "showOptionalIndicatorIcons": false,
+  "isFileExtensionIndicatorsEnabled": true,
+  "excludeFileExtensionIndicators": [
+    "md"
+  ],
   "overrideStandardModeBehaviors": true,
   "overrideStandardModeRendering": true,
   "enabledRibbonCommands": [],
@@ -360,6 +366,8 @@
   "escapeCmdChar": "!",
   "mobileLauncher": {
     "isEnabled": false,
+    "isMobileButtonEnabled": true,
+    "isEmptyTabButtonEnabled": true,
     "modeString": "Standard",
     "iconName": "",
     "coreLauncherButtonIconSelector": "span.clickable-icon",
@@ -445,5 +453,12 @@
         "hotkey": null
       }
     ]
+  },
+  "saveWorkspaceAndSwitchKeys": {
+    "modifiers": [
+      "Mod",
+      "Shift"
+    ],
+    "key": "s"
   }
 }

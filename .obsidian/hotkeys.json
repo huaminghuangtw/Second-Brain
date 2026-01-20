@@ -371,14 +371,6 @@
       "key": "P"
     }
   ],
-  "editor:toggle-strikethrough": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "S"
-    }
-  ],
   "obs-text-wrapper:quick-tag-one": [
     {
       "modifiers": [
@@ -546,14 +538,6 @@
       "key": "P"
     }
   ],
-  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1740516528044": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "U"
-    }
-  ],
   "templater-obsidian:jump-to-next-cursor-location": [],
   "templater-obsidian:insert-templater": [],
   "templater-obsidian:replace-in-file-templater": [],
@@ -642,15 +626,6 @@
         "Shift"
       ],
       "key": " "
-    }
-  ],
-  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1740516620458": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Shift"
-      ],
-      "key": "K"
     }
   ],
   "editor:fold-all": [
@@ -848,15 +823,6 @@
       "key": "S"
     }
   ],
-  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1762086930339": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "S"
-    }
-  ],
   "obsidian-shellcommands:shell-command-kelulfeihc": [
     {
       "modifiers": [
@@ -891,6 +857,65 @@
         "Alt"
       ],
       "key": "H"
+    }
+  ],
+  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1740516620458": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
+  "obsidian-text-format:wrapper:underline": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
+    }
+  ],
+  "editor:insert-link": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ],
+  "obsidian-text-format:remove-url-link": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "U"
+    }
+  ],
+  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1762086930339": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1768862882395": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "K"
     }
   ]
 }

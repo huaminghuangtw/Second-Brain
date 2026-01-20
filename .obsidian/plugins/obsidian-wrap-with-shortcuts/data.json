@@ -25,16 +25,16 @@
       "endTag": "</sup>"
     },
     {
-      "id": "w1740516528044",
-      "name": "Underline",
-      "startTag": "<u>",
-      "endTag": "</u>"
-    },
-    {
       "id": "w1762086930339",
       "name": "引號",
       "startTag": "「",
       "endTag": "」"
+    },
+    {
+      "id": "w1768862882395",
+      "name": "方頭括號",
+      "startTag": "【",
+      "endTag": "】"
     },
     {
       "id": "w1761213086334",
