@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T17:18:12
-modified: 2026-01-06T14:58:55
+modified: 2026-01-20T09:29:25
 ---
 
 <!-- four-quarters-in-a-day -->
@@ -61,8 +61,7 @@ if (onDesktop) {
         } else {
             blockSymbol = CONFIG.block.default;
         }
-        let url = `shortcuts://run-shortcut?name=${encodeURIComponent("Show Day Progress")}`
-        blocks.push(`[${blockSymbol}](${url})`);
+        blocks.push(blockSymbol);
     }
     const blocksString = blocks.join(" ");
 
