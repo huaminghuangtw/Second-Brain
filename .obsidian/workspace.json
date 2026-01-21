@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "633ebdbdccbf24bb",
+        "id": "1b9ef172e205b308",
         "type": "tabs",
         "children": [
           {
-            "id": "e60acc65ee3cc4e6",
+            "id": "125f9f4221693150",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "專家",
+                "query": "vatt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2024/01-January/2024_01_19.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2024_01_19"
+              "title": "File properties for Homepage"
             }
           },
           {
@@ -230,38 +231,38 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "e60acc65ee3cc4e6",
+  "active": "125f9f4221693150",
   "lastOpenFiles": [
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2023/06-June/2023_06_11.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_21.md",
+    "Evergreen-Notes/Permanent-Notes/death.md",
+    "Weekly-Mindware-Update/issues/2025/2025w12.md",
+    "Evergreen-Notes/Permanent-Notes/Skin Care.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_20.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_30.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_12.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_29.md",
+    "Life-Notes/Coffee/Cold Brew Coffee.md",
+    "Life-Notes/Coffee/器材.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_21.md",
+    "Daily-Bullet-Journal/journals/2023/01-January/2023_01_21.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_12.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_13.md",
+    "Daily-Bullet-Journal/journals/2018/01-January/2018_01_21.md",
+    "Daily-Bullet-Journal/journals/2017/01-January/2017_01_21.md",
+    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_21.md",
+    "Evergreen-Notes/Permanent-Notes/decision-making.md",
+    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
+    "Evergreen-Notes/Permanent-Notes/the-dreamlining-method.md",
     "Daily-Bullet-Journal/journals/2018/01-January/2018_01_20.md",
     "Daily-Bullet-Journal/journals/2024/01-January/2024_01_19.md",
     "Daily-Bullet-Journal/journals/2017/01-January/2017_01_19.md",
     "Daily-Bullet-Journal/journals/2024/01-January/2024_01_20.md",
-    "Homepage.md",
     "Daily-Bullet-Journal/journals/2018/01-January",
     "Daily-Bullet-Journal/journals/2018",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_31.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_20.md",
     "Daily-Bullet-Journal/journals/2017/01-January",
     "Daily-Bullet-Journal/journals/2017",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_16.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_14.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_30.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_02.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_08.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_18.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_17.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_16.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_15.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_07.md",
-    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_22.md",
-    "Evergreen-Notes/Permanent-Notes/be-primarily-internally-driven-with-intrinsic-motivation.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_14.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_13.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_12.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_09.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_09.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_19.md",
-    "Evergreen-Notes/Permanent-Notes/solitude.md",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/No-Equipment Bicep Builder.jpeg",
     "Enoughness/posts/_attachments/8a4c8a9583c074b70f4fcbdf8b8c75f6.png",
     "Enoughness/posts/_attachments/66fca761c564a5d4269c378d3e909acc.png",
