@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1b9ef172e205b308",
+        "id": "28ef61ca35ade517",
         "type": "tabs",
         "children": [
           {
-            "id": "125f9f4221693150",
+            "id": "4ac7a069f2927d5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_21.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2026_01_21"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vatt",
+                "query": "\"Emma Goto\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 2026_01_21"
             }
           },
           {
@@ -183,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Evergreen-Notes/Permanent-Notes/smile-and-laugh.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for smile-and-laugh"
             }
           },
           {
@@ -231,34 +231,37 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "125f9f4221693150",
+  "active": "4ac7a069f2927d5f",
   "lastOpenFiles": [
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2023/06-June/2023_06_11.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_22.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_21.md",
-    "Evergreen-Notes/Permanent-Notes/death.md",
-    "Weekly-Mindware-Update/issues/2025/2025w12.md",
-    "Evergreen-Notes/Permanent-Notes/Skin Care.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_07.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/_attachments/Pasted image 20260122170030.png",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_20.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_30.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_12.md",
+    "Homepage.md",
+    "Evergreen-Notes/Permanent-Notes/judgment-is-the-most-important-skill-in-an-age-of-infinite-leverage.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_17.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_19.md",
+    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
+    "Evergreen-Notes/Permanent-Notes/goal-setting.md",
+    "Evergreen-Notes/Permanent-Notes/change-yourself-to-change-the-world.md",
+    "Evergreen-Notes/Permanent-Notes/the-growth-mindset.md",
+    "Evergreen-Notes/Permanent-Notes/abandon-your-ego.md",
+    "Evergreen-Notes/Permanent-Notes/smile-and-laugh.md",
     "Daily-Bullet-Journal/journals/2025/12-December/2025_12_29.md",
-    "Life-Notes/Coffee/Cold Brew Coffee.md",
-    "Life-Notes/Coffee/器材.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_21.md",
-    "Daily-Bullet-Journal/journals/2023/01-January/2023_01_21.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_12.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_13.md",
-    "Daily-Bullet-Journal/journals/2018/01-January/2018_01_21.md",
-    "Daily-Bullet-Journal/journals/2017/01-January/2017_01_21.md",
-    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_21.md",
-    "Evergreen-Notes/Permanent-Notes/decision-making.md",
-    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
-    "Evergreen-Notes/Permanent-Notes/the-dreamlining-method.md",
-    "Daily-Bullet-Journal/journals/2018/01-January/2018_01_20.md",
-    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_19.md",
-    "Daily-Bullet-Journal/journals/2017/01-January/2017_01_19.md",
-    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_20.md",
+    "Daily-Bullet-Journal/journals/2022/12-December/2022_12_30.md",
+    "Evergreen-Notes/Permanent-Notes/humor-is-a-way-to-show-you-are-smart-without-bragging.md",
+    "Evergreen-Notes/Permanent-Notes/mastering-yourself-is-superpower.md",
+    "Evergreen-Notes/Permanent-Notes/be-primarily-internally-driven-with-intrinsic-motivation.md",
+    "Evergreen-Notes/Permanent-Notes/dont-chase-attract.md",
+    "Evergreen-Notes/Permanent-Notes/always-start-with-end-in-mind.md",
+    "Evergreen-Notes/Permanent-Notes/hedonic-happiness-vs-eudaimonic-happiness.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Evergreen-Notes/Permanent-Notes/systems-over-goals.md",
+    "Weekly-Mindware-Update/issues/2024/2024w49.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_21.md",
+    "Daily-Bullet-Journal/journals/2022/01-January",
+    "Daily-Bullet-Journal/journals/2016/01-January",
     "Daily-Bullet-Journal/journals/2018/01-January",
     "Daily-Bullet-Journal/journals/2018",
     "Daily-Bullet-Journal/journals/2017/01-January",
@@ -274,10 +277,7 @@
     "Enoughness/_attachments/7257f40c0cd2735714a7622a4536e624.jpg",
     "Enoughness/_attachments/1b19223e3fa24fb9786be38889c1ef0e.jpg",
     "Enoughness/_attachments/48ff2c1a47fefb08178960175da07f00.jpg",
-    "Enoughness/_attachments/b3b292423a2f7def89a5ba6ae100cef1.jpg",
     "Enoughness/posts/Perfect_Days_13.jpg.crdownload",
-    "Enoughness/posts/Perfect_Days_05.jpg.crdownload",
-    "Evergreen-Lists/README.md.tmp",
-    "Daily-Bullet-Journal/journals/2026/01-January"
+    "Enoughness/posts/Perfect_Days_05.jpg.crdownload"
   ]
 }
