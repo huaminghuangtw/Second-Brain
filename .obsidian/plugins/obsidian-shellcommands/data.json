@@ -62,7 +62,7 @@
     {
       "id": "q75w5aah23",
       "platform_specific_commands": {
-        "default": "open \"shortcuts://run-shortcut?name=📔 View Journal\""
+        "default": "open \"shortcuts://run-shortcut?name=📔 Open Journal\""
       },
       "shells": {},
       "alias": "View Journal",
