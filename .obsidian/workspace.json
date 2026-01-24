@@ -4,64 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3d5cf7fe90c80a16",
+        "id": "f7cf6a601821d81d",
         "type": "tabs",
         "children": [
           {
-            "id": "e3e5964201ca120b",
+            "id": "4f40e9b29c393943",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "03cea29d2628d704",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/mastering-yourself-is-superpower.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "mastering-yourself-is-superpower"
-            }
-          },
-          {
-            "id": "f5b292248e0be8e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_23.md",
+                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_01_23"
-            }
-          },
-          {
-            "id": "a5b51d4a31caa6f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enoughness/posts/2026-week-04.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-week-04"
+              "title": "2026_01_24"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Be content\"",
+                "query": "Blair",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enoughness/posts/2026-week-04.md",
+                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-week-04"
+              "title": "Backlinks for 2026_01_24"
             }
           },
           {
@@ -256,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Enoughness/posts/2026-week-04.md"
+                "file": "Brainfoodie/posts/kevin-tsai-drinking-library.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026-week-04"
+              "title": "File properties for kevin-tsai-drinking-library"
             }
           },
           {
@@ -304,51 +231,50 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "a5b51d4a31caa6f2",
+  "active": "4f40e9b29c393943",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_24.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_23.md",
+    "Homepage.md",
+    "Evergreen-Notes/Permanent-Notes/journey-over-destination.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_01.md",
+    "Enoughness/posts/2026-week-04.md",
+    "Evergreen-Notes/Permanent-Notes/be-primarily-internally-driven-with-intrinsic-motivation.md",
+    "Evergreen-Notes/Permanent-Notes/planning-and-preparation-help-maximize-your-productivity.md",
+    "Evergreen-Notes/Permanent-Notes/do-great-work.md",
+    "Enoughness/posts/2026-week-02.md",
+    "Enoughness/posts/2026-week-01.md",
+    "Enoughness/posts/2025-week-52.md",
+    "Enoughness/posts/_attachments/17c51282d71791026602c37df0b4fca9.png",
+    "Enoughness/posts/2025-week-51.md",
+    "Enoughness/posts/2025-week-50.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Brainfoodie/posts/44-harsh-truths-about-human-nature.md",
+    "Brainfoodie/posts/kevin-tsai-drinking-library.md",
+    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
+    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
+    "AdaptX/posts/you-and-your-timeline.md",
+    "Evergreen-Notes/Permanent-Notes/the-absence-of-desire-is-true-happiness.md",
+    "Enoughness/posts/2025-week-43.md",
+    "Evergreen-Notes/Permanent-Notes/first-principle-thinking.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md",
+    "Weekly-Mindware-Update/issues/2025/2025w29.md",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Push Squat Repeat.jpeg",
+    "Visuals/Life Pro Tips/ca2dcfdf1a3703b751423df0a51738bb.jpg",
+    "Daily-Bullet-Journal/_attachments/f310eb7a968c111d05c54aecc2722dea.jpg",
     "Enoughness/posts/_attachments/c9a2f0aa86cc4e5963d8b9fa67453600.avif",
     "Enoughness/posts/_attachments/photo-1639690381680-4f2f4ba2a2ec-2.png",
-    "Enoughness/posts/2026-week-04.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_23.md",
     "Enoughness/posts/_attachments/cf48ed8a0cdb1431b7a38b437a949d1a.png",
     "Visuals/Fitness/Darebee/ExerciseOfTheDay/Tree Pose Hold | Each Side.gif",
     "Enoughness/posts/_attachments/86cf44b7a7c0237eb8b80b90a6d830c7.png",
-    "Evergreen-Notes/Permanent-Notes/mastering-yourself-is-superpower.md",
-    "Evergreen-Notes/Permanent-Notes/embrace-the-beauty-of-enoughness.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_13.md",
-    "Evergreen-Notes/Permanent-Notes/money.md",
     "Enoughness/posts/_attachments/20b8406ef85cbbfdf2c21d9cafb09b0b.png",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_15.md",
-    "Enoughness/posts/_attachments/Pasted image 20260123074326.png",
-    "Enoughness/posts/2025-week-49.md",
-    "Enoughness/posts/2026-week-02.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_27.md",
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_05.md",
-    "Enoughness/posts/2025-week-52.md",
-    "Evergreen-Notes/Permanent-Notes/life-is-cyclic.md",
-    "Untitled.md",
-    "Evergreen-Notes/Permanent-Notes/a-letter-to-my-body.md",
-    "Enoughness/posts/2025-week-44.md",
-    "Daily-Bullet-Journal/journals/2023/06-June/2023_06_04.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_13.md",
-    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_17.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_30.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_03.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_22.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_13.md",
-    "Evergreen-Notes/Permanent-Notes/mistake.md",
-    "Evergreen-Notes/Permanent-Notes/_attachments/013534095903519a321b81beb825cf1f.png",
     "Evergreen-Notes/Permanent-Notes/_attachments",
-    "Daily-Bullet-Journal/journals/2026/01-January/_attachments/ab96b5396138fda80a6dd961fbfb40c5.png",
     "Daily-Bullet-Journal/journals/2022/01-January",
     "Daily-Bullet-Journal/journals/2016/01-January",
     "Daily-Bullet-Journal/journals/2018/01-January",
     "Daily-Bullet-Journal/journals/2018",
     "Daily-Bullet-Journal/journals/2017/01-January",
     "Daily-Bullet-Journal/journals/2017",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/No-Equipment Bicep Builder.jpeg",
-    "Enoughness/posts/_attachments/8a4c8a9583c074b70f4fcbdf8b8c75f6.png",
     "Enoughness/posts/_attachments",
     "Daily-Bullet-Journal/journals/2026/01-January/_attachments",
     "Enoughness/posts/Perfect_Days_13.jpg.crdownload"

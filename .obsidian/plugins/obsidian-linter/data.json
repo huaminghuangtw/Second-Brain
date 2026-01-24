@@ -293,6 +293,13 @@
     },
     {
       "label": "",
+      "find": "\\u00A0",
+      "replace": " ",
+      "flags": "g",
+      "enabled": true
+    },
+    {
+      "label": "",
       "find": " (―|—|–) ",
       "replace": " — ",
       "flags": "g",
@@ -302,7 +309,7 @@
       "label": "",
       "find": "(\\d+)(st|nd|rd|th)\\s+Birthday",
       "replace": "$1<sup>$2</sup> Birthday",
-      "flags": "gm",
+      "flags": "g",
       "enabled": true
     }
   ],
