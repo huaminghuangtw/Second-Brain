@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f7cf6a601821d81d",
+        "id": "e2be82e0ab6586cd",
         "type": "tabs",
         "children": [
           {
-            "id": "4f40e9b29c393943",
+            "id": "abfca9b2e7c222b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_24.md",
+                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_01_24"
+              "title": "2026_01_25"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Blair",
+                "query": "Vincent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_24.md",
+                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026_01_24"
+              "title": "Backlinks for 2026_01_25"
             }
           },
           {
@@ -183,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Brainfoodie/posts/kevin-tsai-drinking-library.md"
+                "file": "Evergreen-Notes/Permanent-Notes/the-yerkes-dodson-law.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for kevin-tsai-drinking-library"
+              "title": "File properties for the-yerkes-dodson-law"
             }
           },
           {
@@ -231,52 +231,53 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "4f40e9b29c393943",
+  "active": "abfca9b2e7c222b6",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_25.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_09.md",
+    "Daily-Bullet-Journal/journals/2022/05-May/2022_05_26.md",
+    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_14.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md",
+    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_13.md",
+    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_12.md",
+    "Daily-Bullet-Journal/journals/2023/12-December/2023_12_15.md",
+    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_01.md",
+    "Enoughness/posts/2026-week-04.md",
+    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_22.md",
+    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_31.md",
+    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_30.md",
+    "Evergreen-Notes/Permanent-Notes/the-yerkes-dodson-law.md",
+    "Daily-Bullet-Journal/_attachments/2026_01_25_16_20_17.jpg",
+    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_10.md",
+    "Daily-Bullet-Journal/_attachments/2026_01_25_15_59_50.jpg",
+    "Daily-Bullet-Journal/journals/2023/12-December/2023_12_14.md",
+    "Daily-Bullet-Journal/journals/2023/12-December/2023_12_13.md",
+    "Daily-Bullet-Journal/journals/2023/12-December/2023_12_11.md",
+    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_08.md",
+    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_13.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_24.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_23.md",
-    "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/journey-over-destination.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_01.md",
-    "Enoughness/posts/2026-week-04.md",
-    "Evergreen-Notes/Permanent-Notes/be-primarily-internally-driven-with-intrinsic-motivation.md",
-    "Evergreen-Notes/Permanent-Notes/planning-and-preparation-help-maximize-your-productivity.md",
-    "Evergreen-Notes/Permanent-Notes/do-great-work.md",
-    "Enoughness/posts/2026-week-02.md",
-    "Enoughness/posts/2026-week-01.md",
-    "Enoughness/posts/2025-week-52.md",
+    "Evergreen-Notes/Permanent-Notes/dare-to-be-different.md",
+    "Life-Notes/Coding/Programmer Best Practices.md",
+    "Evergreen-Notes/Permanent-Notes/what-you-work-on-is-far-more-important-than-how-productively-you-work.md",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Side Quest.jpeg",
+    "Daily-Bullet-Journal/journals/2020/01-January",
+    "Daily-Bullet-Journal/journals/2020",
+    "Daily-Bullet-Journal/journals/2024/04-April/_attachments/Screenshot 2024-05-13 at 14.57.57.png",
+    "Daily-Bullet-Journal/journals/2024/04-April/_attachments",
+    "Daily-Bullet-Journal/journals/2024/05-May/_attachments/Screenshot 2024-05-20 at 15.32.00.png",
+    "Daily-Bullet-Journal/journals/2024/05-May/_attachments",
     "Enoughness/posts/_attachments/17c51282d71791026602c37df0b4fca9.png",
-    "Enoughness/posts/2025-week-51.md",
-    "Enoughness/posts/2025-week-50.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Brainfoodie/posts/44-harsh-truths-about-human-nature.md",
-    "Brainfoodie/posts/kevin-tsai-drinking-library.md",
-    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
-    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
-    "AdaptX/posts/you-and-your-timeline.md",
-    "Evergreen-Notes/Permanent-Notes/the-absence-of-desire-is-true-happiness.md",
-    "Enoughness/posts/2025-week-43.md",
-    "Evergreen-Notes/Permanent-Notes/first-principle-thinking.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md",
-    "Weekly-Mindware-Update/issues/2025/2025w29.md",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Push Squat Repeat.jpeg",
     "Visuals/Life Pro Tips/ca2dcfdf1a3703b751423df0a51738bb.jpg",
     "Daily-Bullet-Journal/_attachments/f310eb7a968c111d05c54aecc2722dea.jpg",
     "Enoughness/posts/_attachments/c9a2f0aa86cc4e5963d8b9fa67453600.avif",
-    "Enoughness/posts/_attachments/photo-1639690381680-4f2f4ba2a2ec-2.png",
-    "Enoughness/posts/_attachments/cf48ed8a0cdb1431b7a38b437a949d1a.png",
-    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Tree Pose Hold | Each Side.gif",
-    "Enoughness/posts/_attachments/86cf44b7a7c0237eb8b80b90a6d830c7.png",
-    "Enoughness/posts/_attachments/20b8406ef85cbbfdf2c21d9cafb09b0b.png",
     "Evergreen-Notes/Permanent-Notes/_attachments",
     "Daily-Bullet-Journal/journals/2022/01-January",
     "Daily-Bullet-Journal/journals/2016/01-January",
     "Daily-Bullet-Journal/journals/2018/01-January",
     "Daily-Bullet-Journal/journals/2018",
-    "Daily-Bullet-Journal/journals/2017/01-January",
-    "Daily-Bullet-Journal/journals/2017",
-    "Enoughness/posts/_attachments",
-    "Daily-Bullet-Journal/journals/2026/01-January/_attachments",
-    "Enoughness/posts/Perfect_Days_13.jpg.crdownload"
+    "Daily-Bullet-Journal/journals/2017/01-January"
   ]
 }
