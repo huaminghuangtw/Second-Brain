@@ -2270,6 +2270,8 @@ tmRk
 trauma
 traumatic
 thar
+tedxtaipei
+thesis
 Escape
 Everything
 Earl
@@ -7361,6 +7363,11 @@ chime
 coring
 crorism
 clare
+cfcb
+clearance
+cars
+corners
+committee
 authenticity
 and
 avoids
@@ -15061,6 +15068,7 @@ pMy
 pMO
 pEv
 petting
+physicians
 is
 it
 in
@@ -17601,6 +17609,9 @@ iSK
 iKi
 inadequacy
 informational
+interfering
+irrespective
+iterate
 wrong
 world
 with
@@ -21533,6 +21544,7 @@ OmK
 OlmB
 Osqy
 Occasional
+Opens
 Wilde
 Whenever
 Woolf
@@ -23548,6 +23560,7 @@ WZt
 WhM
 WFY
 Worst
+WFH
 To
 The
 Tzu
@@ -25827,6 +25840,12 @@ TMQS
 TEal
 TMCG
 Truthful
+TRO
+Trevor
+Theatre
+Tobacco
+Thruster
+Turkish
 escape
 eyes
 everyone
@@ -28186,6 +28205,7 @@ eoiy
 employed
 eden
 everone
+examining
 from
 first
 find
@@ -32694,6 +32714,7 @@ oqum
 osoo
 owner
 observable
+oftentimes
 not
 no
 needed
@@ -34628,6 +34649,7 @@ ntO
 nEq
 nWG
 nes
+neuroplasticity
 Dogen
 Don
 Dr
@@ -36761,6 +36783,11 @@ DnR
 DSyW
 DZo
 Dealing
+Daytime
+Dozing
+Duration
+Drama
+Deadlift
 Victorious
 Virginia
 Vincent
@@ -38665,6 +38692,9 @@ VXme
 Vvzn
 VsXx
 Vocalize
+Visa
+Vorwäsche
+Vignola
 go
 given
 greater
@@ -40700,6 +40730,7 @@ guorb
 gjWW
 ggc
 gIy
+grogginess
 defeated
 do
 distinctiveness
@@ -43242,6 +43273,10 @@ dyf
 dQE
 desperate
 doers
+dccb
+deprived
+dared
+defence
 seek
 side
 successful
@@ -46530,6 +46565,8 @@ sqkwk
 sopE
 ston
 slowed
+scoreboard
+sdfdfs
 battle
 be
 but
@@ -48966,6 +49003,7 @@ bkRh
 bNq
 bxW
 bump
+becd
 Sun
 Seuss
 Sam
@@ -51753,6 +51791,14 @@ Swallow
 Süd
 Sarah
 STAR
+Shih
+Snoozing
+Siesta
+Satellite
+Songshan
+SCCP
+Squat
+Sled
 you
 yourself
 your
@@ -56232,6 +56278,7 @@ rwx
 rktk
 randomly
 reus
+royal
 Mark
 Matshona
 Malcolm
@@ -58680,6 +58727,11 @@ MYa
 Mgki
 Mautg
 Mory
+Morris
+Mentholatum
+Menthol
+Markets
+Movements
 If
 In
 It
@@ -60744,6 +60796,7 @@ Immk
 ISRS
 Individualistic
 Initiate
+Intensiv
 life
 ll
 let
@@ -62936,6 +62989,7 @@ lSM
 lCm
 layoff
 lined
+lucrative
 Nightingale
 Normalcy
 Normal
@@ -64853,6 +64907,9 @@ Nif
 NEG
 Nvwd
 Navigating
+Napping
+Naps
+Nicole
 happen
 have
 happiness
@@ -70534,6 +70591,7 @@ JcS
 Jhb
 Jhm
 Jmv
+Jessica
 Bezos
 Bob
 Be
@@ -72645,6 +72703,14 @@ BKc
 BmJ
 BLUF
 Bottom
+Bosch
+Blackwell
+Bmai
+Bureau
+Bench
+Buffet
+Banquet
+Billion
 Coco
 Channel
 Chase
@@ -75113,6 +75179,11 @@ Cqiqqq
 Cmkk
 Constructive
 Cheers
+Chemotherapy
+Cells
+Chin
+Climb
+College
 All
 Always
 Against
@@ -77324,6 +77395,7 @@ AyO
 Amamg
 Avf
 Aquoqq
+Andy
 version
 very
 visual
@@ -81258,6 +81330,7 @@ Gamur
 Gqs
 GMN
 GKo
+Governor
 universe
 undervalue
 uniqueness
@@ -83458,6 +83531,7 @@ umr
 una
 umJE
 uYnw
+unfollow
 Forbes
 Fight
 Find
@@ -85540,6 +85614,7 @@ FqP
 FopI
 FqW
 Fyo
+Farmer
 Rita
 Romans
 Rumi
@@ -87935,6 +88010,10 @@ RjW
 RmSG
 RMp
 RKy
+Rhizome
+Romanian
+Rope
+Robotics
 Pfeffer
 Parker
 Pattern
@@ -90189,6 +90268,12 @@ Punch
 Punkte
 Profession
 PCuSER
+Pleasing
+Phytates
+Petroleum
+Policy
+Panama
+Pizzorno
 Lewis
 Lean
 Let
@@ -92151,6 +92236,7 @@ Lqu
 LWQX
 LmCO
 Layoffs
+Livingston
 Uncondition
 Undo
 Use
@@ -102064,6 +102150,7 @@ Hmf
 HSP
 HuE
 Honest
+Heme
 question
 quiet
 questions
@@ -107849,6 +107936,7 @@ KkIO
 Kauuk
 Kkwgp
 KZk
+Kettlebell
 Xx
 Xg
 XN
@@ -109628,6 +109716,7 @@ XWx
 XxwL
 XiqK
 XZE
+Xtep
 xO
 xw
 xgR

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fbee690ee01b6fc9",
+        "id": "2f80d55ce7e87f27",
         "type": "tabs",
         "children": [
           {
-            "id": "04f90222c6908898",
+            "id": "226ce4fc0960c47a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "6e3e7887266378fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_21.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026_01_21"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"You Only Live Once\"",
+                "query": "sedentary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 2026_01_21"
             }
           },
           {
@@ -183,10 +208,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_21.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for 2026_01_21"
             }
           },
           {
@@ -216,8 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,37 +255,40 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "04f90222c6908898",
+  "active": "6e3e7887266378fb",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_24.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_25.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_26.md",
-    "Homepage.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_20.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_19.md",
-    "Life-Notes/Coding/Programmer Best Practices.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_15.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_29.md",
-    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_09.md",
-    "Life-Notes/Business/Startups.md",
-    "Evergreen-Notes/Permanent-Notes/feedback.md",
-    "Life-Notes/Career/Seeking Jobs.md",
-    "Life-Notes/Career/Job Interview.md",
-    "Life-Notes/Career/Career Advice.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_27.md",
-    "Evergreen-Notes/Permanent-Notes/choose-your-response.md",
-    "Evergreen-Notes/Permanent-Notes/Prioritization.md",
-    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_31.md",
-    "Evergreen-Notes/Permanent-Notes/what-you-work-on-is-far-more-important-than-how-productively-you-work.md",
-    "Life-Notes/Career/Day Job Workplace Tips.md",
-    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_29.md",
+    "Homepage.md",
+    "Life-Notes/Alignment/The Bug Book.md",
+    "Shortcutomation/posts/this-apple-shortcut-got-me-to-exercise-every-single-day.md",
+    "Evergreen-Notes/Permanent-Notes/neuroplasticity.md",
+    "Evergreen-Notes/Permanent-Notes/the-law-of-attraction.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_27.md",
+    "Brainfoodie/posts/collection-andy-li-an-ho.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_24.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_26.md",
+    "Brainfoodie/posts/collection-jensen-huang.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_06.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_03.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_02.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_01.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_01.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_23.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_22.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_25.md",
+    "Evergreen-Notes/Permanent-Notes/meditation.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_05.md",
+    "Evergreen-Notes/Permanent-Notes/napping.md",
+    "Visuals/Fitness/Darebee/ExerciseOfTheDay/Side Elbow Plank Hold Per Side.gif",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_19.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_07.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_05.md",
+    "Daily-Bullet-Journal/journals/2019/01-January",
+    "Daily-Bullet-Journal/journals/2019",
     "Daily-Bullet-Journal/journals/2025/01-January/_attachments/2025_01_26_10_50_28.jpeg",
     "Visuals/Fitness/Darebee/ExerciseOfTheDay/Wide Arm Circles.gif",
-    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_04.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_31.md",
-    "Evergreen-Notes/Permanent-Notes/not-caring-lets-us-perform-better.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_12.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/_attachments/2025_01_26_10_50_28 1.jpeg",
+    "Daily-Bullet-Journal/journals/2025/01-January/_attachments/4065725ba06bb54628406afba20f9f84.jpeg",
     "Daily-Bullet-Journal/journals/2025/01-January/_attachments",
     "Daily-Bullet-Journal/_attachments/ce6172399d8071ac53cdd93dcba86a73.jpg",
     "Daily-Bullet-Journal/_attachments/b4d2497dbde39a5b5cd9a8b761329f47.jpg",
@@ -273,11 +300,8 @@
     "Daily-Bullet-Journal/journals/2024/05-May/_attachments/a5c0fb988b54b6008332c71be101bff9.png",
     "Daily-Bullet-Journal/journals/2024/05-May/_attachments",
     "Enoughness/posts/_attachments/17c51282d71791026602c37df0b4fca9.png",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Push Squat Repeat.jpeg",
     "Evergreen-Notes/Permanent-Notes/_attachments",
     "Daily-Bullet-Journal/journals/2022/01-January",
-    "Daily-Bullet-Journal/journals/2016/01-January",
-    "Daily-Bullet-Journal/journals/2018/01-January",
-    "Daily-Bullet-Journal/journals/2018"
+    "Daily-Bullet-Journal/journals/2016/01-January"
   ]
 }
