@@ -4,17 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "d1abbd90c2557e41",
+        "id": "4ab0e79ae2cdc3a7",
         "type": "tabs",
         "children": [
           {
-            "id": "5ef16e9aad490486",
+            "id": "6f02b18ba3574cc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_28.md",
+                "file": "Homepage.md",
                 "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "28178ef2f28fa615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_29.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026_01_29"
+            }
+          },
+          {
+            "id": "de280e9f573bdcac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enoughness/posts/2026-week-05.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,10 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_01_28"
+              "title": "2026-week-05"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "雞蛋",
+                "query": "專家",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_28.md",
+                "file": "Enoughness/posts/2026-week-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +180,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026_01_28"
+              "title": "Backlinks for 2026-week-05"
             }
           },
           {
@@ -183,10 +232,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_28.md"
+                "file": "Enoughness/posts/2026-week-05.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_01_28"
+              "title": "File properties for 2026-week-05"
             }
           },
           {
@@ -231,34 +280,34 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "5ef16e9aad490486",
+  "active": "de280e9f573bdcac",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_29.md",
     "Homepage.md",
+    "Enoughness/posts/2026-week-05.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_14.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_31.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_25.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_07.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_18.md",
+    "Evergreen-Notes/Permanent-Notes/communication.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_28.md",
+    "AdaptX/posts/ted-taipei-2025.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_01.md",
+    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
+    "Life-Notes/Business/Implementations & Strategies.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_29.md",
+    "Daily-Bullet-Journal/journals/2017/01-January/2017_01_29.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_29.md",
+    "Daily-Bullet-Journal/journals/2023/01-January/2023_01_29.md",
+    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_29.md",
+    "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
+    "Evergreen-Notes/Permanent-Notes/stay-curious.md",
+    "Evergreen-Notes/Permanent-Notes/The Quad Marketing Calendar.md",
+    "Evergreen-Notes/Permanent-Notes/slackness.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_21.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_22.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_28.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_20.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_19.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_18.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_23.md",
-    "Daily-Bullet-Journal/journals/2016/01-January/2016_01_22.md",
-    "Daily-Bullet-Journal/journals/2016/01-January/2016_01_26.md",
-    "Daily-Bullet-Journal/journals/2017/01-January/2017_01_21.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_27.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_05.md",
-    "Life-Notes/Business/Implementations & Strategies.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Weekly-Mindware-Update/issues/2025/2025w51.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_30.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_23.md",
-    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_22.md",
-    "Brainfoodie/posts/44-harsh-truths-about-human-nature.md",
-    "Brainfoodie/posts/jeff-bezos-letter-to-amazon-shareholders-1997.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_28.md",
-    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_28.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_26.md",
-    "Evergreen-Notes/Permanent-Notes/Productivity.md",
     "Visuals/Fitness/Darebee/ExerciseOfTheDay/Side Elbow Plank Hold Per Side.gif",
     "Daily-Bullet-Journal/journals/2019/01-January",
     "Daily-Bullet-Journal/journals/2019",
