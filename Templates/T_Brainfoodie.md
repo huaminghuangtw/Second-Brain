@@ -9,7 +9,6 @@ const authors = authorsInput.split(',').map(a => a.trim()).filter(a => a);
 const url = await tp.system.prompt("🔗 URL?") || "";
 -%>
 ---
-draft: true
 title: "▍<% title %>"
 category: <% category %>
 author: <% authors.length === 1 ? authors[0] : `\n${authors.map(a => ` - ${a}`).join('\n')}` %>
