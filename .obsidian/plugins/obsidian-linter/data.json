@@ -125,8 +125,8 @@
       "enabled": true
     },
     "default-language-for-code-fences": {
-      "enabled": false,
-      "default-language": ""
+      "enabled": true,
+      "default-language": "bash"
     },
     "emphasis-style": {
       "enabled": true,
@@ -288,28 +288,35 @@
       "label": "",
       "find": "'(?=(s|t|d|re|ll|ve)\\b)",
       "replace": "’",
-      "flags": "g",
+      "flags": "gm",
       "enabled": true
     },
     {
       "label": "",
       "find": "\\u00A0",
       "replace": " ",
-      "flags": "g",
+      "flags": "gm",
       "enabled": true
     },
     {
       "label": "",
       "find": " (―|—|–) ",
       "replace": " — ",
-      "flags": "g",
+      "flags": "gm",
       "enabled": true
     },
     {
       "label": "",
       "find": "(\\d+)(st|nd|rd|th)\\s+Birthday",
       "replace": "$1<sup>$2</sup> Birthday",
-      "flags": "g",
+      "flags": "gm",
+      "enabled": true
+    },
+    {
+      "label": "",
+      "find": "(”)\\s(_)$",
+      "replace": "$1$2",
+      "flags": "gm",
       "enabled": true
     }
   ],
