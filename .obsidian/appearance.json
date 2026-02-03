@@ -7,7 +7,13 @@
   "translucency": true,
   "enabledCssSnippets": [
     "custom-links",
-    "style"
+    "style",
+    "code",
+    "footnotes",
+    "properties",
+    "comments",
+    "table",
+    "quote"
   ],
   "showViewHeader": false,
   "textFontFamily": "Georgia,Charter,Source Serif 4,Atkinson Hyperlegible,SF Pro Text,SN Pro",

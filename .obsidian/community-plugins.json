@@ -2,7 +2,6 @@
   "multi-properties",
   "mousewheel-image-zoom",
   "obsidian-linter",
-  "table-editor-obsidian",
   "obsidian-advanced-uri",
   "obsidian-auto-link-title",
   "backlink-cache",
@@ -24,7 +23,6 @@
   "obsidian-smart-typography",
   "obsidian-shellcommands",
   "obsidian-reading-time",
-  "obsidian-style-settings",
   "tag-wrangler",
   "templater-obsidian",
   "obsidian-text-format",
@@ -34,5 +32,6 @@
   "obsidian-zotero-desktop-connector",
   "update-time-on-edit",
   "better-word-count",
-  "permalink-opener"
+  "permalink-opener",
+  "buttons"
 ]

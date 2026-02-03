@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "65aaf0692c495167",
+        "id": "3c18abc5e030c3ee",
         "type": "tabs",
         "children": [
           {
-            "id": "0f3293876aea3bb0",
+            "id": "95eec84606d5e9bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_03.md",
                 "mode": "preview",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "853bc2bfb1a20df4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_02.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026_02_02"
+              "title": "2026_02_03"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "NPG_P715.jpg",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_02.md",
+                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026_02_02"
+              "title": "Backlinks for 2026_02_03"
             }
           },
           {
@@ -208,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_02.md"
+                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_31.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_02_02"
+              "title": "File properties for 2026_01_31"
             }
           },
           {
@@ -256,35 +231,36 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "853bc2bfb1a20df4",
+  "active": "95eec84606d5e9bc",
   "lastOpenFiles": [
     "Homepage.md",
     "Daily-Bullet-Journal/journals/2026/02-February/2026_02_02.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_03.md",
     "Daily-Bullet-Journal/journals/2026/02-February/2026_02_01.md",
+    "Evergreen-Notes/Permanent-Notes/Obsidian Plugins.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_31.md",
-    "Evergreen-Lists/journal-prompt/journal-prompt.md",
-    "Enoughness/posts/2026-week-02.md",
-    "Enoughness/posts/2026-week-01.md",
-    "Enoughness/posts/2025-week-42.md",
-    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.md",
-    "Evergreen-Notes/Permanent-Notes/boredom-promotes-creativity.md",
-    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
-    "AdaptX/posts/the-power-of-quiet.md",
-    "Notes-to-Self/posts/2025-08-29.md",
-    "Shortcutomation/posts/why-i-watch-the-earth-spin-every-night-before-bed.md",
-    "Evergreen-Notes/Permanent-Notes/Apple Shortcuts.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_02.md",
-    "Daily-Bullet-Journal/journals/2023/02-February/2023_02_02.md",
-    "Daily-Bullet-Journal/journals/2022/02-February/2022_02_02.md",
-    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_02.md",
-    "Life-Notes/Coding/Automation on MacOS.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_28.md",
+    "Deep-Work-Machine/README.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_12.md",
+    "Enoughness/posts/2026-week-03.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_13.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_14.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_15.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_24.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_25.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_26.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_27.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_28.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_30.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_29.md",
+    "Today-I-Learned/posts/how-to-minimize-distractions-in-vs-code.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_28.md",
+    "Evergreen-Notes/Permanent-Notes/a-man-who-is-a-master-of-patience-is-master-of-everything-else.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_14.md",
+    "Brainfoodie/posts/collection-andy-li-an-ho.md",
+    "Weekly-Mindware-Update/issues/2024/2024w36.md",
+    "Daily-Bullet-Journal/journals/2016/02-February",
     "Daily-Bullet-Journal/journals/2022/02-February",
-    "Evergreen-Notes/Permanent-Notes/Non-Exercise Activity Thermogenesis.md",
-    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
-    "Evergreen-Notes/Permanent-Notes/the-let-them-theory.md",
-    "Today-I-Learned/posts/using-markdown-image-titles-as-captions.md",
-    "Weekly-Mindware-Update/issues/2026/2026w5.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_21.md",
     "Daily-Bullet-Journal/journals/2026/02-February",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Ultimate Abs.jpeg",
     "Enoughness/_attachments/bbf7c4d3793ad164815c18f6fe2b3911.avif",
@@ -302,7 +278,6 @@
     "Daily-Bullet-Journal/journals/2020/01-January",
     "Daily-Bullet-Journal/journals/2020",
     "Daily-Bullet-Journal/journals/2024/04-April/_attachments",
-    "Daily-Bullet-Journal/journals/2024/05-May/_attachments",
-    "Evergreen-Notes/Permanent-Notes/_attachments"
+    "Daily-Bullet-Journal/journals/2024/05-May/_attachments"
   ]
 }

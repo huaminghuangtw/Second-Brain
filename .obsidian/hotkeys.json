@@ -917,5 +917,23 @@
       ],
       "key": "K"
     }
+  ],
+  "obsidian-shellcommands:shell-command-a4mqepg0uf": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "obsidian-shellcommands:shell-command-sj0z4dp9d9": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "J"
+    }
   ]
 }
