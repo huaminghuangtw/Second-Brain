@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T17:18:12
-modified: 2026-01-20T09:29:25
+modified: 2026-02-04T09:45:39
 ---
 
 <!-- four-quarters-in-a-day -->
@@ -79,7 +79,7 @@ WHERE date
 
 ---
 
-<!-- deep-work-machine -->
+<!-- https://github.com/huaminghuangtw/Deep-Work-Machine -->
 
 ```dataviewjs
 let onDesktop = window.innerWidth > 768;
@@ -127,7 +127,7 @@ if (onDesktop) {
 }
 ```
 
-# ⚙️ LifeOS
+---
 
 > [!ERROR]- 🫶 Health
 >
@@ -379,224 +379,201 @@ if (onDesktop) {
 >
 > dv.header(4, "**❥ Orphaned Images**");
 > dv.list(findOrphanedImages());
->
 > ```
 
-# [📝 Journaling](https://github.com/huaminghuangtw/Daily-Bullet-Journal)
-
 ```dataviewjs
-let onDesktop = window.innerWidth > 768;
-if (onDesktop) {
-    const { Utils } = await cJS();
+const { Utils } = await cJS();
 
-    let today = dv.date("today");
+// https://github.com/huaminghuangtw/Daily-Bullet-Journal
 
-    await dv.view("Scripts/view_callout_journal_retrospection", {
-        arr: [
-            {
-                headerText: "🗓 Journals On This Day",
-                pages: await Utils.getJournalsURLs(dv,
-                    p => p.date &&
-                    p.date.day === today.day &&
-                    p.date.month === today.month &&
-                    p.date.year !== today.year
-                )
-            },
-            {
-                headerText: "🗓 Last Week’s Journals",
-                pages: await Utils.getJournalsURLs(dv,
-                    p => p.date &&
-                    p.date >= today.minus({ weeks: 1 }).startOf('week') &&
-                    p.date <= today.minus({ weeks: 1 }).endOf('week')
-                )
-            }
-        ]
-    });
-}
-```
+let today = dv.date("today");
 
-# [💌 Dear Today Me](https://github.com/huaminghuangtw/Dear-Today-Me)
-
-```dataviewjs
-let onDesktop = window.innerWidth > 768;
-if (onDesktop) {
-    const { Utils } = await cJS();
-
-    let fileContentLifePhilosophy;
-
-    try {
-        fileContentLifePhilosophy = await Utils.getFileContent(
-            "huaminghuangtw",
-            "Dear-Today-Me",
-            "Dear-Today-Me.md"
-        );
-    } catch {
-        fileContentLifePhilosophy = await dv.io.load("Dear-Today-Me/Dear-Today-Me.md");
-    }
-
-    let allParagraphs = fileContentLifePhilosophy.split("\n\n");
-
-    // Skip salutation and closing lines
-    let selectedParagraphs = allParagraphs.slice(1, allParagraphs.length - 2);
-
-    let randomParagraph = Utils.getRandomItem(selectedParagraphs);
-
-    let lineNumber = fileContentLifePhilosophy.split("\n")
-                                              .findIndex(line => line.includes(randomParagraph))
-                                              + 1;
-
-    await dv.view("Scripts/view_callout_with_edit_button",
+await dv.view("Scripts/view_callout_journal_retrospection", {
+    arr: [
         {
-            callout: `
-> [!SUCCESS] ‎
->> _${randomParagraph}_
-            `,
-            url: await Utils.buildObsidianOpenFileURI(
-                "Dear-Today-Me/Dear-Today-Me.md",
-                lineNumber
+            headerText: "🗓 Journals On This Day",
+            pages: await Utils.getJournalsURLs(dv,
+                p => p.date &&
+                p.date.day === today.day &&
+                p.date.month === today.month &&
+                p.date.year !== today.year
+            )
+        },
+        {
+            headerText: "🗓 Last Week’s Journals",
+            pages: await Utils.getJournalsURLs(dv,
+                p => p.date &&
+                p.date >= today.minus({ weeks: 1 }).startOf('week') &&
+                p.date <= today.minus({ weeks: 1 }).endOf('week')
             )
         }
+    ]
+});
+
+// https://github.com/huaminghuangtw/Dear-Today-Me
+
+let fileContentLifePhilosophy;
+
+try {
+    fileContentLifePhilosophy = await Utils.getFileContent(
+        "huaminghuangtw",
+        "Dear-Today-Me",
+        "Dear-Today-Me.md"
     );
+} catch {
+    fileContentLifePhilosophy = await dv.io.load("Dear-Today-Me/Dear-Today-Me.md");
 }
-```
 
-# [📒 Evergreen Lists](https://github.com/huaminghuangtw/Evergreen-Lists)
+let allParagraphs = fileContentLifePhilosophy.split("\n\n");
 
-```dataviewjs
-let onDesktop = window.innerWidth > 768;
-if (onDesktop) {
-    const { Utils } = await cJS();
+// Skip salutation and closing lines
+let selectedParagraphs = allParagraphs.slice(1, allParagraphs.length - 2);
 
-    let reminders;
+let randomParagraph = Utils.getRandomItem(selectedParagraphs);
 
-    try {
-        reminders = JSON.parse(
-            await Utils.getFileContent(
-                "huaminghuangtw",
-                "Evergreen-Lists",
-                Utils.getRandomItem(
-                    (await Utils.getRepoTree("huaminghuangtw", "Evergreen-Lists"))
-                                .filter(item => item.path.includes("json"))
-                ).path
-            )
-        ).reminders;
-    } catch {
-        reminders = JSON.parse(
-            await dv.io.load(
-                Utils.getRandomItem(
-                    Utils.getAllFilesByExtension("Evergreen-Lists", "json")
-                         .map(file => file.path)
-                )
-            )
-        ).reminders;
+let lineNumber = fileContentLifePhilosophy.split("\n")
+                                            .findIndex(line => line.includes(randomParagraph))
+                                            + 1;
+
+await dv.view("Scripts/view_callout_with_edit_button",
+    {
+        callout: `
+> [!SUCCESS] 🧘‍♂️ Life Philosophy
+>> _${randomParagraph}_
+        `,
+        url: await Utils.buildObsidianOpenFileURI(
+            "Dear-Today-Me/Dear-Today-Me.md",
+            lineNumber
+        )
     }
+);
 
-    let reminderWithSubtasks = reminders.filter(
-        r => r.subtasks.length > 0
-    );
+// https://github.com/huaminghuangtw/Evergreen-Lists
 
-    let randomReminder = Utils.getRandomItem(reminderWithSubtasks);
+let reminders;
 
-    let randomSubtask = Utils.getRandomItem(randomReminder.subtasks);
+try {
+    reminders = JSON.parse(
+        await Utils.getFileContent(
+            "huaminghuangtw",
+            "Evergreen-Lists",
+            Utils.getRandomItem(
+                (await Utils.getRepoTree("huaminghuangtw", "Evergreen-Lists"))
+                            .filter(item => item.path.includes("json"))
+            ).path
+        )
+    ).reminders;
+} catch {
+    reminders = JSON.parse(
+        await dv.io.load(
+            Utils.getRandomItem(
+                Utils.getAllFilesByExtension("Evergreen-Lists", "json")
+                        .map(file => file.path)
+            )
+        )
+    ).reminders;
+}
 
-    let calloutShortcuts = `
+let reminderWithSubtasks = reminders.filter(
+    r => r.subtasks.length > 0
+);
+
+let randomReminder = Utils.getRandomItem(reminderWithSubtasks);
+
+let randomSubtask = Utils.getRandomItem(randomReminder.subtasks);
+
+let calloutShortcuts = `
 > [!TIP] ${randomReminder.list}
 > ${randomReminder.name}
 >> ${randomSubtask.name}
 `;
 
-    if (randomSubtask.notes) {
-        calloutShortcuts += `>> ──────────────` +
-                            `\n` +
-                            `${randomSubtask.notes.split('\n')
-                                                .map(line => `> <sub>${line}</sub>`)
-                                                .join('\n')}` +
-                            `\n`;
-    };
+if (randomSubtask.notes) {
+    calloutShortcuts += `>> ──────────────` +
+                        `\n` +
+                        `${randomSubtask.notes.split('\n')
+                                            .map(line => `> <sub>${line}</sub>`)
+                                            .join('\n')}` +
+                        `\n`;
+};
 
-    let urlShortcuts = `shortcuts://run-shortcut?` +
-                        `name=${encodeURIComponent("Search Reminders")}&` +
-                        `input=${encodeURIComponent(randomSubtask.name)}`;
+let urlShortcuts = `shortcuts://run-shortcut?` +
+                    `name=${encodeURIComponent("Search Reminders")}&` +
+                    `input=${encodeURIComponent(randomSubtask.name)}`;
+
+await dv.view("Scripts/view_callout_with_edit_button",
+    {
+        callout: calloutShortcuts,
+        url: urlShortcuts
+    }
+);
+
+// https://github.com/huaminghuangtw/Weekly-Mindware-Update
+
+let files;
+let filePath;
+let fileContent;
+
+try {
+    files = await Utils.getRepoTree("huaminghuangtw", "Weekly-Mindware-Update");
+
+    filePath = Utils.getRandomItem(
+        files.filter(
+            f => f.path.includes("issues") &&
+            f.path.endsWith(".md")
+        )
+    ).path;
+
+    fileContent = await Utils.getFileContent(
+        "huaminghuangtw",
+        "Weekly-Mindware-Update",
+        filePath
+    );
+} catch {
+    files = Utils.getAllFilesByExtension("Weekly-Mindware-Update", "md");
+
+    filePath = Utils.getRandomItem(
+        files.filter(f => f.path.includes("issues"))
+    ).path;
+
+    fileContent = await dv.io.load(filePath);
+}
+
+let sections = [
+    {
+        calloutType: "QUOTE",
+        title: "🧠 Wisdom I Pondered This Week"
+    },
+    {
+        calloutType: "INFO",
+        title: "🧠 Things I Learned This Week"
+    }
+];
+
+for (const section of sections) {
+    let sectionContent = fileContent.split("\n")
+                                    .filter(line => line.startsWith("*"))
+                                    .map(line => line.slice(1).trim());
+
+    sectionContent = (section.calloutType === "QUOTE") ? sectionContent.slice(0, 5) : sectionContent.slice(5, 10);
+
+    let randomBulletPoint = Utils.getRandomItem(sectionContent);
+
+    let lineNumber = fileContent.split("\n")
+                                .findIndex(line => line.includes(randomBulletPoint))
+                                + 1;
 
     await dv.view("Scripts/view_callout_with_edit_button",
         {
-            callout: calloutShortcuts,
-            url: urlShortcuts
+            callout: `
+> [!${section.calloutType}] ${section.title}
+>> ${randomBulletPoint}
+            `,
+            url: await Utils.buildObsidianOpenFileURI(
+                filePath,
+                lineNumber
+            )
         }
     );
-}
-```
-
-# [🧠 Weekly Mindware Update](https://github.com/huaminghuangtw/Weekly-Mindware-Update)
-
-```dataviewjs
-let onDesktop = window.innerWidth > 768;
-if (onDesktop) {
-    const { Utils } = await cJS();
-
-    let files;
-    let filePath;
-    let fileContent;
-
-    try {
-        files = await Utils.getRepoTree("huaminghuangtw", "Weekly-Mindware-Update");
-
-        filePath = Utils.getRandomItem(
-            files.filter(
-                f => f.path.includes("issues") &&
-                f.path.endsWith(".md")
-            )
-        ).path;
-
-        fileContent = await Utils.getFileContent(
-            "huaminghuangtw",
-            "Weekly-Mindware-Update",
-            filePath
-        );
-    } catch {
-        files = Utils.getAllFilesByExtension("Weekly-Mindware-Update", "md");
-
-        filePath = Utils.getRandomItem(
-            files.filter(f => f.path.includes("issues"))
-        ).path;
-
-        fileContent = await dv.io.load(filePath);
-    }
-
-    let sections = [
-        {
-            calloutType: "QUOTE",
-        },
-        {
-            calloutType: "INFO",
-        }
-    ];
-
-    for (const section of sections) {
-        let sectionContent = fileContent.split("\n")
-                                        .filter(line => line.startsWith("*"))
-                                        .map(line => line.slice(1).trim());
-
-        sectionContent = (section.calloutType === "QUOTE") ? sectionContent.slice(0, 5) : sectionContent.slice(5, 10);
-
-        let randomBulletPoint = Utils.getRandomItem(sectionContent);
-
-        let lineNumber = fileContent.split("\n")
-                                    .findIndex(line => line.includes(randomBulletPoint))
-                                    + 1;
-
-        await dv.view("Scripts/view_callout_with_edit_button",
-            {
-                callout: `
-> [!${section.calloutType}] ‎
->> ${randomBulletPoint}
-                `,
-                url: await Utils.buildObsidianOpenFileURI(
-                    filePath,
-                    lineNumber
-                )
-            }
-        );
-    }
 }
 ```
