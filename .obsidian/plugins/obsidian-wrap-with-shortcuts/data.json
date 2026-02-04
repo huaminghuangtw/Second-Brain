@@ -1,6 +1,12 @@
 {
   "wrapperTags": [
     {
+      "id": "w1770169796380",
+      "name": "Double Quotes",
+      "startTag": "“",
+      "endTag": "”"
+    },
+    {
       "id": "w1761144577257",
       "name": "Highlight",
       "startTag": "<mark>",

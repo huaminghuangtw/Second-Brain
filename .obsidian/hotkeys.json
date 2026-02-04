@@ -918,15 +918,6 @@
       "key": "K"
     }
   ],
-  "obsidian-shellcommands:shell-command-a4mqepg0uf": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Shift"
-      ],
-      "key": "D"
-    }
-  ],
   "obsidian-shellcommands:shell-command-sj0z4dp9d9": [
     {
       "modifiers": [
@@ -934,6 +925,41 @@
         "Shift"
       ],
       "key": "J"
+    }
+  ],
+  "obsidian-text-format:slugify": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "obsidian-shellcommands:shell-command-a4mqepg0uf": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+  "obsidian-shellcommands:shell-command-ldhxfcj9cg": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ],
+  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1770169796380": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "S"
     }
   ]
 }

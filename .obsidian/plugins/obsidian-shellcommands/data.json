@@ -98,10 +98,10 @@
     {
       "id": "a4mqepg0uf",
       "platform_specific_commands": {
-        "default": "sel={{selection}}\n\nquery=$(printf \"%s\" \"$sel\" | tr -s '[:space:]' '+')\n\nif [ \"{{_link_type}}\" = \"Google Search\" ]; then\n  printf \"[%s](https://www.google.com/search?q=%s)\" \"$sel\" \"$query\"\nelif [ \"{{_link_type}}\" = \"Google Maps\" ]; then\n  printf \"[%s](https://www.google.com/maps?q=%s)\" \"$sel\" \"$query\"\nelse\n  printf \"%s\" \"$sel\"\nfi"
+        "default": "sel={{selection}}\n\nquery=$(printf \"%s\" \"$sel\" | tr -s '[:space:]' '+')\n\nif [ {{_link_type}} = \"Google Search\" ]; then\n  printf \"[%s](https://www.google.com/search?q=%s)\" \"$sel\" \"$query\"\nelif [ {{_link_type}} = \"Google Maps\" ]; then\n  printf \"[%s](https://www.google.com/maps?q=%s)\" \"$sel\" \"$query\"\nelse\n  printf \"%s\" \"$sel\"\nfi"
       },
       "shells": {},
-      "alias": "Construct Hypertext",
+      "alias": "GLink",
       "icon": null,
       "confirm_execution": false,
       "ignore_error_codes": [],
@@ -140,10 +140,46 @@
     {
       "id": "sj0z4dp9d9",
       "platform_specific_commands": {
-        "default": "file_path={{file_path:relative}}\n\ncleaned_path=\"${file_path//\\\\//}\"\ncleaned_path=\"${cleaned_path#Daily-Bullet-Journal/}\"\n\nopen \"https://github.com/huaminghuangtw/Daily-Bullet-Journal/blob/main/$cleaned_path\""
+        "default": "file_path={{file_path:relative}}\n\ncleaned_path=\"${file_path//\\\\//}\"\n\nfirst_part=\"${cleaned_path%%/*}\"\n\nrest=\"${cleaned_path#*/}\"\n\nopen \"https://github.com/huaminghuangtw/$first_part/blob/main/$rest\""
       },
       "shells": {},
-      "alias": "Open Journal on GitHub",
+      "alias": "Open on GitHub",
+      "icon": null,
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "input_contents": {
+        "stdin": null
+      },
+      "output_handlers": {
+        "stdout": {
+          "handler": "ignore",
+          "convert_ansi_code": true
+        },
+        "stderr": {
+          "handler": "notification",
+          "convert_ansi_code": true
+        }
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "output_handling_mode": "buffered",
+      "execution_notification_mode": null,
+      "events": {},
+      "debounce": null,
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    {
+      "id": "ldhxfcj9cg",
+      "platform_specific_commands": {
+        "default": "sel={{selection}}\n\nquery=$(printf \"%s\" \"$sel\" | tr -s '[:space:]' '+')\n\nopen -na \"Microsoft Edge\" --args --new-window \"https://www.google.com/search?q=$query\""
+      },
+      "shells": {},
+      "alias": "Search on Google",
       "icon": null,
       "confirm_execution": false,
       "ignore_error_codes": [],

@@ -6,8 +6,9 @@
   display: none;
 }
 
-::selection {
-  background-color: #1a4f8c;
+.markdown-preview-view ::selection,
+.markdown-source-view.mod-cm6.is-live-preview ::selection {
+  background-color: #87285E;
   color: #dfb431;
 }
 
@@ -15,6 +16,7 @@
   background-color: rgba(var(--mono-rgb-100), 0.2);
 }
 
+.markdown-source-view.mod-cm6.is-live-preview img,
 .markdown-preview-view img {
   box-shadow: 0 4px 16px -4px rgba(0, 0, 0, 0.12);
   border: 1px solid #e5e7eb;
@@ -32,15 +34,12 @@
     cursor 0.2s;
 }
 
+.markdown-source-view.mod-cm6.is-live-preview img:hover,
 .markdown-preview-view img:hover {
   max-width: 90vw;
   max-height: 80vh;
   box-shadow: 0 8px 32px -8px rgba(0, 0, 0, 0.18);
   cursor: zoom-in;
-}
-
-.markdown-preview-view table img {
-  margin: auto;
 }
 
 .edit-button {
@@ -59,23 +58,25 @@
   padding-right: 0px;
 }
 
+.HyperMD-quote,
 .markdown-preview-view blockquote {
-  border-left: 6px solid #444;
-  background: none;
+  border-left: 6px solid #dfb431;
+  border-radius: 6px;
 }
 
-.cm-hashtag {
-  background: var(--text-accent) !important;
-  color: white !important;
+.cm-hashtag,
+.markdown-preview-view .tag {
+  background: var(--text-accent);
+  color: white;
 }
 
-.callout {
-  background: transparent;
+.callout-icon {
+  display: none;
 }
 
-thead {
-  background: var(--background-color-light);
-  filter: invert(100%);
+.markdown-source-view thead th,
+.markdown-preview-view thead th {
+  color: #735EB5;
 }
 
 /* Show word count only on hover */

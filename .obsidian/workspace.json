@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3c18abc5e030c3ee",
+        "id": "97bb8f8c6c85b1ec",
         "type": "tabs",
         "children": [
           {
-            "id": "95eec84606d5e9bc",
+            "id": "4b02dd6c21664ea0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_03.md",
+                "file": "Homepage.md",
                 "mode": "preview",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_02_03"
+              "title": "Homepage"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"believe in yourself\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_03.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026_02_03"
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -183,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_31.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_01_31"
+              "title": "File properties for Homepage"
             }
           },
           {
@@ -226,39 +226,39 @@
       "command-palette:Open command palette": true,
       "random-note:Open random note": true,
       "workspaces:Manage workspace layouts": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian-shellcommands:Shell commands: Custom variables": true,
       "templater-obsidian:Templater": true
     }
   },
-  "active": "95eec84606d5e9bc",
+  "active": "4b02dd6c21664ea0",
   "lastOpenFiles": [
     "Homepage.md",
     "Daily-Bullet-Journal/journals/2026/02-February/2026_02_02.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_03.md",
     "Daily-Bullet-Journal/journals/2026/02-February/2026_02_01.md",
-    "Evergreen-Notes/Permanent-Notes/Obsidian Plugins.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_31.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_28.md",
-    "Deep-Work-Machine/README.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_12.md",
-    "Enoughness/posts/2026-week-03.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_13.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_14.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_15.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_24.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_25.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_26.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_27.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_28.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_30.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_29.md",
-    "Today-I-Learned/posts/how-to-minimize-distractions-in-vs-code.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_28.md",
-    "Evergreen-Notes/Permanent-Notes/a-man-who-is-a-master-of-patience-is-master-of-everything-else.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_14.md",
-    "Brainfoodie/posts/collection-andy-li-an-ho.md",
-    "Weekly-Mindware-Update/issues/2024/2024w36.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_28.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_27.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_26.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_03.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_04.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_02.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_04.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_29.md",
+    "Dear-Today-Me/Dear-Today-Me.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_21.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_03.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_05.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_06.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_07.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_08.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_30.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_24.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_23.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_12.md",
+    "Evergreen-Notes/Permanent-Notes/busyness.md",
+    "Daily-Bullet-Journal/journals/2019/02-February",
     "Daily-Bullet-Journal/journals/2016/02-February",
     "Daily-Bullet-Journal/journals/2022/02-February",
     "Daily-Bullet-Journal/journals/2026/02-February",
@@ -277,7 +277,6 @@
     "Daily-Bullet-Journal/journals/2025/01-January/_attachments",
     "Daily-Bullet-Journal/journals/2020/01-January",
     "Daily-Bullet-Journal/journals/2020",
-    "Daily-Bullet-Journal/journals/2024/04-April/_attachments",
-    "Daily-Bullet-Journal/journals/2024/05-May/_attachments"
+    "Daily-Bullet-Journal/journals/2024/04-April/_attachments"
   ]
 }
