@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "97bb8f8c6c85b1ec",
+        "id": "36d0f1a617d5c7d1",
         "type": "tabs",
         "children": [
           {
-            "id": "4b02dd6c21664ea0",
+            "id": "cd57931008bff8d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "71d5f4436615b8fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_05.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026_02_05"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"believe in yourself\"",
+                "query": "佛跳牆",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 2026_02_05"
             }
           },
           {
@@ -183,10 +208,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_05.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for 2026_02_05"
             }
           },
           {
@@ -230,38 +255,46 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "4b02dd6c21664ea0",
+  "active": "71d5f4436615b8fa",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_05.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_29.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_25.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_02.md",
+    "Evergreen-Notes/Permanent-Notes/the-absence-of-desire-is-true-happiness.md",
+    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
+    "Evergreen-Notes/Permanent-Notes/slow-down-to-speed-up.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_04.md",
+    "Daily-Bullet-Journal/journals/2017/02-February/2017_02_05.md",
+    "Deep-Work-Machine/Number of Words/2026/01-January/number-of-words_2026-01.png",
+    "Deep-Work-Machine/Number of Words/2026/01-January/number-of-words_2026-01.json",
+    "Deep-Work-Machine/Number of Words/2026/01-January/number-of-words_2026-01.csv",
+    "Deep-Work-Machine/Number of Words/2026/01-January",
+    "Deep-Work-Machine/Number of Words/2026",
+    "Deep-Work-Machine/Number of Flows/2026/01-January/number-of-flows_2026-01.png",
+    "Deep-Work-Machine/Number of Flows/2026/01-January/number-of-flows_2026-01.json",
+    "Deep-Work-Machine/Number of Flows/2026/01-January/number-of-flows_2026-01.csv",
+    "Deep-Work-Machine/Number of Flows/2026/01-January",
+    "Deep-Work-Machine/Number of Flows/2026",
     "Daily-Bullet-Journal/journals/2026/02-February/2026_02_01.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_02.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_03.md",
+    "Evergreen-Notes/Permanent-Notes/be-a-habit-and-routine-machine.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_04.md",
+    "Weekly-Mindware-Update/issues/2025/2025w8.md",
+    "Daily-Bullet-Journal/journals/2023/02-February/2023_02_05.md",
+    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_05.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_05.md",
+    "Daily-Bullet-Journal/journals/2017/02-February",
+    "Evergreen-Notes/Permanent-Notes/the-pomodoro-technique.md",
+    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_31.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_30.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_29.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_28.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_27.md",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_26.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_03.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_04.md",
     "Daily-Bullet-Journal/journals/2025/07-July/2025_07_02.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_04.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_29.md",
-    "Dear-Today-Me/Dear-Today-Me.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_21.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_03.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_05.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_06.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_07.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_08.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_30.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_24.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_23.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_12.md",
-    "Evergreen-Notes/Permanent-Notes/busyness.md",
     "Daily-Bullet-Journal/journals/2019/02-February",
-    "Daily-Bullet-Journal/journals/2016/02-February",
-    "Daily-Bullet-Journal/journals/2022/02-February",
-    "Daily-Bullet-Journal/journals/2026/02-February",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Ultimate Abs.jpeg",
     "Enoughness/_attachments/bbf7c4d3793ad164815c18f6fe2b3911.avif",
     "Enoughness/_attachments/9895bdfdf1be33653c93f4b5e3984ae4.jpg",
@@ -269,14 +302,6 @@
     "Enoughness/posts/_attachments/ef7a487cf8082cf199f52fcade28e29c.png",
     "Enoughness/posts/_attachments/9410b9abb66b248a968fae2596c114b2.png",
     "Enoughness/posts/_attachments/75cbbca333792735e27c98bb2283aa4d.png",
-    "Enoughness/posts/_attachments/65d6e5fc39fd736c44a14fd6102a2798.png",
-    "Enoughness/posts/_attachments/94481ecb058b9f5483a6513e9ee4519f.png",
-    "Enoughness/posts/_attachments/f58dfdbddb0e81d0b203787fb327bbc9.png",
-    "Daily-Bullet-Journal/journals/2019/01-January",
-    "Daily-Bullet-Journal/journals/2019",
-    "Daily-Bullet-Journal/journals/2025/01-January/_attachments",
-    "Daily-Bullet-Journal/journals/2020/01-January",
-    "Daily-Bullet-Journal/journals/2020",
-    "Daily-Bullet-Journal/journals/2024/04-April/_attachments"
+    "Enoughness/posts/_attachments/65d6e5fc39fd736c44a14fd6102a2798.png"
   ]
 }

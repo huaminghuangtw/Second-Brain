@@ -311,13 +311,6 @@
       "replace": "$1<sup>$2</sup> Birthday",
       "flags": "gm",
       "enabled": true
-    },
-    {
-      "label": "",
-      "find": "(”)\\s(_)$",
-      "replace": "$1$2",
-      "flags": "gm",
-      "enabled": true
     }
   ],
   "commonStyles": {

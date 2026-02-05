@@ -6,7 +6,21 @@
   display: none;
 }
 
+.markdown-preview-view thead th,
+.markdown-source-view thead th {
+  color: #735EB5;
+}
+
+.cm-strong {
+  color: #4385BE;
+}
+
+.mod-cm6 .cm-line {
+  caret-color: red;
+}
+
 .markdown-preview-view ::selection,
+.markdown-source-view.mod-cm6 ::selection,
 .markdown-source-view.mod-cm6.is-live-preview ::selection {
   background-color: #87285E;
   color: #dfb431;
@@ -15,6 +29,56 @@
 .suggestion-container .suggestion-item.is-selected {
   background-color: rgba(var(--mono-rgb-100), 0.2);
 }
+
+.edit-button {
+  text-decoration: none;
+  border: none;
+  background-color: transparent;
+  border-radius: 2px;
+  display: block;
+  position: relative;
+  float: right;
+  font-size: 14px;
+}
+
+.external-link {
+  background-image: none;
+  padding-right: 0px;
+}
+
+.HyperMD-quote,
+.markdown-preview-view blockquote {
+  border-left: 6px solid #dfb431;
+  border-radius: 6px;
+  font-style: italic;
+}
+
+.cm-quote {
+  font-style: italic;
+}
+
+.cm-hashtag,
+.markdown-preview-view .tag {
+  background: var(--text-accent);
+  color: white;
+}
+
+.callout-icon {
+  display: none;
+}
+
+/* Show section word count only on hover */
+
+.HyperMD-header .bwc-section-count {
+  opacity: 0;
+}
+
+.HyperMD-header:hover .bwc-section-count,
+.HyperMD-header.cm-active .bwc-section-count {
+  opacity: 1;
+}
+
+/* Reduce displayed size of images, zoom on hover */
 
 .markdown-source-view.mod-cm6.is-live-preview img,
 .markdown-preview-view img {
@@ -40,50 +104,4 @@
   max-height: 80vh;
   box-shadow: 0 8px 32px -8px rgba(0, 0, 0, 0.18);
   cursor: zoom-in;
-}
-
-.edit-button {
-  text-decoration: none;
-  border: none;
-  background-color: transparent;
-  border-radius: 2px;
-  display: block;
-  position: relative;
-  float: right;
-  font-size: 14px;
-}
-
-.external-link {
-  background-image: none;
-  padding-right: 0px;
-}
-
-.HyperMD-quote,
-.markdown-preview-view blockquote {
-  border-left: 6px solid #dfb431;
-  border-radius: 6px;
-}
-
-.cm-hashtag,
-.markdown-preview-view .tag {
-  background: var(--text-accent);
-  color: white;
-}
-
-.callout-icon {
-  display: none;
-}
-
-.markdown-source-view thead th,
-.markdown-preview-view thead th {
-  color: #735EB5;
-}
-
-/* Show word count only on hover */
-.HyperMD-header .bwc-section-count {
-  opacity: 0;
-}
-.HyperMD-header:hover .bwc-section-count,
-.HyperMD-header.cm-active .bwc-section-count {
-  opacity: 1;
 }
