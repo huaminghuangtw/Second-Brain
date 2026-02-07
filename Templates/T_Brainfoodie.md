@@ -2,7 +2,7 @@
 const result = await tp.user.createWritingPost(tp);
 if (!result) return;
 const { title, fileName } = result;
-const categories = ["Book", "Essay", "Podcast", "Letter", "Inspiring Speech", "TED Talk", "YouTube Video", "Movie", "Documentary"];
+const categories = ["Book", "Excerpt", "Essay", "Poem", "Podcast", "Letter", "Inspiring Speech", "TED Talk", "YouTube Video", "Movie", "Documentary"];
 const category = await tp.system.suggester(categories, categories, false, "🤖 Which one? ");
 const authorsInput = await tp.system.prompt("👤 Author(s)? (comma-separated for multiple)") || "";
 const authors = authorsInput.split(',').map(a => a.trim()).filter(a => a);
