@@ -2,12 +2,13 @@
   "ignoreFolders": [
     "Visuals/Fitness/Darebee/",
     "Deep-Work-Machine/",
-    "Weekly-Mindware-Update/",
-    "Brain-Food/",
-    "Evergreen-Lists/",
-    "Dear-Today-Me/"
+    "Weekly-Mindware-Update/assets/",
+    "Brain-Food/assets/",
+    "Evergreen-Lists/assets/",
+    "Dear-Today-Me/assets/"
   ],
   "renameFileTypes": [
+    "bmp",
     "png",
     "jpg",
     "jpeg",
@@ -16,6 +17,7 @@
     "webp",
     "avif",
     "heic",
+    "BMP",
     "PNG",
     "JPG",
     "JPEG",

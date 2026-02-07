@@ -98,7 +98,7 @@
     {
       "id": "a4mqepg0uf",
       "platform_specific_commands": {
-        "default": "sel={{selection}}\n\nquery=$(printf \"%s\" \"$sel\" | tr -s '[:space:]' '+')\n\nif [ {{_link_type}} = \"Google Search\" ]; then\n  printf \"[%s](https://www.google.com/search?q=%s)\" \"$sel\" \"$query\"\nelif [ {{_link_type}} = \"Google Maps\" ]; then\n  printf \"[%s](https://www.google.com/maps?q=%s)\" \"$sel\" \"$query\"\nelse\n  printf \"%s\" \"$sel\"\nfi"
+        "default": "sel={{selection}}\n\nquery=$(printf \"%s\" \"$sel\" | tr -s '[:space:]' '+' | sed 's/&/%26/g')\n\nif [ {{_link_type}} = \"Google Search\" ]; then\n  printf \"[%s](https://www.google.com/search?q=%s)\" \"$sel\" \"$query\"\nelif [ {{_link_type}} = \"Google Maps\" ]; then\n  printf \"[%s](https://www.google.com/maps?q=%s)\" \"$sel\" \"$query\"\nelse\n  printf \"%s\" \"$sel\"\nfi"
       },
       "shells": {},
       "alias": "GLink",
@@ -176,7 +176,7 @@
     {
       "id": "ldhxfcj9cg",
       "platform_specific_commands": {
-        "default": "sel={{selection}}\n\nquery=$(printf \"%s\" \"$sel\" | tr -s '[:space:]' '+')\n\nopen -na \"Microsoft Edge\" --args --new-window \"https://www.google.com/search?q=$query\""
+        "default": "sel={{selection}}\n\nquery=$(printf \"%s\" \"$sel\" | tr -s '[:space:]' '+' | sed 's/&/%26/g')\n\nopen -na \"Microsoft Edge\" --args --new-window \"https://www.google.com/search?q=$query\""
       },
       "shells": {},
       "alias": "Search on Google",
