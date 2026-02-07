@@ -12,7 +12,7 @@ featured: false
 title: <% title %>
 description:
 tags: [<% collection %>/]
-ogImage: ../_attachments/
+ogImage: _attachments/
 ---
 
 <% tp.file.cursor() %>
