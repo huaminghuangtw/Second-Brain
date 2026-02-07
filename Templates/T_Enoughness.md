@@ -7,8 +7,8 @@ const issue = app.vault
 		.getFiles()
 		.filter((f) => f.path.startsWith("Enoughness/posts/") && f.extension === "md")
 		.length;
-const fridayDate = moment().weekday(5);
-const canonicalPath = `${fridayDate.format('YYYY/M/D')}/enoughness-${issue}`;
+const nextFridayDate = moment().weekday(5).add(1, 'weeks');
+const canonicalPath = `${nextFridayDate.format('YYYY/M/D')}/enoughness-${issue}`;
 -%>
 ---
 draft: true
