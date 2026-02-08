@@ -17,7 +17,7 @@ canonicalPath: <% canonicalPath %>
 slug: enoughness-<% issue %>
 description: "<% `Enoughness #${issue}` %>"
 issue: <% issue %>
-created: <% fridayDate.format('YYYY-MM-DD[T00:00:00]') %>
+created: <% nextFridayDate.format('YYYY-MM-DD[T00:00:00]') %>
 ---
 
 <!-- SELF-INTRO-START -->
