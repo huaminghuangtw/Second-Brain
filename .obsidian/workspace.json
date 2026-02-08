@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cacfe21d3735dfd9",
+        "id": "d87c1b5113eb6852",
         "type": "tabs",
         "children": [
           {
-            "id": "f5dd9baf9ae4289c",
+            "id": "3e49697a8d099111",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +30,153 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "cda418d22f4e6aff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "5d5b80942edfe359",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/the-growth-mindset.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "the-growth-mindset"
+            }
+          },
+          {
+            "id": "f3e2f56074da72e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brainfoodie/posts/44-harsh-truths-about-human-nature.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "44-harsh-truths-about-human-nature"
+            }
+          },
+          {
+            "id": "cded090abc6162d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "what-success-means-to-me"
+            }
+          },
+          {
+            "id": "6d84ce7675dce087",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/always-start-with-end-in-mind.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "always-start-with-end-in-mind"
+            }
+          },
+          {
+            "id": "19d7423c4bbcfcf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_08.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026_02_08"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -63,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "光頭",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 504.5,
+    "width": 411.5,
     "collapsed": true
   },
   "right": {
@@ -121,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +276,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 2026_02_08"
             }
           },
           {
@@ -183,10 +328,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_08.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for 2026_02_08"
             }
           },
           {
@@ -200,19 +345,19 @@
             }
           },
           {
-            "id": "6dd94bd33afdc58a",
+            "id": "04ee520414c74d80",
             "type": "leaf",
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/01-January/2026_01_01.md"
+                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_08.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -221,7 +366,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "graph:Open graph view": true,
       "command-palette:Open command palette": true,
       "random-note:Open random note": true,
@@ -230,34 +374,39 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "f5dd9baf9ae4289c",
+  "active": "19d7423c4bbcfcf9",
   "lastOpenFiles": [
-    "Enoughness/posts/2026-week-05.md",
-    "Enoughness/posts/2026-week-06.md",
-    "Evergreen-Notes/Permanent-Notes/the-drowning-child-in-the-pond.md",
-    "Enoughness/posts/2025-week-47.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_07.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_16.md",
-    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_06.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_05.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_25.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_14.md",
-    "Life-Notes/Missions/體育改革.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_30.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_06.md",
-    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_07.md",
-    "Daily-Bullet-Journal/journals/2023/02-February/2023_02_07.md",
-    "Daily-Bullet-Journal/journals/2022/02-February/2022_02_07.md",
-    "Daily-Bullet-Journal/journals/2019/02-February/2019_02_07.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_07.md",
+    "Evergreen-Notes/Permanent-Notes/always-start-with-end-in-mind.md",
+    "Weekly-Mindware-Update/issues/2026/2026w6.md",
+    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
+    "Brainfoodie/posts/44-harsh-truths-about-human-nature.md",
+    "Evergreen-Notes/Permanent-Notes/the-growth-mindset.md",
+    "Evergreen-Notes/Permanent-Notes/deliberate-practice.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_08.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_08.md",
+    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_08.md",
+    "Daily-Bullet-Journal/journals/2023/02-February/2023_02_08.md",
+    "Daily-Bullet-Journal/journals/2021/02-February/2021_02_08.md",
+    "Daily-Bullet-Journal/journals/2016/02-February/2016_02_08.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_09.md",
     "Daily-Bullet-Journal/journals/2025/02-February/2025_02_07.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_06.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_03.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_04.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_05.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_07.md",
+    "Daily-Bullet-Journal/journals/2021/02-February",
+    "Evergreen-Notes/Permanent-Notes/The 12 Month Celebration.md",
     "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
-    "Evergreen-Notes/Permanent-Notes/beef.md",
-    "AdaptX/posts/alex-honnold.md",
-    "Brainfoodie/posts/the-man-in-the-arena.md",
-    "Brainfoodie/posts/at-dawn.md",
-    "Weekly-Mindware-Update/issues/2025/2025w26.md",
+    "Evergreen-Notes/Permanent-Notes/the-lindy-effect.md",
+    "Evergreen-Notes/Permanent-Notes/the-pareto-principle.md",
+    "Today-I-Learned/posts/_attachments/7e17c6817f2c1952777d0708736f4bb3.png",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_16.md",
+    "Shortcutomation/posts/why-i-watch-the-earth-spin-every-night-before-bed.md",
+    "Evergreen-Lists/ai-prompt/ai-prompt.pdf",
+    "Brainfoodie/posts/_attachments/93bae1325ed7953f4e2ec6ef1318c910.png",
+    "Brainfoodie/posts/_attachments/686c89d43115bb2063ac5188d8552357.png",
     "Daily-Bullet-Journal/journals/2016/12-December/_attachments/5c8974a3a393fd9e8f0e2f4b02e6441e.png",
     "Daily-Bullet-Journal/journals/2022/12-December/_attachments/7911e0bb2adccf903046242119e8da29.png",
     "Daily-Bullet-Journal/journals/2023/01-January/_attachments/23abd8061650344ca32b2752815d0129.png",
@@ -268,15 +417,10 @@
     "Daily-Bullet-Journal/journals/2025/11-November/_attachments/0e9fba5a46079ac93993c98302f4b8e9.png",
     "Daily-Bullet-Journal/journals/2025/10-October/_attachments/63188eba70f7d2a31641261f46b71188.png",
     "Daily-Bullet-Journal/journals/2025/11-November/_attachments",
-    "Daily-Bullet-Journal/journals/2025/10-October/_attachments/3e45ed0ee84aabf3cdaf68f44da7a338.png",
-    "Daily-Bullet-Journal/journals/2025/08-August/_attachments/03510a223417d2d8ad6efeaaa77b6215.jpeg",
     "Daily-Bullet-Journal/journals/2025/10-October/_attachments",
     "Daily-Bullet-Journal/journals/2025/09-September/_attachments",
-    "Daily-Bullet-Journal/journals/2025/08-August/_attachments/4e53859990b9edfe38de82dc4e60d567.png",
     "Daily-Bullet-Journal/journals/2025/08-August/_attachments",
     "Daily-Bullet-Journal/journals/2025/07-July/_attachments",
-    "Daily-Bullet-Journal/journals/2025/06-June/_attachments",
-    "Daily-Bullet-Journal/journals/2025/05-May/_attachments",
-    "Daily-Bullet-Journal/journals/2025/03-March/_attachments"
+    "Daily-Bullet-Journal/journals/2025/06-June/_attachments"
   ]
 }

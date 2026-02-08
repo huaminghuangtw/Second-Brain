@@ -67,6 +67,10 @@
   display: none;
 }
 
+div[data-path$='.pdf']{
+	display: none;
+}
+
 /* Show section word count only on hover */
 
 .HyperMD-header .bwc-section-count {
@@ -82,15 +86,14 @@
 
 .markdown-source-view.mod-cm6.is-live-preview img,
 .markdown-preview-view img {
-  box-shadow: 0 4px 16px -4px rgba(0, 0, 0, 0.12);
   border: 1px solid #e5e7eb;
-  margin: 0.5em auto;
   max-width: 100%;
   max-height: 350px;
   width: auto;
   height: auto;
-  object-fit: contain;
   display: block;
+  margin-left: auto;
+  margin-right: auto;
   transition:
     max-width 0.2s,
     max-height 0.2s,
@@ -102,6 +105,5 @@
 .markdown-preview-view img:hover {
   max-width: 90vw;
   max-height: 80vh;
-  box-shadow: 0 8px 32px -8px rgba(0, 0, 0, 0.18);
   cursor: zoom-in;
 }

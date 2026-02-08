@@ -10,7 +10,7 @@
     "editor:undo",
     "editor:redo"
   ],
-  "trashOption": "local",
+  "trashOption": "system",
   "showUnsupportedFiles": false,
   "livePreview": false,
   "showLineNumber": false,
