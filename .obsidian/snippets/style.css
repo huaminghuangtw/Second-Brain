@@ -89,11 +89,7 @@ div[data-path$='.pdf']{
   border: 1px solid #e5e7eb;
   max-width: 100%;
   max-height: 350px;
-  width: auto;
-  height: auto;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
   transition:
     max-width 0.2s,
     max-height 0.2s,
