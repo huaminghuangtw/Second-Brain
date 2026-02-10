@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eedb9093b0c7debe",
+        "id": "54b10344f12d3d4a",
         "type": "tabs",
         "children": [
           {
-            "id": "ec64645707add4ea",
+            "id": "586d0034203d53de",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "賴老師",
+                "query": "iframe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "AdaptX/posts/how-to-tie-shoelaces.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for how-to-tie-shoelaces"
             }
           },
           {
@@ -205,7 +205,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Homepage.md"
+                "file": "AdaptX/posts/how-to-tie-shoelaces.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -229,34 +229,36 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "ec64645707add4ea",
+  "active": "586d0034203d53de",
   "lastOpenFiles": [
-    "Weekly-Mindware-Update/issues/2026/2026w6.md",
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_08.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_09.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_13.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_28.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_27.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_29.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_30.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_31.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_01.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_02.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_03.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_04.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_05.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_06.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_07.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_26.md",
-    "Evergreen-Notes/Permanent-Notes/courage-is-knowing-what-not-to-fear.md",
-    "Evergreen-Notes/Permanent-Notes/the-growth-mindset.md",
-    "Evergreen-Notes/Permanent-Notes/never-lose-faith-and-hope.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_15.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_14.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_09.md",
-    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_09.md",
+    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_10.md",
+    "Enoughness/posts/2025-week-42.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_08.md",
+    "Enoughness/posts/2025-week-43.md",
+    "Enoughness/posts/2025-week-44.md",
+    "Enoughness/posts/2025-week-45.md",
+    "Enoughness/posts/2025-week-47.md",
+    "Enoughness/posts/2025-week-52.md",
+    "Enoughness/posts/2025-week-49.md",
+    "Enoughness/posts/2025-week-50.md",
+    "Enoughness/posts/2025-week-48.md",
+    "Enoughness/posts/2026-week-01.md",
+    "Enoughness/posts/2026-week-05.md",
+    "Enoughness/posts/2026-week-02.md",
+    "Enoughness/posts/2026-week-03.md",
+    "Enoughness/posts/2026-week-04.md",
+    "Shortcutomation/posts/a-midday-routine-i-do-every-day.md",
+    "Shortcutomation/posts/live-each-day-as-if-it-were-your-last.md",
+    "AdaptX/posts/ted-taipei-2025.md",
+    "AdaptX/posts/the-monkey-and-pedestal-mindset.md",
+    "AdaptX/posts/the-power-of-quiet.md",
+    "Evergreen-Notes/Permanent-Notes/we-dont-get-a-lot-of-things-to-really-care-about.md",
+    "Shortcutomation/posts/why-i-watch-the-earth-spin-every-night-before-bed.md",
+    "AdaptX/posts/you-and-your-timeline.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_01.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/_attachments/2026_02_10_13_34_33.PNG",
+    "AdaptX/posts/how-to-tie-shoelaces 1.mdx",
     "Daily-Bullet-Journal/journals/2018/02-February",
     "Daily-Bullet-Journal/journals/2021/02-February",
     "Today-I-Learned/posts/_attachments/7e17c6817f2c1952777d0708736f4bb3.png",
@@ -271,11 +273,9 @@
     "Daily-Bullet-Journal/journals/2026/02-February/_attachments",
     "Daily-Bullet-Journal/journals/2025/12-December/_attachments",
     "Daily-Bullet-Journal/journals/2025/11-November/_attachments/0e9fba5a46079ac93993c98302f4b8e9.png",
-    "Daily-Bullet-Journal/journals/2025/10-October/_attachments/63188eba70f7d2a31641261f46b71188.png",
     "Daily-Bullet-Journal/journals/2025/11-November/_attachments",
     "Daily-Bullet-Journal/journals/2025/10-October/_attachments",
     "Daily-Bullet-Journal/journals/2025/09-September/_attachments",
-    "Daily-Bullet-Journal/journals/2025/08-August/_attachments",
-    "Daily-Bullet-Journal/journals/2025/07-July/_attachments"
+    "Daily-Bullet-Journal/journals/2025/08-August/_attachments"
   ]
 }
