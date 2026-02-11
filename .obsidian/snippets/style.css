@@ -58,7 +58,7 @@
 }
 
 .cm-hashtag,
-.markdown-preview-view .tag {
+.markdown-preview-view .tag:not(.token.tag) {
   background: var(--text-accent);
   color: white;
 }

@@ -29,7 +29,7 @@
   "uriCallbacks": true,
   "newLinkFormat": "relative",
   "showIndentGuide": true,
-  "newFileLocation": "folder",
+  "newFileLocation": "root",
   "promptDelete": false,
   "mobilePullAction": "editor:toggle-source",
   "newFileFolderPath": "",
