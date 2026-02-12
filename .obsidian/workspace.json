@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "94697cc929211018",
+        "id": "110006911cfd34e5",
         "type": "tabs",
         "children": [
           {
-            "id": "912663f7d4590909",
+            "id": "601354eb8c56f5d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_12.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2026_02_12"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "adaptx.tw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 2026_02_12"
             }
           },
           {
@@ -172,10 +173,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_12.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for 2026_02_12"
             }
           },
           {
@@ -194,7 +195,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_12.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -218,34 +219,34 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "912663f7d4590909",
+  "active": "601354eb8c56f5d2",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_10.md",
-    "Evergreen-Notes/Permanent-Notes/ui-components.md",
-    "Life-Notes/WebDev/TailwindCSS.md",
-    "Life-Notes/WebDev/UI & UX Principles.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/_attachments/Pasted image 20260212223246.png",
+    "Evergreen-Notes/Permanent-Notes/luck.md",
+    "Evergreen-Notes/Permanent-Notes/never-ever-complain-about-anything.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_13.md",
     "Life-Notes/WebDev/🛠️ Tools for web dev.md",
-    "Life-Notes/WebDev/Astro.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_19.md",
-    "Homepage.md",
-    "Life-Notes/Coding/UI and UX Principles.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_20.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_15.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_21.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_09.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_08.md",
-    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_11.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_27.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_10.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_11.md",
-    "Evergreen-Notes/Permanent-Notes/creativity-is-just-connecting-things.md",
+    "Evergreen-Notes/Permanent-Notes/slow-productivity.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_12.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_26.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_23.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_20.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_13.md",
+    "Evergreen-Notes/Permanent-Notes/how-to-live-a-life.md",
+    "Enoughness/posts/2026-week-07.md",
+    "Untitled.md",
     "Enoughness/posts/2026-week-06.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_15.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_29.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_13.md",
-    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_14.md",
-    "Enoughness/posts/2025-week-50.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_06.md",
+    "Evergreen-Notes/Permanent-Notes/you-can-achieve-anything-if-you-focus-on-one-thing-at-a-time.md",
+    "Enoughness/posts/2026-week-08.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_11.md",
+    "Homepage.md",
+    "Evergreen-Notes/Permanent-Notes/live-in-the-present.md",
+    "Brainfoodie/posts/natural-farming.md",
+    "Brainfoodie/posts/a-walk-in-the-wood-meditations-on-mindfulness-with-a-bear-named-pooh.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_24.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_04.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_10.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_06.md",
     "Life-Notes/Language Learning",
     "Daily-Bullet-Journal/journals/2026/02-February/_attachments/00566c5d86e93dc39be2c0aaf25a2d4c.png",
     "Daily-Bullet-Journal/journals/2026/02-February/_attachments/e2912fcacdb8c93a903b518503dfc913.png",

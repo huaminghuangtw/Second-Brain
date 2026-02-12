@@ -18,15 +18,14 @@
   "alwaysUpdateLinks": true,
   "userIgnoreFilters": [
     "Scripts/",
-    "Visuals/",
     "Homepage.md",
-    "/**/_attachments//",
-    "Templates/"
+    "Templates/",
+    "Visuals/"
   ],
   "showInlineTitle": true,
   "useTab": true,
   "useMarkdownLinks": true,
-  "uriCallbacks": true,
+  "uriCallbacks": false,
   "newLinkFormat": "relative",
   "showIndentGuide": true,
   "newFileLocation": "root",
