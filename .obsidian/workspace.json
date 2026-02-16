@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2747633f67e2cf2d",
+        "id": "bb4151f5dbcf783e",
         "type": "tabs",
         "children": [
           {
-            "id": "dfce803be8226e63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_15.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026_02_15"
-            }
-          },
-          {
-            "id": "b5667e8b2c0b40cf",
+            "id": "21a47cc4c3c3c99f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +31,7 @@
               "title": "Homepage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "choiceless",
+                "query": "後悔",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brainfoodie/posts/taiwan-ai-era.md",
+                "file": "Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of taiwan-ai-era"
+              "title": "Outline of Homepage"
             }
           },
           {
@@ -198,10 +173,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Brainfoodie/posts/taiwan-ai-era.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for taiwan-ai-era"
+              "title": "File properties for Homepage"
             }
           },
           {
@@ -220,7 +195,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Brainfoodie/posts/taiwan-ai-era.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -244,35 +219,35 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "b5667e8b2c0b40cf",
+  "active": "21a47cc4c3c3c99f",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_15.md",
+    "Enoughness/posts/2026-week-08.md",
+    "Evergreen-Notes/Permanent-Notes/wu-wei.md",
+    "Brainfoodie/posts/wen-long-hsu-zero-and-infinite.md",
     "Homepage.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_16.md",
+    "Evergreen-Notes/Permanent-Notes/embrace-the-beauty-of-enoughness.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_31.md",
+    "Evergreen-Notes/Permanent-Notes/have-the-courage-to-do-the-right-things.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_15.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_15.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_14.md",
+    "Brainfoodie/posts/taiwan-ai-era.md",
+    "Evergreen-Notes/Permanent-Notes/readers-are-leaders.md",
+    "Weekly-Mindware-Update/issues/2025/2025w11.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_16.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_18.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_17.md",
+    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_22.md",
+    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_16.md",
+    "Daily-Bullet-Journal/journals/2023/02-February/2023_02_16.md",
+    "Daily-Bullet-Journal/journals/2018/02-February/2018_02_16.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_17.md",
+    "Evergreen-Notes/Permanent-Notes/the-simplicity-audit.md",
+    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
     "Evergreen-Notes/Permanent-Notes/dispel-your-narratives.md",
     "Enoughness/posts/2026-week-01.md",
-    "Evergreen-Notes/Permanent-Notes/the-beginner-mindset.md",
-    "Enoughness/posts/2026-week-02.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_14.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_05.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_23.md",
-    "Brainfoodie/posts/taiwan-ai-era.md",
-    "Evergreen-Notes/Permanent-Notes/the-matthew-effect.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_13.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_07.md",
-    "Evergreen-Notes/Permanent-Notes/the-art-of-quitting.md",
-    "Evergreen-Notes/Permanent-Notes/if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_15.md",
-    "Daily-Bullet-Journal/journals/2023/02-February/2023_02_15.md",
-    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_15.md",
-    "Enoughness/posts/2025-week-43.md",
-    "Evergreen-Notes/Permanent-Notes/the-small-world-phenomenon.md",
-    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Made With Love.jpeg",
-    "Weekly-Mindware-Update/issues/2026/2026w7.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_09.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_08.md",
-    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_13.md",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Standing Pilates.jpeg",
     "Enoughness/posts/_attachments/Pasted image 20260213105548.png",
     "Daily-Bullet-Journal/journals/2015/02-February",
