@@ -1,72 +1,69 @@
 ---
 created: 2024-11-18T17:18:12
-modified: 2026-02-04T09:45:39
+modified: 2026-02-17T08:07:07
 ---
 
 <!-- four-quarters-in-a-day -->
 
 ```dataviewjs
-let onDesktop = window.innerWidth > 768;
-if (onDesktop) {
-    const CONFIG = {
-        startTime: {
-            hours: 4,
-            minutes: 0
-        },
-        endTime: {
-            hours: 20,
-            minutes: 30
-        },
-        totalBlocks: 29,
-        block: {
-            default: "⬛️",
-            current: "🔻",
-            quarter1: "1️⃣",
-            quarter2: "2️⃣",
-            quarter3: "3️⃣",
-            quarter4: "4️⃣"
-        }
-    };
-
-    let now = dv.date("now");
-    let startTime = now.startOf("day").plus({
-        hours: CONFIG.startTime.hours
-    });
-    let endTime = now.startOf("day").plus({
-        hours: CONFIG.endTime.hours,
-        minutes: CONFIG.endTime.minutes
-    });
-
-    // 1 minute = 60 seconds = 60000 milliseconds
-    let currentMinutes = (now - startTime) / 60000;
-    let totalAwakeMinutes = (endTime - startTime) / 60000;
-
-    let blockDuration = totalAwakeMinutes / CONFIG.totalBlocks;
-
-    let currentBlockIndex = Math.floor(currentMinutes / blockDuration);
-
-    let blocks = [];
-    for (let i = 0; i < CONFIG.totalBlocks; i++) {
-        let blockSymbol;
-        if (i === currentBlockIndex) {
-            blockSymbol = CONFIG.block.current;
-        } else if (i === Math.floor((CONFIG.totalBlocks) / 4)) {
-            blockSymbol = CONFIG.block.quarter1;
-        } else if (i === Math.floor((CONFIG.totalBlocks) / 2)) {
-            blockSymbol = CONFIG.block.quarter2;
-        } else if (i === Math.floor((3 * (CONFIG.totalBlocks)) / 4)) {
-            blockSymbol = CONFIG.block.quarter3;
-        } else if (i === ((CONFIG.totalBlocks) - 1)) {
-            blockSymbol = CONFIG.block.quarter4;
-        } else {
-            blockSymbol = CONFIG.block.default;
-        }
-        blocks.push(blockSymbol);
+const CONFIG = {
+    startTime: {
+        hours: 4,
+        minutes: 0
+    },
+    endTime: {
+        hours: 20,
+        minutes: 30
+    },
+    totalBlocks: 29,
+    block: {
+        default: "⬛️",
+        current: "🔻",
+        quarter1: "1️⃣",
+        quarter2: "2️⃣",
+        quarter3: "3️⃣",
+        quarter4: "4️⃣"
     }
-    const blocksString = blocks.join(" ");
+};
 
-    dv.paragraph(blocksString);
+let now = dv.date("now");
+let startTime = now.startOf("day").plus({
+    hours: CONFIG.startTime.hours
+});
+let endTime = now.startOf("day").plus({
+    hours: CONFIG.endTime.hours,
+    minutes: CONFIG.endTime.minutes
+});
+
+// 1 minute = 60 seconds = 60000 milliseconds
+let currentMinutes = (now - startTime) / 60000;
+let totalAwakeMinutes = (endTime - startTime) / 60000;
+
+let blockDuration = totalAwakeMinutes / CONFIG.totalBlocks;
+
+let currentBlockIndex = Math.floor(currentMinutes / blockDuration);
+
+let blocks = [];
+for (let i = 0; i < CONFIG.totalBlocks; i++) {
+    let blockSymbol;
+    if (i === currentBlockIndex) {
+        blockSymbol = CONFIG.block.current;
+    } else if (i === Math.floor((CONFIG.totalBlocks) / 4)) {
+        blockSymbol = CONFIG.block.quarter1;
+    } else if (i === Math.floor((CONFIG.totalBlocks) / 2)) {
+        blockSymbol = CONFIG.block.quarter2;
+    } else if (i === Math.floor((3 * (CONFIG.totalBlocks)) / 4)) {
+        blockSymbol = CONFIG.block.quarter3;
+    } else if (i === ((CONFIG.totalBlocks) - 1)) {
+        blockSymbol = CONFIG.block.quarter4;
+    } else {
+        blockSymbol = CONFIG.block.default;
+    }
+    blocks.push(blockSymbol);
 }
+const blocksString = blocks.join(" ");
+
+dv.paragraph(blocksString);
 ```
 
 ---
@@ -82,49 +79,46 @@ WHERE date
 <!-- https://github.com/huaminghuangtw/Deep-Work-Machine -->
 
 ```dataviewjs
-let onDesktop = window.innerWidth > 768;
-if (onDesktop) {
-    const { Utils } = await cJS();
+const { Utils } = await cJS();
 
-    const CONFIG = { thresholds: { "Number of Flows": 6, "Number of Words": 1000 } };
+const CONFIG = { thresholds: { "Number of Flows": 6, "Number of Words": 1000 } };
 
-    const today = dv.date("today");
+const today = dv.date("today");
 
-    const getAverage = (data, valueLabel, filterFn) => {
-        const getValue = valueLabel === "Number of Words" ? s => s.words : f => f.length;
-        const values = Object.entries(data).filter(([d]) => filterFn(dv.date(d))).map(([, v]) => getValue(v)).filter(v => v > 0);
-        return values.length ? Math.round(values.reduce((s, v) => s + v, 0) / values.length) : 0;
-    };
+const getAverage = (data, valueLabel, filterFn) => {
+    const getValue = valueLabel === "Number of Words" ? s => s.words : f => f.length;
+    const values = Object.entries(data).filter(([d]) => filterFn(dv.date(d))).map(([, v]) => getValue(v)).filter(v => v > 0);
+    return values.length ? Math.round(values.reduce((s, v) => s + v, 0) / values.length) : 0;
+};
 
-    const metrics = {
-        "Number of Flows": JSON.parse(await app.vault.adapter.read(`Deep-Work-Machine/Number of Flows/data.json`)),
-        "Number of Words": JSON.parse(await app.vault.adapter.read(`${app.vault.configDir}/vault-stats.json`)).history
-    };
+const metrics = {
+    "Number of Flows": JSON.parse(await app.vault.adapter.read(`Deep-Work-Machine/Number of Flows/data.json`)),
+    "Number of Words": JSON.parse(await app.vault.adapter.read(`${app.vault.configDir}/vault-stats.json`)).history
+};
 
-    const periods = [
-        ["Last Week", d => d >= today.minus({ weeks: 1 }).startOf("week") && d <= today.minus({ weeks: 1 }).endOf("week")],
-        ["This Week", d => d >= today.startOf("week") && d <= today.endOf("week")],
-        ["Yesterday", d => d.toISODate() === today.minus({ days: 1 }).toISODate()],
-        ["Today", d => d.toISODate() === today.toISODate()]
-    ];
+const periods = [
+    ["Last Week", d => d >= today.minus({ weeks: 1 }).startOf("week") && d <= today.minus({ weeks: 1 }).endOf("week")],
+    ["This Week", d => d >= today.startOf("week") && d <= today.endOf("week")],
+    ["Yesterday", d => d.toISODate() === today.minus({ days: 1 }).toISODate()],
+    ["Today", d => d.toISODate() === today.toISODate()]
+];
 
-    const results = Object.fromEntries(
-        Object.entries(metrics).map(([metric, data]) => [
-            metric,
-            periods.map(([, filter]) => getAverage(data, metric, filter))
-        ])
-    );
+const results = Object.fromEntries(
+    Object.entries(metrics).map(([metric, data]) => [
+        metric,
+        periods.map(([, filter]) => getAverage(data, metric, filter))
+    ])
+);
 
-    dv.table(
-        ["", "**Last Week Average**", "**This Week Average**", "**Yesterday**", "**Today**"],
-        [
-            ["**🍅 [Flows](https://github.com/huaminghuangtw/Deep-Work-Machine)**", `${results["Number of Flows"][0]}`, ...results["Number of Flows"].slice(1, 3),
-             results["Number of Flows"][3] >= CONFIG.thresholds["Number of Flows"] ? `👌 ${results["Number of Flows"][3]}` : `💪 ${results["Number of Flows"][3]}`],
-            ["**✍️ [Words](https://github.com/huaminghuangtw/Deep-Work-Machine)**", `${results["Number of Words"][0]}`, ...results["Number of Words"].slice(1, 3),
-             results["Number of Words"][3] >= CONFIG.thresholds["Number of Words"] ? `👌 ${results["Number of Words"][3]}` : `💪 ${results["Number of Words"][3]}`]
-        ]
-    );
-}
+dv.table(
+    ["", "**Last Week Average**", "**This Week Average**", "**Yesterday**", "**Today**"],
+    [
+        ["**🍅 [Flows](https://github.com/huaminghuangtw/Deep-Work-Machine)**", `${results["Number of Flows"][0]}`, ...results["Number of Flows"].slice(1, 3),
+            results["Number of Flows"][3] >= CONFIG.thresholds["Number of Flows"] ? `👌 ${results["Number of Flows"][3]}` : `💪 ${results["Number of Flows"][3]}`],
+        ["**✍️ [Words](https://github.com/huaminghuangtw/Deep-Work-Machine)**", `${results["Number of Words"][0]}`, ...results["Number of Words"].slice(1, 3),
+            results["Number of Words"][3] >= CONFIG.thresholds["Number of Words"] ? `👌 ${results["Number of Words"][3]}` : `💪 ${results["Number of Words"][3]}`]
+    ]
+);
 ```
 
 ---
@@ -217,6 +211,8 @@ if (onDesktop) {
 >     ])
 > );
 > ```
+
+<!-- ================================================== -->
 
 > [!WARNING]- 👨🏽‍🌾 Digital Garden
 >
@@ -381,36 +377,48 @@ if (onDesktop) {
 > dv.list(findOrphanedImages());
 > ```
 
+<!-- ================================================== -->
+
+> [!SUMMARY]- 🌸 Retrospection
+>
+> ```dataviewjs
+> const { Utils } = await cJS();
+>
+> let today = dv.date("today");
+>
+> let arr = [
+>   {
+>     headerText: "🗓 Journals On This Day",
+>     pages: await Utils.getJournalsURLs(dv,
+>       p => p.date &&
+>       p.date.day === today.day &&
+>       p.date.month === today.month &&
+>       p.date.year !== today.year
+>     )
+>   },
+>   {
+>     headerText: "🗓 Last Week’s Journals",
+>     pages: await Utils.getJournalsURLs(dv,
+>       p => p.date &&
+>       p.date >= today.minus({ weeks: 1 }).startOf('week') &&
+>       p.date <= today.minus({ weeks: 1 }).endOf('week')
+>     )
+>   }
+> ];
+>
+> for (let element of arr) {
+>   dv.header(3, element.headerText);
+>
+>   dv.list(element.pages.map(({ page, url }) => `[${page.date.toISODate()} (${page.dayOfWeek})](${url})`));
+> }
+> ```
+
+---
+
 ```dataviewjs
-const { Utils } = await cJS();
-
-// https://github.com/huaminghuangtw/Daily-Bullet-Journal
-
-let today = dv.date("today");
-
-await dv.view("Scripts/view_callout_journal_retrospection", {
-    arr: [
-        {
-            headerText: "🗓 Journals On This Day",
-            pages: await Utils.getJournalsURLs(dv,
-                p => p.date &&
-                p.date.day === today.day &&
-                p.date.month === today.month &&
-                p.date.year !== today.year
-            )
-        },
-        {
-            headerText: "🗓 Last Week’s Journals",
-            pages: await Utils.getJournalsURLs(dv,
-                p => p.date &&
-                p.date >= today.minus({ weeks: 1 }).startOf('week') &&
-                p.date <= today.minus({ weeks: 1 }).endOf('week')
-            )
-        }
-    ]
-});
-
 // https://github.com/huaminghuangtw/Dear-Today-Me
+
+const { Utils } = await cJS();
 
 let fileContentLifePhilosophy;
 
@@ -421,7 +429,7 @@ try {
         "Dear-Today-Me.md"
     );
 } catch {
-    fileContentLifePhilosophy = await dv.io.load("Dear-Today-Me/Dear-Today-Me.md");
+    fileContentLifePhilosophy = await dv.io.load("Dear-Today-Me/ear-Today-Me.md");
 }
 
 let allParagraphs = fileContentLifePhilosophy.split("\n\n");
@@ -431,24 +439,26 @@ let selectedParagraphs = allParagraphs.slice(1, allParagraphs.length - 2);
 
 let randomParagraph = Utils.getRandomItem(selectedParagraphs);
 
-let lineNumber = fileContentLifePhilosophy.split("\n")
-                                            .findIndex(line => line.includes(randomParagraph))
-                                            + 1;
+let lineNumber = fileContentLifePhilosophy.split("\n").findIndex(line => line.includes(randomParagraph)) + 1;
 
-await dv.view("Scripts/view_callout_with_edit_button",
-    {
-        callout: `
+let editURI = await Utils.buildObsidianOpenFileURI("Dear-Today-Me/Dear-Today-Me.md", lineNumber);
+
+let callout = `
 > [!SUCCESS] 🧘‍♂️ Life Philosophy
 >> _${randomParagraph}_
-        `,
-        url: await Utils.buildObsidianOpenFileURI(
-            "Dear-Today-Me/Dear-Today-Me.md",
-            lineNumber
-        )
-    }
-);
+`;
 
+callout += `> <a href="${editURI}" class="edit-button">Edit</a>`;
+
+dv.paragraph(callout);
+```
+
+---
+
+```dataviewjs
 // https://github.com/huaminghuangtw/Evergreen-Lists
+
+const { Utils } = await cJS();
 
 let reminders;
 
@@ -482,14 +492,14 @@ let randomReminder = Utils.getRandomItem(reminderWithSubtasks);
 
 let randomSubtask = Utils.getRandomItem(randomReminder.subtasks);
 
-let calloutShortcuts = `
+let callout = `
 > [!TIP] ${randomReminder.list}
 > ${randomReminder.name}
 >> ${randomSubtask.name}
 `;
 
 if (randomSubtask.notes) {
-    calloutShortcuts += `>> ──────────────` +
+    callout += `>> ──────────────` +
                         `\n` +
                         `${randomSubtask.notes.split('\n')
                                             .map(line => `> <sub>${line}</sub>`)
@@ -497,18 +507,21 @@ if (randomSubtask.notes) {
                         `\n`;
 };
 
-let urlShortcuts = `shortcuts://run-shortcut?` +
+let editURI = `shortcuts://run-shortcut?` +
                     `name=${encodeURIComponent("Search Reminders")}&` +
                     `input=${encodeURIComponent(randomSubtask.name)}`;
 
-await dv.view("Scripts/view_callout_with_edit_button",
-    {
-        callout: calloutShortcuts,
-        url: urlShortcuts
-    }
-);
+callout += `> <a href="${editURI}" class="edit-button">Edit</a>`;
 
+dv.paragraph(callout);
+```
+
+---
+
+```dataviewjs
 // https://github.com/huaminghuangtw/Weekly-Mindware-Update
+
+const { Utils } = await cJS();
 
 let files;
 let filePath;
@@ -563,17 +576,17 @@ for (const section of sections) {
                                 .findIndex(line => line.includes(randomBulletPoint))
                                 + 1;
 
-    await dv.view("Scripts/view_callout_with_edit_button",
-        {
-            callout: `
+    let editURI = await Utils.buildObsidianOpenFileURI(
+        filePath,
+        lineNumber
+    );
+
+    dv.paragraph(`
 > [!${section.calloutType}] ${section.title}
 >> ${randomBulletPoint}
-            `,
-            url: await Utils.buildObsidianOpenFileURI(
-                filePath,
-                lineNumber
-            )
-        }
+    `
+    +
+    `> <a href="${editURI}" class="edit-button">Edit</a>`
     );
 }
 ```
