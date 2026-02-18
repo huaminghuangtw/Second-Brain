@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T17:18:12
-modified: 2026-02-18T10:07:18
+modified: 2026-02-18T15:50:19
 ---
 
 <!-- four-quarters-in-a-day -->
@@ -443,7 +443,7 @@ let editURI = await Utils.buildObsidianOpenFileURI(
 
 dv.header(2, "🧘‍♂️ Life Philosophy");
 dv.paragraph(`> ${randomParagraph}`);
-dv.paragraph(`<div align="right"><a href="${editURI}">Edit</a></div>`);
+Utils.renderEditLink(dv, editURI);
 
 // https://github.com/huaminghuangtw/Evergreen-Lists
 
@@ -491,7 +491,7 @@ if (randomSubtask.notes) {
     dv.paragraph(randomSubtask.notes);
 }
 
-dv.paragraph(`<div align="right"><a href="${editURI2}">Edit</a></div>`);
+Utils.renderEditLink(dv, editURI2);
 
 // https://github.com/huaminghuangtw/Weekly-Mindware-Update
 
@@ -549,6 +549,6 @@ for (const [index, title] of titles.entries()) {
 
     dv.header(2, `${title}`);
     dv.paragraph(`> ${randomBulletPoint}`);
-    dv.paragraph(`<div align="right"><a href="${editURI3}">Edit</a></div>`);
+    Utils.renderEditLink(dv, editURI3);
 }
 ```
