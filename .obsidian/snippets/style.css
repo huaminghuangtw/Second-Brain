@@ -30,17 +30,6 @@
   background-color: rgba(var(--mono-rgb-100), 0.3);
 }
 
-.edit-button {
-  text-decoration: none;
-  border: none;
-  background-color: transparent;
-  border-radius: 2px;
-  display: block;
-  position: relative;
-  float: right;
-  font-size: 14px;
-}
-
 .external-link {
   background-image: none;
   padding-right: 0px;

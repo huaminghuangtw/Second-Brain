@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3317cc8a96938437",
+        "id": "8f05205b0004046f",
         "type": "tabs",
         "children": [
           {
-            "id": "e9c39c08474c1299",
+            "id": "55f95c7305f6e7e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "077b6373ef42d84f",
+            "id": "96afc848b78e097d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_17.md",
+                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_02_17"
+              "title": "2026_02_18"
             }
           },
           {
-            "id": "074fa912976aa2c9",
+            "id": "efd4926a91107607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enoughness/posts/2026-week-08.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-week-08"
+            }
+          },
+          {
+            "id": "b8cc27b026e9bcc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " dv.view",
+                "query": "tag:#Newsletter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -244,7 +268,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2023/02-February/2023_02_18.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -268,11 +292,28 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "074fa912976aa2c9",
+  "active": "b8cc27b026e9bcc0",
   "lastOpenFiles": [
-    "Weekly-Mindware-Update/issues/2026/2026w4.md",
+    "Weekly-Mindware-Update/issues/2025/2025w44.md",
     "Homepage.md",
+    "Dear-Today-Me/Dear-Today-Me.md",
+    "Enoughness/posts/2026-week-08.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_18.md",
+    "Untitled.md",
     "Daily-Bullet-Journal/journals/2026/02-February/2026_02_17.md",
+    "Daily-Bullet-Journal/journals/2023/02-February/2023_02_18.md",
+    "Enoughness/posts/_attachments/af1d304595a37bbc3ac43a9027773a75.jpg",
+    "Evergreen-Notes/Permanent-Notes/microwave-mug-recipes.md",
+    "Daily-Bullet-Journal/journals/2022/02-February/2022_02_18.md",
+    "Daily-Bullet-Journal/journals/2017/02-February/2017_02_18.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_03.md",
+    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_18.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_18.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_10.md",
+    "Evergreen-Notes/Permanent-Notes/sushi.md",
+    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
+    "Evergreen-Notes/Permanent-Notes/wine.md",
+    "Weekly-Mindware-Update/issues/2026/2026w4.md",
     "Homepage.md.backup",
     "Daily-Bullet-Journal/journals/2024/11-November/2024_11_14.md",
     "Daily-Bullet-Journal/journals/2025/02-February/2025_02_17.md",
@@ -281,22 +322,6 @@
     "Daily-Bullet-Journal/journals/2018/02-February/2018_02_17.md",
     "Daily-Bullet-Journal/journals/2023/02-February/2023_02_02.md",
     "Daily-Bullet-Journal/journals/2024/02-February/2024_02_17.md",
-    "Evergreen-Notes/Permanent-Notes/wine.md",
-    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
-    "Evergreen-Notes/Permanent-Notes/cortisol.md",
-    "Enoughness/posts/2026-week-08.md",
-    "Evergreen-Notes/Permanent-Notes/wu-wei.md",
-    "Brainfoodie/posts/wen-long-hsu-zero-and-infinite.md",
-    "Evergreen-Notes/Permanent-Notes/embrace-the-beauty-of-enoughness.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_31.md",
-    "Evergreen-Notes/Permanent-Notes/have-the-courage-to-do-the-right-things.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_15.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_15.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_14.md",
-    "Brainfoodie/posts/taiwan-ai-era.md",
-    "Evergreen-Notes/Permanent-Notes/readers-are-leaders.md",
-    "Weekly-Mindware-Update/issues/2025/2025w11.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_16.md",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Made With Love.jpeg",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Standing Pilates.jpeg",
     "Enoughness/posts/_attachments/Pasted image 20260213105548.png",
@@ -312,7 +337,6 @@
     "Evergreen-Lists/ai-prompt/ai-prompt.pdf",
     "Brainfoodie/posts/_attachments/93bae1325ed7953f4e2ec6ef1318c910.png",
     "Brainfoodie/posts/_attachments/686c89d43115bb2063ac5188d8552357.png",
-    "Daily-Bullet-Journal/journals/2016/12-December/_attachments/5c8974a3a393fd9e8f0e2f4b02e6441e.png",
     "Daily-Bullet-Journal/journals/2026/02-February/_attachments",
     "Daily-Bullet-Journal/journals/2025/12-December/_attachments",
     "Daily-Bullet-Journal/journals/2025/11-November/_attachments"
