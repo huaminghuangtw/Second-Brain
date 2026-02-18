@@ -22,12 +22,9 @@ class Utils {
         );
     }
 
-    // Remove?
-    // toTitleCase(str) {
-    //     return str.replace(/\w\S*/g, function (text) {
-    //         return text.charAt(0).toUpperCase() + text.substr(1).toLowerCase();
-    //     });
-    // }
+    renderEditLink(dv, uri) {
+        dv.paragraph(`<div align="right"><a href="${uri}"><sub>Edit</sub></a></div>`);
+    }
 
     async buildObsidianOpenFileURI(filePath, lineNumber = null) {
         return (
