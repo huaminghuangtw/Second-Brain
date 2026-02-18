@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T17:18:12
-modified: 2026-02-17T08:07:07
+modified: 2026-02-18T10:07:18
 ---
 
 <!-- four-quarters-in-a-day -->
@@ -212,8 +212,6 @@ dv.table(
 > );
 > ```
 
-<!-- ================================================== -->
-
 > [!WARNING]- 👨🏽‍🌾 Digital Garden
 >
 > ```dataviewjs
@@ -377,8 +375,6 @@ dv.table(
 > dv.list(findOrphanedImages());
 > ```
 
-<!-- ================================================== -->
-
 > [!SUMMARY]- 🌸 Retrospection
 >
 > ```dataviewjs
@@ -413,12 +409,10 @@ dv.table(
 > }
 > ```
 
----
-
 ```dataviewjs
-// https://github.com/huaminghuangtw/Dear-Today-Me
-
 const { Utils } = await cJS();
+
+// https://github.com/huaminghuangtw/Dear-Today-Me
 
 let fileContentLifePhilosophy;
 
@@ -439,26 +433,19 @@ let selectedParagraphs = allParagraphs.slice(1, allParagraphs.length - 2);
 
 let randomParagraph = Utils.getRandomItem(selectedParagraphs);
 
-let lineNumber = fileContentLifePhilosophy.split("\n").findIndex(line => line.includes(randomParagraph)) + 1;
+let lineNumber = fileContentLifePhilosophy.split("\n")
+                    .findIndex(line => line.includes(randomParagraph)) + 1;
 
-let editURI = await Utils.buildObsidianOpenFileURI("Dear-Today-Me/Dear-Today-Me.md", lineNumber);
+let editURI = await Utils.buildObsidianOpenFileURI(
+    "Dear-Today-Me/Dear-Today-Me.md",
+    lineNumber
+);
 
-let callout = `
-> [!SUCCESS] 🧘‍♂️ Life Philosophy
->> _${randomParagraph}_
-`;
+dv.header(2, "🧘‍♂️ Life Philosophy");
+dv.paragraph(`> ${randomParagraph}`);
+dv.paragraph(`<div align="right"><a href="${editURI}">Edit</a></div>`);
 
-callout += `> <a href="${editURI}" class="edit-button">Edit</a>`;
-
-dv.paragraph(callout);
-```
-
----
-
-```dataviewjs
 // https://github.com/huaminghuangtw/Evergreen-Lists
-
-const { Utils } = await cJS();
 
 let reminders;
 
@@ -478,7 +465,7 @@ try {
         await dv.io.load(
             Utils.getRandomItem(
                 Utils.getAllFilesByExtension("Evergreen-Lists", "json")
-                        .map(file => file.path)
+                    .map(file => file.path)
             )
         )
     ).reminders;
@@ -492,36 +479,21 @@ let randomReminder = Utils.getRandomItem(reminderWithSubtasks);
 
 let randomSubtask = Utils.getRandomItem(randomReminder.subtasks);
 
-let callout = `
-> [!TIP] ${randomReminder.list}
-> ${randomReminder.name}
->> ${randomSubtask.name}
-`;
+let editURI2 = `shortcuts://run-shortcut?` +
+                `name=${encodeURIComponent("Search Reminders")}&` +
+                `input=${encodeURIComponent(randomSubtask.name)}`;
+
+dv.header(2, randomReminder.list);
+dv.paragraph(`**${randomReminder.name}**`);
+dv.paragraph(`> ${randomSubtask.name}`);
 
 if (randomSubtask.notes) {
-    callout += `>> ──────────────` +
-                        `\n` +
-                        `${randomSubtask.notes.split('\n')
-                                            .map(line => `> <sub>${line}</sub>`)
-                                            .join('\n')}` +
-                        `\n`;
-};
+    dv.paragraph(randomSubtask.notes);
+}
 
-let editURI = `shortcuts://run-shortcut?` +
-                    `name=${encodeURIComponent("Search Reminders")}&` +
-                    `input=${encodeURIComponent(randomSubtask.name)}`;
+dv.paragraph(`<div align="right"><a href="${editURI2}">Edit</a></div>`);
 
-callout += `> <a href="${editURI}" class="edit-button">Edit</a>`;
-
-dv.paragraph(callout);
-```
-
----
-
-```dataviewjs
 // https://github.com/huaminghuangtw/Weekly-Mindware-Update
-
-const { Utils } = await cJS();
 
 let files;
 let filePath;
@@ -552,41 +524,31 @@ try {
     fileContent = await dv.io.load(filePath);
 }
 
-let sections = [
-    {
-        calloutType: "QUOTE",
-        title: "🧠 Wisdom I Pondered This Week"
-    },
-    {
-        calloutType: "INFO",
-        title: "🧠 Things I Learned This Week"
-    }
+let titles = [
+    "🧠 Wisdom I Pondered This Week",
+    "🧠 Things I Learned This Week"
 ];
 
-for (const section of sections) {
+for (const [index, title] of titles.entries()) {
     let sectionContent = fileContent.split("\n")
-                                    .filter(line => line.startsWith("*"))
-                                    .map(line => line.slice(1).trim());
+                            .filter(line => line.startsWith("*"))
+                            .map(line => line.slice(1).trim());
 
-    sectionContent = (section.calloutType === "QUOTE") ? sectionContent.slice(0, 5) : sectionContent.slice(5, 10);
+    sectionContent = (index === 0) ? sectionContent.slice(0, 5) : sectionContent.slice(5, 10);
 
     let randomBulletPoint = Utils.getRandomItem(sectionContent);
 
     let lineNumber = fileContent.split("\n")
-                                .findIndex(line => line.includes(randomBulletPoint))
-                                + 1;
+                        .findIndex(line => line.includes(randomBulletPoint))
+                        + 1;
 
-    let editURI = await Utils.buildObsidianOpenFileURI(
+    let editURI3 = await Utils.buildObsidianOpenFileURI(
         filePath,
         lineNumber
     );
 
-    dv.paragraph(`
-> [!${section.calloutType}] ${section.title}
->> ${randomBulletPoint}
-    `
-    +
-    `> <a href="${editURI}" class="edit-button">Edit</a>`
-    );
+    dv.header(2, `${title}`);
+    dv.paragraph(`> ${randomBulletPoint}`);
+    dv.paragraph(`<div align="right"><a href="${editURI3}">Edit</a></div>`);
 }
 ```
