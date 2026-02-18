@@ -32,7 +32,7 @@
   "promptDelete": false,
   "mobilePullAction": "editor:toggle-source",
   "newFileFolderPath": "",
-  "readableLineLength": false,
+  "readableLineLength": true,
   "mobileQuickRibbonItem": "command-palette:Open command palette",
   "propertiesInDocument": "hidden",
   "tabSize": 2,
