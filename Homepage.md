@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T17:18:12
-modified: 2026-02-18T15:50:19
+modified: 2026-02-20T06:43:09
 ---
 
 <!-- four-quarters-in-a-day -->
@@ -123,7 +123,7 @@ dv.table(
 
 ---
 
-> [!ERROR]- 🫶 Health
+> [! ]- 🫶 Health
 >
 > ```dataviewjs
 > const CONFIG = {
@@ -212,7 +212,7 @@ dv.table(
 > );
 > ```
 
-> [!WARNING]- 👨🏽‍🌾 Digital Garden
+> [! ]- 👨🏽‍🌾 Digital Garden
 >
 > ```dataviewjs
 > let today = dv.date("today");
@@ -375,7 +375,7 @@ dv.table(
 > dv.list(findOrphanedImages());
 > ```
 
-> [!SUMMARY]- 🌸 Retrospection
+> [! ]- 🌸 Retrospection
 >
 > ```dataviewjs
 > const { Utils } = await cJS();
