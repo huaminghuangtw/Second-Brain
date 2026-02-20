@@ -9,14 +9,7 @@
   "ZoteroNoteRegExp": "“(?<text>.*)” \\((?<item>.*?)\\) \\(\\[pdf\\]\\((?<pdf_url>.*?)\\)\\)",
   "ZoteroNoteTemplate": "{text} [🔖]({pdf_url})",
   "BulletPoints": "•–§",
-  "WrapperList": [
-    {
-      "name": "underline",
-      "prefix": "<u>",
-      "suffix": "</u>",
-      "id": "underline"
-    }
-  ],
+  "WrapperList": [],
   "RequestList": [],
   "customReplaceList": [
     {

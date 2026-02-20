@@ -860,14 +860,6 @@
       "key": "K"
     }
   ],
-  "obsidian-text-format:wrapper:underline": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "U"
-    }
-  ],
   "editor:insert-link": [
     {
       "modifiers": [

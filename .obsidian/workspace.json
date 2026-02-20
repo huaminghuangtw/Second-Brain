@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "804956ff904f261e",
+        "id": "3f0b8ff267db1a97",
         "type": "tabs",
         "children": [
           {
-            "id": "41405a9b2967ee45",
+            "id": "65d19f77e1d84bdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "073757a020be14ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_19.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026_02_19"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "鼠尾草",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_19.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026_02_19"
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -198,10 +173,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_19.md"
+                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_18.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_02_19"
+              "title": "File properties for 2026_02_18"
             }
           },
           {
@@ -220,14 +195,13 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2023/02-February/2023_02_19.md"
+                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_18.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -244,34 +218,37 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "073757a020be14ed",
+  "active": "65d19f77e1d84bdb",
   "lastOpenFiles": [
     "Daily-Bullet-Journal/journals/2026/02-February/2026_02_20.md",
+    "Evergreen-Notes/Permanent-Notes/mistake.md",
     "Homepage.md",
+    "Life-Notes/laser-eye-surgery.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_22.md",
+    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
+    "Evergreen-Notes/Permanent-Notes/Skin Care.md",
+    "Daily-Bullet-Journal/journals/2023/11-November/2023_11_18.md",
     "Daily-Bullet-Journal/journals/2026/02-February/2026_02_19.md",
-    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_10.md",
-    "Daily-Bullet-Journal/journals/2023/01-January/2023_01_30.md",
     "Daily-Bullet-Journal/journals/2026/02-February/2026_02_18.md",
+    "Enoughness/posts/2025-week-47.md",
     "Daily-Bullet-Journal/journals/2026/02-February/2026_02_17.md",
-    "Evergreen-Notes/Permanent-Notes/limbic-friction.md",
-    "Daily-Bullet-Journal/journals/2023/02-February/2023_02_19.md",
-    "Daily-Bullet-Journal/journals/2022/02-February/2022_02_19.md",
-    "Daily-Bullet-Journal/journals/2015/02-February/2015_02_19.md",
-    "Daily-Bullet-Journal/journals/2022/09-September/2022_09_10.md",
-    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_19.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_19.md",
-    "Brainfoodie/posts/taiwan-ai-era.md",
-    "Evergreen-Notes/Permanent-Notes/the-5-second-rule.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_17.md",
-    "Evergreen-Notes/Permanent-Notes/do-not-use-your-willpower-unless-you-absolutely-have-to.md",
-    "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_19.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_16.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_02.md",
-    "Brainfoodie/posts/wen-long-hsu-zero-and-infinite.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_15.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_21.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_14.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_05.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_22.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_11.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_08.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Life-Notes/Business/🏰 My Biz Empire.md",
+    "Daily-Bullet-Journal/journals/2023/05-May/2023_05_10.md",
+    "Daily-Bullet-Journal/journals/2023/02-February/2023_02_21.md",
+    "Life-Notes/Writing/🛠️ Tools for writing.md",
+    "Evergreen-Notes/Permanent-Notes/seek-for-the-truth.md",
+    "Life-Notes/Coding/React.md",
+    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
+    "Today-I-Learned/posts/how-to-remove-markdown-frontmatter-programmatically.md",
+    "Today-I-Learned/posts/git-pre-commit-hooks-run-once-per-commit-not-per-file.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/_attachments/2026_02_19_20_05_56.jpg",
+    "Daily-Bullet-Journal/journals/2026/02-February/_attachments/2026_02_19_20_50_36.jpeg",
+    "Evergreen-Notes/Permanent-Notes/_attachments/2026_02_19_20_52_59.jpg",
     "Enoughness/posts/_attachments/af1d304595a37bbc3ac43a9027773a75.jpg",
     "Homepage.md.backup",
     "Visuals/Fitness/Darebee/WorkoutOfTheDay/Made With Love.jpeg",
@@ -285,10 +262,7 @@
     "AdaptX/posts/how-to-tie-shoelaces 1.mdx",
     "Daily-Bullet-Journal/journals/2018/02-February",
     "Daily-Bullet-Journal/journals/2021/02-February",
-    "Today-I-Learned/posts/_attachments/7e17c6817f2c1952777d0708736f4bb3.png",
     "Evergreen-Lists/ai-prompt/ai-prompt.pdf",
-    "Brainfoodie/posts/_attachments/93bae1325ed7953f4e2ec6ef1318c910.png",
-    "Brainfoodie/posts/_attachments/686c89d43115bb2063ac5188d8552357.png",
     "Daily-Bullet-Journal/journals/2026/02-February/_attachments",
     "Daily-Bullet-Journal/journals/2025/12-December/_attachments",
     "Daily-Bullet-Journal/journals/2025/11-November/_attachments"

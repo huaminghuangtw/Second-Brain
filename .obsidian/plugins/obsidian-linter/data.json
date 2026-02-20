@@ -270,10 +270,10 @@
       "enabled": true
     }
   },
-  "lintOnSave": false,
+  "lintOnSave": true,
   "recordLintOnSaveLogs": true,
-  "displayChanged": true,
-  "lintOnFileChange": false,
+  "displayChanged": false,
+  "lintOnFileChange": true,
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
@@ -286,7 +286,7 @@
   "customRegexes": [
     {
       "label": "",
-      "find": "'(?=(s|t|d|re|ll|ve)\\b)",
+      "find": "(?<!\\s)'(?=(s|t|d|re|ll|ve)\\b)",
       "replace": "’",
       "flags": "gm",
       "enabled": true
