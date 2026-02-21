@@ -103,7 +103,7 @@
       "punctuation-to-remove": ".,;:!。，；：！"
     },
     "footnote-after-punctuation": {
-      "enabled": true
+      "enabled": false
     },
     "move-footnotes-to-the-bottom": {
       "enabled": true
@@ -126,7 +126,7 @@
     },
     "default-language-for-code-fences": {
       "enabled": true,
-      "default-language": "bash"
+      "default-language": "text"
     },
     "emphasis-style": {
       "enabled": true,

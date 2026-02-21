@@ -4,18 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "3f0b8ff267db1a97",
+        "id": "f9c37d0a87142b66",
         "type": "tabs",
         "children": [
           {
-            "id": "65d19f77e1d84bdb",
+            "id": "22e77aadfd896eb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_21.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026_02_21"
+            }
+          },
+          {
+            "id": "1f99f2b9e7e8e27e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_21.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026_02_21"
+            }
+          },
+          {
+            "id": "b5ffc4b072300c7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Homepage.md",
                 "mode": "preview",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -31,7 +79,8 @@
               "title": "Homepage"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "雙糕潤",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,10 +222,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_18.md"
+                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_21.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_02_18"
+              "title": "File properties for 2026_02_21"
             }
           },
           {
@@ -195,13 +244,14 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_18.md"
+                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_21.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -218,34 +268,34 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "65d19f77e1d84bdb",
+  "active": "b5ffc4b072300c7d",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_20.md",
-    "Evergreen-Notes/Permanent-Notes/mistake.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_21.md",
     "Homepage.md",
-    "Life-Notes/laser-eye-surgery.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_22.md",
-    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
-    "Evergreen-Notes/Permanent-Notes/Skin Care.md",
-    "Daily-Bullet-Journal/journals/2023/11-November/2023_11_18.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_19.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_20.md",
+    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Boss Fight.jpeg",
     "Daily-Bullet-Journal/journals/2026/02-February/2026_02_18.md",
-    "Enoughness/posts/2025-week-47.md",
     "Daily-Bullet-Journal/journals/2026/02-February/2026_02_17.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_05.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_22.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_11.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_08.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Life-Notes/Business/🏰 My Biz Empire.md",
-    "Daily-Bullet-Journal/journals/2023/05-May/2023_05_10.md",
+    "Evergreen-Notes/Permanent-Notes/confirmation-bias.md",
+    "Evergreen-Notes/Fleeting-Notes.md",
+    "Today-I-Learned/posts/git-commit-messages-from-a-file.md",
+    "Today-I-Learned/posts/handling-case-sensitive-file-renames-in-git.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_26.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_07.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_26.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_03.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_31.md",
+    "Enoughness/posts/2025-week-43.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_10.md",
+    "Evergreen-Lists/cheat-sheet/cheat-sheet.md",
+    "Today-I-Learned/posts/temporarily-ignore-local-changes-to-a-tracked-file-in-git.md",
+    "Today-I-Learned/posts/vs-code-cli-and-url-schemes.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_09.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_14.md",
+    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_21.md",
     "Daily-Bullet-Journal/journals/2023/02-February/2023_02_21.md",
-    "Life-Notes/Writing/🛠️ Tools for writing.md",
-    "Evergreen-Notes/Permanent-Notes/seek-for-the-truth.md",
-    "Life-Notes/Coding/React.md",
-    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
-    "Today-I-Learned/posts/how-to-remove-markdown-frontmatter-programmatically.md",
-    "Today-I-Learned/posts/git-pre-commit-hooks-run-once-per-commit-not-per-file.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_21.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_10.md",
     "Daily-Bullet-Journal/journals/2026/02-February/_attachments/2026_02_19_20_05_56.jpg",
     "Daily-Bullet-Journal/journals/2026/02-February/_attachments/2026_02_19_20_50_36.jpeg",
     "Evergreen-Notes/Permanent-Notes/_attachments/2026_02_19_20_52_59.jpg",
@@ -258,7 +308,6 @@
     "Daily-Bullet-Journal/journals/2026/02-February/_attachments/Pasted image 20260212223246.png",
     "Life-Notes/Language Learning",
     "Daily-Bullet-Journal/journals/2026/02-February/_attachments/00566c5d86e93dc39be2c0aaf25a2d4c.png",
-    "Daily-Bullet-Journal/journals/2026/02-February/_attachments/e2912fcacdb8c93a903b518503dfc913.png",
     "AdaptX/posts/how-to-tie-shoelaces 1.mdx",
     "Daily-Bullet-Journal/journals/2018/02-February",
     "Daily-Bullet-Journal/journals/2021/02-February",
