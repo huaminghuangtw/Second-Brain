@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T17:18:12
-modified: 2026-02-20T06:43:09
+modified: 2026-02-24T20:20:08
 ---
 
 <!-- four-quarters-in-a-day -->
@@ -91,9 +91,14 @@ const getAverage = (data, valueLabel, filterFn) => {
     return values.length ? Math.round(values.reduce((s, v) => s + v, 0) / values.length) : 0;
 };
 
+const FILE_PATHS = {
+    "Number of Flows": `Deep-Work-Machine/Number of Flows/data.json`,
+    "Number of Words": `${app.vault.configDir}/vault-stats.json`
+};
+
 const metrics = {
-    "Number of Flows": JSON.parse(await app.vault.adapter.read(`Deep-Work-Machine/Number of Flows/data.json`)),
-    "Number of Words": JSON.parse(await app.vault.adapter.read(`${app.vault.configDir}/vault-stats.json`)).history
+    "Number of Flows": JSON.parse(await app.vault.adapter.read(FILE_PATHS["Number of Flows"])),
+    "Number of Words": JSON.parse(await app.vault.adapter.read(FILE_PATHS["Number of Words"])).history
 };
 
 const periods = [
@@ -113,9 +118,9 @@ const results = Object.fromEntries(
 dv.table(
     ["", "**Last Week Average**", "**This Week Average**", "**Yesterday**", "**Today**"],
     [
-        ["**🍅 [Flows](https://github.com/huaminghuangtw/Deep-Work-Machine)**", `${results["Number of Flows"][0]}`, ...results["Number of Flows"].slice(1, 3),
+        [`**🍅 [Flows](${encodeURI(`vscode://file/${app.vault.adapter.basePath}/${FILE_PATHS["Number of Flows"]}`)})**`, `${results["Number of Flows"][0]}`, ...results["Number of Flows"].slice(1, 3),
             results["Number of Flows"][3] >= CONFIG.thresholds["Number of Flows"] ? `👌 ${results["Number of Flows"][3]}` : `💪 ${results["Number of Flows"][3]}`],
-        ["**✍️ [Words](https://github.com/huaminghuangtw/Deep-Work-Machine)**", `${results["Number of Words"][0]}`, ...results["Number of Words"].slice(1, 3),
+        [`**✍️ [Words](${encodeURI(`vscode://file/${app.vault.adapter.basePath}/${FILE_PATHS["Number of Words"]}`)})**`, `${results["Number of Words"][0]}`, ...results["Number of Words"].slice(1, 3),
             results["Number of Words"][3] >= CONFIG.thresholds["Number of Words"] ? `👌 ${results["Number of Words"][3]}` : `💪 ${results["Number of Words"][3]}`]
     ]
 );
