@@ -4,64 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ef3120b11895ed34",
+        "id": "1508382add6e4a30",
         "type": "tabs",
         "children": [
           {
-            "id": "2769cdf2ac7b6673",
+            "id": "67ca157e54d5459f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "57a63753589e3e93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_25.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026_02_25"
-            }
-          },
-          {
-            "id": "d22018dc6489904d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enoughness/posts/2026-week-08.md",
+                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_26.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -76,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-week-08"
+              "title": "2026_02_26"
             }
           },
           {
-            "id": "dd331ba6d1cc201b",
+            "id": "fb117ddf329dba8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brainfoodie/posts/wen-long-hsu-zero-and-infinity.md",
+                "file": "Evergreen-Notes/Permanent-Notes/always-start-small.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -100,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "wen-long-hsu-zero-and-infinity"
-            }
-          },
-          {
-            "id": "db95e149449f8f56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "always-start-small"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "課外書",
+                "query": "鐵腿",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Evergreen-Notes/Permanent-Notes/always-start-small.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for always-start-small"
             }
           },
           {
@@ -280,10 +208,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Brainfoodie/posts/wen-long-hsu-zero-and-infinite.md"
+                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_26.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for wen-long-hsu-zero-and-infinite"
+              "title": "File properties for 2026_02_26"
             }
           },
           {
@@ -292,7 +220,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2023/02-February/2023_02_25.md"
+                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_26.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -316,40 +244,41 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "db95e149449f8f56",
+  "active": "fb117ddf329dba8b",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_26.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_17.md",
+    "Life-Notes/Business/🇹🇼 Taiwanese Creators & Founders.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_30.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_29.md",
+    "Evergreen-Notes/Permanent-Notes/the-law-of-attraction.md",
     "Brainfoodie/posts/wen-long-hsu-zero-and-infinity.md",
-    "Enoughness/posts/2026-week-08.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/_attachments/2026_02_25_18_23_03.jpg",
-    "Enoughness/posts/_attachments/Pasted image 20260225181658.png",
-    "Enoughness/posts/2026-week-09.md",
-    "Untitled.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_25.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_04.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_16.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_25.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_05.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_24.md",
+    "Evergreen-Notes/Permanent-Notes/happiness.md",
+    "Evergreen-Notes/Permanent-Notes/first-principle-thinking.md",
+    "Daily-Bullet-Journal/journals/2023/02-February/2023_02_26.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_16.md",
+    "Evergreen-Notes/Permanent-Notes/stay-curious.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_22.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_13.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_08.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_09.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_08.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_07.md",
+    "Enoughness/posts/2026-week-08.md",
+    "Enoughness/posts/_attachments/2026_02_25_18_23_03.jpg",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_26.md",
+    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_26.md",
+    "Enoughness/posts/_attachments/Pasted image 20260225181658.png",
     "Enoughness/posts/_attachments/Pasted image 20260225163542.png",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_09.md",
-    "Life-Notes/Missions/教育改革.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_18.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_23.md",
-    "Evergreen-Notes/Permanent-Notes/communication.md",
-    "Evergreen-Notes/Permanent-Notes/persuation-and-negotiation.md",
-    "Evergreen-Notes/Permanent-Notes/be-a-habit-and-routine-machine.md",
     "Daily-Bullet-Journal/journals/2026/02-February/_attachments/Pasted image 20260225131807.png",
     "Daily-Bullet-Journal/journals/2026/02-February/_attachments/Pasted image 20260225131754.png",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
     "Life-Notes/Alignment/_attachments/Pasted image 20260225131744.png",
     "Life-Notes/Alignment/_attachments",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_21.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_22.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_24.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_23.md",
-    "Evergreen-Notes/Permanent-Notes/a-friend-to-all-is-a-friend-to-none.md",
-    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_25.md",
-    "Daily-Bullet-Journal/journals/2023/02-February/2023_02_25.md",
-    "Daily-Bullet-Journal/journals/2022/02-February/2022_02_25.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_25.md",
-    "Evergreen-Notes/Permanent-Notes/Optimizing your workspace.md",
     "Visuals/Fitness/Darebee/ExerciseOfTheDay/Dragon Push-Ups.gif",
     "Daily-Bullet-Journal/journals/2026/02-February/_attachments/Pasted image 20260222201450.png",
     "Daily-Bullet-Journal/journals/2026/02-February/_attachments/2026_02_22_17_40_20.jpg",
