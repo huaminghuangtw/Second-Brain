@@ -603,22 +603,14 @@
   "obsidian-completr:completr-jump-to-next-snippet-placeholder": [],
   "obsidian-completr:completr-fake-enter": [],
   "obsidian-completr:completr-fake-tab": [],
-  "obsidian-completr:completr-bypass-enter-key": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "Enter"
-    }
-  ],
+  "obsidian-completr:completr-bypass-enter-key": [],
   "obsidian-completr:completr-open-suggestion-popup": [
     {
       "modifiers": [
-        "Mod",
+        "Alt",
         "Shift"
       ],
-      "key": " "
+      "key": "C"
     }
   ],
   "editor:fold-all": [
@@ -826,14 +818,6 @@
       "key": "S"
     }
   ],
-  "obsidian-completr:completr-insert-selected-suggestion": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Enter"
-    }
-  ],
   "editor:follow-link": [],
   "permalink-opener:open-dev-url": [
     {
@@ -973,5 +957,6 @@
       ],
       "key": "Y"
     }
-  ]
+  ],
+  "obsidian-completr:completr-blacklist-current-word": []
 }

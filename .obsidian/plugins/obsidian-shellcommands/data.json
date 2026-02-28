@@ -26,7 +26,7 @@
     {
       "id": "v2y8tgc89w",
       "platform_specific_commands": {
-        "default": "code --goto {{file_path:absolute}}:${caret_position:-}"
+        "default": "code --goto {{file_path:absolute}}:{{caret_position}}"
       },
       "shells": {},
       "alias": "Open in VS Code",

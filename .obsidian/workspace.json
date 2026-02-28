@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6f3622cdb968ff8c",
+        "id": "1aba6de9f9a1bb7e",
         "type": "tabs",
         "children": [
           {
-            "id": "5b92d14e745cdb80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "77f1e2f7edf52e31",
+            "id": "3b6608d8e8ff7ac0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_27.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -56,7 +32,7 @@
             }
           },
           {
-            "id": "d1f6267a7570b8f9",
+            "id": "f2aab0d1ebcd0469",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,12 +56,12 @@
             }
           },
           {
-            "id": "a9f534b5a4cf3532",
+            "id": "dd3434e1d97e81be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_16.md",
+                "file": "Brainfoodie/posts/for-want-of-a-nail.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -100,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_02_16"
+              "title": "for-want-of-a-nail"
             }
           },
           {
-            "id": "df372274110fd766",
+            "id": "f27c3512917c0186",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_06.md",
+                "file": "Enoughness/posts/2026-week-09.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -124,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_09_06"
+              "title": "2026-week-09"
             }
           },
           {
-            "id": "31b93cd614b3dd7c",
+            "id": "7c9f75aa6eba6f46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_27.md",
+                "file": "Evergreen-Notes/Permanent-Notes/always-start-small.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -148,16 +124,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_02_27"
+              "title": "always-start-small"
             }
           },
           {
-            "id": "8c31f9f8c9f90976",
+            "id": "d9b881fc04142a4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brainfoodie/posts/wen-long-hsu-zero-and-infinity.md",
+                "file": "Evergreen-Notes/Permanent-Notes/just-getting-started.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -172,16 +148,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "wen-long-hsu-zero-and-infinity"
+              "title": "just-getting-started"
             }
           },
           {
-            "id": "35031059c53ad28a",
+            "id": "79bbe7284b69cfd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/everything-in-life-has-an-opportunity-cost.md",
+                "file": "Daily-Bullet-Journal/journals/2026/02-February/2026_02_28.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -196,35 +172,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "everything-in-life-has-an-opportunity-cost"
-            }
-          },
-          {
-            "id": "8d863089594b973f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2026_02_28"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -256,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "統一麵包",
+                "query": "冰浴",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -304,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brainfoodie/posts/wen-long-hsu-zero-and-infinity.md",
+                "file": "Enoughness/posts/2026-week-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +266,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for wen-long-hsu-zero-and-infinity"
+              "title": "Backlinks for 2026-week-09"
             }
           },
           {
@@ -412,45 +364,45 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "8c31f9f8c9f90976",
+  "active": "f27c3512917c0186",
   "lastOpenFiles": [
+    "Enoughness/posts/2026-week-02.md",
+    "Enoughness/posts/2026-week-09.md",
+    "Brainfoodie/posts/for-want-of-a-nail.md",
+    "Enoughness/posts/2025-week-45.md",
+    "Evergreen-Notes/Permanent-Notes/always-start-small.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_16.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_28.md",
+    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
+    "Evergreen-Notes/Permanent-Notes/just-getting-started.md",
     "Homepage.md",
     "Brainfoodie/posts/wen-long-hsu-zero-and-infinity.md",
-    "Evergreen-Notes/Permanent-Notes/everything-in-life-has-an-opportunity-cost.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_27.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_15.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Evergreen-Notes/Permanent-Notes/focus-is-about-saying-no.md",
-    "Evergreen-Notes/Permanent-Notes/persuation-and-negotiation.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_06.md",
+    "Evergreen-Notes/Permanent-Notes/the-compounding-effect.md",
+    "Evergreen-Notes/Permanent-Notes/lateral-thinking.md",
     "Enoughness/posts/2026-week-08.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_16.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_15.md",
-    "Enoughness/posts/2026-week-02.md",
-    "Enoughness/posts/2026-week-07.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_15.md",
-    "Enoughness/posts/2026-week-09.md",
-    "Untitled.md",
-    "Evergreen-Notes/Permanent-Notes/love.md",
-    "Evergreen-Notes/Permanent-Notes/frameworks-to-structure-your-day.md",
-    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_27.md",
-    "Daily-Bullet-Journal/journals/2023/02-February/2023_02_27.md",
-    "Daily-Bullet-Journal/journals/2017/02-February/2017_02_27.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_27.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_27.md",
     "Daily-Bullet-Journal/journals/2026/02-February/2026_02_26.md",
-    "Evergreen-Notes/Permanent-Notes/optic-flow.md",
-    "Evergreen-Notes/Fleeting-Notes.md",
-    "Enoughness/posts/_attachments/2026_02_25_18_23_03.jpg",
-    "Enoughness/posts/_attachments/Pasted image 20260225181658.png",
-    "Enoughness/posts/_attachments/Pasted image 20260225163542.png",
-    "Daily-Bullet-Journal/journals/2026/02-February/_attachments/Pasted image 20260225131807.png",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_08.md",
+    "Enoughness/posts/2025-week-47.md",
+    "Enoughness/posts/2025-week-46.md",
+    "Enoughness/posts/2025-week-44.md",
+    "Enoughness/posts/2025-week-52.md",
+    "Enoughness/posts/2025-week-43.md",
+    "Enoughness/posts/2025-week-50.md",
+    "Enoughness/posts/2026-week-03.md",
+    "Enoughness/posts/2025-week-42.md",
+    "Enoughness/posts/_attachments/d2b422b9c4b556db4089c861e8570c26.jpeg",
+    "Evergreen-Notes/Permanent-Notes/procrastination.md",
+    "Enoughness/posts/_attachments/480db6116b6c454d5e8213cc159c1ccb.png",
+    "Enoughness/posts/_attachments/931e714c5d1684e006f77cbde78ddd8d.png",
+    "Enoughness/posts/_attachments/4bd4eaf0e1a9947b2b3b975062333980.jpg",
+    "Enoughness/posts/_attachments/13b128e76c400df85aaa0d7052dc1fb9.png",
+    "Enoughness/posts/_attachments/c9287ae072912cb4f73c07e40aea9580.png",
+    "Daily-Bullet-Journal/journals/2026/02-February/_attachments/a6e2a4ce685ddc02eda21d18b49dea25.png",
     "Daily-Bullet-Journal/journals/2026/02-February/_attachments/Pasted image 20260225131754.png",
-    "Life-Notes/Alignment/_attachments/Pasted image 20260225131744.png",
+    "Life-Notes/Alignment/_attachments/9d5e43235d28859e5f836dd8fd84c65c.png",
     "Life-Notes/Alignment/_attachments",
     "Visuals/Fitness/Darebee/ExerciseOfTheDay/Dragon Push-Ups.gif",
-    "Daily-Bullet-Journal/journals/2026/02-February/_attachments/Pasted image 20260222201450.png",
-    "Daily-Bullet-Journal/journals/2026/02-February/_attachments/2026_02_22_17_40_20.jpg",
-    "Visuals/Fitness/Darebee/WorkoutOfTheDay/Boss Fight.jpeg",
     "Homepage.md.backup",
     "Daily-Bullet-Journal/journals/2015/02-February",
     "Life-Notes/Language Learning",
