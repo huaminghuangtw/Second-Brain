@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T17:18:12
-modified: 2026-02-24T20:20:08
+modified: 2026-03-01T18:34:22
 ---
 
 <!-- four-quarters-in-a-day -->
@@ -91,14 +91,15 @@ const getAverage = (data, valueLabel, filterFn) => {
     return values.length ? Math.round(values.reduce((s, v) => s + v, 0) / values.length) : 0;
 };
 
-const FILE_PATHS = {
-    "Number of Flows": `Deep-Work-Machine/Number of Flows/data.json`,
-    "Number of Words": `${app.vault.configDir}/vault-stats.json`
-};
-
-const metrics = {
-    "Number of Flows": JSON.parse(await app.vault.adapter.read(FILE_PATHS["Number of Flows"])),
-    "Number of Words": JSON.parse(await app.vault.adapter.read(FILE_PATHS["Number of Words"])).history
+const METRICS = {
+    "Number of Flows": {
+        path: `Deep-Work-Machine/Number of Flows/data.json`,
+        data: JSON.parse(await app.vault.adapter.read(`Deep-Work-Machine/Number of Flows/data.json`))
+    },
+    "Number of Words": {
+        path: `${app.vault.configDir}/vault-stats.json`,
+        data: JSON.parse(await app.vault.adapter.read(`${app.vault.configDir}/vault-stats.json`)).history
+    }
 };
 
 const periods = [
@@ -109,20 +110,29 @@ const periods = [
 ];
 
 const results = Object.fromEntries(
-    Object.entries(metrics).map(([metric, data]) => [
+    Object.entries(METRICS).map(([metric, { data }]) => [
         metric,
         periods.map(([, filter]) => getAverage(data, metric, filter))
     ])
 );
 
+const ROW_CONFIG = [
+    { metric: "Number of Flows", emoji: "🍅", label: "Flows" },
+    { metric: "Number of Words", emoji: "✍️", label: "Words" }
+];
+
 dv.table(
     ["", "**Last Week Average**", "**This Week Average**", "**Yesterday**", "**Today**"],
-    [
-        [`**🍅 [Flows](${encodeURI(`vscode://file/${app.vault.adapter.basePath}/${FILE_PATHS["Number of Flows"]}`)})**`, `${results["Number of Flows"][0]}`, ...results["Number of Flows"].slice(1, 3),
-            results["Number of Flows"][3] >= CONFIG.thresholds["Number of Flows"] ? `👌 ${results["Number of Flows"][3]}` : `💪 ${results["Number of Flows"][3]}`],
-        [`**✍️ [Words](${encodeURI(`vscode://file/${app.vault.adapter.basePath}/${FILE_PATHS["Number of Words"]}`)})**`, `${results["Number of Words"][0]}`, ...results["Number of Words"].slice(1, 3),
-            results["Number of Words"][3] >= CONFIG.thresholds["Number of Words"] ? `👌 ${results["Number of Words"][3]}` : `💪 ${results["Number of Words"][3]}`]
-    ]
+    ROW_CONFIG.map(({ metric, emoji, label }) => {
+        const res = results[metric];
+        const link = encodeURI(`vscode://file/${app.vault.adapter.basePath}/${METRICS[metric].path}`);
+        return [
+            `**${emoji} [${label}](${link})**`,
+            `${res[0]}`,
+            ...res.slice(1, 3),
+            res[3] >= CONFIG.thresholds[metric] ? `👌 ${res[3]}` : `💪 ${res[3]}`
+        ];
+    })
 );
 ```
 
@@ -135,14 +145,12 @@ dv.table(
 >     thresholds: {
 >         sleepTime: { hours: 7, minutes: 0 },
 >         screenTime: { hours: 2, minutes: 0 },
->         steps: 3000
+>         steps: 10000
 >     }
 > };
 >
-> const NO_DATA = "‏‎ ‎ ";
+> const NO_DATA = "";
 > const today = dv.date("today");
->
-> dv.header(3, "Last 7 Days");
 >
 > function getAverage(data, metric, isTime) {
 >     const valid = Array.from(data).filter(r => r[metric] !== NO_DATA);
@@ -151,32 +159,11 @@ dv.table(
 >     if (isTime) {
 >         const totalMinutes = valid.reduce((sum, r) => sum + (r[metric].hours * 60 + r[metric].minutes), 0);
 >         const avgMinutes = totalMinutes / valid.length;
->         return `${Math.floor(avgMinutes / 60)}h ${Math.round(avgMinutes % 60)}m`;
+>         return { hours: Math.floor(avgMinutes / 60), minutes: Math.round(avgMinutes % 60) };
 >     }
 >
 >     return Math.round(valid.reduce((sum, r) => sum + r[metric], 0) / valid.length);
 > }
->
-> function getData(days) {
->     return dv.pages('"Daily-Bullet-Journal"')
->         .where(p => p.date >= today.minus({ days }) && p.date < today.plus({ days: 1 }))
->         .sort(p => p.date, 'desc')
->         .map((entry, i, entries) => {
->             const prev = entries[i + 1];
->             const sleepTime = prev?.bedTime && entry.wakeUpTime
->                 ? { hours: Math.floor((entry.wakeUpTime - prev.bedTime) / 3600000), minutes: Math.round(((entry.wakeUpTime - prev.bedTime) % 3600000) / 60000) }
->                 : NO_DATA;
->             return {
->                 link: entry.file.link,
->                 sleepTime,
->                 screenTime: entry.phoneScreenTime ? dv.duration(entry.phoneScreenTime) : NO_DATA,
->                 steps: entry.steps || NO_DATA
->             };
->         })
->         .slice(0, -1); // Exclude the last entry since it won’t have a "yesterday" entry
-> }
->
-> const [data7, data30, data90, data180] = [7, 30, 90, 180].map(getData);
 >
 > function formatThreshold(value, threshold, isTime, isLess) {
 >     if (value === NO_DATA) return value;
@@ -187,197 +174,46 @@ dv.table(
 >     return isTime ? `${icon} ${value.hours}h ${value.minutes}m` : `${icon} ${value}`;
 > }
 >
+> // Fetch one extra day (15 days ago) so the earliest entry’s sleep can be computed from the prior day’s bedTime
+> const data = dv.pages('"Daily-Bullet-Journal"')
+>     .where(p => p.date >= today.minus({ days: 15 }) && p.date <= today.minus({ days: 1 }))
+>     .sort(p => p.date, 'desc')
+>     .map((entry, i, entries) => {
+>         const prev = entries[i + 1];
+>         const sleepTime = prev?.bedTime && entry.wakeUpTime
+>             ? { hours: Math.floor((entry.wakeUpTime - prev.bedTime) / 3600000), minutes: Math.round(((entry.wakeUpTime - prev.bedTime) % 3600000) / 60000) }
+>             : NO_DATA;
+>         return {
+>             link: entry.file.link,
+>             dayOfWeek: entry.date.weekdayLong,
+>             sleepTime,
+>             screenTime: entry.phoneScreenTime ? dv.duration(entry.phoneScreenTime) : NO_DATA,
+>             steps: entry.steps || NO_DATA
+>         };
+>     })
+>     .slice(0, -1); // Remove the extra day (15 days ago)
+>
+> const avgSleep  = getAverage(data, 'sleepTime', true);
+> const avgScreen = getAverage(data, 'screenTime', true);
+> const avgSteps  = getAverage(data, 'steps', false);
+>
 > dv.table(
->     ["‏‎", "**🛌 Sleep Time**", "**📱 Screen Time**", "**🚶 Steps**"],
->     data7.map(r => [
->         `**${r.link}**`,
->         formatThreshold(r.sleepTime, CONFIG.thresholds.sleepTime, true, false),
->         formatThreshold(r.screenTime, CONFIG.thresholds.screenTime, true, true),
->         formatThreshold(r.steps, CONFIG.thresholds.steps, false, false)
->     ])
+>     ["", "**🛌 Sleep Time**", "**📱 Screen Time**", "**🚶 Steps**"],
+>     [
+>         ...data.map(r => [
+>             `**${r.link}** (${r.dayOfWeek})`,
+>             formatThreshold(r.sleepTime, CONFIG.thresholds.sleepTime, true, false),
+>             formatThreshold(r.screenTime, CONFIG.thresholds.screenTime, true, true),
+>             formatThreshold(r.steps, CONFIG.thresholds.steps, false, false)
+>         ]),
+>         [
+>             "==**📊 14 天平均**==",
+>             avgSleep  !== NO_DATA ? `==**${formatThreshold(avgSleep,  CONFIG.thresholds.sleepTime,  true,  false)}**==` : NO_DATA,
+>             avgScreen !== NO_DATA ? `==**${formatThreshold(avgScreen, CONFIG.thresholds.screenTime, true,  true)}**==`  : NO_DATA,
+>             avgSteps  !== NO_DATA ? `==**${formatThreshold(avgSteps,  CONFIG.thresholds.steps,       false, false)}**==` : NO_DATA
+>         ]
+>     ]
 > );
->
-> dv.header(3, "Averages");
->
-> const metrics = ["🛌 Sleep Time", "📱 Screen Time", "🚶 Steps"];
-> const periods = ["7-Day", "30-Day", "90-Day", "180-Day"];
-> const datasets = [data7, data30, data90, data180];
-> const keys = ['sleepTime', 'screenTime', 'steps'];
-> const isTimeMetric = [true, true, false];
->
-> dv.table(
->     ["‏‎", ...periods.map(p => `**${p}**`)],
->     metrics.map((metric, i) => [
->         `**${metric}**`,
->         ...datasets.map((data, j) => {
->             const avg = getAverage(data, keys[i], isTimeMetric[i]);
->             return j === 0 ? `==**${avg}**==` : avg;
->         })
->     ])
-> );
-> ```
-
-> [! ]- 👨🏽‍🌾 Digital Garden
->
-> ```dataviewjs
-> let today = dv.date("today");
->
-> function findOrphanedImages() {
->     const imageExtensions = [
->         "png",
->         "jpg",
->         "jpeg",
->         "gif",
->         "svg",
->         "webp",
->         "avif",
->         "heic"
->     ];
->
->     const imageFiles = app.vault.getFiles().filter(file =>
->         imageExtensions.includes(file.extension.toLowerCase()) &&
->         !file.path.includes("AdaptX/") &&
->         file.path.includes("_attachments/")
->     );
->
->     const orphanedImages = imageFiles.filter(image =>
->         !Object.values(app.metadataCache.resolvedLinks)
->                 .some(links => links[image.path])
->     ).map(image => dv.fileLink(image.path));
->
->     return orphanedImages;
-> }
->
-> function getRandomFilteredPages(filterFn, maxCount = 5) {
->     const excludeFiles = [
->         "Evergreen-Notes/Fleeting-Notes/Fleeting-Notes.md"
->     ];
->
->     const filteredPages = dv.pages('"Evergreen-Notes"')
->                             .filter(page =>
->                                 filterFn(page) &&
->                                 !excludeFiles.includes(page.file.path)
->                             )
->                             .map(p => p.file.link)
->                             .sort(() => Math.random() - 0.5)
->                             .slice(0, maxCount);
->
->     return filteredPages;
-> }
->
-> //TODO (2025/04/26)
-> async function isValidLink(link, sourcePath) {
->     const targetPath = link.link;
->     const resolvedPath = app.metadataCache.getFirstLinkpathDest(targetPath, sourcePath);
->
->     if (resolvedPath) {
->         return true; // It points to an existing file (note or image)
->     }
->
->     // Also check if the file exists physically in the vault
->     const file = app.vault.getAbstractFileByPath(targetPath);
->
->     if (file) {
->         return true;
->     }
->
->     return false; // Neither a note nor a file exists
-> }
->
-> //TODO
-> async function findBadLinksAndEmbeds() {
->     const badLinks = new Map();
->     const badEmbeds = new Map();
->
->     const excludedFolders = [
->         ".trash",
->         ".obsidian",
->     ];
->
->     const notes = app.vault.getMarkdownFiles().filter(note =>
->         !excludedFolders.some(folder => note.path.includes(`${folder}`))
->     );
->
->     const tasks = [];
->
->     for (const note of notes) {
->         const cache = app.metadataCache.getFileCache(note);
->         if (!cache) continue;
->
->         const links = cache.links || [];
->         const embeds = cache.embeds || [];
->
->         for (const link of links) {
->             tasks.push({
->                 type: "link",
->                 notePath: note.path,
->                 link: link
->             });
->         }
->
->         for (const embed of embeds) {
->             tasks.push({
->                 type: "embed",
->                 notePath: note.path,
->                 link: embed
->             });
->         }
->     }
->
->     const results = await Promise.all(
->         tasks.map(async (task) => {
->             const valid = await isValidLink(task.link, task.notePath);
->             return { ...task, valid };
->         })
->     );
->
->     for (const result of results) {
->         if (!result.valid) {
->             if (result.type === "link") {
->                 if (!badLinks.has(result.notePath)) {
->                     badLinks.set(result.notePath, []);
->                 }
->                 badLinks.get(result.notePath).push(result.link.link);
->             } else if (result.type === "embed") {
->                 if (!badEmbeds.has(result.notePath)) {
->                     badEmbeds.set(result.notePath, []);
->                 }
->                 badEmbeds.get(result.notePath).push(result.link.link);
->             }
->         }
->     }
->
->     const linkResults = [...badLinks.entries()].map(([file, links]) => [
->         dv.fileLink(file),
->         links.join("\n")
->     ]);
->
->     const embedResults = [...badEmbeds.entries()].map(([file, embeds]) => [
->         dv.fileLink(file),
->         embeds.join("\n")
->     ]);
->
->     return { linkResults, embedResults };
-> }
->
-> // dv.header(4, "**❥ Empty Notes**");
-> // dv.list(getRandomFilteredPages(
-> //     p => p.file.size >= 0 && p.file.size < 10
-> // )); -->
->
-> // dv.header(4, "**❥ Orphaned Notes**");
-> // dv.list(getRandomFilteredPages(
-> //     p => p.file.inlinks && p.file.outlinks
-> // )); -->
->
-> dv.header(4, "**❥ Bad Links**");
-> dv.list(await findBadLinksAndEmbeds().linkResults);
->
-> dv.header(4, "**❥ Bad Embeds**");
-> dv.list(await findBadLinksAndEmbeds().embedResults);
->
-> dv.header(4, "**❥ Orphaned Images**");
-> dv.list(findOrphanedImages());
 > ```
 
 > [! ]- 🌸 Retrospection
@@ -413,6 +249,149 @@ dv.table(
 >   dv.list(element.pages.map(({ page, url }) => `[${page.date.toISODate()} (${page.dayOfWeek})](${url})`));
 > }
 > ```
+
+> [! ]- 👨🏽‍🌾 Garden
+>
+> ```dataviewjs
+> const { Utils } = await cJS();
+>
+> function findOrphanedImages() {
+>     const linkedPaths = new Set(
+>         // https://docs.obsidian.md/Reference/TypeScript+API/MetadataCache/resolvedLinks
+>         Object.values(app.metadataCache.resolvedLinks).flatMap(Object.keys)
+>     );
+>
+>     return app.vault.getFiles()
+>         .filter(file => file.path.includes("_attachments/") && !linkedPaths.has(file.path))
+>         .map(file => dv.fileLink(file.path));
+> }
+>
+> function isValidLink(link, sourcePath) {
+>     const targetPath = link.link;
+>
+>     // Heading anchors in the same file (e.g. [text](#heading)) are always valid
+>     if (targetPath.startsWith("#")) return true;
+>
+>     // https://docs.obsidian.md/Reference/TypeScript+API/MetadataCache/getFirstLinkpathDest
+>     return !!app.metadataCache.getFirstLinkpathDest(targetPath, sourcePath);
+> }
+>
+> async function findBadLinksAndEmbeds() {
+>     const badLinks = [];
+>     const badEmbeds = [];
+>
+>     for (const file of app.vault.getMarkdownFiles()) {
+>         // https://docs.obsidian.md/Reference/TypeScript+API/MetadataCache/getFileCache
+>         const cache = app.metadataCache.getFileCache(file);
+>         if (!cache) continue;
+>
+>         // For journals, pre-read lines so we can identify intentional navigation links (◀/▶)
+>         let fileContent = null;
+>         if (file.path.includes("Daily-Bullet-Journal")) {
+>             const content = await app.vault.read(file);
+>             fileContent = content.split("\n");
+>         }
+>
+>         const base = { fileName: file.basename, filePath: file.path };
+>
+>         for (const link of (cache.links || [])) {
+>             // Skip links on navigation lines (◀ prev | next ▶) in journals
+>             const line = fileContent?.[link.position.start.line] ?? "";
+>             if (line.includes("◀") || line.includes("▶")) continue;
+>             // e.g. [[Some Page That Doesn’t Exist]]
+>             if (!isValidLink(link, file.path)) {
+>                 badLinks.push({ ...base, lineNumber: link.position.start.line + 1 });
+>             }
+>         }
+>
+>         for (const embed of (cache.embeds || [])) {
+>             // e.g. ![[Nonexistent Image.png]]
+>             if (!isValidLink(embed, file.path)) {
+>                 badEmbeds.push({ ...base, lineNumber: embed.position.start.line + 1 });
+>             }
+>         }
+>     }
+>
+>     const buildDeepLinks = async (entries) => Promise.all(
+>         entries.map(async ({ fileName, filePath, lineNumber }) => {
+>             const uri = await Utils.buildObsidianOpenFileURI(filePath, lineNumber);
+>             return `[${fileName}](${uri})`;
+>         })
+>     );
+>
+>     return {
+>         linkResults: await buildDeepLinks(badLinks),
+>         embedResults: await buildDeepLinks(badEmbeds)
+>     };
+> }
+>
+> const { linkResults, embedResults } = await findBadLinksAndEmbeds();
+>
+> dv.header(4, "**❥ Bad Links**");
+> dv.list(linkResults);
+>
+> dv.header(4, "**❥ Bad Embeds**");
+> dv.list(embedResults);
+>
+> dv.header(4, "**❥ Orphaned Images**");
+> dv.list(findOrphanedImages());
+> ```
+
+> [! ]- ✍️ Writing
+>
+> ```dataviewjs
+> const drafts = dv.pages()
+>     .where(p => p.draft === true)
+>     .sort(p => p.file.mtime, 'desc')
+>     .groupBy(p => p.file.folder.split("/")[0]);
+>
+> for (const { key, rows } of drafts.sort(g => g.key)) {
+>     dv.header(4, `**❥ ${key}**`);
+>     dv.list(rows.map(p => p.file.link));
+> }
+> ```
+
+> [! ]- 🗒️ Notes
+>
+> ```dataviewjs
+> const notes = dv.pages('"Evergreen-Notes/Permanent-Notes"').array();
+> const bwc = app.plugins.plugins["better-word-count"].api;
+> 
+> await Promise.all(notes.map(async (p) => {
+>     p._wordCount = await bwc.getWordCountPagePath(p.file.path);
+>     const cache  = app.metadataCache.getFileCache(app.vault.getAbstractFileByPath(p.file.path));
+>     p._headings  = cache?.headings?.length ?? 0;
+>     p._longevity = Math.round((p.file.mtime - p.file.ctime) / 86400000); // days
+>     p._inlinks   = p.file.inlinks.length;
+> }));
+> 
+> const WEIGHTS = { inlinks: 3, words: 1, longevity: 0.05, headings: 2 };
+> notes.forEach(p => {
+>     p._score = WEIGHTS.inlinks   * p._inlinks
+>              + WEIGHTS.words     * Math.log1p(p._wordCount)
+>              + WEIGHTS.longevity * p._longevity
+>              + WEIGHTS.headings  * p._headings;
+> });
+> 
+> const top3 = (sortFn) => [...notes].sort(sortFn).slice(0, 3);
+> 
+> dv.header(4, "**❥ Most Words**");
+> dv.list(top3((a, b) => b._wordCount - a._wordCount).map(p => `${p.file.link} (${p._wordCount} words)`));
+> 
+> dv.header(4, "**❥ Most Inlinks**");
+> dv.list(top3((a, b) => b._inlinks - a._inlinks).map(p => `${p.file.link} (${p._inlinks} inlinks)`));
+> 
+> dv.header(4, "**❥ Most Long-Running**");
+> dv.list(top3((a, b) => b._longevity - a._longevity).map(p => `${p.file.link} (${p._longevity} days)`));
+> 
+> dv.header(4, "**❥ Most Structured**");
+> dv.list(top3((a, b) => b._headings - a._headings).map(p => `${p.file.link} (${p._headings} headings)`));
+> 
+> dv.header(4, "**❥ Composite Score**");
+> dv.list(top3((a, b) => b._score - a._score).map(p => `${p.file.link} (${p._score.toFixed(1)})`));
+> ```
+
+---
 
 ```dataviewjs
 const { Utils } = await cJS();
