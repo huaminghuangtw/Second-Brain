@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T17:18:12
-modified: 2026-03-01T18:34:22
+modified: 2026-03-02T07:03:03
 ---
 
 <!-- four-quarters-in-a-day -->
@@ -118,7 +118,7 @@ const results = Object.fromEntries(
 
 const ROW_CONFIG = [
     { metric: "Number of Flows", emoji: "🍅", label: "Flows" },
-    { metric: "Number of Words", emoji: "✍️", label: "Words" }
+    { metric: "Number of Words", emoji: "✏️", label: "Words" }
 ];
 
 dv.table(
@@ -201,7 +201,7 @@ dv.table(
 >     ["", "**🛌 Sleep Time**", "**📱 Screen Time**", "**🚶 Steps**"],
 >     [
 >         ...data.map(r => [
->             `**${r.link}** (${r.dayOfWeek})`,
+>             `${r.link} (${r.dayOfWeek})`,
 >             formatThreshold(r.sleepTime, CONFIG.thresholds.sleepTime, true, false),
 >             formatThreshold(r.screenTime, CONFIG.thresholds.screenTime, true, true),
 >             formatThreshold(r.steps, CONFIG.thresholds.steps, false, false)
@@ -246,7 +246,7 @@ dv.table(
 > for (let element of arr) {
 >   dv.header(3, element.headerText);
 >
->   dv.list(element.pages.map(({ page, url }) => `[${page.date.toISODate()} (${page.dayOfWeek})](${url})`));
+>   dv.list(element.pages.map(({ page }) => `${page.file.link} (${page.dayOfWeek})`));
 > }
 > ```
 
@@ -354,22 +354,20 @@ dv.table(
 > [! ]- 🗒️ Notes
 >
 > ```dataviewjs
-> const notes = dv.pages('"Evergreen-Notes/Permanent-Notes"').array();
+> const notes = dv.pages('"Evergreen-Notes/Permanent-Notes"');
 > const bwc = app.plugins.plugins["better-word-count"].api;
 > 
 > await Promise.all(notes.map(async (p) => {
 >     p._wordCount = await bwc.getWordCountPagePath(p.file.path);
 >     const cache  = app.metadataCache.getFileCache(app.vault.getAbstractFileByPath(p.file.path));
 >     p._headings  = cache?.headings?.length ?? 0;
->     p._longevity = Math.round((p.file.mtime - p.file.ctime) / 86400000); // days
 >     p._inlinks   = p.file.inlinks.length;
 > }));
 > 
-> const WEIGHTS = { inlinks: 3, words: 1, longevity: 0.05, headings: 2 };
+> const WEIGHTS = { inlinks: 3, words: 1, headings: 2 };
 > notes.forEach(p => {
 >     p._score = WEIGHTS.inlinks   * p._inlinks
 >              + WEIGHTS.words     * Math.log1p(p._wordCount)
->              + WEIGHTS.longevity * p._longevity
 >              + WEIGHTS.headings  * p._headings;
 > });
 > 
@@ -380,9 +378,6 @@ dv.table(
 > 
 > dv.header(4, "**❥ Most Inlinks**");
 > dv.list(top3((a, b) => b._inlinks - a._inlinks).map(p => `${p.file.link} (${p._inlinks} inlinks)`));
-> 
-> dv.header(4, "**❥ Most Long-Running**");
-> dv.list(top3((a, b) => b._longevity - a._longevity).map(p => `${p.file.link} (${p._longevity} days)`));
 > 
 > dv.header(4, "**❥ Most Structured**");
 > dv.list(top3((a, b) => b._headings - a._headings).map(p => `${p.file.link} (${p._headings} headings)`));
