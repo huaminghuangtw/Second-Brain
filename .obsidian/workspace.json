@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "83239399a136bb38",
+        "id": "7313294d7deb104d",
         "type": "tabs",
         "children": [
           {
-            "id": "ece5b21c7d2fc89e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_01.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026_03_01"
-            }
-          },
-          {
-            "id": "6cd92298c113e31d",
+            "id": "3a1eb63cc22ef46a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +31,7 @@
               "title": "Homepage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "好嘉教",
+                "query": "rebellious",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,7 +195,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_01.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -244,34 +219,35 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "6cd92298c113e31d",
+  "active": "3a1eb63cc22ef46a",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_28.md",
     "Daily-Bullet-Journal/journals/2026/03-March/2026_03_01.md",
     "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/life-paradoxes-and-fallacies.md",
-    "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
-    "Evergreen-Notes/Permanent-Notes/healthy-eating-habits.md",
-    "Evergreen-Notes/Permanent-Notes/being-indistractable-is-superpower.md",
-    "Enoughness/posts/2026-week-10.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_26.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_24.md",
-    "Evergreen-Notes/Permanent-Notes/a-man-who-is-a-master-of-patience-is-master-of-everything-else.md",
-    "Evergreen-Notes/Permanent-Notes/the-anchoring-effect.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_28.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_24.md",
-    "Evergreen-Notes/Permanent-Notes/have-the-courage-to-do-the-right-things.md",
-    "Enoughness/posts/2026-week-06.md",
-    "Evergreen-Notes/Permanent-Notes/dr-rhonda-patricks-smoothie.md",
-    "Evergreen-Notes/Permanent-Notes/the-solomon-paradox.md",
-    "Evergreen-Notes/Permanent-Notes/when-in-doubt-zoom-out.md",
-    "AdaptX/posts/you-and-your-timeline.md",
-    "Today-I-Learned/README.md",
-    "Evergreen-Notes/Permanent-Notes/galls-law.md",
-    "Evergreen-Notes/Permanent-Notes/creativity-is-just-connecting-things.md",
-    "Evergreen-Notes/Permanent-Notes/jet-leg.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_05.md",
-    "Daily-Bullet-Journal/journals/2023/03-March/2023_03_29.md",
-    "Life-Notes/Coding/Linux_Commands.md",
+    "Weekly-Mindware-Update/issues/2024/2024w4.md",
+    "Evergreen-Notes/Permanent-Notes/frameworks-to-structure-your-day.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_02.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_27.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_01.md",
+    "Brainfoodie/posts/natural-farming.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_28.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_08.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_09.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_23.md",
+    "Life-Notes/Business/🏰 My Biz Empire.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_18.md",
+    "Evergreen-Notes/Permanent-Notes/reflect-and-review.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_02.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_11.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_30.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_20.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_14.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_16.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_06.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_27.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_08.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_25.md",
+    "Daily-Bullet-Journal/journals/2015/03-March",
     "AdaptX/posts/_ogImages/41f5d232b263a3b8ba3cae2a81b2e364.png",
     "AdaptX/posts/_ogImages/9367cb3d910baa4e43f8a7e3cb3aef4c.png",
     "AdaptX/posts/_ogImages/657b3960557c19ebb0a001c932a1e6ee.png",
@@ -290,7 +266,6 @@
     "Daily-Bullet-Journal/journals/2015/02-February",
     "Life-Notes/Language Learning",
     "AdaptX/posts/how-to-tie-shoelaces 1.mdx",
-    "Daily-Bullet-Journal/journals/2018/02-February",
-    "Daily-Bullet-Journal/journals/2021/02-February"
+    "Daily-Bullet-Journal/journals/2018/02-February"
   ]
 }
