@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7313294d7deb104d",
+        "id": "7f9a2e9b8ddd5e4e",
         "type": "tabs",
         "children": [
           {
-            "id": "3a1eb63cc22ef46a",
+            "id": "8006fac0292a7f52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_03.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2026_03_03"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rebellious",
+                "query": "ap7",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 2026_03_03"
             }
           },
           {
@@ -183,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_03.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for 2026_03_03"
             }
           },
           {
@@ -195,7 +195,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_03.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -219,34 +219,38 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "3a1eb63cc22ef46a",
+  "active": "8006fac0292a7f52",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_28.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_01.md",
+    "Weekly-Mindware-Update/issues/2025/2025w34.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_03.md",
     "Homepage.md",
-    "Weekly-Mindware-Update/issues/2024/2024w4.md",
-    "Evergreen-Notes/Permanent-Notes/frameworks-to-structure-your-day.md",
     "Daily-Bullet-Journal/journals/2026/03-March/2026_03_02.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_27.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_01.md",
-    "Brainfoodie/posts/natural-farming.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_28.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_08.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_09.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_21.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Life-Notes/Alignment/🤡 My Identities & Characters.md",
+    "Evergreen-Notes/Permanent-Notes/dieter-rams-ten-principles-of-good-design.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/_attachments/Pasted image 20260303204444.png",
+    "Daily-Bullet-Journal/journals/2026/03-March/_attachments",
     "Daily-Bullet-Journal/journals/2026/02-February/2026_02_23.md",
-    "Life-Notes/Business/🏰 My Biz Empire.md",
+    "Life-Notes/Finance/投資理財正確心態.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_17.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/_attachments/Pasted image 20260303180509.png",
     "Daily-Bullet-Journal/journals/2026/02-February/2026_02_18.md",
-    "Evergreen-Notes/Permanent-Notes/reflect-and-review.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_02.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_11.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_30.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_19.md",
     "Daily-Bullet-Journal/journals/2026/02-February/2026_02_20.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_14.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_16.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_06.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_27.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_08.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_25.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_21.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_22.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_24.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_25.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_26.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_27.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_04.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md",
+    "Life-Notes/Business/Startups.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_30.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_24.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_30.md",
+    "Daily-Bullet-Journal/journals/2018/03-March",
     "Daily-Bullet-Journal/journals/2015/03-March",
     "AdaptX/posts/_ogImages/41f5d232b263a3b8ba3cae2a81b2e364.png",
     "AdaptX/posts/_ogImages/9367cb3d910baa4e43f8a7e3cb3aef4c.png",
@@ -256,16 +260,12 @@
     "AdaptX/posts/_ogImages/f218731ceb2ba5987b83a816c27baefe.png",
     "AdaptX/posts/_ogImages/030905b2eba08473ea1034f327737172.png",
     "AdaptX/posts/_ogImages/3e8b940b9c3dc98bf25e8ac533251449.png",
-    "AdaptX/posts/_ogImages/000e30aa1958044e4daeb981190cdbe4.png",
     "AdaptX/posts/_ogImages",
-    "Enoughness/posts/_attachments/d2b422b9c4b556db4089c861e8570c26.jpeg",
     "Daily-Bullet-Journal/journals/2022/03-March",
     "Daily-Bullet-Journal/journals/2026/03-March",
     "Life-Notes/Alignment/_attachments",
     "Homepage.md.backup",
     "Daily-Bullet-Journal/journals/2015/02-February",
-    "Life-Notes/Language Learning",
-    "AdaptX/posts/how-to-tie-shoelaces 1.mdx",
-    "Daily-Bullet-Journal/journals/2018/02-February"
+    "Life-Notes/Language Learning"
   ]
 }
