@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bedf0bf93c3256eb",
+        "id": "77edcb91d8cb1bd8",
         "type": "tabs",
         "children": [
           {
-            "id": "320e1130211eefec",
+            "id": "6ff934569807c23e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_04.md",
-                "mode": "preview",
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_05.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,18 +28,18 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_03_04"
+              "title": "2026_03_05"
             }
           },
           {
-            "id": "360010e6c2207d02",
+            "id": "957da1cec339a3b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": false,
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_05.md",
+                "mode": "source",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2026_03_05"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "經理",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 2026_03_05"
             }
           },
           {
@@ -208,10 +208,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_04.md"
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_05.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_03_04"
+              "title": "File properties for 2026_03_05"
             }
           },
           {
@@ -220,7 +220,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_04.md"
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_05.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -244,37 +244,38 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "360010e6c2207d02",
+  "active": "957da1cec339a3b9",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_04.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_02.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_01.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_03.md",
-    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_09.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_05.md",
+    "Evergreen-Notes/Permanent-Notes/sprezzatura.md",
+    "Evergreen-Notes/Permanent-Notes/change-yourself-to-change-the-world.md",
+    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
+    "Evergreen-Notes/Permanent-Notes/mastering-yourself-is-superpower.md",
+    "Evergreen-Notes/Permanent-Notes/work-smart.md",
+    "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_04.md",
     "Daily-Bullet-Journal/journals/2026/02-February/2026_02_26.md",
     "Daily-Bullet-Journal/journals/2026/02-February/2026_02_27.md",
     "Daily-Bullet-Journal/journals/2026/02-February/2026_02_28.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_26.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_05.md",
-    "Daily-Bullet-Journal/journals/2022/03-March/2022_03_04.md",
-    "Daily-Bullet-Journal/journals/2017/03-March/2017_03_04.md",
-    "Daily-Bullet-Journal/journals/2023/03-March/2023_03_04.md",
-    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_04.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_04.md",
-    "Daily-Bullet-Journal/journals/2017/03-March",
-    "Evergreen-Notes/Permanent-Notes/the-present-bias.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_01.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_02.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_23.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_24.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_03.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_22.md",
+    "Evergreen-Notes/Permanent-Notes/perfectionism.md",
     "Evergreen-Notes/Fleeting-Notes.md",
-    "Weekly-Mindware-Update/issues/2025/2025w34.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_21.md",
-    "Life-Notes/Alignment/🤡 My Identities & Characters.md",
-    "Evergreen-Notes/Permanent-Notes/dieter-rams-ten-principles-of-good-design.md",
+    "Evergreen-Notes/Permanent-Notes/planning-and-preparation-help-maximize-your-productivity.md",
+    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
+    "Evergreen-Notes/Permanent-Notes/have-the-courage-to-do-the-right-things.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_10.md",
+    "Weekly-Mindware-Update/issues/2024/2024w37.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_12.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/_attachments/Pasted image 20260305082930.png",
+    "Daily-Bullet-Journal/journals/2017/03-March",
     "Daily-Bullet-Journal/journals/2026/03-March/_attachments/Pasted image 20260303204444.png",
     "Daily-Bullet-Journal/journals/2026/03-March/_attachments",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_23.md",
-    "Life-Notes/Finance/投資理財正確心態.md",
     "Daily-Bullet-Journal/journals/2026/02-February/_attachments/Pasted image 20260303180509.png",
     "Daily-Bullet-Journal/journals/2018/03-March",
     "Daily-Bullet-Journal/journals/2015/03-March",
@@ -285,7 +286,6 @@
     "AdaptX/posts/_ogImages/db8ac301faf2da7c717ecc5cfc04a8b8.jpeg",
     "AdaptX/posts/_ogImages/f218731ceb2ba5987b83a816c27baefe.png",
     "AdaptX/posts/_ogImages/030905b2eba08473ea1034f327737172.png",
-    "AdaptX/posts/_ogImages/3e8b940b9c3dc98bf25e8ac533251449.png",
     "AdaptX/posts/_ogImages",
     "Daily-Bullet-Journal/journals/2022/03-March",
     "Daily-Bullet-Journal/journals/2026/03-March",
