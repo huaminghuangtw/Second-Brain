@@ -28,7 +28,13 @@ _嗨，我是 [黃樺明](https://huami.ng)，我熱愛 [寫作](https://huami.n
 
 ---
 
+# 1
+
 <% tp.file.cursor() %>
+
+# 2
+
+# 3
 
 — [樺明](https://huami.ng/<% canonicalPath %>)
 
