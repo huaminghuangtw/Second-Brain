@@ -30,7 +30,7 @@ class Utils {
         return (
             `obsidian://adv-uri?` +
             `filepath=${encodeURIComponent(filePath)}&` +
-            `viewmode="source"&` +
+            `viewmode=source&` +
             `openmode=true&` +
             `line=${
                 lineNumber ||
