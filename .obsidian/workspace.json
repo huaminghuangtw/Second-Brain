@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4d02401a0cdabd65",
+        "id": "60eac30582f2be00",
         "type": "tabs",
         "children": [
           {
-            "id": "77db1a55ad772754",
+            "id": "b562ac12ec432518",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_07.md",
-                "mode": "preview",
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_08.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_03_07"
+              "title": "2026_03_08"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "/rss.xml",
+                "query": "蛋行",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_07.md",
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026_03_07"
+              "title": "Backlinks for 2026_03_08"
             }
           },
           {
@@ -183,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_06.md"
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_07.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_03_06"
+              "title": "File properties for 2026_03_07"
             }
           },
           {
@@ -219,36 +219,40 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "77db1a55ad772754",
+  "active": "b562ac12ec432518",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_23.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_08.md",
     "Homepage.md",
-    "Enoughness/posts/2025-week-43.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_03.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_07.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_04.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_06.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Evergreen-Notes/Permanent-Notes/the-social-slope-effect.md",
-    "Evergreen-Notes/Permanent-Notes/quit-social-media.md",
-    "Evergreen-Notes/Permanent-Notes/slow-down-to-speed-up.md",
-    "Evergreen-Notes/Permanent-Notes/News Sobriety.md",
-    "Evergreen-Notes/Permanent-Notes/information-overwhelm.md",
-    "Evergreen-Notes/Permanent-Notes/Low Information Diet.md",
-    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260307143912.png",
-    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260307143828.png",
-    "Evergreen-Notes/Permanent-Notes/decision-making.md",
-    "Evergreen-Notes/Permanent-Notes/a-man-who-is-a-master-of-patience-is-master-of-everything-else.md",
-    "Evergreen-Notes/Permanent-Notes/everyone-is-on-their-own-timeline.md",
-    "Evergreen-Notes/Permanent-Notes/becoming-the-ocean-by-khalil-gibram.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_02.md",
-    "Evergreen-Notes/Permanent-Notes/escape-competition-through-authenticity.md",
     "Daily-Bullet-Journal/journals/2026/03-March/2026_03_06.md",
     "Daily-Bullet-Journal/journals/2026/03-March/2026_03_05.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_19.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_03.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_05.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_07.md",
-    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_07.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_07.md",
+    "Evergreen-Notes/Permanent-Notes/embrace-the-beauty-of-enoughness.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_12.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_09.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_04.md",
+    "Evergreen-Notes/Permanent-Notes/dare-to-be-different.md",
+    "Evergreen-Notes/Permanent-Notes/be-grateful.md",
+    "Evergreen-Notes/Permanent-Notes/boredom-promotes-creativity.md",
+    "Evergreen-Notes/Permanent-Notes/wu-wei.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/_attachments/Pasted image 20260308084843.png",
+    "Daily-Bullet-Journal/journals/2026/03-March/_attachments/Pasted image 20260308084437.png",
+    "Daily-Bullet-Journal/journals/2026/03-March/_attachments/Pasted image 20260308084314.png",
+    "Daily-Bullet-Journal/journals/2026/03-March/_attachments/Pasted image 20260308084310.png",
+    "Weekly-Mindware-Update/issues/2026/2026w10.md",
+    "Daily-Bullet-Journal/journals/2023/03-March/2023_03_08.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_08.md",
+    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_08.md",
+    "Evergreen-Notes/Permanent-Notes/the-story-of-the-cracked-pot.md",
+    "Evergreen-Notes/Fleeting-Notes.md",
+    "Evergreen-Notes/Permanent-Notes/the-streetlight-effect.md",
+    "Evergreen-Notes/Permanent-Notes/be-ready-to-change-your-mind-completely-at-any-given-time.md",
+    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_08.md",
+    "Evergreen-Notes/Permanent-Notes/walk.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_31.md",
+    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
+    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260307143912.png",
+    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260307143828.png",
     "Evergreen-Notes/Permanent-Notes/_attachments/a0e64cb8e2adff3d0879bc06eea17f06.JPG",
     "_attachments",
     "Deep-Work-Machine/Number of Words/2026/02-February/number-of-words_2026-02.png",
@@ -261,11 +265,7 @@
     "Deep-Work-Machine/Number of Flows/2026/02-February",
     "Daily-Bullet-Journal/journals/2026/03-March/_attachments/3e1fba55cdb1d95bb84ae2bf10537bcf.png",
     "Daily-Bullet-Journal/journals/2017/03-March",
-    "Daily-Bullet-Journal/journals/2026/03-March/_attachments/f6c054249259848ecb3777056ab5935a.png",
     "Daily-Bullet-Journal/journals/2026/03-March/_attachments",
-    "Daily-Bullet-Journal/journals/2026/02-February/_attachments/8316603f58062ff8cbaf81796ba2a207.png",
-    "Daily-Bullet-Journal/journals/2018/03-March",
-    "AdaptX/posts/_ogImages/41f5d232b263a3b8ba3cae2a81b2e364.png",
-    "AdaptX/posts/_ogImages/9367cb3d910baa4e43f8a7e3cb3aef4c.png"
+    "Daily-Bullet-Journal/journals/2018/03-March"
   ]
 }
