@@ -7,8 +7,9 @@ const issue = app.vault
 		.getFiles()
 		.filter((f) => f.path.startsWith("Enoughness/posts/") && f.extension === "md")
 		.length;
-const nextFridayDate = moment().day() <= 5 ? moment().day(5) : moment().add(1, 'week').day(5);
-const canonicalPath = `${nextFridayDate.format('YYYY/M/D')}/enoughness-${issue}`;
+const upcomingFriday = tp.user.upcomingFriday();
+const canonicalPath = `${upcomingFriday.format('YYYY/M/D')}/enoughness-${issue}`;
+const created = upcomingFriday.format('YYYY-MM-DD[T00:00:00]');
 -%>
 ---
 draft: true
@@ -17,7 +18,7 @@ canonicalPath: <% canonicalPath %>
 slug: enoughness-<% issue %>
 description: "<% `Enoughness #${issue}` %>"
 issue: <% issue %>
-created: <% nextFridayDate.format('YYYY-MM-DD[T00:00:00]') %>
+created: <% created %>
 ---
 
 <!-- SELF-INTRO-START -->
