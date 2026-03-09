@@ -42,7 +42,7 @@ async function createWritingPost(tp) {
         const userInput = await tp.system.prompt("📁 Filename?");
         rawFileName = userInput || temp;
     } else if (collection === "Enoughness") {
-        rawFileName = (moment().day() <= 5 ? moment().day(5) : moment().add(1, 'week').day(5)).format("YYYY[-week-]ww");
+        rawFileName = tp.user.upcomingFriday().format("YYYY[-week-]ww");
     } else {
         rawFileName = title;
     }
