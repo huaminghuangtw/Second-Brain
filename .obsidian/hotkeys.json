@@ -513,15 +513,6 @@
       "key": "E"
     }
   ],
-  "obsidian-linter:lint-file-unless-ignored": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
   "permalink-opener:open-prod-url": [
     {
       "modifiers": [
@@ -887,15 +878,6 @@
       "key": "K"
     }
   ],
-  "obsidian-shellcommands:shell-command-sj0z4dp9d9": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Shift"
-      ],
-      "key": "J"
-    }
-  ],
   "obsidian-text-format:slugify": [
     {
       "modifiers": [
@@ -958,5 +940,23 @@
       "key": "Y"
     }
   ],
-  "obsidian-completr:completr-blacklist-current-word": []
+  "obsidian-completr:completr-blacklist-current-word": [],
+  "obsidian-shellcommands:shell-command-sj0z4dp9d9": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "obsidian-linter:lint-file-unless-ignored": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ]
 }

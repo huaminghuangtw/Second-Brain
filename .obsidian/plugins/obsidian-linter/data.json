@@ -58,13 +58,13 @@
       "yaml-sort-order-for-other-keys": "None"
     },
     "yaml-timestamp": {
-      "enabled": false,
-      "date-created": false,
+      "enabled": true,
+      "date-created": true,
       "date-created-key": "created",
       "date-modified": true,
       "date-modified-key": "modified",
       "format": "YYYY-MM-DDTHH:MM:SS",
-      "convert-to-utc": true,
+      "convert-to-utc": false,
       "date-created-source-of-truth": "file system",
       "date-modified-source-of-truth": "file system",
       "update-on-file-contents-updated": "after 5 seconds"
@@ -279,7 +279,13 @@
   "foldersToIgnore": [
     "Templates"
   ],
-  "filesToIgnore": [],
+  "filesToIgnore": [
+    {
+      "label": "",
+      "match": "README.md",
+      "flags": ""
+    }
+  ],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
   "lintCommands": [],

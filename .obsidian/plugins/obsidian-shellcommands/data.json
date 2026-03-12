@@ -26,7 +26,7 @@
     {
       "id": "v2y8tgc89w",
       "platform_specific_commands": {
-        "default": "code --goto {{file_path:absolute}}:{{caret_position}}"
+        "default": "pos={{caret_position}}; \nif [ -n $pos ]; then\n  code --goto {{file_path:absolute}}:$pos\nelse\n  code {{file_path:absolute}}\nfi"
       },
       "shells": {},
       "alias": "Open in VS Code",
@@ -140,7 +140,7 @@
     {
       "id": "sj0z4dp9d9",
       "platform_specific_commands": {
-        "default": "file_path={{file_path:relative}}\n\ncleaned_path=\"${file_path//\\\\//}\"\n\nfirst_part=\"${cleaned_path%%/*}\"\n\nif [ $first_part = \"Shortcutomation\" ]; then\n  first_part=\"Shortcutomation-Blog\"\nfi\n\nrest=\"${cleaned_path#*/}\"\n\nopen \"https://github.com/huaminghuangtw/$first_part/blob/main/$rest\""
+        "default": "file_path={{file_path:relative}}\n\ncleaned_path=\"${file_path//\\\\//}\"\n\nfirst_part=\"${cleaned_path%%/*}\"\n\nif [ \"$first_part\" = \"Homepage.md\" ]; then\n  first_part=\"Second-Brain\"\nelif [ \"$first_part\" = \"Shortcutomation\" ]; then\n  first_part=\"Shortcutomation-Blog\"\nfi\n\nrest=\"${cleaned_path#*/}\"\n\nopen \"https://github.com/huaminghuangtw/$first_part/blob/main/$rest\""
       },
       "shells": {},
       "alias": "Open on GitHub",
