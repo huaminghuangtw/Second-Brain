@@ -1,8 +1,3 @@
----
-created: 2025-12-14T07:12:00
-modified: 2026-03-12T21:03:50
----
-
 <!-- four-quarters-in-a-day -->
 
 ```dataviewjs
