@@ -66,10 +66,15 @@ async function createWritingPost(tp) {
         await tp.file.move(folder + fileName);
     }
 
+    const created = collection === "Enoughness"
+        ? tp.user.upcomingFriday()
+        : tp.date.now("YYYY-MM-DD");
+
     return {
         title,
         fileName,
         collection,
+        created,
     };
 }
 
