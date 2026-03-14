@@ -7,7 +7,7 @@
   "enhanceDefaultPaste": true,
   "shouldPreserveSelectionAsTitle": true,
   "enhanceDropEvents": true,
-  "websiteBlacklist": "",
+  "websiteBlacklist": "localhost",
   "maximumTitleLength": 0,
   "useNewScraper": true,
   "linkPreviewApiKey": "",

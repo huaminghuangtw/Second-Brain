@@ -59,11 +59,11 @@
     },
     "yaml-timestamp": {
       "enabled": true,
-      "date-created": true,
+      "date-created": false,
       "date-created-key": "created",
       "date-modified": true,
       "date-modified-key": "modified",
-      "format": "YYYY-MM-DDTHH:MM:SS",
+      "format": "YYYY-MM-DD",
       "convert-to-utc": false,
       "date-created-source-of-truth": "file system",
       "date-modified-source-of-truth": "file system",
@@ -284,6 +284,11 @@
       "label": "",
       "match": "README.md",
       "flags": ""
+    },
+    {
+      "label": "",
+      "match": "Homepage.md",
+      "flags": ""
     }
   ],
   "linterLocale": "system-default",
@@ -306,8 +311,8 @@
     },
     {
       "label": "",
-      "find": " (―|—|–) ",
-      "replace": " — ",
+      "find": "(―|─|—|–)",
+      "replace": "—",
       "flags": "gm",
       "enabled": true
     },
@@ -315,6 +320,20 @@
       "label": "",
       "find": "(\\d+)(st|nd|rd|th)\\s+Birthday",
       "replace": "$1<sup>$2</sup> Birthday",
+      "flags": "gm",
+      "enabled": true
+    },
+    {
+      "label": "Normalize YouTube URLs w/ timestamp",
+      "find": "(?<!`)https?://(?:www\\.)?(?:youtube\\.com/(?:watch\\?v=|embed/)|youtu\\.be/(?:watch\\?v=)?)([^&?/\\s\\)\\]]+)[^\\s\\)\\]]*[?&](t=[^&\\s\\)\\]]+)[^\\s\\)\\]]*",
+      "replace": "https://youtu.be/$1?$2",
+      "flags": "gm",
+      "enabled": true
+    },
+    {
+      "label": "Normalize YouTube URLs w/o timestamp",
+      "find": "(?<!`)https?://(?:www\\.)?(?:youtube\\.com/(?:watch\\?v=|embed/)|youtu\\.be/)([^&?/\\s\\)\\]]+)(?:[?&](?!t=\\d)[^\\s\\)\\]]*)?",
+      "replace": "https://youtu.be/$1",
       "flags": "gm",
       "enabled": true
     }

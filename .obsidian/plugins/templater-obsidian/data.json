@@ -1,15 +1,10 @@
 {
   "command_timeout": 5,
   "templates_folder": "Templates",
-  "templates_pairs": [
-    [
-      "show_tag_newsletter",
-      "open \"obsidian://search?query=tag:%23Newsletter\""
-    ]
-  ],
+  "templates_pairs": [],
   "trigger_on_file_creation": false,
   "auto_jump_to_cursor": true,
-  "enable_system_commands": true,
+  "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "Scripts/Templater",
   "enable_folder_templates": true,
