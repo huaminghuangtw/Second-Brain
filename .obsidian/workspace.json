@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7e9836fe800bde37",
+        "id": "fe1df6e32fbbc364",
         "type": "tabs",
         "children": [
           {
-            "id": "d5ab9d663b5c3dcd",
+            "id": "f721008349590c51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_14.md",
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_15.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_03_14"
+              "title": "2026_03_15"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"posse\"",
+                "query": "台灣燈會",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,39 +105,6 @@
         "id": "937873f1933707e6",
         "type": "tabs",
         "children": [
-          {
-            "id": "7f91aac9a71b5f7d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_14.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 2026_03_14"
-            }
-          },
-          {
-            "id": "e63e4e2411975c51",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Enoughness/posts/2025-week-43.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 2025-week-43"
-            }
-          },
           {
             "id": "53673f11dd77aea2",
             "type": "leaf",
@@ -195,14 +162,47 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_11.md"
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_14.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "f5ba8c2e126a3303",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_15.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026_03_15"
+            }
+          },
+          {
+            "id": "ee29b245b299f570",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_14.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026_03_14"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -219,34 +219,34 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "d5ab9d663b5c3dcd",
+  "active": "f721008349590c51",
   "lastOpenFiles": [
-    "Homepage.md",
     "Daily-Bullet-Journal/journals/2026/03-March/2026_03_14.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_02.md",
-    "Evergreen-Notes/Permanent-Notes/the-most-productive-people-prioritize-intentional-rest.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_29.md",
-    "Evergreen-Notes/Permanent-Notes/true-education-begins-where-school-ends.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_24.md",
-    "Daily-Bullet-Journal/journals/2023/04-April/2023_04_06.md",
     "Daily-Bullet-Journal/journals/2026/03-March/2026_03_15.md",
-    "Evergreen-Notes/Permanent-Notes/the-law-of-attraction.md",
-    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_14.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_02.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_18.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_08.md",
-    "Daily-Bullet-Journal/journals/2023/11-November/2023_11_29.md",
-    "Evergreen-Notes/Permanent-Notes/a-friend-to-all-is-a-friend-to-none.md",
-    "Today-I-Learned/posts/sds.md",
-    "Daily-Bullet-Journal/journals/2015/02-February/2015_02_13.md",
-    "Dear-Today-Me/Dear-Today-Me.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_15.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/_attachments/Pasted image 20260315170101.png",
+    "Homepage.md",
+    "Evergreen-Notes/Permanent-Notes/Low Information Diet.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_30.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_05.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_31.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_08.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_07.md",
+    "Enoughness/posts/2026-week-01.md",
+    "Weekly-Mindware-Update/issues/2026/2026w11.md",
+    "Daily-Bullet-Journal/journals/2023/03-March/2023_03_15.md",
+    "Daily-Bullet-Journal/journals/2020/03-March/2020_03_15.md",
+    "Daily-Bullet-Journal/journals/2015/03-March/2015_03_15.md",
+    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_15.md",
+    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_14.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_21.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_09.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_08.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_06.md",
+    "Evergreen-Notes/Permanent-Notes/99-percent-of-effort-is-wasted.md",
     "Evergreen-Notes/Fleeting-Notes.md",
-    "Brainfoodie/posts/40-thoughts-on-turning-40.md",
-    "Shortcutomation/posts/a-midday-routine-i-do-every-day.md",
-    "Today-I-Learned/posts/crontab-and-cronjob.md",
-    "Notes-to-Self/posts/2025-10-05.md",
-    "Enoughness/posts/2025-week-43.md",
+    "Evergreen-Notes/Permanent-Notes/_attachments.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_02.md",
     "Brainfoodie/posts/_attachments/93bae1325ed7953f4e2ec6ef1318c910.png",
     "Brainfoodie/posts/_attachments/686c89d43115bb2063ac5188d8552357.png",
     "Brainfoodie/posts/_attachments",
@@ -263,7 +263,6 @@
     "Daily-Bullet-Journal/journals/2019/03-March",
     "Daily-Bullet-Journal/journals/2026/03-March/_attachments/4baf153715d4cf5e5740e4aa87b23042.png",
     "Daily-Bullet-Journal/journals/2026/03-March/_attachments/327b7cb961b8ece631aeae5c01f07cb5.png",
-    "Daily-Bullet-Journal/journals/2026/03-March/_attachments/1643f9cef0c0766e804b8dfa9631ab8f.png",
     "_attachments",
     "Deep-Work-Machine/Number of Words/2026/02-February/number-of-words_2026-02.json",
     "Deep-Work-Machine/Number of Words/2026/02-February/number-of-words_2026-02.csv"
