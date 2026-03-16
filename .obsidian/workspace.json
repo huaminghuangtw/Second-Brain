@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fe1df6e32fbbc364",
+        "id": "2511b816324b21f3",
         "type": "tabs",
         "children": [
           {
-            "id": "f721008349590c51",
+            "id": "b5ff30161e14b8f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_15.md",
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_16.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_03_15"
+              "title": "2026_03_16"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "台灣燈會",
+                "query": "Motivation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,10 +150,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_14.md"
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_16.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_03_14"
+              "title": "File properties for 2026_03_16"
             }
           },
           {
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_15.md",
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026_03_15"
+              "title": "Backlinks for 2026_03_16"
             }
           },
           {
@@ -219,34 +219,36 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "f721008349590c51",
+  "active": "b5ff30161e14b8f5",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_14.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_15.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_15.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/_attachments/Pasted image 20260315170101.png",
+    "Evergreen-Lists/cheat-sheet/cheat-sheet.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_16.md",
     "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/Low Information Diet.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_30.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_05.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_31.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_08.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_07.md",
-    "Enoughness/posts/2026-week-01.md",
-    "Weekly-Mindware-Update/issues/2026/2026w11.md",
-    "Daily-Bullet-Journal/journals/2023/03-March/2023_03_15.md",
-    "Daily-Bullet-Journal/journals/2020/03-March/2020_03_15.md",
-    "Daily-Bullet-Journal/journals/2015/03-March/2015_03_15.md",
-    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_15.md",
-    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_14.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_21.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_09.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_08.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_06.md",
-    "Evergreen-Notes/Permanent-Notes/99-percent-of-effort-is-wasted.md",
-    "Evergreen-Notes/Fleeting-Notes.md",
-    "Evergreen-Notes/Permanent-Notes/_attachments.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_02.md",
+    "Evergreen-Notes/Permanent-Notes/be-primarily-internally-driven-with-intrinsic-motivation.md",
+    "Evergreen-Notes/Permanent-Notes/the-motivation-triangle.md",
+    "Evergreen-Notes/Permanent-Notes/_attachments/649722308_17949081810110591_5999156814611093896_n.jpg",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_02.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_23.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_08.md",
+    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_04.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_27.md",
+    "Evergreen-Notes/Permanent-Notes/adaptability.md",
+    "Evergreen-Notes/Permanent-Notes/readers-are-leaders.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_20.md",
+    "Evergreen-Notes/Permanent-Notes/solitude.md",
+    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_26.md",
+    "Evergreen-Notes/Permanent-Notes/the-trap-of-good-enough.md",
+    "Life-Notes/parenting.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_24.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_15.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_03.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_13.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_16.md",
+    "Dear-Today-Me/Dear-Today-Me.md",
+    "Enoughness/posts/2026-week-10.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_30.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_27.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/_attachments/Pasted image 20260315170101.png",
     "Brainfoodie/posts/_attachments/93bae1325ed7953f4e2ec6ef1318c910.png",
     "Brainfoodie/posts/_attachments/686c89d43115bb2063ac5188d8552357.png",
     "Brainfoodie/posts/_attachments",
@@ -262,7 +264,6 @@
     "Scripts/Templater/upcomingFriday.js",
     "Daily-Bullet-Journal/journals/2019/03-March",
     "Daily-Bullet-Journal/journals/2026/03-March/_attachments/4baf153715d4cf5e5740e4aa87b23042.png",
-    "Daily-Bullet-Journal/journals/2026/03-March/_attachments/327b7cb961b8ece631aeae5c01f07cb5.png",
     "_attachments",
     "Deep-Work-Machine/Number of Words/2026/02-February/number-of-words_2026-02.json",
     "Deep-Work-Machine/Number of Words/2026/02-February/number-of-words_2026-02.csv"
