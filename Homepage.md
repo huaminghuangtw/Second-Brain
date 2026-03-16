@@ -76,7 +76,7 @@ WHERE date
 ```dataviewjs
 const { Utils } = await cJS();
 
-const CONFIG = { thresholds: { "Number of Flows": 6, "Number of Words": 1000 } };
+const CONFIG = { thresholds: { "Number of Flows": 8, "Number of Words": 1000 } };
 
 const today = dv.date("today");
 
@@ -138,8 +138,8 @@ dv.table(
 > ```dataviewjs
 > const CONFIG = {
 >     thresholds: {
->         sleepTime: { hours: 7, minutes: 0 },
->         screenTime: { hours: 2, minutes: 0 },
+>         sleepTime: { hours: 8, minutes: 0 },
+>         screenTime: { hours: 1, minutes: 30 },
 >         steps: 10000
 >     }
 > };
