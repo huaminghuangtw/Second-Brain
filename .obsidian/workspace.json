@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2511b816324b21f3",
+        "id": "9c4b408903d2619d",
         "type": "tabs",
         "children": [
           {
-            "id": "b5ff30161e14b8f5",
+            "id": "de66b11ddae1602c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_16.md",
-                "mode": "source",
+                "file": "Homepage.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_03_16"
+              "title": "Homepage"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Motivation",
+                "query": "銷聲匿跡",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,10 +150,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_16.md"
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_17.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_03_16"
+              "title": "File properties for 2026_03_17"
             }
           },
           {
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_16.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026_03_16"
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -219,35 +219,35 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "b5ff30161e14b8f5",
+  "active": "de66b11ddae1602c",
   "lastOpenFiles": [
-    "Evergreen-Lists/cheat-sheet/cheat-sheet.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_16.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_17.md",
+    "Evergreen-Notes/Permanent-Notes/push-your-limits.md",
     "Homepage.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_30.md",
+    "Evergreen-Notes/Permanent-Notes/busyness.md",
+    "Evergreen-Notes/Permanent-Notes/adaptability.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_02.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_26.md",
+    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_16.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_30.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_16.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_03.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_05.md",
+    "Notes-to-Self/posts/2026-03-17.md",
+    "Daily-Bullet-Journal/journals/2023/03-March/2023_03_17.md",
+    "Daily-Bullet-Journal/journals/2018/03-March/2018_03_17.md",
+    "Daily-Bullet-Journal/journals/2015/03-March/2015_03_17.md",
+    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_17.md",
+    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_18.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_17.md",
+    "Evergreen-Notes/Permanent-Notes/flapjacks.md",
+    "Evergreen-Notes/Fleeting-Notes.md",
+    "Evergreen-Lists/cheat-sheet/cheat-sheet.md",
     "Evergreen-Notes/Permanent-Notes/be-primarily-internally-driven-with-intrinsic-motivation.md",
     "Evergreen-Notes/Permanent-Notes/the-motivation-triangle.md",
     "Evergreen-Notes/Permanent-Notes/_attachments/649722308_17949081810110591_5999156814611093896_n.jpg",
     "Daily-Bullet-Journal/journals/2025/01-January/2025_01_02.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_23.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_08.md",
-    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_04.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_27.md",
-    "Evergreen-Notes/Permanent-Notes/adaptability.md",
-    "Evergreen-Notes/Permanent-Notes/readers-are-leaders.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_20.md",
-    "Evergreen-Notes/Permanent-Notes/solitude.md",
-    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_26.md",
-    "Evergreen-Notes/Permanent-Notes/the-trap-of-good-enough.md",
-    "Life-Notes/parenting.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_24.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_15.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_03.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_13.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_16.md",
-    "Dear-Today-Me/Dear-Today-Me.md",
-    "Enoughness/posts/2026-week-10.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_30.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_27.md",
     "Daily-Bullet-Journal/journals/2026/03-March/_attachments/Pasted image 20260315170101.png",
     "Brainfoodie/posts/_attachments/93bae1325ed7953f4e2ec6ef1318c910.png",
     "Brainfoodie/posts/_attachments/686c89d43115bb2063ac5188d8552357.png",
