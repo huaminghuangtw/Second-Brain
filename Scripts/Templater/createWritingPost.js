@@ -2,32 +2,11 @@ async function createWritingPost(tp) {
     const collection = tp.config.template_file.basename.replace("T_", "");
 
     const temp = "__temp__" + tp.date.now("YYYY-MM-DD-HH-mm-ss");
+    const today = tp.date.now("YYYY-MM-DD");
 
     let rawTitle;
     if (collection === "Notes-to-Self") {
-        const files = app.vault
-            .getFiles()
-            .filter((f) => f.path.startsWith("Notes-to-Self/posts/"))
-            .map((f) => f.name.replace(/\.md$/, ""))
-            .filter((name) => /^\d{4}-\d{2}-\d{2}$/.test(name))
-            .sort();
-        
-        for (let i = 1; i < files.length; i++) {
-            const prev = moment(files[i - 1], "YYYY-MM-DD");
-            const curr = moment(files[i], "YYYY-MM-DD");
-            if (curr.diff(prev, "days") > 1) {
-                rawTitle = prev.add(1, "days").format("YYYY-MM-DD");
-                break;
-            }
-        }
-        if (!rawTitle) {
-            const todayExists = tp.file.find_tfile(
-                `Notes-to-Self/posts/${tp.date.now("YYYY-MM-DD")}`
-            );
-            rawTitle = todayExists
-                ? moment(files[0], "YYYY-MM-DD").subtract(1, "days").format("YYYY-MM-DD")
-                : tp.date.now("YYYY-MM-DD");
-        }
+        rawTitle = today;
     } else if (collection === "Enoughness") {
         rawTitle = temp;
     } else {
@@ -68,7 +47,7 @@ async function createWritingPost(tp) {
 
     const created = collection === "Enoughness"
         ? tp.user.upcomingFriday()
-        : tp.date.now("YYYY-MM-DD");
+        : today;
 
     return {
         title,
