@@ -116,11 +116,19 @@ const ROW_CONFIG = [
     { metric: "Number of Words", emoji: "✏️", label: "Words" }
 ];
 
+const todayISO = today.toISODate();
+const lineNumbers = {};
+for (const [metric, { path }] of Object.entries(METRICS)) {
+    const content = await app.vault.adapter.read(path);
+    const idx = content.split("\n").findIndex(l => l.includes(`"${todayISO}"`));
+    lineNumbers[metric] = idx >= 0 ? idx + 1 : 1;
+}
+
 dv.table(
     ["", "**Last Week Average**", "**This Week Average**", "**Yesterday**", "**Today**"],
     ROW_CONFIG.map(({ metric, emoji, label }) => {
         const res = results[metric];
-        const link = encodeURI(`vscode://file/${app.vault.adapter.basePath}/${METRICS[metric].path}`);
+        const link = encodeURI(`vscode://file/${app.vault.adapter.basePath}/${METRICS[metric].path}:${lineNumbers[metric]}`);
         return [
             `**${emoji} [${label}](${link})**`,
             `${res[0]}`,
