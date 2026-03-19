@@ -117,11 +117,18 @@ const ROW_CONFIG = [
 ];
 
 const todayISO = today.toISODate();
+const yesterdayISO = today.minus({ days: 1 }).toISODate();
 const lineNumbers = {};
 for (const [metric, { path }] of Object.entries(METRICS)) {
     const content = await app.vault.adapter.read(path);
-    const idx = content.split("\n").findIndex(l => l.includes(`"${todayISO}"`));
-    lineNumbers[metric] = idx >= 0 ? idx + 1 : 1;
+    const lines = content.split("\n");
+    const todayIdx = lines.findIndex(l => l.includes(`"${todayISO}"`));
+    if (todayIdx >= 0) {
+        lineNumbers[metric] = todayIdx + 1;
+    } else {
+        const yesterdayIdx = lines.findIndex(l => l.includes(`"${yesterdayISO}"`));
+        lineNumbers[metric] = yesterdayIdx >= 0 ? yesterdayIdx + 1 : 1;
+    }
 }
 
 dv.table(
