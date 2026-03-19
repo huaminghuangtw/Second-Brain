@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c7286b77e96bdda5",
+        "id": "8348e9b5513c2526",
         "type": "tabs",
         "children": [
           {
-            "id": "243c47a50f2cbf5f",
+            "id": "1a4b59393490a3d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Weekly-Mindware-Update/issues/2025/2025w33.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2025w33"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(remember should) ",
+                "query": "SR-71",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5,
-    "collapsed": true
+    "width": 411.5
   },
   "right": {
     "id": "622d958ae975569a",
@@ -106,32 +105,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53673f11dd77aea2",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
             "id": "52b2e580dafee484",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2023/02-February/2023_02_19.md",
+                "file": "Weekly-Mindware-Update/issues/2025/2025w33.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2023_02_19"
+              "title": "Outline of 2025w33"
             }
           },
           {
@@ -150,10 +135,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Weekly-Mindware-Update/issues/2025/2025w33.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for 2025w33"
             }
           },
           {
@@ -162,7 +147,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_14.md"
+                "file": "Weekly-Mindware-Update/issues/2025/2025w33.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -174,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Weekly-Mindware-Update/issues/2025/2025w33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +169,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 2025w33"
             }
           },
           {
@@ -193,16 +178,16 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_14.md",
+                "file": "Weekly-Mindware-Update/issues/2025/2025w33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026_03_14"
+              "title": "Outgoing links from 2025w33"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -219,11 +204,34 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "243c47a50f2cbf5f",
+  "active": "1a4b59393490a3d8",
   "lastOpenFiles": [
-    "Evergreen-Lists/world-cuisine/world-cuisine.md",
     "Homepage.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_13.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_18.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_03.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_21.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_17.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_19.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_02.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_20.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_20.md",
+    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_20.md",
+    "Evergreen-Lists/world-cuisine/world-cuisine.pdf",
+    "Daily-Bullet-Journal/journals/2020/03-March/2020_03_19.md",
+    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_19.md",
+    "Daily-Bullet-Journal/journals/2015/03-March/2015_03_19.md",
+    "Daily-Bullet-Journal/journals/2023/03-March/2023_03_19.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_19.md",
+    "Evergreen-Notes/Permanent-Notes/time-blocking.md",
+    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260319075623.png",
+    "Evergreen-Notes/Fleeting-Notes.md",
     "Evergreen-Lists/keyboard-hotkey/keyboard-hotkey.md",
+    "Evergreen-Lists/keyboard-hotkey/keyboard-hotkey.pdf",
+    "Evergreen-Lists/xelatex",
+    "Evergreen-Lists/cheat-sheet/cheat-sheet.pdf",
+    "Evergreen-Lists/world-cuisine/world-cuisine.md",
+    "Evergreen-Lists/world-cuisines",
     "Evergreen-Lists/journal-prompt/journal-prompt.md",
     "Evergreen-Lists/tech-pro-tip/tech-pro-tip.md",
     "Evergreen-Lists/shortcuts-dev-tip/shortcuts-dev-tip.md",
@@ -231,24 +239,6 @@
     "Evergreen-Lists/home-exercise/home-exercise.md",
     "Evergreen-Lists/life-pro-tip/life-pro-tip.pdf",
     "Evergreen-Lists/life-pro-tip/life-pro-tip.md",
-    "Evergreen-Lists/gym-workout/gym-workout.md",
-    "Evergreen-Lists/cheat-sheet/cheat-sheet.md",
-    "Evergreen-Lists/healthy-food/healthy-food.md",
-    "Evergreen-Lists/world-cuisine/world-cuisine.pdf",
-    "Dear-Today-Me/Dear-Today-Me.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_31.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_17.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_02.md",
-    "Daily-Bullet-Journal/journals/2023/03-March/2023_03_18.md",
-    "Daily-Bullet-Journal/journals/2020/03-March/2020_03_18.md",
-    "Daily-Bullet-Journal/journals/2022/03-March/2022_03_18.md",
-    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_18.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_18.md",
-    "Daily-Bullet-Journal/journals/2018/03-March/2018_03_18.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_29.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_18.md",
-    "Evergreen-Notes/Permanent-Notes/wu-wei.md",
-    "Evergreen-Notes/Fleeting-Notes.md",
     "Evergreen-Notes/Permanent-Notes/_attachments/649722308_17949081810110591_5999156814611093896_n.jpg",
     "Daily-Bullet-Journal/journals/2026/03-March/_attachments/Pasted image 20260315170101.png",
     "Brainfoodie/posts/_attachments/93bae1325ed7953f4e2ec6ef1318c910.png",
@@ -260,12 +250,7 @@
     "Enoughness/posts/_attachments/Pasted image 20260313133902.png",
     "Enoughness/posts/_attachments/37fe893d87e16240c3257a7c4c57f501.png",
     "Daily-Bullet-Journal/journals/2026/03-March/_attachments/2026_03_12_18_50_42.jpg",
-    "Daily-Bullet-Journal/journals/2020/03-March",
     "Enoughness/posts/_attachments/318017772f1ff74343aa16613bb782c6.jpg",
-    "Enoughness/posts/_attachments/50a2ec6a2c6fef8b9da945a73724eda2.jpg",
-    "Scripts/Templater/upcomingFriday.js",
-    "Daily-Bullet-Journal/journals/2019/03-March",
-    "Daily-Bullet-Journal/journals/2026/03-March/_attachments/4baf153715d4cf5e5740e4aa87b23042.png",
-    "_attachments"
+    "Enoughness/posts/_attachments/50a2ec6a2c6fef8b9da945a73724eda2.jpg"
   ]
 }
