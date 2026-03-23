@@ -31,6 +31,7 @@ function slugify(text) {
         ÿ: "y",
         ß: "ss",
         œ: "oe",
+        $: "dollar",
         "&": "and",
         "@": "at",
         "©": "c",
@@ -38,7 +39,6 @@ function slugify(text) {
         "™": "tm",
         "€": "euro",
         "£": "pound",
-        $: "dollar",
         "%": "percent",
     };
 
