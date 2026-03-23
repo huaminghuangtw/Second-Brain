@@ -324,6 +324,13 @@
       "enabled": true
     },
     {
+      "label": "",
+      "find": "(?<!`)(vs\\.|v\\.s)",
+      "replace": "vs",
+      "flags": "gm",
+      "enabled": true
+    },
+    {
       "label": "Normalize YouTube URLs w/ timestamp",
       "find": "(?<!`)https?://(?:www\\.)?(?:youtube\\.com/(?:watch\\?v=|embed/)|youtu\\.be/(?:watch\\?v=)?)([^&?/\\s\\)\\]]+)[^\\s\\)\\]]*[?&](t=[^&\\s\\)\\]]+)[^\\s\\)\\]]*",
       "replace": "https://youtu.be/$1?$2",
