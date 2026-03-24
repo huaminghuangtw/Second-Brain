@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "beb4c2f11900305e",
+        "id": "e3b9168419c174cf",
         "type": "tabs",
         "children": [
           {
-            "id": "0b6a9fe02b4e70c9",
+            "id": "e31e8c4469a52dbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_23.md",
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_24.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_03_23"
+              "title": "2026_03_24"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "抹布",
+                "query": "Jackson Dahl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,10 +136,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_23.md"
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_24.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_03_23"
+              "title": "File properties for 2026_03_24"
             }
           },
           {
@@ -148,7 +148,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_23.md"
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_24.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_23.md",
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026_03_23"
+              "title": "Backlinks for 2026_03_24"
             }
           },
           {
@@ -219,37 +219,37 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "0b6a9fe02b4e70c9",
+  "active": "e31e8c4469a52dbe",
   "lastOpenFiles": [
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_01.md",
-    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_06.md",
-    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_05.md",
-    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_04.md",
-    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_03.md",
-    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_02.md",
-    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_01.md",
-    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_31.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_22.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_21.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_23.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_08.md",
-    "Evergreen-Notes/Permanent-Notes/Fasting.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_25.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_15.md",
     "Daily-Bullet-Journal/journals/2026/03-March/2026_03_24.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_26.md",
-    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_22.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_18.md",
-    "Life-Notes/Business/🇹🇼 Taiwanese Creators & Founders.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_12.md",
-    "Evergreen-Notes/Permanent-Notes/two-wolves-dark-wolf-and-light-wolf.md",
-    "Daily-Bullet-Journal/journals/2019/03-March/2019_03_23.md",
-    "Daily-Bullet-Journal/journals/2023/03-March/2023_03_23.md",
-    "Daily-Bullet-Journal/journals/2018/03-March/2018_03_23.md",
-    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_23.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_23.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_13.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_23.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_22.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_12.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_19.md",
+    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_29.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_29.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_21.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_15.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/_attachments/Pasted image 20260322110826.png",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_08.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_23.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_09.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_27.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_22.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_03.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_04.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_26.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_16.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_25.md",
+    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_30.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_24.md",
     "Daily-Bullet-Journal/journals/2026/03-March/_attachments/Pasted image 20260322114949.png",
     "Daily-Bullet-Journal/journals/2026/03-March/_attachments/Pasted image 20260322111651.png",
-    "Daily-Bullet-Journal/journals/2026/03-March/_attachments/Pasted image 20260322110826.png",
     "Visuals/Fitness/Darebee/Tree Pose Hold - Per Side.gif",
     "Enoughness/posts/_attachments/e7b1a38d6d3f60cc3b0d139374a258a6.png",
     "Evergreen-Lists/world-cuisine/world-cuisine.pdf",
