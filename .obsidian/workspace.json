@@ -4,16 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "e3b9168419c174cf",
+        "id": "488873157f7cce3c",
         "type": "tabs",
         "children": [
           {
-            "id": "e31e8c4469a52dbe",
+            "id": "363e69a142b4e4f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_24.md",
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "3ba2b9743dafe307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026_03_25"
+            }
+          },
+          {
+            "id": "ed2423ca121f43f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_25.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,10 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_03_24"
+              "title": "2026_03_25"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Jackson Dahl",
+                "query": "手寫信",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,10 +185,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_24.md"
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_25.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_03_24"
+              "title": "File properties for 2026_03_25"
             }
           },
           {
@@ -148,7 +197,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_24.md"
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_25.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -160,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_24.md",
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +219,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026_03_24"
+              "title": "Backlinks for 2026_03_25"
             }
           },
           {
@@ -219,35 +268,36 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "e31e8c4469a52dbe",
+  "active": "ed2423ca121f43f5",
   "lastOpenFiles": [
+    "Homepage.md",
     "Daily-Bullet-Journal/journals/2026/03-March/2026_03_25.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_15.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_24.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_23.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_13.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_29.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_30.md",
+    "letterToYi.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_02.md",
     "Daily-Bullet-Journal/journals/2026/03-March/2026_03_23.md",
     "Daily-Bullet-Journal/journals/2026/03-March/2026_03_22.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_12.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_19.md",
-    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_29.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_29.md",
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_21.md",
+    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_15.md",
+    "Evergreen-Notes/Permanent-Notes/adaptability.md",
+    "Evergreen-Notes/Permanent-Notes/push-your-limits.md",
+    "Evergreen-Notes/Permanent-Notes/kindness.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_18.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/find-joy-not-pleasure.md",
+    "Evergreen-Notes/Permanent-Notes/death.md",
+    "Evergreen-Notes/Permanent-Notes/a-man-who-is-a-master-of-patience-is-master-of-everything-else.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_24.md",
+    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
+    "Enoughness/posts/2026-week-09.md",
+    "Evergreen-Notes/Permanent-Notes/live-in-the-present.md",
+    "Evergreen-Notes/Permanent-Notes/mastering-yourself-is-superpower.md",
+    "Life-Notes/Business/Implementations & Strategies.md",
+    "Evergreen-Notes/Permanent-Notes/relationships.md",
+    "Daily-Bullet-Journal/journals/2023/11-November/2023_11_26.md",
     "Daily-Bullet-Journal/journals/2025/12-December/2025_12_15.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_03.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/_attachments/Pasted image 20260325092708.png",
     "Daily-Bullet-Journal/journals/2026/03-March/_attachments/Pasted image 20260322110826.png",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_08.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_23.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_09.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_27.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_22.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_03.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_04.md",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_26.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_16.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_25.md",
-    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_30.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_24.md",
     "Daily-Bullet-Journal/journals/2026/03-March/_attachments/Pasted image 20260322114949.png",
     "Daily-Bullet-Journal/journals/2026/03-March/_attachments/Pasted image 20260322111651.png",
     "Visuals/Fitness/Darebee/Tree Pose Hold - Per Side.gif",
@@ -262,7 +312,6 @@
     "Evergreen-Notes/Permanent-Notes/_attachments/47ad6c05b22f7f5e001437c6872afa9d.jpg",
     "Daily-Bullet-Journal/journals/2026/03-March/_attachments/40196fc903e119d5dcfe3b9ff0ccfb37.png",
     "Brainfoodie/posts/_attachments/93bae1325ed7953f4e2ec6ef1318c910.png",
-    "Brainfoodie/posts/_attachments/686c89d43115bb2063ac5188d8552357.png",
     "Brainfoodie/posts/_attachments",
     "Brainfoodie/posts",
     "Scripts/Templater/showTagNewsletter.js",
