@@ -50,6 +50,13 @@
   padding-left: 36px;
 }
 
+/* Jan 2026-fix: Add visual divider when a SettingGroup is followed by a single
+  Setting (Switcher++ settings only)
+*/
+.qsp-settings-container .setting-group + .setting-item {
+  margin-top: var(--size-4-6);
+}
+
 /* symbol suggestion should align to the left */
 .suggestion-item.qsp-suggestion-symbol {
   justify-content: left;
@@ -66,7 +73,8 @@
 }
 
 /* highlight the open editor flair icon */
-.suggestion-item.qsp-open-editor .qsp-editor-indicator {
+.suggestion-item.qsp-open-editor .suggestion-aux.qsp-aux .qsp-editor-indicator,
+.suggestion-item.qsp-open-editor .suggestion-aux.qsp-aux .qsp-editor-indicator svg {
   color: var(--text-accent);
 }
 
@@ -105,7 +113,11 @@
 }
 
 /* Wrapper container for rendered markdown content using MarkdownRenderer.render() */
-.qsp-rendered-container {}
+.qsp-rendered-container {
+  /* Reset white-space from suggestion-item's pre-wrap to prevent newlines in
+   rendered HTML (e.g. inside <ol>/<li>) from creating extra line boxes. */
+  white-space: normal;
+}
 
 /* Override styles for child elements of rendered markdown content */
 .qsp-rendered-container > * {
@@ -120,11 +132,28 @@
   pointer-events: none;
 }
 
-/* Rendered markdown content that starts with an Ordered List should keep it's start
-  margin so that the list number is displayed properly. Obsidian defaults to 40px */
-.qsp-rendered-container > ol {
+/* Reset vertical margins on all block elements that Obsidian's .markdown-rendered
+   CSS adds spacing to (via --p-spacing). */
+.qsp-rendered-container ol,
+.qsp-rendered-container ul,
+.qsp-rendered-container p,
+.qsp-rendered-container pre,
+.qsp-rendered-container table,
+.qsp-rendered-container blockquote,
+.qsp-rendered-container h1,
+.qsp-rendered-container h2,
+.qsp-rendered-container h3,
+.qsp-rendered-container h4,
+.qsp-rendered-container h5,
+.qsp-rendered-container h6 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+/* Ordered lists should keep inline-start padding so the list number is visible.
+   Obsidian defaults to 40px. */
+.qsp-rendered-container ol {
   padding-inline-start: 40px;
-  margin-block-end: 0px;
 }
 
 /* command suggestion item */
@@ -163,8 +192,58 @@
 /* suggestion flair/icon container */
 .qsp-aux {}
 
-/* suggestion file path element */
-.qsp-path {}
+/* Faint styling for optional flair icons, excluding symbol indicators */
+.suggestion-aux.qsp-aux > *:not(.qsp-symbol-indicator),
+.suggestion-aux.qsp-aux > *:not(.qsp-symbol-indicator) svg {
+  color: var(--text-faint);
+}
+
+/* Breadcrumb row container - uses flexbox for vertical alignment between icon and text.
+   Applies to all breadcrumb types (path, heading, tags). */
+.qsp-path,
+.qsp-heading-breadcrumbs,
+.qsp-tags-breadcrumbs {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+/* Add spacing between multiple breadcrumb rows (path, heading, tags) */
+.qsp-path + .qsp-heading-breadcrumbs,
+.qsp-path + .qsp-tags-breadcrumbs,
+.qsp-heading-breadcrumbs + .qsp-tags-breadcrumbs {
+  margin-top: 2px;
+}
+
+/* breadcrumb icon indicator (folder, heading, tags, etc.) */
+.qsp-breadcrumb-indicator {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  color: var(--text-faint);
+}
+
+/* Ensure icon SVG inherits size properly */
+.qsp-breadcrumb-indicator svg {
+  width: 1em;
+  height: 1em;
+}
+
+/* breadcrumb content element */
+.qsp-breadcrumb {
+  color: var(--text-muted);
+}
+
+/* heading breadcrumbs element */
+.qsp-heading-breadcrumbs {}
+
+/* tags breadcrumb element */
+.qsp-tags-breadcrumbs {}
+
+/* truncated content indicator - displays ellipsis after content */
+.qsp-truncated::after {
+  content: '…';
+}
 
 /* headings suggestion, heading level (H1, H2, etc..) icon */
 .qsp-headings-indicator {}

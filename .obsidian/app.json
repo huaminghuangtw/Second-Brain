@@ -36,5 +36,7 @@
   "mobileQuickRibbonItem": "command-palette:Open command palette",
   "propertiesInDocument": "hidden",
   "tabSize": 2,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "openBehavior": "file:Homepage",
+  "deleteUnlinkedAttachments": "always"
 }

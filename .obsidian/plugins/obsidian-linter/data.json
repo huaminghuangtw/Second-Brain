@@ -106,7 +106,8 @@
       "enabled": false
     },
     "move-footnotes-to-the-bottom": {
-      "enabled": true
+      "enabled": true,
+      "include-blank-line-between-footnotes": false
     },
     "re-index-footnotes": {
       "enabled": true
@@ -273,9 +274,11 @@
   "lintOnSave": true,
   "recordLintOnSaveLogs": true,
   "displayChanged": false,
+  "suppressMessageWhenNoChange": false,
   "lintOnFileChange": true,
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
+  "additionalFileExtensions": [],
   "foldersToIgnore": [
     "Templates"
   ],
