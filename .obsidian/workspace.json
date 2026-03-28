@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "abec12b723382c57",
+        "id": "db5d91a67b726922",
         "type": "tabs",
         "children": [
           {
-            "id": "6feb9ef9dc79eef3",
+            "id": "bba8dc9af85f4097",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_27.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026_03_27"
-            }
-          },
-          {
-            "id": "9696989ff3cfed6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enoughness/posts/2026-week-13.md",
+                "file": "Homepage.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -52,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-week-13"
+              "title": "Homepage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"peak force\"",
+                "query": "機會總是留給那些尋找機",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +89,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,10 +120,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2024/03-March/2024_03_27.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2024_03_27"
+              "title": "File properties for Homepage"
             }
           },
           {
@@ -158,7 +132,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2024/03-March/2024_03_27.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -170,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enoughness/posts/2026-week-13.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-week-13"
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -211,7 +185,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -228,10 +203,23 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "9696989ff3cfed6e",
+  "active": "bba8dc9af85f4097",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_27.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_26.md",
     "Homepage.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_27.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_28.md",
+    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_28.md",
+    "Daily-Bullet-Journal/journals/2020/03-March/2020_03_28.md",
+    "Daily-Bullet-Journal/journals/2023/03-March/2023_03_28.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_28.md",
+    "Evergreen-Notes/Permanent-Notes/feedback-loop.md",
+    "Evergreen-Notes/Permanent-Notes/work-in-sprints-work-with-your-biology.md",
+    "Evergreen-Notes/Permanent-Notes/avoid-telling-people-your-goals.md",
+    "Evergreen-Notes/Permanent-Notes/mixing-the-pareto-principle-and-the-parkinsons-law.md",
+    "Evergreen-Notes/Fleeting-Notes.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_13.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_22.md",
     "Enoughness/posts/2026-week-13.md",
     "Weekly-Mindware-Update/issues/2024/2024w17.md",
     "Evergreen-Notes/Permanent-Notes/true-education-begins-where-school-ends.md",
@@ -243,19 +231,6 @@
     "Weekly-Mindware-Update/issues/2024/2024w28.md",
     "Daily-Bullet-Journal/journals/2025/09-September/2025_09_15.md",
     "Daily-Bullet-Journal/journals/2026/03-March/2026_03_02.md",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_13.md",
-    "Untitled.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_25.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_26.md",
-    "Enoughness/posts/2025-week-51.md",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_17.md",
-    "Enoughness/posts/2025-week-50.md",
-    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_27.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_27.md",
-    "Daily-Bullet-Journal/journals/2016/03-March/2016_03_27.md",
-    "Daily-Bullet-Journal/journals/2022/03-March/2022_03_27.md",
-    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_26.md",
-    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_25.md",
     "Visuals/Fitness/Darebee/Tricep Extensions.gif",
     "Daily-Bullet-Journal/journals/2026/03-March/_attachments/2026_03_26_21_35_13.jpg",
     "Daily-Bullet-Journal/journals/2026/03-March/_attachments/Pasted image 20260326182652.png",
