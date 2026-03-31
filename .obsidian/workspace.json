@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "24086e8afa04a2b1",
+        "id": "4bf411a81741b382",
         "type": "tabs",
         "children": [
           {
-            "id": "1027941fd1da28e6",
+            "id": "37cb1132d6bcf402",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_26.md",
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_31.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_03_26"
+              "title": "2026_03_31"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gonewild",
+                "query": "tag:#BuJo/📖BrainFood",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,10 +121,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_27.md"
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_31.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_03_27"
+              "title": "File properties for 2026_03_31"
             }
           },
           {
@@ -133,7 +133,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_27.md"
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_31.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_26.md",
+                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026_03_26"
+              "title": "Backlinks for 2026_03_31"
             }
           },
           {
@@ -204,31 +204,36 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "1027941fd1da28e6",
+  "active": "37cb1132d6bcf402",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_27.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_28.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_29.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_14.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_02.md",
-    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_22.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_01.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_04.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_11.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_26.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_17.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_28.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_27.md",
     "Daily-Bullet-Journal/journals/2026/03-March/2026_03_26.md",
     "Daily-Bullet-Journal/journals/2026/03-March/2026_03_25.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_31.md",
+    "Evergreen-Notes/Permanent-Notes/journey-over-destination.md",
+    "Evergreen-Notes/Permanent-Notes/the-hofstadters-law.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_02.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_17.md",
+    "Evergreen-Notes/Permanent-Notes/_attachments/a084c9867ae04b23f54b45afcd49e2e2.jpg",
+    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
+    "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
+    "Evergreen-Notes/Permanent-Notes/How the poor and rich think differently.md",
+    "Life-Notes/Finance/💰Personal Finance.md",
     "Daily-Bullet-Journal/journals/2026/03-March/2026_03_30.md",
-    "About.md",
-    "Templates/T_Today-I-Learned.md",
-    "Templates/T_Shortcutomation.md",
-    "Templates/T_Permanent-Notes.md",
-    "Templates/T_Notes-to-Self.md",
-    "Templates/T_Enoughness.md",
-    "Templates/T_Brainfoodie.md",
-    "Templates/T_AdaptX.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_29.md",
+    "Evergreen-Notes/Permanent-Notes/stay-curious.md",
+    "Evergreen-Notes/Permanent-Notes/the-beginner-mindset.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_28.md",
+    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_06.md",
+    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_12.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_29.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_04.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_09.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_06.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_11.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/_attachments/b965059502d410b5ae4604cab30e3466.png",
     "Templates",
     "Scripts/Templater/upcomingFriday.js",
     "Scripts/Templater/toTitleCase.js",
@@ -239,9 +244,6 @@
     "Scripts/auto-backup.sh",
     "Scripts/Utils.js",
     "Scripts/Templater",
-    "Notes-to-Self/posts/2025-10-05.md",
-    "Notes-to-Self/posts/2025-09-11.md",
-    "Notes-to-Self/posts/2025-09-10.md",
     "Today-I-Learned/posts/_attachments/7e17c6817f2c1952777d0708736f4bb3.png",
     "Brainfoodie/posts/_attachments/93bae1325ed7953f4e2ec6ef1318c910.png",
     "Brainfoodie/posts/_attachments/686c89d43115bb2063ac5188d8552357.png",
@@ -249,8 +251,6 @@
     "Dear-Today-Me/assets/notification.png",
     "Dear-Today-Me/assets/dashboard.png",
     "Weekly-Mindware-Update/assets/widget.png",
-    "Weekly-Mindware-Update/assets/notification.png",
-    "Weekly-Mindware-Update/assets/callout.png",
-    "Brain-Food/assets/youtube-video.png"
+    "Weekly-Mindware-Update/assets/notification.png"
   ]
 }
