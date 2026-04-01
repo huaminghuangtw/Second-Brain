@@ -27,15 +27,6 @@
       "key": "B"
     }
   ],
-  "app:delete-file": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "D"
-    }
-  ],
   "editor:delete-paragraph": [
     {
       "modifiers": [
@@ -957,6 +948,15 @@
         "Mod"
       ],
       "key": "L"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "D"
     }
   ]
 }

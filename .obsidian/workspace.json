@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "4bf411a81741b382",
+        "id": "c496978203b70e03",
         "type": "tabs",
         "children": [
           {
-            "id": "37cb1132d6bcf402",
+            "id": "aa97d7628c3b919e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_31.md",
+                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025_08_29"
+            }
+          },
+          {
+            "id": "fbc8e623c53cffb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_01.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,10 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_03_31"
+              "title": "2026_04_01"
+            }
+          },
+          {
+            "id": "db553f2947a3bb58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#BuJo/📖BrainFood",
+                "query": "\"agent\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,10 +170,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_31.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_03_31"
+              "title": "File properties for Homepage"
             }
           },
           {
@@ -133,7 +182,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_31.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -145,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_31.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +204,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026_03_31"
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -187,7 +236,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -204,14 +253,28 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "37cb1132d6bcf402",
+  "active": "db553f2947a3bb58",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_01.md",
     "Homepage.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
+    "Daily-Bullet-Journal/journals/2022/04-April/2022_04_01.md",
+    "Daily-Bullet-Journal/journals/2023/04-April/2023_04_01.md",
+    "Daily-Bullet-Journal/journals/2021/04-April/2021_04_01.md",
+    "Daily-Bullet-Journal/journals/2020/04-April/2020_04_01.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_01.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_01.md",
+    "Daily-Bullet-Journal/journals/2020/04-April",
+    "Daily-Bullet-Journal/journals/2026/04-April",
+    "Evergreen-Notes/Permanent-Notes/premortem.md",
+    "Evergreen-Notes/Fleeting-Notes.md",
+    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_20.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_30.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_31.md",
     "Daily-Bullet-Journal/journals/2026/03-March/2026_03_28.md",
     "Daily-Bullet-Journal/journals/2026/03-March/2026_03_27.md",
     "Daily-Bullet-Journal/journals/2026/03-March/2026_03_26.md",
     "Daily-Bullet-Journal/journals/2026/03-March/2026_03_25.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_31.md",
     "Evergreen-Notes/Permanent-Notes/journey-over-destination.md",
     "Evergreen-Notes/Permanent-Notes/the-hofstadters-law.md",
     "Daily-Bullet-Journal/journals/2024/08-August/2024_08_02.md",
@@ -221,18 +284,6 @@
     "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
     "Evergreen-Notes/Permanent-Notes/How the poor and rich think differently.md",
     "Life-Notes/Finance/💰Personal Finance.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_30.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_29.md",
-    "Evergreen-Notes/Permanent-Notes/stay-curious.md",
-    "Evergreen-Notes/Permanent-Notes/the-beginner-mindset.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_28.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_06.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_12.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_29.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_04.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_09.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_06.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_11.md",
     "Daily-Bullet-Journal/journals/2026/03-March/_attachments/b965059502d410b5ae4604cab30e3466.png",
     "Templates",
     "Scripts/Templater/upcomingFriday.js",
@@ -242,8 +293,6 @@
     "Scripts/Templater/setViewMode.js",
     "Scripts/Templater/createWritingPost.js",
     "Scripts/auto-backup.sh",
-    "Scripts/Utils.js",
-    "Scripts/Templater",
     "Today-I-Learned/posts/_attachments/7e17c6817f2c1952777d0708736f4bb3.png",
     "Brainfoodie/posts/_attachments/93bae1325ed7953f4e2ec6ef1318c910.png",
     "Brainfoodie/posts/_attachments/686c89d43115bb2063ac5188d8552357.png",
