@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c496978203b70e03",
+        "id": "48e6ed5c174d5ce9",
         "type": "tabs",
         "children": [
           {
-            "id": "aa97d7628c3b919e",
+            "id": "c9c4cbcc0df1ffa9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
+                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_02.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025_08_29"
-            }
-          },
-          {
-            "id": "fbc8e623c53cffb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_01.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026_04_01"
-            }
-          },
-          {
-            "id": "db553f2947a3bb58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2026_04_02"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"agent\"",
+                "query": "圖書館",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,10 +121,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_02.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for 2026_04_02"
             }
           },
           {
@@ -182,7 +133,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_02.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -194,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 2026_04_02"
             }
           },
           {
@@ -236,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -253,53 +204,52 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "db553f2947a3bb58",
+  "active": "c9c4cbcc0df1ffa9",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_01.md",
     "Homepage.md",
     "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_02.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/_attachments/Pasted image 20260402165911.png",
+    "Daily-Bullet-Journal/journals/2026/04-April/_attachments",
+    "Evergreen-Notes/Permanent-Notes/be-grateful.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_21.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_26.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_20.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_24.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_01.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_29.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_27.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_13.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_31.md",
+    "Daily-Bullet-Journal/journals/2022/04-April/2022_04_02.md",
+    "Daily-Bullet-Journal/journals/2020/04-April/2020_04_02.md",
+    "Daily-Bullet-Journal/journals/2021/04-April/2021_04_02.md",
+    "Daily-Bullet-Journal/journals/2018/04-April/2018_04_02.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_02.md",
+    "Daily-Bullet-Journal/journals/2017/04-April/2017_04_02.md",
+    "Daily-Bullet-Journal/journals/2023/04-April/2023_04_02.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_02.md",
+    "Daily-Bullet-Journal/journals/2018/04-April",
+    "Daily-Bullet-Journal/journals/2017/04-April",
+    "Evergreen-Notes/Permanent-Notes/second-order-thinking.md",
+    "Evergreen-Notes/Permanent-Notes/feedback-loop.md",
+    "Evergreen-Notes/Fleeting-Notes.md",
     "Daily-Bullet-Journal/journals/2022/04-April/2022_04_01.md",
-    "Daily-Bullet-Journal/journals/2023/04-April/2023_04_01.md",
-    "Daily-Bullet-Journal/journals/2021/04-April/2021_04_01.md",
-    "Daily-Bullet-Journal/journals/2020/04-April/2020_04_01.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_01.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_01.md",
     "Daily-Bullet-Journal/journals/2020/04-April",
     "Daily-Bullet-Journal/journals/2026/04-April",
-    "Evergreen-Notes/Permanent-Notes/premortem.md",
-    "Evergreen-Notes/Fleeting-Notes.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_20.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_30.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_31.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_28.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_27.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_26.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_25.md",
-    "Evergreen-Notes/Permanent-Notes/journey-over-destination.md",
-    "Evergreen-Notes/Permanent-Notes/the-hofstadters-law.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_02.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_17.md",
     "Evergreen-Notes/Permanent-Notes/_attachments/a084c9867ae04b23f54b45afcd49e2e2.jpg",
-    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
-    "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
-    "Evergreen-Notes/Permanent-Notes/How the poor and rich think differently.md",
-    "Life-Notes/Finance/💰Personal Finance.md",
     "Daily-Bullet-Journal/journals/2026/03-March/_attachments/b965059502d410b5ae4604cab30e3466.png",
     "Templates",
     "Scripts/Templater/upcomingFriday.js",
     "Scripts/Templater/toTitleCase.js",
     "Scripts/Templater/slugify.js",
     "Scripts/Templater/showTagNewsletter.js",
-    "Scripts/Templater/setViewMode.js",
-    "Scripts/Templater/createWritingPost.js",
-    "Scripts/auto-backup.sh",
     "Today-I-Learned/posts/_attachments/7e17c6817f2c1952777d0708736f4bb3.png",
     "Brainfoodie/posts/_attachments/93bae1325ed7953f4e2ec6ef1318c910.png",
     "Brainfoodie/posts/_attachments/686c89d43115bb2063ac5188d8552357.png",
     "Dear-Today-Me/assets/widget.png",
     "Dear-Today-Me/assets/notification.png",
     "Dear-Today-Me/assets/dashboard.png",
-    "Weekly-Mindware-Update/assets/widget.png",
-    "Weekly-Mindware-Update/assets/notification.png"
+    "Weekly-Mindware-Update/assets/widget.png"
   ]
 }

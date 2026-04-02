@@ -5702,6 +5702,10 @@ tXR
 tZCu
 thinly
 trailing
+typewriter
+thickest
+toggles
+trapping
 Escape
 Everything
 Earl
@@ -11521,6 +11525,9 @@ Eartips
 England
 Enshrinement
 EMEZ
+Element
+Enabling
+Eliezer
 competition
 created
 concerned
@@ -18200,6 +18207,8 @@ crawling
 cryptic
 cXxw
 comma
+chartjunk
+columns
 authenticity
 and
 avoids
@@ -24263,6 +24272,10 @@ animosity
 adaf
 averages
 authenticated
+accent
+appendices
+adaptivity
+architectures
 modified
 means
 mind
@@ -30338,6 +30351,9 @@ morphe
 mayo
 mmap
 mwqp
+mousing
+magnitudes
+misaligned
 popular
 pause
 prisons
@@ -36696,6 +36712,8 @@ prohibit
 penchant
 pads
 purist
+prioritise
+pitfalls
 is
 it
 in
@@ -42888,6 +42906,11 @@ intersections
 iKf
 inquisitive
 imagines
+indented
+illustrations
+indirectly
+inspect
+imposes
 wrong
 world
 with
@@ -48239,6 +48262,7 @@ wnQeD
 weeklong
 weakening
 whitespaces
+widest
 Oscar
 Only
 Once
@@ -54009,6 +54033,9 @@ Olympiapark
 Oetker
 Opfern
 Ovulation
+Opacity
+OverleafOverleaf
+Overconfidence
 Wilde
 Whenever
 Woolf
@@ -65646,6 +65673,12 @@ Transgender
 Toaster
 Tangy
 TTmGZ
+Typewriter
+Transitions
+TableOfContents
+TableOfContentsHeading
+Tufte
+Tapping
 escape
 eyes
 everyone
@@ -71673,6 +71706,7 @@ exposures
 eumm
 eaba
 encode
+erodes
 from
 first
 find
@@ -77435,6 +77469,7 @@ freeway
 famila
 frustratingly
 fITq
+ffcb
 one
 opinions
 of
@@ -82963,6 +82998,8 @@ overcomplicating
 organizational
 overactive
 onesie
+opacity
+overdoing
 not
 no
 needed
@@ -93974,6 +94011,10 @@ Dating
 Dublin
 Drafts
 Dhabi
+Detection
+Dutch
+DesktopMenuToggle
+Dropdown
 Victorious
 Virginia
 Vincent
@@ -105020,6 +105061,7 @@ graduate
 gemahlen
 grandma
 gqayu
+gridlines
 defeated
 do
 distinctiveness
@@ -111293,6 +111335,9 @@ delimiters
 dice
 decimal
 dismissal
+dims
+dimming
+dropdowns
 seek
 side
 successful
@@ -118198,6 +118243,13 @@ soak
 sandboxed
 saliva
 separators
+swaps
+sidenote
+scrollable
+sidenotes
+segregated
+shortages
+sensational
 battle
 be
 but
@@ -130537,6 +130589,8 @@ Slotted
 Staple
 Schwäbischer
 Schnitzel
+Sidenotes
+Starlight
 you
 yourself
 your
@@ -142399,6 +142453,9 @@ reheating
 rearrange
 ramps
 recovered
+reversibility
+reversed
+refactored
 Mark
 Matshona
 Malcolm
@@ -148379,6 +148436,9 @@ Maastricht
 Maultaschen
 MyWhoosh
 MAaV
+Multiples
+MobileMenuToggle
+Moat
 If
 In
 It
@@ -159821,6 +159881,7 @@ lollapalooza
 learnt
 liking
 leaderboard
+landlords
 Nightingale
 Normalcy
 Normal
@@ -170885,6 +170946,8 @@ helical
 harassed
 hieve
 households
+hairline
+handouts
 You
 Youer
 Your
@@ -176351,6 +176414,7 @@ YIxb
 YÖc
 YdC
 Yeats
+Yudkowsky
 Jeff
 Judy
 Jeffrey
@@ -193077,6 +193141,9 @@ Claim
 Convenience
 Creamier
 Centers
+Clicking
+Closes
+Corner
 All
 Always
 Against
@@ -203786,6 +203853,8 @@ vaginal
 vibes
 veritasium
 verse
+vertically
+viewports
 Garland
 Grateful
 Grounding
@@ -221080,6 +221149,7 @@ Federer
 Fame
 FAANG
 Fiat
+FloatingTableOfContents
 Rita
 Romans
 Rumi
@@ -233050,6 +233120,8 @@ PSFsD
 PnRI
 Premortem
 Pass
+Paralysis
+Proverbs
 Lewis
 Lean
 Let
@@ -238773,6 +238845,7 @@ League
 Liga
 Ligue
 LATEST
+LISTS
 Uncondition
 Undo
 Use
@@ -266524,6 +266597,8 @@ Homeostasis
 Heighten
 Homomorphism
 Hafen
+Hovering
+Hamburger
 question
 quiet
 questions
@@ -277918,6 +277993,7 @@ zZe
 zssc
 zouth
 ziplock
+zen
 Keep
 Kick
 Kipchoge
@@ -283445,6 +283521,7 @@ Kaltmiete
 Knees
 Knoblauch
 Kuan
+Knuckle
 Xx
 Xg
 XN
