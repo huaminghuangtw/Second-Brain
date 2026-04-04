@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "feb9216d46a50a35",
+        "id": "7979238996fa0f22",
         "type": "tabs",
         "children": [
           {
-            "id": "d44f307b626b65c5",
+            "id": "df483b01e9906531",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_03.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2026_04_03"
             }
           }
         ]
@@ -63,10 +63,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"40% rule\"",
+                "query": "\"being wealthy\"",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -121,10 +121,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_03.md"
+                "file": "Weekly-Mindware-Update/issues/2024/2024w47.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_04_03"
+              "title": "File properties for 2024w47"
             }
           },
           {
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 2026_04_03"
             }
           },
           {
@@ -191,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 483.5,
+    "width": 407.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -204,34 +204,34 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "d44f307b626b65c5",
+  "active": "df483b01e9906531",
   "lastOpenFiles": [
-    "Evergreen-Notes/Permanent-Notes/journaling.md",
+    "Homepage.md",
+    "Life-Notes/Finance/ETF.md",
+    "Enoughness/posts/2026-week-15.md",
     "Enoughness/posts/2026-week-14.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_03.md",
-    "Enoughness/posts/2025-week-52.md",
-    "Evergreen-Notes/Permanent-Notes/push-your-limits.md",
+    "Life-Notes/Finance/Investment 101.md",
+    "Evergreen-Notes/Permanent-Notes/money.md",
     "Untitled.md",
-    "Enoughness/posts/2025-week-46.md",
-    "Enoughness/posts/2026-week-02.md",
-    "Enoughness/posts/2026-week-07.md",
-    "Enoughness/posts/2025-week-50.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_29.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_05.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_28.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_11.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_10.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_09.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_30.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_27.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_24.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_13.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_17.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_08.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_09.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_19.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_13.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_01.md",
+    "AdaptX/posts/alex-honnold.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_04.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Life-Notes/Business/🏰 My Biz Empire.md",
+    "Evergreen-Notes/Permanent-Notes/ludwig-wittgensteins-theory-of-meaning.md",
+    "Evergreen-Notes/Permanent-Notes/wittgensteins-ladder.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_08.md",
+    "Weekly-Mindware-Update/issues/2025/2025w49.md",
+    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_17.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_30.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_03.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_02.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_01.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_31.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_30.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_03.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_01.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_24.md",
+    "Evergreen-Notes/Permanent-Notes/have-the-courage-to-do-the-right-things.md",
     "Daily-Bullet-Journal/journals/2016/04-April",
     "Visuals/Fitness/Darebee/30-Count Plank Hold.gif",
     "Daily-Bullet-Journal/journals/2026/04-April/_attachments/Pasted image 20260402165911.png",
