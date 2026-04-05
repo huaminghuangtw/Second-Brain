@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "7979238996fa0f22",
+        "id": "b88619cc8db5b6f8",
         "type": "tabs",
         "children": [
           {
-            "id": "df483b01e9906531",
+            "id": "da0e055a8e9172a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_03.md",
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "57e73a4ce8ebb70c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +52,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_04_03"
+              "title": "2026_04_05"
+            }
+          },
+          {
+            "id": "0fc5df7ae6a62666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/always-do-your-best-as-possible.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "always-do-your-best-as-possible"
+            }
+          },
+          {
+            "id": "3dc35546ff0c1a70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -63,10 +136,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"being wealthy\"",
+                "query": "\"You Only Live Once\"",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -121,10 +194,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Weekly-Mindware-Update/issues/2024/2024w47.md"
+                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_05.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2024w47"
+              "title": "File properties for 2026_04_05"
             }
           },
           {
@@ -133,7 +206,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_02.md"
+                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_05.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -145,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_03.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +228,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026_04_03"
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -204,53 +277,53 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "df483b01e9906531",
+  "active": "3dc35546ff0c1a70",
   "lastOpenFiles": [
+    "Evergreen-Notes/Permanent-Notes/always-do-your-best-as-possible.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_05.md",
     "Homepage.md",
-    "Life-Notes/Finance/ETF.md",
-    "Enoughness/posts/2026-week-15.md",
-    "Enoughness/posts/2026-week-14.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_28.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_28.md",
+    "Daily-Bullet-Journal/journals/2023/04-April/2023_04_06.md",
+    "Weekly-Mindware-Update/issues/2026/2026w14.md",
+    "Daily-Bullet-Journal/journals/2023/04-April/2023_04_05.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_05.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_09.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_10.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_08.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_07.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_11.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_12.md",
     "Life-Notes/Finance/Investment 101.md",
-    "Evergreen-Notes/Permanent-Notes/money.md",
+    "Enoughness/posts/2026-week-14.md",
+    "Enoughness/posts/2026-week-15.md",
     "Untitled.md",
-    "AdaptX/posts/alex-honnold.md",
     "Daily-Bullet-Journal/journals/2026/04-April/2026_04_04.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Life-Notes/Business/🏰 My Biz Empire.md",
-    "Evergreen-Notes/Permanent-Notes/ludwig-wittgensteins-theory-of-meaning.md",
-    "Evergreen-Notes/Permanent-Notes/wittgensteins-ladder.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_08.md",
-    "Weekly-Mindware-Update/issues/2025/2025w49.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_17.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_30.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_03.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_02.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_01.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_31.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_30.md",
     "Daily-Bullet-Journal/journals/2026/04-April/2026_04_03.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_01.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_24.md",
-    "Evergreen-Notes/Permanent-Notes/have-the-courage-to-do-the-right-things.md",
+    "Evergreen-Lists/tech-pro-tip/tech-pro-tip.md",
+    "Daily-Bullet-Journal/journals/2023/12-December/2023_12_10.md",
+    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
+    "Daily-Bullet-Journal/journals/2022/04-April/2022_04_05.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_05.md",
+    "Deep-Work-Machine/Number of Words/2026/03-March/number-of-words_2026-03.csv",
+    "Deep-Work-Machine/Number of Words/2026/03-March/number-of-words_2026-03.json",
+    "Deep-Work-Machine/Number of Words/2026/03-March/number-of-words_2026-03.png",
+    "Deep-Work-Machine/Number of Flows/2026/03-March/number-of-flows_2026-03.json",
+    "Deep-Work-Machine/Number of Flows/2026/03-March/number-of-flows_2026-03.csv",
+    "Deep-Work-Machine/Number of Words/2026/03-March",
+    "Deep-Work-Machine/Number of Flows/2026/03-March/number-of-flows_2026-03.png",
+    "Deep-Work-Machine/Number of Flows/2026/03-March",
+    "Daily-Bullet-Journal/journals/2026/04-April/_attachments/Pasted image 20260404201203.png",
+    "Daily-Bullet-Journal/journals/2026/04-April/_attachments/Pasted image 20260404200622.png",
     "Daily-Bullet-Journal/journals/2016/04-April",
     "Visuals/Fitness/Darebee/30-Count Plank Hold.gif",
     "Daily-Bullet-Journal/journals/2026/04-April/_attachments/Pasted image 20260402165911.png",
     "Daily-Bullet-Journal/journals/2026/04-April/_attachments",
     "Daily-Bullet-Journal/journals/2018/04-April",
     "Daily-Bullet-Journal/journals/2017/04-April",
-    "Daily-Bullet-Journal/journals/2020/04-April",
-    "Daily-Bullet-Journal/journals/2026/04-April",
     "Evergreen-Notes/Permanent-Notes/_attachments/a084c9867ae04b23f54b45afcd49e2e2.jpg",
     "Daily-Bullet-Journal/journals/2026/03-March/_attachments/b965059502d410b5ae4604cab30e3466.png",
-    "Templates",
-    "Scripts/Templater/upcomingFriday.js",
-    "Scripts/Templater/toTitleCase.js",
-    "Scripts/Templater/slugify.js",
     "Today-I-Learned/posts/_attachments/7e17c6817f2c1952777d0708736f4bb3.png",
-    "Brainfoodie/posts/_attachments/93bae1325ed7953f4e2ec6ef1318c910.png",
-    "Brainfoodie/posts/_attachments/686c89d43115bb2063ac5188d8552357.png",
-    "Dear-Today-Me/assets/widget.png",
-    "Dear-Today-Me/assets/notification.png",
-    "Dear-Today-Me/assets/dashboard.png"
+    "Brainfoodie/posts/_attachments/93bae1325ed7953f4e2ec6ef1318c910.png"
   ]
 }
