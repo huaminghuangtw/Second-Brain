@@ -4,64 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b88619cc8db5b6f8",
+        "id": "6e7c50793d9604f2",
         "type": "tabs",
         "children": [
           {
-            "id": "da0e055a8e9172a7",
+            "id": "991ed9f1aa7c135b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "57e73a4ce8ebb70c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_05.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026_04_05"
-            }
-          },
-          {
-            "id": "0fc5df7ae6a62666",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/always-do-your-best-as-possible.md",
+                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_06.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -76,18 +28,18 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "always-do-your-best-as-possible"
+              "title": "2026_04_06"
             }
           },
           {
-            "id": "3dc35546ff0c1a70",
+            "id": "3e018338f512eda9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": false,
+                "file": "Life-Notes/Finance/💰Personal Finance.md",
+                "mode": "source",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -100,7 +52,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "💰Personal Finance"
+            }
+          },
+          {
+            "id": "9c3f8904870a65a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life-Notes/Finance/ETF.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ETF"
+            }
+          },
+          {
+            "id": "e57e0c420eb361ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enoughness/posts/2026-week-14.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-week-14"
             }
           }
         ],
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"You Only Live Once\"",
+                "query": "捐血",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,10 +194,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_05.md"
+                "file": "Enoughness/posts/2026-week-14.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_04_05"
+              "title": "File properties for 2026-week-14"
             }
           },
           {
@@ -206,7 +206,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_05.md"
+                "file": "Enoughness/posts/2026-week-14.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Enoughness/posts/2026-week-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for 2026-week-14"
             }
           },
           {
@@ -277,34 +277,35 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "3dc35546ff0c1a70",
+  "active": "e57e0c420eb361ba",
   "lastOpenFiles": [
-    "Evergreen-Notes/Permanent-Notes/always-do-your-best-as-possible.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_05.md",
+    "Life-Notes/Finance/ETF.md",
+    "Life-Notes/Finance/💰Personal Finance.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_06.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_28.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_28.md",
-    "Daily-Bullet-Journal/journals/2023/04-April/2023_04_06.md",
-    "Weekly-Mindware-Update/issues/2026/2026w14.md",
-    "Daily-Bullet-Journal/journals/2023/04-April/2023_04_05.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_05.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_09.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_10.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_08.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_07.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_11.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_12.md",
-    "Life-Notes/Finance/Investment 101.md",
-    "Enoughness/posts/2026-week-14.md",
-    "Enoughness/posts/2026-week-15.md",
-    "Untitled.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_13.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_10.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_30.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_31.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_05.md",
     "Daily-Bullet-Journal/journals/2026/04-April/2026_04_04.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_03.md",
-    "Evergreen-Lists/tech-pro-tip/tech-pro-tip.md",
-    "Daily-Bullet-Journal/journals/2023/12-December/2023_12_10.md",
-    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
-    "Daily-Bullet-Journal/journals/2022/04-April/2022_04_05.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_05.md",
+    "Enoughness/posts/2026-week-14.md",
+    "Evergreen-Notes/Permanent-Notes/the-compounding-effect.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_14.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_13.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_19.md",
+    "Evergreen-Notes/Permanent-Notes/the-game-of-life.md",
+    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_30.md",
+    "Evergreen-Notes/Permanent-Notes/always-start-with-end-in-mind.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_05.md",
+    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.md",
+    "AdaptX/posts/you-and-your-timeline.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_18.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_26.md",
+    "AdaptX/posts/the-power-of-quiet.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_17.md",
+    "Daily-Bullet-Journal/journals/2015/04-April",
     "Deep-Work-Machine/Number of Words/2026/03-March/number-of-words_2026-03.csv",
     "Deep-Work-Machine/Number of Words/2026/03-March/number-of-words_2026-03.json",
     "Deep-Work-Machine/Number of Words/2026/03-March/number-of-words_2026-03.png",
@@ -320,7 +321,6 @@
     "Daily-Bullet-Journal/journals/2026/04-April/_attachments/Pasted image 20260402165911.png",
     "Daily-Bullet-Journal/journals/2026/04-April/_attachments",
     "Daily-Bullet-Journal/journals/2018/04-April",
-    "Daily-Bullet-Journal/journals/2017/04-April",
     "Evergreen-Notes/Permanent-Notes/_attachments/a084c9867ae04b23f54b45afcd49e2e2.jpg",
     "Daily-Bullet-Journal/journals/2026/03-March/_attachments/b965059502d410b5ae4604cab30e3466.png",
     "Today-I-Learned/posts/_attachments/7e17c6817f2c1952777d0708736f4bb3.png",
