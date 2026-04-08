@@ -112,8 +112,8 @@ const results = Object.fromEntries(
 );
 
 const ROW_CONFIG = [
-    { metric: "Number of Flows", emoji: "🍅", label: "Flows" },
-    { metric: "Number of Words", emoji: "✏️", label: "Words" }
+    { metric: "Number of Flows", label: "Flows" },
+    { metric: "Number of Words", label: "Words" }
 ];
 
 const todayISO = today.toISODate();
@@ -133,11 +133,11 @@ for (const [metric, { path }] of Object.entries(METRICS)) {
 
 dv.table(
     ["", "**Last Week Average**", "**This Week Average**", "**Yesterday**", "**Today**"],
-    ROW_CONFIG.map(({ metric, emoji, label }) => {
+    ROW_CONFIG.map(({ metric, label }) => {
         const res = results[metric];
         const link = encodeURI(`vscode://file/${app.vault.adapter.basePath}/${METRICS[metric].path}:${lineNumbers[metric]}`);
         return [
-            `**${emoji} [${label}](${link})**`,
+            `**[${label}](${link})**`,
             `${res[0]}`,
             ...res.slice(1, 3),
             res[3] >= CONFIG.thresholds[metric] ? `👌 ${res[3]}` : `💪 ${res[3]}`
