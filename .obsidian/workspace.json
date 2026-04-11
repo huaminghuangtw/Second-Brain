@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f0f8f8b176e504f1",
+        "id": "29e3c8cb58c41a47",
         "type": "tabs",
         "children": [
           {
-            "id": "12ebe47b654e823d",
+            "id": "5bbe651472e4382c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "電動牙刷",
+                "query": "打工",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,10 +120,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_10.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_04_10"
+              "title": "File properties for Homepage"
             }
           },
           {
@@ -204,34 +203,34 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "12ebe47b654e823d",
+  "active": "5bbe651472e4382c",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_10.md",
+    "About.md",
+    "Evergreen-Notes/Permanent-Notes/quit-social-media.md",
+    "Enoughness/posts/2026-week-14.md",
+    "Enoughness/posts/2026-week-15.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_11.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_04.md",
-    "AdaptX/posts/how-to-tie-shoelaces.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_14.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_27.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_26.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_27.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-know-when-to-end-a-relationship.md",
-    "Evergreen-Notes/Permanent-Notes/the-sunk-cost-fallacy.md",
-    "Evergreen-Notes/Fleeting-Notes.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_23.md",
-    "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_02.md",
-    "Evergreen-Notes/Permanent-Notes/never-lose-faith-and-hope.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_31.md",
-    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_29.md",
-    "Evergreen-Notes/Permanent-Notes/systems-thinking.md",
-    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-live-a-life.md",
-    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-make-your-own-energy-gels.md",
-    "Evergreen-Notes/Permanent-Notes/money.md",
-    "Evergreen-Notes/Permanent-Notes/Storytelling.md",
-    "Evergreen-Notes/Permanent-Notes/pain-is-inevitable-suffering-is-optional.md",
-    "Evergreen-Notes/Permanent-Notes/maslows-hierarchy-of-needs.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_16.md",
+    "Daily-Bullet-Journal/journals/2023/01-January/2023_01_09.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_02.md",
+    "AdaptX/posts/start-small.md",
+    "Evergreen-Notes/Permanent-Notes/how-to-use-ai-effectively.md",
+    "Evergreen-Notes/Permanent-Notes/how-to-ask-good-and-right-questions.md",
+    "Life-Notes/Alignment/🐤 New Hobbies.md",
+    "AdaptX/posts/you-and-your-timeline.md",
+    "Enoughness/posts/2026-week-08.md",
+    "Enoughness/posts/2025-week-52.md",
+    "Enoughness/posts/2026-week-09.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_09.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_01.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_29.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_28.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_10.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_11.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_11.md",
+    "Daily-Bullet-Journal/journals/2023/04-April/2023_04_11.md",
+    "Daily-Bullet-Journal/journals/2020/04-April/2020_04_11.md",
     "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260410195808.png",
     "Brainfoodie/posts/_attachments/3e327b28949ad73c324d32af0c8eab61.png",
     "Enoughness/posts/_attachments/661ac1fdedbb5157e3aad93271d7d2c4.jpg",
