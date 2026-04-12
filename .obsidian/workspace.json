@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "29e3c8cb58c41a47",
+        "id": "91dfa5513297c59d",
         "type": "tabs",
         "children": [
           {
-            "id": "5bbe651472e4382c",
+            "id": "0b924f524ebea8de",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "打工",
+                "query": "\"really simple\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -132,7 +133,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_10.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -203,34 +204,39 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "5bbe651472e4382c",
+  "active": "0b924f524ebea8de",
   "lastOpenFiles": [
-    "About.md",
-    "Evergreen-Notes/Permanent-Notes/quit-social-media.md",
-    "Enoughness/posts/2026-week-14.md",
-    "Enoughness/posts/2026-week-15.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_11.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_12.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_16.md",
-    "Daily-Bullet-Journal/journals/2023/01-January/2023_01_09.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_02.md",
-    "AdaptX/posts/start-small.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-use-ai-effectively.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-ask-good-and-right-questions.md",
-    "Life-Notes/Alignment/🐤 New Hobbies.md",
-    "AdaptX/posts/you-and-your-timeline.md",
-    "Enoughness/posts/2026-week-08.md",
-    "Enoughness/posts/2025-week-52.md",
-    "Enoughness/posts/2026-week-09.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_09.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_01.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_29.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_29.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_28.md",
     "Daily-Bullet-Journal/journals/2024/11-November/2024_11_28.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_10.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_11.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_11.md",
-    "Daily-Bullet-Journal/journals/2023/04-April/2023_04_11.md",
-    "Daily-Bullet-Journal/journals/2020/04-April/2020_04_11.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_02.md",
+    "Evergreen-Notes/Permanent-Notes/stress-and-anxiety.md",
+    "Enoughness/posts/2025-week-49.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_11.md",
+    "Weekly-Mindware-Update/issues/2026/2026w15.md",
+    "Life-Notes/Business/Startups.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_06.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_07.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_08.md",
+    "Daily-Bullet-Journal/journals/2022/04-April/2022_04_12.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_12.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_12.md",
+    "Daily-Bullet-Journal/journals/2020/04-April/2020_04_12.md",
+    "Daily-Bullet-Journal/journals/2023/04-April/2023_04_12.md",
+    "Daily-Bullet-Journal/journals/2021/04-April/2021_04_12.md",
+    "Evergreen-Notes/Permanent-Notes/the-dreamlining-method.md",
+    "Evergreen-Notes/Fleeting-Notes.md",
+    "Evergreen-Notes/Permanent-Notes/why-i-write-and-run-every-single-day.md",
+    "Evergreen-Notes/Permanent-Notes/do-great-work.md",
+    "Evergreen-Notes/Permanent-Notes/always-do-your-best-as-possible.md",
+    "Weekly-Mindware-Update/issues/2024/2024w26.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/_attachments/78ac387c8709f98b5989093a13deb8a3.png",
+    "Daily-Bullet-Journal/journals/2025/09-September/_attachments/711269ac837de9a60deb13839d2c6094.jpg",
+    "_attachments",
+    "Daily-Bullet-Journal/journals/2025/09-September/_attachments/fe7ad6689e9e2c6391d9a79c99774b23.png",
+    "Daily-Bullet-Journal/journals/2025/09-September/_attachments/588df5a1e0d5dccb5f1c06a393ab51ec.png",
     "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260410195808.png",
     "Brainfoodie/posts/_attachments/3e327b28949ad73c324d32af0c8eab61.png",
     "Enoughness/posts/_attachments/661ac1fdedbb5157e3aad93271d7d2c4.jpg",
@@ -244,12 +250,7 @@
     "Deep-Work-Machine/Number of Flows/2026/03-March/number-of-flows_2026-03.png",
     "Deep-Work-Machine/Number of Flows/2026/03-March",
     "Daily-Bullet-Journal/journals/2026/04-April/_attachments/6d0e815880a0b18b840139ca32eaf67f.png",
-    "Daily-Bullet-Journal/journals/2026/04-April/_attachments/Pasted image 20260404200622.png",
     "Daily-Bullet-Journal/journals/2016/04-April",
-    "Visuals/Fitness/Darebee/30-Count Plank Hold.gif",
-    "Daily-Bullet-Journal/journals/2026/04-April/_attachments/f6a09986d9ca2bf4995fc40f25f71e63.png",
-    "Daily-Bullet-Journal/journals/2026/04-April/_attachments",
-    "Daily-Bullet-Journal/journals/2018/04-April",
-    "Evergreen-Notes/Permanent-Notes/_attachments/a084c9867ae04b23f54b45afcd49e2e2.jpg"
+    "Daily-Bullet-Journal/journals/2026/04-April/_attachments"
   ]
 }
