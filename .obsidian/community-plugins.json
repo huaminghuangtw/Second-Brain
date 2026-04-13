@@ -4,13 +4,11 @@
   "obsidian-linter",
   "obsidian-advanced-uri",
   "obsidian-auto-link-title",
-  "backlink-cache",
   "obsidian-collapse-all-plugin",
   "obsidian-editor-shortcuts",
   "obsidian-completr",
   "customjs",
   "dataview",
-  "new-tab-default-page",
   "obsidian-footnotes",
   "obsidian-front-matter-title-plugin",
   "obsidian-hider",
@@ -30,5 +28,6 @@
   "obsidian-zotero-desktop-connector",
   "better-word-count",
   "permalink-opener",
-  "update-relative-links"
+  "update-relative-links",
+  "new-tab-default-page"
 ]
