@@ -869,15 +869,6 @@
       "key": "K"
     }
   ],
-  "obsidian-text-format:slugify": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Shift"
-      ],
-      "key": "S"
-    }
-  ],
   "obsidian-shellcommands:shell-command-a4mqepg0uf": [
     {
       "modifiers": [
@@ -966,6 +957,16 @@
         "Mod"
       ],
       "key": "V"
+    }
+  ],
+  "obsidian-text-format:slugify": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
     }
   ]
 }
