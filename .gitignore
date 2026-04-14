@@ -1,12 +1,12 @@
+# Ignore everything by default
 /*
 .*
 
+# But keep these files and folders
 !index.md
 !Homepage.md
-
-!/Templates/
-!/Scripts/
-
+!/Templates
+!/Scripts
 !.pandoc
 !.gitignore
 !.obsidian
