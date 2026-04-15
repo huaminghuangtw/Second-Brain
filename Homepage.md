@@ -155,33 +155,27 @@ dv.table(
 >     thresholds: {
 >         sleepTime: { hours: 8, minutes: 0 },
 >         screenTime: { hours: 1, minutes: 30 },
->         steps: 10000
 >     }
 > };
 >
 > const NO_DATA = "";
 > const today = dv.date("today");
 >
-> function getAverage(data, metric, isTime) {
+> function getAverage(data, metric) {
 >     const valid = Array.from(data).filter(r => r[metric] !== NO_DATA);
 >     if (!valid.length) return NO_DATA;
->
->     if (isTime) {
->         const totalMinutes = valid.reduce((sum, r) => sum + (r[metric].hours * 60 + r[metric].minutes), 0);
->         const avgMinutes = totalMinutes / valid.length;
->         return { hours: Math.floor(avgMinutes / 60), minutes: Math.round(avgMinutes % 60) };
->     }
->
->     return Math.round(valid.reduce((sum, r) => sum + r[metric], 0) / valid.length);
+>     const totalMinutes = valid.reduce((sum, r) => sum + (r[metric].hours * 60 + r[metric].minutes), 0);
+>     const avgMinutes = totalMinutes / valid.length;
+>     return { hours: Math.floor(avgMinutes / 60), minutes: Math.round(avgMinutes % 60) };
 > }
 >
-> function formatThreshold(value, threshold, isTime, isLess) {
+> function formatThreshold(value, threshold, isLess) {
 >     if (value === NO_DATA) return value;
->     const passes = isTime
->         ? (isLess ? (value.hours * 60 + value.minutes) <= (threshold.hours * 60 + threshold.minutes) : (value.hours * 60 + value.minutes) >= (threshold.hours * 60 + threshold.minutes))
->         : (isLess ? value <= threshold : value >= threshold);
+>     const passes = isLess ?
+>         (value.hours * 60 + value.minutes) <= (threshold.hours * 60 + threshold.minutes) : 
+>         (value.hours * 60 + value.minutes) >= (threshold.hours * 60 + threshold.minutes);
 >     const icon = passes ? "✅" : "❌";
->     return isTime ? `${icon} ${value.hours}h ${value.minutes}m` : `${icon} ${value}`;
+>     return `${icon} ${value.hours}h ${value.minutes}m`;
 > }
 >
 > // Fetch one extra day (15 days ago) so the earliest entry’s sleep can be computed from the prior day’s bedTime
@@ -198,29 +192,25 @@ dv.table(
 >             dayOfWeek: entry.date.weekdayLong,
 >             sleepTime,
 >             screenTime: entry.phoneScreenTime ? dv.duration(entry.phoneScreenTime) : NO_DATA,
->             steps: entry.steps || NO_DATA
 >         };
 >     })
 >     .slice(0, -1); // Remove the extra day (15 days ago)
 >
-> const avgSleep  = getAverage(data, 'sleepTime', true);
-> const avgScreen = getAverage(data, 'screenTime', true);
-> const avgSteps  = getAverage(data, 'steps', false);
+> const avgSleep  = getAverage(data, 'sleepTime');
+> const avgScreen = getAverage(data, 'screenTime');
 >
 > dv.table(
->     ["", "**🛌 Sleep Time**", "**📱 Screen Time**", "**🚶 Steps**"],
+>     ["", "**🛌 Sleep Time**", "**📱 Screen Time**"],
 >     [
 >         ...data.map(r => [
 >             `${r.link} (${r.dayOfWeek})`,
->             formatThreshold(r.sleepTime, CONFIG.thresholds.sleepTime, true, false),
->             formatThreshold(r.screenTime, CONFIG.thresholds.screenTime, true, true),
->             formatThreshold(r.steps, CONFIG.thresholds.steps, false, false)
+>             formatThreshold(r.sleepTime, CONFIG.thresholds.sleepTime, false),
+>             formatThreshold(r.screenTime, CONFIG.thresholds.screenTime, true),
 >         ]),
 >         [
 >             "==**📊 14 天平均**==",
->             avgSleep  !== NO_DATA ? `==**${formatThreshold(avgSleep,  CONFIG.thresholds.sleepTime,  true,  false)}**==` : NO_DATA,
->             avgScreen !== NO_DATA ? `==**${formatThreshold(avgScreen, CONFIG.thresholds.screenTime, true,  true)}**==`  : NO_DATA,
->             avgSteps  !== NO_DATA ? `==**${formatThreshold(avgSteps,  CONFIG.thresholds.steps,       false, false)}**==` : NO_DATA
+>             avgSleep  !== NO_DATA ? `==**${formatThreshold(avgSleep, CONFIG.thresholds.sleepTime, false)}**==` : NO_DATA,
+>             avgScreen !== NO_DATA ? `==**${formatThreshold(avgScreen, CONFIG.thresholds.screenTime, true)}**==`  : NO_DATA,
 >         ]
 >     ]
 > );
