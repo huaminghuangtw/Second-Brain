@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dff0056029288ad8",
+        "id": "449ab539d41181b4",
         "type": "tabs",
         "children": [
           {
-            "id": "03567d5dba67dc66",
+            "id": "3f3adec2098c3144",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_15.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2026_04_15"
+            }
+          },
+          {
+            "id": "277410e859e9a81e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brainfoodie/posts/the-little-prince.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "the-little-prince"
+            }
+          },
+          {
+            "id": "2de7ebb789afd952",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/Life is shorter than you think.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Life is shorter than you think"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Settings Sync\"",
+                "query": "line:(touch seen)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,10 +170,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Today-I-Learned/posts/manage-your-dotfiles.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for manage-your-dotfiles"
             }
           },
           {
@@ -133,7 +182,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Homepage.md"
+                "file": "Today-I-Learned/posts/manage-your-dotfiles.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -204,48 +253,48 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "03567d5dba67dc66",
+  "active": "2de7ebb789afd952",
   "lastOpenFiles": [
-    "Evergreen-Notes/Permanent-Notes/money.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_14.md",
-    "Today-I-Learned/posts/manage-your-dotfiles.md",
+    "Brainfoodie/posts/the-little-prince.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_15.md",
+    "Weekly-Mindware-Update/issues/2026/2026w15.md",
     "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-use-ai-effectively.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_07.md",
+    "Brainfoodie/posts/_attachments/194587e48e24e80231f81c2a146a1640.jpeg",
+    "Brainfoodie/posts/_attachments/522312ced47b4223735e4eb54d526f73.jpeg",
+    "Brainfoodie/posts/_attachments/90121cea1e742fe7d33a53fdf4bcc842.jpeg",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_29.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_16.md",
+    "Today-I-Learned/posts/manage-your-dotfiles.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_14.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_02.md",
     "Daily-Bullet-Journal/journals/2026/04-April/2026_04_13.md",
-    "Daily-Bullet-Journal/journals/2022/07-July/2022_07_09.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_12.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_11.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_10.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_09.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_08.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_01.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_07.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_06.md",
-    "Evergreen-Notes/Permanent-Notes/maslows-hammer.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_21.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_29.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_05.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_29.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_03.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_27.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_06.md",
+    "Weekly-Mindware-Update/issues/2024/2024w15.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_29.md",
+    "Visuals/Fitness/Darebee/30-Count Stretch Hold Go as Low as You Can.gif",
     "Daily-Bullet-Journal/journals/2026/03-March/2026_03_31.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_03.md",
-    "Evergreen-Notes/Permanent-Notes/confidence-comes-from-preparation.md",
-    "Daily-Bullet-Journal/journals/2023/01-January/2023_01_26.md",
-    "Evergreen-Notes/Permanent-Notes/the-odyssey-plan.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_11.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_24.md",
-    "Life-Notes/Business/🏰 My Biz Empire.md",
-    "Daily-Bullet-Journal/journals/2020/04-April/2020_04_14.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_30.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_15.md",
+    "Daily-Bullet-Journal/journals/2023/04-April/2023_04_15.md",
+    "Daily-Bullet-Journal/journals/2022/04-April/2022_04_15.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_15.md",
     "Visuals/Fitness/Darebee/Side Plank Hold - Per Side.gif",
-    "Daily-Bullet-Journal/journals/2026/04-April/_attachments/2026_04_13_20_15_03.png",
+    "Daily-Bullet-Journal/journals/2026/04-April/_attachments/e018de0852e3e03d983d333f68827620.png",
     "Daily-Bullet-Journal/journals/2025/04-April/_attachments/78ac387c8709f98b5989093a13deb8a3.png",
     "Daily-Bullet-Journal/journals/2025/09-September/_attachments/711269ac837de9a60deb13839d2c6094.jpg",
     "_attachments",
     "Daily-Bullet-Journal/journals/2025/09-September/_attachments/fe7ad6689e9e2c6391d9a79c99774b23.png",
     "Daily-Bullet-Journal/journals/2025/09-September/_attachments/588df5a1e0d5dccb5f1c06a393ab51ec.png",
-    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260410195808.png",
-    "Brainfoodie/posts/_attachments/3e327b28949ad73c324d32af0c8eab61.png",
-    "Enoughness/posts/_attachments/661ac1fdedbb5157e3aad93271d7d2c4.jpg",
     "Daily-Bullet-Journal/journals/2015/04-April",
     "Deep-Work-Machine/Number of Words/2026/03-March/number-of-words_2026-03.csv",
     "Deep-Work-Machine/Number of Words/2026/03-March/number-of-words_2026-03.json",
-    "Deep-Work-Machine/Number of Words/2026/03-March/number-of-words_2026-03.png",
     "Deep-Work-Machine/Number of Flows/2026/03-March/number-of-flows_2026-03.json",
     "Deep-Work-Machine/Number of Flows/2026/03-March/number-of-flows_2026-03.csv",
     "Deep-Work-Machine/Number of Words/2026/03-March",
