@@ -19,7 +19,7 @@
   "debug": false,
   "boot": {
     "delay": 1000,
-    "background": true
+    "background": false
   },
   "features": {
     "alias": {
