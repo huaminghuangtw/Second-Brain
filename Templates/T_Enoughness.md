@@ -36,7 +36,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 # 3
 
-— [樺明](https://huami.ng/<% canonicalPath %>)
+— [樺明](https://huam.ing/<% canonicalPath %>)
 
 ---
 
