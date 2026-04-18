@@ -13,7 +13,7 @@ featured: false
 title: <% title %>
 description:
 tags: [<% collection %>/]
-ogImage: _ogImages/
+coverImage: _coverImages/
 ---
 
 <% tp.file.cursor() %>
