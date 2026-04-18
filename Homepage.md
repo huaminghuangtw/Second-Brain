@@ -132,7 +132,7 @@ for (const [metric, { path }] of Object.entries(METRICS)) {
 }
 
 dv.table(
-    ["", "**Last Week Average**", "**This Week Average**", "**Yesterday**", "**Today**"],
+    ["", "**Last Week Avg**", "**This Week Avg**", "**Yesterday**", "**Today**"],
     ROW_CONFIG.map(({ metric, label }) => {
         const res = results[metric];
         const link = encodeURI(`vscode://file/${app.vault.adapter.basePath}/${METRICS[metric].path}:${lineNumbers[metric]}`);
