@@ -533,15 +533,6 @@
       "key": "R"
     }
   ],
-  "obsidian-editor-shortcuts:toggle-line-numbers": [
-    {
-      "modifiers": [
-        "Alt",
-        "Ctrl"
-      ],
-      "key": "L"
-    }
-  ],
   "workspace:close-window": [],
   "workspace:close-tab-group": [
     {
@@ -967,6 +958,15 @@
         "Shift"
       ],
       "key": "S"
+    }
+  ],
+  "obsidian-editor-shortcuts:toggle-line-numbers": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "L"
     }
   ]
 }
