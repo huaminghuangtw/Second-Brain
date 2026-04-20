@@ -80,9 +80,11 @@ div[data-path$='.pdf']{
 .markdown-source-view.mod-cm6.is-live-preview img,
 .markdown-preview-view img {
   border: 1px solid #e5e7eb;
-  max-width: 100%;
+  max-width: 80%;
   max-height: 350px;
   display: block;
+  margin-left: auto;
+  margin-right: auto;
   transition:
     max-width 0.2s,
     max-height 0.2s,
@@ -92,7 +94,7 @@ div[data-path$='.pdf']{
 
 .markdown-source-view.mod-cm6.is-live-preview img:hover,
 .markdown-preview-view img:hover {
-  max-width: 90vw;
-  max-height: 80vh;
+  max-width: 100%;
+  max-height: 90vh;
   cursor: zoom-in;
 }

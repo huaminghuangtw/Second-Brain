@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4464d0c76a86387f",
+        "id": "84d6055161961c02",
         "type": "tabs",
         "children": [
           {
-            "id": "0954b5c4ed801f2f",
+            "id": "772a1c449d99df5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_19.md",
+                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_20.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_04_19"
+              "title": "2026_04_20"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "翁章梁",
+                "query": "tag:#BuJo/💇Haircut",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,10 +121,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_19.md"
+                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_20.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_04_19"
+              "title": "File properties for 2026_04_20"
             }
           },
           {
@@ -133,7 +133,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_20.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -204,34 +204,34 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "0954b5c4ed801f2f",
+  "active": "772a1c449d99df5a",
   "lastOpenFiles": [
-    "Homepage.md",
+    "Life-Notes/WebDev/ui-components.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_20.md",
     "Daily-Bullet-Journal/journals/2026/04-April/2026_04_19.md",
     "Daily-Bullet-Journal/journals/2026/04-April/2026_04_18.md",
-    "Weekly-Mindware-Update/issues/2026/2026w16.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_18.md",
-    "Enoughness/posts/2026-week-16.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_01.md",
     "Daily-Bullet-Journal/journals/2026/04-April/2026_04_17.md",
-    "AdaptX/posts/how-to-tie-shoelaces.md",
-    "Daily-Bullet-Journal/journals/2023/04-April/2023_04_19.md",
-    "Daily-Bullet-Journal/journals/2020/04-April/2020_04_19.md",
-    "Daily-Bullet-Journal/journals/2017/04-April/2017_04_19.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_19.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_05.md",
+    "Evergreen-Notes/Permanent-Notes/live-in-the-present.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_04.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_15.md",
     "Daily-Bullet-Journal/journals/2026/04-April/2026_04_16.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_19.md",
-    "Evergreen-Notes/Permanent-Notes/sharpening-the-saw.md",
-    "Evergreen-Notes/Permanent-Notes/reflect-and-review.md",
-    "Evergreen-Notes/Permanent-Notes/always-think-win-win.md",
-    "Evergreen-Notes/Permanent-Notes/temp-2026-04-19-08-33-07.md",
-    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_16.md",
-    "Evergreen-Notes/Permanent-Notes/the-power-half-hour.md",
-    "Evergreen-Notes/Permanent-Notes/do-great-work.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_01.md",
+    "Enoughness/posts/2026-week-11.md",
+    "Today-I-Learned/posts/git-reset.md",
+    "Today-I-Learned/posts/how-to-minimize-distractions-in-vs-code.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_10.md",
+    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_20.md",
+    "Daily-Bullet-Journal/journals/2022/04-April/2022_04_20.md",
+    "Daily-Bullet-Journal/journals/2017/04-April/2017_04_20.md",
+    "Daily-Bullet-Journal/journals/2023/04-April/2023_04_20.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_20.md",
+    "Daily-Bullet-Journal/journals/2016/04-April/2016_04_20.md",
+    "Evergreen-Notes/Permanent-Notes/rational-emotive-behavior-therapy.md",
+    "Evergreen-Notes/Permanent-Notes/change-yourself-to-change-the-world.md",
     "Evergreen-Notes/Fleeting-Notes.md",
-    "Life-Notes/WebDev/TailwindCSS.md",
-    "Life-Notes/WebDev/🛠️ Tools for web dev.md",
-    "Life-Notes/WebDev/ui-components.md",
     "Daily-Bullet-Journal/journals/2026/04-April/_attachments/2026_04_12_18_36_06.jpeg",
     "AdaptX/posts/_coverImages/f218731ceb2ba5987b83a816c27baefe.png",
     "AdaptX/posts/_coverImages/db8ac301faf2da7c717ecc5cfc04a8b8.jpeg",
