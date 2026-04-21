@@ -43,11 +43,10 @@ function toTitleCase(text) {
             const words = fullString.match(/\b[\w’]+/g);
             const isFirstWord = offset === 0;
             const isLastWord = words && word === words[words.length - 1];
-            if (
-                isFirstWord ||
-                isLastWord ||
-                !lowercaseWords.has(word.toLowerCase())
-            ) {
+            if (isFirstWord) {
+                return word.charAt(0).toUpperCase() + word.slice(1);
+            }
+            if (isLastWord || !lowercaseWords.has(word.toLowerCase())) {
                 return word.charAt(0).toUpperCase() + word.slice(1);
             }
             return word;
