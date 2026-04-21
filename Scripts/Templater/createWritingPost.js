@@ -11,7 +11,8 @@ async function createWritingPost(tp) {
         rawTitle = temp;
     } else {
         const userInput = await tp.system.prompt("✏️ Title?");
-        rawTitle = userInput || temp;
+        if (!userInput) return;
+        rawTitle = userInput;
     }
     let title = tp.user.toTitleCase(rawTitle);
 
@@ -19,7 +20,8 @@ async function createWritingPost(tp) {
     const isChinese = /[\u4e00-\u9fff]/.test(title);
     if (isChinese) {
         const userInput = await tp.system.prompt("📁 Filename?");
-        rawFileName = userInput || temp;
+        if (!userInput) return;
+        rawFileName = userInput;
     } else if (collection === "Enoughness") {
         rawFileName = tp.user.upcomingFriday().format("YYYY[-week-]ww");
     } else {
