@@ -932,15 +932,6 @@
       "key": "L"
     }
   ],
-  "app:delete-file": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "D"
-    }
-  ],
   "editor:set-heading-0": [
     {
       "modifiers": [
@@ -967,6 +958,16 @@
         "Ctrl"
       ],
       "key": "L"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
     }
   ]
 }
