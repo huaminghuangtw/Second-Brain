@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "81c2076a1e9617ac",
+        "id": "9345bbc7395c0657",
         "type": "tabs",
         "children": [
           {
-            "id": "85263eb8968c9ae8",
+            "id": "d3f335a597c204b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_21.md",
-                "mode": "preview",
+                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_22.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_04_21"
+              "title": "2026_04_22"
             }
           },
           {
-            "id": "2cf3c35b343269c6",
+            "id": "6f462b0cb16b63f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_21.md",
+                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_22.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -52,11 +52,107 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_04_21"
+              "title": "2026_04_22"
+            }
+          },
+          {
+            "id": "6abbcf71a2f13396",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/the-growth-mindset.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "the-growth-mindset"
+            }
+          },
+          {
+            "id": "49af056824884638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/startups.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "startups"
+            }
+          },
+          {
+            "id": "f1e238c1e7249822",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life-Notes/Business/Implementations & Strategies.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Implementations & Strategies"
+            }
+          },
+          {
+            "id": "7dcb8cd50c0e8b8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "About.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "About"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -88,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "95%",
+                "query": "smaller teams\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,10 +232,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_21.md"
+                "file": "About.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_04_21"
+              "title": "File properties for About"
             }
           },
           {
@@ -148,7 +244,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_21.md"
+                "file": "About.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -160,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "About.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +266,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for About"
             }
           },
           {
@@ -214,37 +310,38 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "2cf3c35b343269c6",
+  "active": "7dcb8cd50c0e8b8c",
   "lastOpenFiles": [
+    "Life-Notes/Business/Implementations & Strategies.md",
+    "Evergreen-Notes/Permanent-Notes/startups.md",
+    "Evergreen-Notes/Permanent-Notes/the-growth-mindset.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_22.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_11.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_13.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_18.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_19.md",
+    "Life-Notes/WebDev/TailwindCSS.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_20.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_03.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_19.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_22.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_01.md",
     "About.md",
     "Daily-Bullet-Journal/journals/2026/04-April/2026_04_21.md",
-    "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/the-compounding-effect.md",
-    "Enoughness/posts/2026-week-15.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_17.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_18.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_19.md",
-    "AdaptX/posts/start-small.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-live-a-life.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_16.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_15.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_14.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_13.md",
-    "Evergreen-Notes/Permanent-Notes/kindness.md",
-    "Evergreen-Notes/Permanent-Notes/_attachments/2026_04_21_13_30_38.jpg",
     "Daily-Bullet-Journal/journals/2026/04-April/2026_04_20.md",
-    "Life-Notes/Alignment/🐤 New Hobbies.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_05.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_04.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_24.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_11.md",
-    "Evergreen-Notes/Permanent-Notes/just-getting-started.md",
-    "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
-    "Evergreen-Notes/Permanent-Notes/embrace-the-beauty-of-enoughness.md",
+    "Daily-Bullet-Journal/journals/2020/04-April/2020_04_22.md",
+    "Daily-Bullet-Journal/journals/2023/04-April/2023_04_22.md",
+    "Daily-Bullet-Journal/journals/2019/04-April/2019_04_22.md",
+    "Daily-Bullet-Journal/journals/2018/04-April/2018_04_22.md",
     "Daily-Bullet-Journal/journals/2018/04-April/2018_04_21.md",
+    "Daily-Bullet-Journal/journals/2018/04-April/_attachments/Pasted image 20260422074302.png",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_22.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_22.md",
+    "Evergreen-Notes/Permanent-Notes/wu-wei.md",
+    "Evergreen-Notes/Permanent-Notes/_attachments/2026_04_21_13_30_38.jpg",
     "Daily-Bullet-Journal/journals/2018/04-April/_attachments/Pasted image 20260421092100.png",
     "Daily-Bullet-Journal/journals/2018/04-April/_attachments",
-    "Daily-Bullet-Journal/journals/2020/04-April/2020_04_21.md",
     "Daily-Bullet-Journal/journals/2026/04-April/_attachments/2026_04_12_18_36_06.jpeg",
     "AdaptX/posts/_coverImages/f218731ceb2ba5987b83a816c27baefe.png",
     "AdaptX/posts/_coverImages/db8ac301faf2da7c717ecc5cfc04a8b8.jpeg",
@@ -252,7 +349,6 @@
     "AdaptX/posts/_coverImages/9367cb3d910baa4e43f8a7e3cb3aef4c.png",
     "AdaptX/posts/_coverImages/657b3960557c19ebb0a001c932a1e6ee.png",
     "AdaptX/posts/_coverImages/41f5d232b263a3b8ba3cae2a81b2e364.png",
-    "AdaptX/posts/_coverImages/3e8b940b9c3dc98bf25e8ac533251449.png",
     "AdaptX/posts/_coverImages",
     "_attachments",
     "Daily-Bullet-Journal/journals/2019/04-April",
