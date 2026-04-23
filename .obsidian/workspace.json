@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9345bbc7395c0657",
+        "id": "43f7aa7abe5c7d1b",
         "type": "tabs",
         "children": [
           {
-            "id": "d3f335a597c204b1",
+            "id": "aa8441aa16f1b1de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_22.md",
+                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_23.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_04_22"
+              "title": "2026_04_23"
             }
           },
           {
-            "id": "6f462b0cb16b63f6",
+            "id": "73329a170bbadfeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_22.md",
+                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_23.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -52,107 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_04_22"
-            }
-          },
-          {
-            "id": "6abbcf71a2f13396",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/the-growth-mindset.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "the-growth-mindset"
-            }
-          },
-          {
-            "id": "49af056824884638",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/startups.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "startups"
-            }
-          },
-          {
-            "id": "f1e238c1e7249822",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life-Notes/Business/Implementations & Strategies.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Implementations & Strategies"
-            }
-          },
-          {
-            "id": "7dcb8cd50c0e8b8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "About.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "About"
+              "title": "2026_04_23"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "smaller teams\"",
+                "query": "\"GitHub Copilot\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,8 +114,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -232,10 +135,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "About.md"
+                "file": "Brainfoodie/posts/we-dont-get-a-lot-of-things-to-really-care-about.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for About"
+              "title": "File properties for we-dont-get-a-lot-of-things-to-really-care-about"
             }
           },
           {
@@ -244,7 +147,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "About.md"
+                "file": "Brainfoodie/posts/we-dont-get-a-lot-of-things-to-really-care-about.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -256,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About.md",
+                "file": "Brainfoodie/posts/we-dont-get-a-lot-of-things-to-really-care-about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +169,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for About"
+              "title": "Backlinks for we-dont-get-a-lot-of-things-to-really-care-about"
             }
           },
           {
@@ -292,6 +195,20 @@
               "icon": "quote-glyph",
               "title": "References"
             }
+          },
+          {
+            "id": "613560bf0c493e9f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ]
       }
@@ -310,45 +227,44 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "7dcb8cd50c0e8b8c",
+  "active": "73329a170bbadfeb",
   "lastOpenFiles": [
-    "Life-Notes/Business/Implementations & Strategies.md",
-    "Evergreen-Notes/Permanent-Notes/startups.md",
-    "Evergreen-Notes/Permanent-Notes/the-growth-mindset.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_22.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_11.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_13.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_18.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_19.md",
-    "Life-Notes/WebDev/TailwindCSS.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_20.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_03.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_23.md",
+    "Enoughness/posts/_attachments/Pasted image 20260417152343.png",
+    "Enoughness/posts/2025-week-42.md",
+    "Enoughness/posts/2026-week-10.md",
+    "Enoughness/posts/_attachments/Pasted image 20260417152538.png",
+    "Evergreen-Notes/Permanent-Notes/Productivity.md",
+    "Evergreen-Notes/Permanent-Notes/live-in-the-present.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_14.md",
+    "Enoughness/posts/2025-week-52.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_18.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_23.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_20.md",
+    "Brainfoodie/posts/we-dont-get-a-lot-of-things-to-really-care-about.md",
+    "Brainfoodie/posts/make-the-coffee.md",
+    "Brainfoodie/posts/at-dawn.md",
+    "Brainfoodie/posts/white-collar-goes-blue.md",
+    "Brainfoodie/posts/why-six-hours-of-sleep-is-as-bad-as-none-at-all.md",
+    "Brainfoodie/posts/collection-jensen-huang.md",
+    "Brainfoodie/posts/a-stroke-of-genius-striving-for-greatness-in-all-you-do.md",
+    "Brainfoodie/posts/cs-lewiss-advice-to-a-young-writer.md",
+    "Daily-Bullet-Journal/journals/2018/04-April/2018_04_23.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_22.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
     "Daily-Bullet-Journal/journals/2026/04-April/2026_04_19.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_22.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_01.md",
-    "About.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_21.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_20.md",
-    "Daily-Bullet-Journal/journals/2020/04-April/2020_04_22.md",
-    "Daily-Bullet-Journal/journals/2023/04-April/2023_04_22.md",
-    "Daily-Bullet-Journal/journals/2019/04-April/2019_04_22.md",
-    "Daily-Bullet-Journal/journals/2018/04-April/2018_04_22.md",
-    "Daily-Bullet-Journal/journals/2018/04-April/2018_04_21.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_15.md",
+    "Evergreen-Notes/Permanent-Notes/work-hard.md",
+    "Visuals/Personal Growth/IMG_5582.JPG",
+    "Brainfoodie/posts/_attachments/Pasted image 20260423082110.png",
     "Daily-Bullet-Journal/journals/2018/04-April/_attachments/Pasted image 20260422074302.png",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_22.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_22.md",
-    "Evergreen-Notes/Permanent-Notes/wu-wei.md",
     "Evergreen-Notes/Permanent-Notes/_attachments/2026_04_21_13_30_38.jpg",
     "Daily-Bullet-Journal/journals/2018/04-April/_attachments/Pasted image 20260421092100.png",
     "Daily-Bullet-Journal/journals/2018/04-April/_attachments",
     "Daily-Bullet-Journal/journals/2026/04-April/_attachments/2026_04_12_18_36_06.jpeg",
     "AdaptX/posts/_coverImages/f218731ceb2ba5987b83a816c27baefe.png",
     "AdaptX/posts/_coverImages/db8ac301faf2da7c717ecc5cfc04a8b8.jpeg",
-    "AdaptX/posts/_coverImages/a9cc51f8952c0244c30a9477749a5140.png",
-    "AdaptX/posts/_coverImages/9367cb3d910baa4e43f8a7e3cb3aef4c.png",
-    "AdaptX/posts/_coverImages/657b3960557c19ebb0a001c932a1e6ee.png",
-    "AdaptX/posts/_coverImages/41f5d232b263a3b8ba3cae2a81b2e364.png",
     "AdaptX/posts/_coverImages",
     "_attachments",
     "Daily-Bullet-Journal/journals/2019/04-April",
