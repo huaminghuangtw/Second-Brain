@@ -6,7 +6,7 @@ const categories = ["Book", "Excerpt", "Essay", "Poem", "Podcast", "Letter", "In
 const category = await tp.system.suggester(categories, categories, false, "🤖 Which one? ");
 const authorsInput = await tp.system.prompt("👤 Author(s)? (comma-separated for multiple)") || "";
 const authors = authorsInput.split(',').map(a => a.trim()).filter(a => a);
-const url = await tp.system.prompt("🔗 URL?") || "";
+const url = await tp.system.prompt("🔗 URL? (can be empty)") || "";
 -%>
 ---
 created: <% created %>
