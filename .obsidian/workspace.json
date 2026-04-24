@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "43f7aa7abe5c7d1b",
+        "id": "1db07445bd527b8d",
         "type": "tabs",
         "children": [
           {
-            "id": "aa8441aa16f1b1de",
+            "id": "b27048f82fb72daf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_23.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026_04_23"
-            }
-          },
-          {
-            "id": "73329a170bbadfeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_23.md",
+                "file": "Homepage.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -52,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_04_23"
+              "title": "Homepage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"GitHub Copilot\"",
+                "query": "賈伯斯",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +89,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -135,10 +111,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Brainfoodie/posts/we-dont-get-a-lot-of-things-to-really-care-about.md"
+                "file": "Enoughness/posts/2026-week-05.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for we-dont-get-a-lot-of-things-to-really-care-about"
+              "title": "File properties for 2026-week-05"
             }
           },
           {
@@ -227,44 +203,45 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "73329a170bbadfeb",
+  "active": "b27048f82fb72daf",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_24.md",
+    "Enoughness/posts/2026-week-17.md",
+    "Shortcutomation/posts/live-each-day-as-if-it-were-your-last.md",
+    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_18.md",
+    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_09.md",
+    "Evergreen-Notes/Permanent-Notes/how-to-live-a-life.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_23.md",
-    "Enoughness/posts/_attachments/Pasted image 20260417152343.png",
+    "Evergreen-Notes/Permanent-Notes/The Parable of the Mexican Fisherman.md",
+    "AdaptX/posts/the-power-of-quiet.md",
+    "Enoughness/posts/_attachments/Pasted image 20260424164655.png",
+    "Enoughness/posts/_attachments/Pasted image 20260424164021.png",
     "Enoughness/posts/2025-week-42.md",
+    "Enoughness/posts/2026-week-01.md",
+    "Enoughness/posts/2026-week-15.md",
+    "Enoughness/posts/2025-week-48.md",
+    "Enoughness/posts/2026-week-16.md",
+    "Visuals/Personal Growth/2a6b167ee0a15d96f90a14eb215e2f17.jpg",
+    "Enoughness/posts/2025-week-50.md",
+    "Enoughness/posts/2025-week-49.md",
+    "Enoughness/posts/2025-week-47.md",
+    "Enoughness/posts/2025-week-46.md",
+    "Enoughness/posts/2025-week-44.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_02.md",
+    "Enoughness/posts/2026-week-11.md",
     "Enoughness/posts/2026-week-10.md",
+    "Enoughness/posts/2026-week-09.md",
+    "Enoughness/posts/2026-week-08.md",
+    "Enoughness/posts/2026-week-07.md",
+    "Enoughness/posts/_attachments/Pasted image 20260424141501.png",
+    "Enoughness/posts/_attachments/Pasted image 20260424141432.png",
+    "Enoughness/posts/_attachments/Pasted image 20260424122907.png",
+    "Evergreen-Notes/Permanent-Notes/_attachments/2a6b167ee0a15d96f90a14eb215e2f17.jpg",
+    "Enoughness/posts/_attachments/Pasted image 20260417152343.png",
     "Enoughness/posts/_attachments/Pasted image 20260417152538.png",
-    "Evergreen-Notes/Permanent-Notes/Productivity.md",
-    "Evergreen-Notes/Permanent-Notes/live-in-the-present.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_14.md",
-    "Enoughness/posts/2025-week-52.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_18.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_23.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_20.md",
-    "Brainfoodie/posts/we-dont-get-a-lot-of-things-to-really-care-about.md",
-    "Brainfoodie/posts/make-the-coffee.md",
-    "Brainfoodie/posts/at-dawn.md",
-    "Brainfoodie/posts/white-collar-goes-blue.md",
-    "Brainfoodie/posts/why-six-hours-of-sleep-is-as-bad-as-none-at-all.md",
-    "Brainfoodie/posts/collection-jensen-huang.md",
-    "Brainfoodie/posts/a-stroke-of-genius-striving-for-greatness-in-all-you-do.md",
-    "Brainfoodie/posts/cs-lewiss-advice-to-a-young-writer.md",
-    "Daily-Bullet-Journal/journals/2018/04-April/2018_04_23.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_22.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_19.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_15.md",
-    "Evergreen-Notes/Permanent-Notes/work-hard.md",
     "Visuals/Personal Growth/IMG_5582.JPG",
-    "Brainfoodie/posts/_attachments/Pasted image 20260423082110.png",
-    "Daily-Bullet-Journal/journals/2018/04-April/_attachments/Pasted image 20260422074302.png",
-    "Evergreen-Notes/Permanent-Notes/_attachments/2026_04_21_13_30_38.jpg",
-    "Daily-Bullet-Journal/journals/2018/04-April/_attachments/Pasted image 20260421092100.png",
     "Daily-Bullet-Journal/journals/2018/04-April/_attachments",
-    "Daily-Bullet-Journal/journals/2026/04-April/_attachments/2026_04_12_18_36_06.jpeg",
-    "AdaptX/posts/_coverImages/f218731ceb2ba5987b83a816c27baefe.png",
-    "AdaptX/posts/_coverImages/db8ac301faf2da7c717ecc5cfc04a8b8.jpeg",
     "AdaptX/posts/_coverImages",
     "_attachments",
     "Daily-Bullet-Journal/journals/2019/04-April",
