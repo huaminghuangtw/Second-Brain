@@ -154,7 +154,6 @@ dv.table(
 > const CONFIG = {
 >     thresholds: {
 >         sleepTime: { hours: 8, minutes: 0 },
->         screenTime: { hours: 1, minutes: 30 },
 >     }
 > };
 >
@@ -169,12 +168,9 @@ dv.table(
 >     return { hours: Math.floor(avgMinutes / 60), minutes: Math.round(avgMinutes % 60) };
 > }
 >
-> function formatThreshold(value, threshold, isLess) {
+> function formatThreshold(value, threshold) {
 >     if (value === NO_DATA) return value;
->     const passes = isLess ?
->         (value.hours * 60 + value.minutes) <= (threshold.hours * 60 + threshold.minutes) : 
->         (value.hours * 60 + value.minutes) >= (threshold.hours * 60 + threshold.minutes);
->     const icon = passes ? "✅" : "❌";
+>     const icon = (value.hours * 60 + value.minutes) >= (threshold.hours * 60 + threshold.minutes) ? "✅" : "❌";
 >     return `${icon} ${value.hours}h ${value.minutes}m`;
 > }
 >
@@ -191,26 +187,23 @@ dv.table(
 >             link: entry.file.link,
 >             dayOfWeek: entry.date.weekdayLong,
 >             sleepTime,
->             screenTime: entry.phoneScreenTime ? dv.duration(entry.phoneScreenTime) : NO_DATA,
 >         };
 >     })
 >     .slice(0, -1); // Remove the extra day (15 days ago)
 >
 > const avgSleep  = getAverage(data, 'sleepTime');
-> const avgScreen = getAverage(data, 'screenTime');
 >
 > dv.table(
->     ["", "**🛌 Sleep Time**", "**📱 Screen Time**"],
+>     ["", "**🛌 Sleep Time**"],
 >     [
 >         ...data.map(r => [
 >             `${r.link} (${r.dayOfWeek})`,
->             formatThreshold(r.sleepTime, CONFIG.thresholds.sleepTime, false),
->             formatThreshold(r.screenTime, CONFIG.thresholds.screenTime, true),
->         ]),
+>             formatThreshold(r.sleepTime, CONFIG.thresholds.sleepTime)
+>           ]
+>         ),
 >         [
 >             "==**📊 14 天平均**==",
->             avgSleep  !== NO_DATA ? `==**${formatThreshold(avgSleep, CONFIG.thresholds.sleepTime, false)}**==` : NO_DATA,
->             avgScreen !== NO_DATA ? `==**${formatThreshold(avgScreen, CONFIG.thresholds.screenTime, true)}**==`  : NO_DATA,
+>             avgSleep !== NO_DATA ? `==**${formatThreshold(avgSleep, CONFIG.thresholds.sleepTime)}**==` : NO_DATA
 >         ]
 >     ]
 > );
