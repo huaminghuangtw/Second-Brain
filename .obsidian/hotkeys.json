@@ -969,5 +969,14 @@
       ],
       "key": "D"
     }
+  ],
+  "obsidian-shellcommands:shell-command-2qu3zkdn75": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "C"
+    }
   ]
 }
