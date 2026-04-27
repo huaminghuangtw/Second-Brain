@@ -395,7 +395,7 @@ try {
         "Dear-Today-Me.md"
     );
 } catch {
-    fileContentLifePhilosophy = await dv.io.load("Dear-Today-Me/ear-Today-Me.md");
+    fileContentLifePhilosophy = await dv.io.load("Dear-Today-Me/Dear-Today-Me.md");
 }
 
 let allParagraphs = fileContentLifePhilosophy.split("\n\n");
