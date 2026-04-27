@@ -8,5 +8,6 @@
   "addFilepathWhenUsingUID": false,
   "allowEval": false,
   "includeVaultName": false,
-  "vaultParam": "id"
+  "vaultParam": "id",
+  "linkFormats": []
 }
