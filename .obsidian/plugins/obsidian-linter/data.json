@@ -53,7 +53,7 @@
     },
     "yaml-key-sort": {
       "enabled": true,
-      "yaml-key-priority-sort-order": "title\ndescription\ndate\ndayOfWeek\nyear\nweekNumber\nlocation\ncreated\nmodified",
+      "yaml-key-priority-sort-order": "title\ndescription\ndate\ndayOfWeek\nyear\nweekNumber\nlocation\nwakeUpTime\nfirstUnplugPhoneAt\nstartTheDayAt\nendTheDayAt\nlastPlugPhoneAt\nbedTime\ncreated\nmodified",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "Ascending Alphabetical"
     },
@@ -314,7 +314,7 @@
     },
     {
       "label": "",
-      "find": "(―|─|—|–)",
+      "find": "(?<!\\d)(―|─|—|–)(?!\\d)",
       "replace": "—",
       "flags": "gm",
       "enabled": true
