@@ -941,16 +941,6 @@
       "key": "V"
     }
   ],
-  "obsidian-text-format:slugify": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod",
-        "Shift"
-      ],
-      "key": "S"
-    }
-  ],
   "obsidian-editor-shortcuts:toggle-line-numbers": [
     {
       "modifiers": [
@@ -977,6 +967,16 @@
         "Mod"
       ],
       "key": "C"
+    }
+  ],
+  "obsidian-shellcommands:shell-command-0djiknrkgh": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
     }
   ]
 }
