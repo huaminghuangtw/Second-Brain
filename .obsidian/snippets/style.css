@@ -56,12 +56,12 @@
   color: white;
 }
 
-.callout-icon {
-  display: none;
-}
-
 div[data-path$='.pdf']{
 	display: none;
+}
+
+.callout-icon {
+  display: none;
 }
 
 /* Show section word count only on hover */

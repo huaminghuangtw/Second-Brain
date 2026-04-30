@@ -1,11 +1,6 @@
 {
-  "search": false,
-  "tab-header": false,
-  "properties": false,
   "bookmarks": false,
   "outline": false,
   "bases": false,
-  "graph": false,
-  "tag-wrangler:tag-pane": false,
-  "file-explorer": false
+  "preview": true
 }

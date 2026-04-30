@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a4281188fa707f32",
+        "id": "f9b7d48d3ad3cdcd",
         "type": "tabs",
         "children": [
           {
-            "id": "e25f8da7add76c33",
+            "id": "a5284ff84417ec7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_26.md",
+                "file": "Homepage.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026_04_26"
+              "title": "Homepage"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "easiest fool",
+                "query": "visual cortex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,10 +111,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_26.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_04_26"
+              "title": "File properties for Homepage"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_26.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -203,47 +203,46 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "e25f8da7add76c33",
+  "active": "a5284ff84417ec7e",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_30.md",
+    "Enoughness/posts/2026-week-18.md",
+    "Enoughness/posts/_attachments/083f4217bbe2d5d628a5e406e9006b18.png",
+    "Enoughness/posts/2026-week-17.md",
+    "Enoughness/posts/_attachments/5ee42257258bfe204a25d58c42f045d7.png",
+    "Enoughness/posts/_attachments/1fee5c7a2758d750e599aaffc4f807db.png",
+    "Enoughness/posts/_attachments/fa745cd0767ff71d45eef1815dd478ee.png",
     "Homepage.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_17.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_03.md",
+    "Untitled.md",
     "Daily-Bullet-Journal/journals/2026/04-April/2026_04_29.md",
+    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
     "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_28.md",
-    "Evergreen-Notes/Permanent-Notes/mastering-yourself-is-superpower.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_28.md",
-    "Evergreen-Notes/Permanent-Notes/be-ready-to-change-your-mind-completely-at-any-given-time.md",
-    "AdaptX/posts/goodbye-past-me.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_21.md",
-    "Weekly-Mindware-Update/issues/2026/2026w17.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_07.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_22.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_26.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_14.md",
-    "Enoughness/posts/2026-week-10.md",
-    "Evergreen-Notes/Permanent-Notes/work-hard.md",
-    "Evergreen-Notes/Permanent-Notes/planning-and-preparation-help-maximize-your-productivity.md",
     "Brainfoodie/posts/collection-eliud-kipchoge.md",
-    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
-    "Evergreen-Notes/Permanent-Notes/why-i-write-and-run.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_14.md",
-    "Brainfoodie/posts/_attachments/Pasted image 20260429102830.png",
-    "Brainfoodie/posts/_attachments/Pasted image 20260429095256.png",
-    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_28.md",
-    "Evergreen-Notes/Permanent-Notes/Oat.md",
-    "Daily-Bullet-Journal/journals/2021/04-April/2021_04_29.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_29.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_29.md",
-    "Enoughness/posts/_attachments/f1c33b26261ef62abfbaf3ce8dbf54ff.png",
+    "Brainfoodie/posts/_attachments/25cac930b40c2fb509710bfb9d96bb0d.png",
     "Enoughness/posts/_attachments/d2b422b9c4b556db4089c861e8570c26.jpeg",
+    "_attachments/Pasted image 20260429095256.png.md",
+    "_attachments",
+    "Brainfoodie/posts/for-want-of-a-nail.md",
+    "Evergreen-Notes/Permanent-Notes/systems-thinking.md",
+    "Evergreen-Notes/Permanent-Notes/be-aware-of-the-gray-zone-where-junk-miles-live.md",
+    "Brainfoodie/posts/the-game-changers.md",
+    "Brainfoodie/posts/heres-to-the-crazy-ones-think-different.md",
+    "AdaptX/posts/you-and-your-timeline.md",
+    "time.md",
+    "Evergreen-Notes/Permanent-Notes/you-are-the-average-of-the-five-people-you-associate-with-most.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_30.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_30.md",
+    "Daily-Bullet-Journal/journals/2023/04-April/2023_04_30.md",
+    "Daily-Bullet-Journal/journals/2022/04-April/2022_04_30.md",
+    "Daily-Bullet-Journal/journals/2017/04-April/2017_04_30.md",
+    "Brainfoodie/posts/_attachments/Pasted image 20260429095256.png",
+    "Enoughness/posts/_attachments/f1c33b26261ef62abfbaf3ce8dbf54ff.png",
     "Evergreen-Notes/Permanent-Notes/_attachments/a85f2fb643027af6c04409cd046239d6.png",
     "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260428152017.png",
-    "Evergreen-Notes/Permanent-Notes/_attachments/e3488af2ec07bb92f5e19733de36c3e2.png",
-    "Evergreen-Notes/Permanent-Notes/_attachments/ba5ec240a449e9d464b0e1b2a8132942.jpeg",
-    "Evergreen-Notes/3306b178286bfd96a1397b747dba38c8.png",
-    "Evergreen-Notes/416b5b25a498ef226ea2665e72e64cf6.png",
     "Daily-Bullet-Journal/journals/2018/04-April/_attachments",
     "AdaptX/posts/_coverImages",
-    "_attachments",
     "Daily-Bullet-Journal/journals/2019/04-April",
     "Daily-Bullet-Journal/journals/2015/04-April",
     "Deep-Work-Machine/Number of Words/2026/03-March/number-of-words_2026-03.csv",
