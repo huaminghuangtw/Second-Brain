@@ -12,7 +12,7 @@ const url = await tp.system.prompt("🔗 URL? (can be empty)") || "";
 created: <% created %>
 title: "▍<% title %>"
 category: <% category %>
-author: <% authors.length === 1 ? authors[0] : `\n${authors.map(a => ` - ${a}`).join('\n')}` %>
+authors: <% authors.length === 1 ? authors[0] : `\n${authors.map(a => ` - ${a}`).join('\n')}` %>
 url: <% url %>
 ---
 
