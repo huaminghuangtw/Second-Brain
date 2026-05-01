@@ -941,15 +941,6 @@
       "key": "V"
     }
   ],
-  "obsidian-editor-shortcuts:toggle-line-numbers": [
-    {
-      "modifiers": [
-        "Alt",
-        "Ctrl"
-      ],
-      "key": "L"
-    }
-  ],
   "app:delete-file": [
     {
       "modifiers": [
@@ -977,6 +968,15 @@
         "Shift"
       ],
       "key": "S"
+    }
+  ],
+  "unique-attachments:rename-all-attachments": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "L"
     }
   ]
 }

@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f9b7d48d3ad3cdcd",
+        "id": "ea4a9c57b0cb2654",
         "type": "tabs",
         "children": [
           {
-            "id": "a5284ff84417ec7e",
+            "id": "b40113be97e5a0ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_01.md",
+                "mode": "source",
                 "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2026_05_01"
             }
           }
         ]
@@ -63,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "visual cortex",
+                "query": "🤔",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,10 +102,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_01.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for 2026_05_01"
             }
           },
           {
@@ -123,43 +114,10 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_01.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
-            }
-          },
-          {
-            "id": "f5ba8c2e126a3303",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Brainfoodie/posts/we-dont-get-a-lot-of-things-to-really-care-about.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for we-dont-get-a-lot-of-things-to-really-care-about"
-            }
-          },
-          {
-            "id": "ee29b245b299f570",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Homepage.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Homepage"
             }
           },
           {
@@ -170,6 +128,39 @@
               "state": {},
               "icon": "quote-glyph",
               "title": "References"
+            }
+          },
+          {
+            "id": "7c65ab218c38f899",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_01.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026_05_01"
+            }
+          },
+          {
+            "id": "2e38ae8e2d47bb06",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_01.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026_05_01"
             }
           },
           {
@@ -185,8 +176,24 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "868e3e072f9fb375",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_01.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026_05_01"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -203,52 +210,53 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "a5284ff84417ec7e",
+  "active": "b40113be97e5a0ac",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_30.md",
-    "Enoughness/posts/2026-week-18.md",
-    "Enoughness/posts/_attachments/083f4217bbe2d5d628a5e406e9006b18.png",
-    "Enoughness/posts/2026-week-17.md",
-    "Enoughness/posts/_attachments/5ee42257258bfe204a25d58c42f045d7.png",
-    "Enoughness/posts/_attachments/1fee5c7a2758d750e599aaffc4f807db.png",
-    "Enoughness/posts/_attachments/fa745cd0767ff71d45eef1815dd478ee.png",
+    "Visuals/Life Pro Tips/IMG_5616.jpeg",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_17.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_03.md",
-    "Untitled.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_26.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_27.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_28.md",
     "Daily-Bullet-Journal/journals/2026/04-April/2026_04_29.md",
-    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md",
-    "Brainfoodie/posts/collection-eliud-kipchoge.md",
-    "Brainfoodie/posts/_attachments/25cac930b40c2fb509710bfb9d96bb0d.png",
-    "Enoughness/posts/_attachments/d2b422b9c4b556db4089c861e8570c26.jpeg",
-    "_attachments/Pasted image 20260429095256.png.md",
-    "_attachments",
-    "Brainfoodie/posts/for-want-of-a-nail.md",
-    "Evergreen-Notes/Permanent-Notes/systems-thinking.md",
-    "Evergreen-Notes/Permanent-Notes/be-aware-of-the-gray-zone-where-junk-miles-live.md",
-    "Brainfoodie/posts/the-game-changers.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_30.md",
+    "Enoughness/posts/2025-week-47.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_16.md",
+    "Enoughness/posts/2026-week-16.md",
+    "Enoughness/posts/2026-week-18.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_30.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_18.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_17.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_11.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_21.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_03.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_11.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_06.md",
+    "Evergreen-Notes/Permanent-Notes/a-letter-to-my-body.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_21.md",
+    "Enoughness/posts/2026-week-17.md",
+    "Enoughness/posts/_attachments/28792725f0fabc209f21aba92f617d6c.png",
+    "Enoughness/posts/_attachments/Pasted image 20260501154836.png",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_05.md",
     "Brainfoodie/posts/heres-to-the-crazy-ones-think-different.md",
-    "AdaptX/posts/you-and-your-timeline.md",
-    "time.md",
-    "Evergreen-Notes/Permanent-Notes/you-are-the-average-of-the-five-people-you-associate-with-most.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_30.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_30.md",
-    "Daily-Bullet-Journal/journals/2023/04-April/2023_04_30.md",
-    "Daily-Bullet-Journal/journals/2022/04-April/2022_04_30.md",
-    "Daily-Bullet-Journal/journals/2017/04-April/2017_04_30.md",
-    "Brainfoodie/posts/_attachments/Pasted image 20260429095256.png",
-    "Enoughness/posts/_attachments/f1c33b26261ef62abfbaf3ce8dbf54ff.png",
-    "Evergreen-Notes/Permanent-Notes/_attachments/a85f2fb643027af6c04409cd046239d6.png",
-    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260428152017.png",
+    "Enoughness/posts/_attachments/1b5e84a5d8bfc0ee343d7e55835a8490.png",
+    "Enoughness/posts/_attachments/fa745cd0767ff71d45eef1815dd478ee.png",
+    "Enoughness/posts/_attachments/5c32972148bc2b547c5cff899d76ce20.png",
+    "Enoughness/posts/_attachments/39485bd88e8c484bf9e5c4cfbc166521.png",
+    "Enoughness/posts/_attachments/1fee5c7a2758d750e599aaffc4f807db.png",
+    "AdaptX/posts/the-power-of-quiet.md",
+    "Enoughness/posts/2025-week-44.md",
+    "Daily-Bullet-Journal/journals/2021/05-May",
+    "Daily-Bullet-Journal/journals/2020/05-May",
+    "Daily-Bullet-Journal/journals/2019/05-May",
+    "Daily-Bullet-Journal/journals/2026/05-May",
+    "Enoughness/posts/_attachments/083f4217bbe2d5d628a5e406e9006b18.png",
+    "Enoughness/posts/_attachments/5ee42257258bfe204a25d58c42f045d7.png",
+    "Brainfoodie/posts/_attachments/25cac930b40c2fb509710bfb9d96bb0d.png",
+    "_attachments",
     "Daily-Bullet-Journal/journals/2018/04-April/_attachments",
     "AdaptX/posts/_coverImages",
     "Daily-Bullet-Journal/journals/2019/04-April",
     "Daily-Bullet-Journal/journals/2015/04-April",
-    "Deep-Work-Machine/Number of Words/2026/03-March/number-of-words_2026-03.csv",
-    "Deep-Work-Machine/Number of Words/2026/03-March/number-of-words_2026-03.json",
-    "Deep-Work-Machine/Number of Flows/2026/03-March/number-of-flows_2026-03.json",
-    "Deep-Work-Machine/Number of Flows/2026/03-March/number-of-flows_2026-03.csv",
-    "Deep-Work-Machine/Number of Words/2026/03-March"
+    "Deep-Work-Machine/Number of Words/2026/03-March/number-of-words_2026-03.csv"
   ]
 }
