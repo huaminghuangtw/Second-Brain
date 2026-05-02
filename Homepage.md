@@ -392,10 +392,10 @@ try {
     fileContentLifePhilosophy = await Utils.getFileContent(
         "huaminghuangtw",
         "Dear-Today-Me",
-        "Dear-Today-Me.md"
+        "index.md"
     );
 } catch {
-    fileContentLifePhilosophy = await dv.io.load("Dear-Today-Me/Dear-Today-Me.md");
+    fileContentLifePhilosophy = await dv.io.load("Dear-Today-Me/index.md");
 }
 
 let allParagraphs = fileContentLifePhilosophy.split("\n\n");
@@ -409,7 +409,7 @@ let lineNumber = fileContentLifePhilosophy.split("\n")
                     .findIndex(line => line.includes(randomParagraph)) + 1;
 
 let editURI = await Utils.buildObsidianOpenFileURI(
-    "Dear-Today-Me/Dear-Today-Me.md",
+    "Dear-Today-Me/index.md",
     lineNumber
 );
 
