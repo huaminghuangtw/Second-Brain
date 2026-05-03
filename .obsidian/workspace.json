@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "36ab83c5a3ed69f2",
+        "id": "9a7157e47e696966",
         "type": "tabs",
         "children": [
           {
-            "id": "6cbd3cf5535f6b5d",
+            "id": "72c80ad55c165f23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_02.md",
+                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_03.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_05_02"
+              "title": "2026_05_03"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "草稿",
+                "query": "esther",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,10 +102,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_02.md"
+                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_03.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_05_02"
+              "title": "File properties for 2026_05_03"
             }
           },
           {
@@ -114,7 +114,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_02.md"
+                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_03.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_02.md",
+                "file": "Homepage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026_05_02"
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_02.md",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026_05_02"
+              "title": "Outgoing links from Homepage"
             }
           },
           {
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_02.md",
+                "file": "Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026_05_02"
+              "title": "Outline of Homepage"
             }
           }
         ]
@@ -209,39 +209,40 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "6cbd3cf5535f6b5d",
+  "active": "72c80ad55c165f23",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_03.md",
+    "Evergreen-Notes/bibliography.bib",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_01.md",
-    "Evergreen-Notes/Permanent-Notes/the-streetlight-effect.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_30.md",
-    "Daily-Bullet-Journal/journals/2023/04-April/2023_04_13.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_29.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_11.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/_attachments/Pasted image 20260502175851.png",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_22.md",
-    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_09.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_02.md",
-    "Enoughness/posts/2026-week-03.md",
-    "Enoughness/posts/2026-week-07.md",
-    "Enoughness/posts/2026-week-18.md",
-    "Evergreen-Notes/Permanent-Notes/just-get-started.md",
-    "Evergreen-Notes/Permanent-Notes/beware-of-the-gray-zone-where-junk-miles-live.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_18.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_21.md",
-    "Dear-Today-Me/index.md",
+    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_19.md",
+    "Evergreen-Notes/Permanent-Notes/Prioritization.md",
+    "Evergreen-Notes/Permanent-Notes/visual-perceptual-exercise-by-andrew-huberman.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_11.md",
+    "Brainfoodie/posts/the-cookie-thief.md",
+    "Weekly-Mindware-Update/issues/2026/2026w18.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_03.md",
+    "Evergreen-Notes/Permanent-Notes/digital-garden.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_13.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_17.md",
     "Daily-Bullet-Journal/journals/2026/05-May/2026_05_02.md",
-    "Evergreen-Notes/Permanent-Notes/always-start-small.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_04.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_14.md",
-    "Daily-Bullet-Journal/journals/2015/05-May/2015_05_02.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/_attachments/Pasted image 20260502155240.png",
+    "about.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_25.md",
+    "Life-Notes/parenting.md",
+    "why-i-write-and-run.md",
+    "Evergreen-Notes/Permanent-Notes/eat-the-biggest-frog-first-thing-in-the-morning.md",
+    "Evergreen-Notes/Permanent-Notes/time-blocking.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
+    "Daily-Bullet-Journal/journals/2023/06-June/2023_06_24.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_30.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_01.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_11.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_28.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_22.md",
+    "Daily-Bullet-Journal/journals/2017/05-May",
+    "Daily-Bullet-Journal/journals/2026/04-April/_attachments/Pasted image 20260502175851.png",
+    "Daily-Bullet-Journal/journals/2026/05-May/_attachments/332de4fa03d8a2469cf15e05f5458dfa.png",
     "Daily-Bullet-Journal/journals/2026/05-May/_attachments",
-    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_02.md",
-    "Daily-Bullet-Journal/journals/2022/05-May/2022_05_02.md",
     "Daily-Bullet-Journal/journals/2015/05-May",
-    "Visuals/Life Pro Tips/IMG_5616.jpeg",
+    "Visuals/Life Pro Tips/d2b7c43a94ada1974523726e52933180.jpeg",
     "Enoughness/posts/_attachments/28792725f0fabc209f21aba92f617d6c.png",
     "Enoughness/posts/_attachments/Pasted image 20260501154836.png",
     "Enoughness/posts/_attachments/1b5e84a5d8bfc0ee343d7e55835a8490.png",
@@ -255,7 +256,6 @@
     "Daily-Bullet-Journal/journals/2026/05-May",
     "_attachments",
     "Daily-Bullet-Journal/journals/2018/04-April/_attachments",
-    "AdaptX/posts/_coverImages",
-    "Daily-Bullet-Journal/journals/2019/04-April"
+    "AdaptX/posts/_coverImages"
   ]
 }
