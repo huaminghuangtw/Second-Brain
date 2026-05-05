@@ -176,10 +176,10 @@
     {
       "id": "2qu3zkdn75",
       "platform_specific_commands": {
-        "default": "filepath={{file_path:relative}}\nopen \"obsidian://adv-uri?filepath=$filepath&frontmatterkey=canonicalPath\""
+        "default": "filepath={{file_path:relative}}\n\nif grep -q '^canonicalPath:' $filepath; then\n  open \"obsidian://adv-uri?filepath=$filepath&frontmatterkey=canonicalPath\"\nelse\n  echo -n {{title}} | pbcopy\nfi"
       },
       "shells": {},
-      "alias": "Copy canonicalPath",
+      "alias": "Copy Slug",
       "icon": null,
       "confirm_execution": false,
       "ignore_error_codes": [],
@@ -202,7 +202,7 @@
       },
       "output_channel_order": "stdout-first",
       "output_handling_mode": "buffered",
-      "execution_notification_mode": "permanent",
+      "execution_notification_mode": "quick",
       "events": {},
       "debounce": null,
       "command_palette_availability": "enabled",
