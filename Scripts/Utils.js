@@ -31,20 +31,7 @@ class Utils {
             `obsidian://adv-uri?` +
             `filepath=${encodeURIComponent(filePath)}&` +
             `viewmode=source&` +
-            `openmode=true&` +
-            `line=${
-                lineNumber ||
-                (await (async () => {
-                    try {
-                        const fileContent = await app.vault.read(
-                            app.vault.getFileByPath(filePath)
-                        );
-                        return fileContent.split("\n").length;
-                    } catch {
-                        return 1;
-                    }
-                })())
-            }`
+            `openmode=true&`
         );
     }
 
