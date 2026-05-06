@@ -6,12 +6,10 @@ const canonicalPath = `${moment().format('YYYY/M/D')}/${fileName}`;
 -%>
 ---
 created: <% created %>
-canonicalUrl: https://shortcutomation.com/<% canonicalPath %>
 canonicalPath: <% canonicalPath %>
 draft: true
 featured: false
 title: <% title %>
-description:
 tags: [<% collection %>/]
 ---
 
