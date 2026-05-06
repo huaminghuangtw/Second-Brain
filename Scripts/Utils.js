@@ -31,7 +31,8 @@ class Utils {
             `obsidian://adv-uri?` +
             `filepath=${encodeURIComponent(filePath)}&` +
             `viewmode=source&` +
-            `openmode=true&`
+            `openmode=true&` +
+            `line=${lineNumber}`
         );
     }
 
