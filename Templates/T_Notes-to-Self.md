@@ -5,7 +5,6 @@ const { title, created } = result;
 -%>
 ---
 created: <% created %>
-canonicalURL: https://adaptx.tw/<% title %>
 related: []
 ---
 
