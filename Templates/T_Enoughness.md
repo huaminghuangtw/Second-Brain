@@ -13,10 +13,9 @@ const canonicalPath = `${created.format('YYYY/M/D')}/${slug}`;
 ---
 created: <% created.format('YYYY-MM-DD') %>
 draft: true
-title: ⚖️ <% title %>
+title: <% title %>
 canonicalPath: <% canonicalPath %>
 slug: <% slug %>
-description: "<% `Enoughness #${issue}` %>"
 issue: <% issue %>
 ---
 
