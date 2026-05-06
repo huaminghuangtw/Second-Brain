@@ -9,7 +9,6 @@ created: <% created %>
 draft: true
 featured: false
 title: <% title %>
-description:
 canonicalPath: <% canonicalPath %>
 tags: [/<% collection %>/]
 sources: []
