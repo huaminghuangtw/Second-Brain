@@ -1,22 +1,15 @@
 <%*
 await tp.user.showTagNewsletter();
-const result = await tp.user.createWritingPost(tp);
+const result = await tp.user.createPost(tp);
 if (!result) return;
-const { title, created } = result
-const issue = app.vault
-		.getFiles()
-		.filter((f) => f.path.startsWith("Enoughness/posts/") && f.extension === "md")
-		.length;
-const slug = `enoughness-${issue}`;
-const canonicalPath = `${created.format('YYYY/M/D')}/${slug}`;
+const { title, fileName, created, canonicalPath } = result
 -%>
 ---
-created: <% created.format('YYYY-MM-DD') %>
+created: <% created %>
 draft: true
-title: <% title %>
+title: ⚖️ <% title %>
 canonicalPath: <% canonicalPath %>
-slug: <% slug %>
-issue: <% issue %>
+issue: <% fileName.split('-').pop() %>
 ---
 
 <!-- SELF-INTRO-START -->
