@@ -1,8 +1,7 @@
 <%*
-const result = await tp.user.createWritingPost(tp);
+const result = await tp.user.createPost(tp);
 if (!result) return;
-const { title, fileName, collection, created } = result;
-const canonicalPath = `${moment().format('YYYY/M/D')}/${fileName}`;
+const { title, collection, created, canonicalPath } = result;
 -%>
 ---
 created: <% created %>
