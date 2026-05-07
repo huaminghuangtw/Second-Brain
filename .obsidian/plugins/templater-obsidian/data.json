@@ -21,16 +21,17 @@
       "template": ""
     }
   ],
-  "syntax_highlighting": true,
-  "syntax_highlighting_mobile": true,
+  "syntax_highlighting": false,
+  "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "Templates/T_Permanent-Notes.md",
     "Templates/T_Today-I-Learned.md",
     "Templates/T_Shortcutomation.md",
     "Templates/T_Enoughness.md",
-    "Templates/T_Notes-to-Self.md",
     "Templates/T_AdaptX.md",
-    "Templates/T_Brainfoodie.md"
+    "Templates/T_Brainfoodie.md",
+    "Templates/T_Microblog.md",
+    "Templates/T_Blog.md"
   ],
   "startup_templates": [],
   "intellisense_render": 1,

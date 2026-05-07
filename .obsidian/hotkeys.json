@@ -978,5 +978,25 @@
       ],
       "key": "L"
     }
+  ],
+  "templater-obsidian:create-Templates/T_Microblog.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_Blog.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "N"
+    }
   ]
 }
