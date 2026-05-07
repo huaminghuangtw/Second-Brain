@@ -1,5 +1,5 @@
 <%*
-const result = await tp.user.createWritingPost(tp);
+const result = await tp.user.createPost(tp);
 if (!result) return;
 const { title } = result;
 -%>
