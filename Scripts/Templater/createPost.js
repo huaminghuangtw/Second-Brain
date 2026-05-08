@@ -4,6 +4,8 @@ async function createPost(tp) {
     let rawTitle;
     if (collection === "Enoughness") {
         rawTitle = "__temp__" + tp.date.now("YYYY-MM-DD-HH-mm-ss");
+    } else if (collection === "Microblog") {
+        rawTitle = '';
     } else {
         const userInput = await tp.system.prompt("✏️ Title?");
         if (!userInput) return;
