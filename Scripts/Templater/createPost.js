@@ -58,14 +58,10 @@ async function createPost(tp) {
         ? tp.user.upcomingFriday()
         : tp.date.now();
 
-    const canonicalPath = `${created.format("YYYY/M/D")}/${fileName}`;
-
     return {
         title,
         fileName,
-        collection,
         created: created.format("YYYY-MM-DD"),
-        canonicalPath,
     };
 }
 
