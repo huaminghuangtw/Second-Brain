@@ -1,14 +1,13 @@
 <%*
 const result = await tp.user.createPost(tp);
 if (!result) return;
-const { title, collection, created, canonicalPath } = result;
+const { title, created } = result;
 -%>
 ---
 created: <% created %>
 draft: true
 title: <% title %>
-canonicalPath: <% canonicalPath %>
-tags: [/<% collection %>/]
+tags: 
 sources: []
 ---
 
