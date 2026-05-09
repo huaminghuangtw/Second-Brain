@@ -2,14 +2,15 @@
 await tp.user.showTagNewsletter();
 const result = await tp.user.createPost(tp);
 if (!result) return;
-const { title, fileName, created, canonicalPath } = result
+const { title, fileName, created } = result
 -%>
 ---
 created: <% created %>
 draft: true
 title: ⚖️ <% title %>
-canonicalPath: <% canonicalPath %>
 issue: <% fileName.split('-').pop() %>
+tags: 
+quote: 
 ---
 
 <!-- SELF-INTRO-START -->
@@ -28,14 +29,4 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 # 3
 
-— [樺明](https://huam.ing/<% canonicalPath %>)
-
----
-
-<p align="center">
-<sub>
-
-<br>
-
-</sub>
-</p>
+— 樺明
