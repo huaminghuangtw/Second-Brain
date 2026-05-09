@@ -68,7 +68,7 @@
       }
     },
     "search": {
-      "enabled": true,
+      "enabled": false,
       "templates": {
         "main": "",
         "fallback": ""
@@ -96,21 +96,21 @@
       }
     },
     "backlink": {
-      "enabled": true,
+      "enabled": false,
       "templates": {
         "main": "",
         "fallback": ""
       }
     },
     "windowFrame": {
-      "enabled": true,
+      "enabled": false,
       "templates": {
         "main": "",
         "fallback": ""
       }
     },
     "noteLink": {
-      "enabled": true,
+      "enabled": false,
       "strategy": "onlyEmpty",
       "approval": true,
       "templates": {

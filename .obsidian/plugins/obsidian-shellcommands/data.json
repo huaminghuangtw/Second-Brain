@@ -176,7 +176,7 @@
     {
       "id": "2qu3zkdn75",
       "platform_specific_commands": {
-        "default": "filepath={{file_path:relative}}\n\nif grep -q '^canonicalPath:' $filepath; then\n  open \"obsidian://adv-uri?filepath=$filepath&frontmatterkey=canonicalPath\"\nelse\n  echo -n {{title}} | pbcopy\nfi"
+        "default": "echo -n {{title}} | pbcopy"
       },
       "shells": {},
       "alias": "Copy Slug",

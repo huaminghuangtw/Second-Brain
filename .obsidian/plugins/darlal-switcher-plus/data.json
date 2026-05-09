@@ -54,7 +54,7 @@
   "shouldSearchFilenames": false,
   "shouldSearchBookmarks": false,
   "shouldSearchRecentFiles": true,
-  "pathDisplayFormat": 1,
+  "pathDisplayFormat": 3,
   "hidePathIfRoot": true,
   "enabledRelatedItems": [
     "disk-location",
@@ -104,7 +104,7 @@
         "label": "Unresolved filenames"
       },
       "h1": {
-        "value": 0,
+        "value": 0.5,
         "label": "H₁ headings"
       }
     },
@@ -193,6 +193,27 @@
         "id": "canvas-node-group",
         "mode": 4,
         "label": "groups",
+        "isActive": false,
+        "isAvailable": true
+      },
+      "base-view-table": {
+        "id": "base-view-table",
+        "mode": 4,
+        "label": "table views",
+        "isActive": false,
+        "isAvailable": true
+      },
+      "base-view-list": {
+        "id": "base-view-list",
+        "mode": 4,
+        "label": "list views",
+        "isActive": false,
+        "isAvailable": true
+      },
+      "base-view-cards": {
+        "id": "base-view-cards",
+        "mode": 4,
+        "label": "card views",
         "isActive": false,
         "isAvailable": true
       },
@@ -293,7 +314,7 @@
   },
   "preserveCommandPaletteLastInput": false,
   "preserveQuickSwitcherLastInput": false,
-  "shouldCloseModalOnBackspace": true,
+  "shouldCloseModalOnBackspace": false,
   "maxRecentFileSuggestionsOnInit": 25,
   "orderEditorListByAccessTime": true,
   "insertLinkInEditor": {
@@ -342,7 +363,8 @@
       }
     ]
   },
-  "preferredSourceForTitle": "Default",
+  "preferredSourceForTitle": "FrontMatter",
+  "frontmatterTitleProperty": "title",
   "closeWhenEmptyKeys": [
     {
       "modifiers": null,
@@ -460,5 +482,15 @@
       "Shift"
     ],
     "key": "s"
-  }
+  },
+  "showHeadingBreadcrumbs": true,
+  "headingBreadcrumbSeparator": " > ",
+  "maxBreadcrumbDepth": 0,
+  "showHeadingBreadcrumbsInSymbolMode": false,
+  "showTagsInSuggestions": false,
+  "tagSource": "both",
+  "excludeTagsFromDisplay": [],
+  "tagDisplaySeparator": " ",
+  "removeHashPrefixFromTags": false,
+  "maxTagsToDisplay": 0
 }

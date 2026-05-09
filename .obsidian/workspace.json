@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "0832e26d7a3fac37",
+        "id": "a94c1422934d63d8",
         "type": "tabs",
         "children": [
           {
-            "id": "9e1d009c3f896971",
+            "id": "34b60fdda38f4e50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_09.md",
-                "mode": "source",
+                "file": "Homepage.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_05_09"
-            }
-          },
-          {
-            "id": "aa6ede094fda2189",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_23.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026_04_23"
+              "title": "Homepage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "消化餅",
+                "query": "tag:#Blog",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -118,10 +102,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_23.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_04_23"
+              "title": "File properties for Homepage"
             }
           },
           {
@@ -130,7 +114,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Slash/About.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -229,52 +213,52 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "aa6ede094fda2189",
+  "active": "34b60fdda38f4e50",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_09.md",
-    "Blog/posts/20260509.md",
-    "Blog/posts/_attachments/Pasted image 20260509181349.png",
+    "Blog/posts/20251011.md",
+    "Today-I-Learned/posts/git-reset.md",
+    "Enoughness/posts/enoughness-9.md.bak",
+    "Enoughness/posts/enoughness-8.md.bak",
+    "Enoughness/posts/enoughness-7.md.bak",
+    "Enoughness/posts/enoughness-6.md.bak",
+    "Enoughness/posts/enoughness-5.md.bak",
+    "Enoughness/posts/enoughness-4.md.bak",
+    "Enoughness/posts/enoughness-3.md.bak",
+    "Enoughness/posts/enoughness-29.md.bak",
+    "Enoughness/posts/enoughness-28.md.bak",
+    "Enoughness/posts/enoughness-27.md.bak",
+    "Today-I-Learned/posts/manage-your-dotfiles.md",
+    "Today-I-Learned/posts/using-markdown-image-titles-as-captions.md",
     "Homepage.md",
-    "Blog/posts/_attachments/Pasted image 20260509162722.png",
-    "Microblog/posts/2026-05-09.md",
-    "Daily-Bullet-Journal/journals/2022/06-June/2022_06_01.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_23.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_08.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_05.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_06.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_07.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_03.md",
-    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_09.md",
-    "Daily-Bullet-Journal/journals/2020/05-May/2020_05_09.md",
-    "Daily-Bullet-Journal/journals/2019/05-May/2019_05_09.md",
-    "Daily-Bullet-Journal/journals/2023/05-May/2023_05_09.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_09.md",
-    "Brainfoodie/posts/this-page-is-designed-to-last-a-manifesto-for-preserving-content-on-the-web.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_30.md",
-    "Evergreen-Notes/Permanent-Notes/tutorial-hell.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-use-ai-effectively.md",
-    "Evergreen-Notes/Fleeting-Notes.md",
+    "Shortcutomation/posts/hidden-keyboard-shortcuts-for-apple-shortcuts.md",
+    "Shortcutomation/posts/how-i-use-shortcuts-to-recharge-my-brain.md",
+    "Shortcutomation/posts/why-i-watch-the-earth-spin-every-night-before-bed.md",
+    "Shortcutomation/posts/this-shortcut-got-me-to-exercise-every-single-day.md",
+    "Shortcutomation/posts/shortcut-input-magic-youre-probably-missing.md",
+    "Shortcutomation/posts/live-each-day-as-if-it-were-your-last.md",
+    "Shortcutomation/posts/how-i-use-shortcuts-to-reflect-on-my-daily-screen-time.md",
+    "AdaptX/posts/the-power-of-quiet.md",
+    "AdaptX/posts/who-do-we-spend-time-with-across-our-lifetime.md",
+    "AdaptX/posts/you-and-your-timeline.md",
     "AdaptX/posts/how-to-tie-shoelaces.md",
-    "Enoughness/posts/enoughness-9.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_04.md",
-    "AdaptX/posts/the-monkey-and-pedestal-mindset.md",
-    "Slash",
-    "Scripts/Templater/createPost.js",
+    "Today-I-Learned/posts/git-tags.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_31.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_16.md",
+    "Enoughness/posts/enoughness-20.md",
+    "Templates/T_Enoughness.md",
+    "Enoughness/posts/enoughness-29.md",
+    "Enoughness/posts/enoughness-30.md",
+    "Enoughness/posts/enoughness-28.md",
+    "Enoughness/posts/enoughness-27.md",
+    "Blog/posts/_attachments/0f12f05e104d45be01369e519ec1480b.png",
+    "Blog/posts/_attachments/Pasted image 20260509162722.png",
     "Blog/posts/_attachments/5dfdecd4f4d717476fd485be043db9d8.png",
     "Blog/posts/_attachments/509e8f2ba33099c9747b88312da2cb15.png",
     "Blog/posts/_attachments/2b07590885f588a86903374665445262.png",
-    "Blog/posts/_attachments",
-    "Blog/posts",
-    "Blog",
     "Enoughness/posts/_attachments/f1c33b26261ef62abfbaf3ce8dbf54ff.png",
     "Blog/posts/_attachments/2371fb7bee975c3bfd77c4e12c6d982e.png",
     "Microblog copy/posts/_attachments/2371fb7bee975c3bfd77c4e12c6d982e.png",
-    "Microblog copy/posts/_attachments",
-    "Microblog copy/posts",
-    "Microblog copy",
     "Evergreen-Notes/Permanent-Notes/_attachments/3e327b28949ad73c324d32af0c8eab61.png",
-    "Microblog/src/content/microblog/posts/_attachments/2371fb7bee975c3bfd77c4e12c6d982e.png",
-    "Microblog/src/content/microblog/posts/_attachments",
-    "Microblog/src/content/microblog/posts"
+    "Microblog/src/content/microblog/posts/_attachments/2371fb7bee975c3bfd77c4e12c6d982e.png"
   ]
 }
