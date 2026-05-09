@@ -3,7 +3,6 @@
   "mousewheel-image-zoom",
   "obsidian-linter",
   "obsidian-advanced-uri",
-  "obsidian-auto-link-title",
   "obsidian-collapse-all-plugin",
   "obsidian-editor-shortcuts",
   "obsidian-completr",
@@ -15,7 +14,6 @@
   "obsidian-minimal-settings",
   "note-refactor-obsidian",
   "obsidian-pandoc-reference-list",
-  "url-into-selection",
   "darlal-switcher-plus",
   "obsidian-smart-typography",
   "obsidian-shellcommands",
@@ -29,5 +27,6 @@
   "better-word-count",
   "permalink-opener",
   "update-relative-links",
-  "new-tab-default-page"
+  "new-tab-default-page",
+  "obsidian-auto-link-title"
 ]

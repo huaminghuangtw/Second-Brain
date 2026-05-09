@@ -38,5 +38,5 @@
   "tabSize": 2,
   "strictLineBreaks": false,
   "openBehavior": "file:Homepage",
-  "deleteUnlinkedAttachments": "always"
+  "deleteUnlinkedAttachments": "ask"
 }

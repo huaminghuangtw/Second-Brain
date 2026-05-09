@@ -34,6 +34,6 @@
     "Templates/T_Blog.md"
   ],
   "startup_templates": [],
-  "intellisense_render": 1,
+  "intellisense_render": 0,
   "enable_ribbon_icon": true
 }

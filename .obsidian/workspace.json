@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "a129c8b27ed23b59",
+        "id": "0832e26d7a3fac37",
         "type": "tabs",
         "children": [
           {
-            "id": "cc6a4613092f11be",
+            "id": "9e1d009c3f896971",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_12.md",
-                "mode": "preview",
+                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_09.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025_12_12"
+              "title": "2026_05_09"
+            }
+          },
+          {
+            "id": "aa6ede094fda2189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_23.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026_04_23"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(sahil marathon)",
+                "query": "消化餅",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,10 +118,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/12-December/2025_12_12.md"
+                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_23.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025_12_12"
+              "title": "File properties for 2026_04_23"
             }
           },
           {
@@ -213,34 +229,35 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "cc6a4613092f11be",
+  "active": "aa6ede094fda2189",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_19.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_07.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_09.md",
+    "Blog/posts/20260509.md",
+    "Blog/posts/_attachments/Pasted image 20260509181349.png",
     "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
-    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
-    "Evergreen-Notes/Permanent-Notes/habits-of-highly-effective-software-engineers.md",
-    "Evergreen-Notes/Permanent-Notes/tutorial-hell.md",
-    "Daily-Bullet-Journal/journals/2022/05-May/2022_05_07.md",
-    "Daily-Bullet-Journal/journals/2022/05-May/2022_05_08.md",
-    "Slash/about.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_18.md",
-    "_about.md",
-    "Blog/posts/20260508.md",
-    "why-i-write-and-run.md",
+    "Blog/posts/_attachments/Pasted image 20260509162722.png",
+    "Microblog/posts/2026-05-09.md",
+    "Daily-Bullet-Journal/journals/2022/06-June/2022_06_01.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_23.md",
     "Daily-Bullet-Journal/journals/2026/05-May/2026_05_08.md",
-    "Microblog/posts/2026-05-08.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_09.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_07.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_17.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_02.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_21.md",
-    "Evergreen-Notes/Permanent-Notes/programming-best-practices.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_05.md",
     "Daily-Bullet-Journal/journals/2026/05-May/2026_05_06.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_01.md",
-    "Enoughness/posts/enoughness-2.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_07.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_03.md",
+    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_09.md",
+    "Daily-Bullet-Journal/journals/2020/05-May/2020_05_09.md",
+    "Daily-Bullet-Journal/journals/2019/05-May/2019_05_09.md",
+    "Daily-Bullet-Journal/journals/2023/05-May/2023_05_09.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_09.md",
+    "Brainfoodie/posts/this-page-is-designed-to-last-a-manifesto-for-preserving-content-on-the-web.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_30.md",
+    "Evergreen-Notes/Permanent-Notes/tutorial-hell.md",
+    "Evergreen-Notes/Permanent-Notes/how-to-use-ai-effectively.md",
+    "Evergreen-Notes/Fleeting-Notes.md",
+    "AdaptX/posts/how-to-tie-shoelaces.md",
+    "Enoughness/posts/enoughness-9.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_04.md",
+    "AdaptX/posts/the-monkey-and-pedestal-mindset.md",
     "Slash",
     "Scripts/Templater/createPost.js",
     "Blog/posts/_attachments/5dfdecd4f4d717476fd485be043db9d8.png",
@@ -258,8 +275,6 @@
     "Evergreen-Notes/Permanent-Notes/_attachments/3e327b28949ad73c324d32af0c8eab61.png",
     "Microblog/src/content/microblog/posts/_attachments/2371fb7bee975c3bfd77c4e12c6d982e.png",
     "Microblog/src/content/microblog/posts/_attachments",
-    "Microblog/src/content/microblog/posts",
-    "Microblog/posts/_attachments/2371fb7bee975c3bfd77c4e12c6d982e.png",
-    "‏‎.png"
+    "Microblog/src/content/microblog/posts"
   ]
 }

@@ -18,7 +18,14 @@
     }
   ],
   "templater-obsidian:create-new-note-from-template": [],
-  "file-explorer:new-file": [],
+  "file-explorer:new-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
   "templater-obsidian:templates/note_template.md": [
     {
       "modifiers": [
