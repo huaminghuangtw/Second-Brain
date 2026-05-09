@@ -5,6 +5,7 @@ const { created } = result;
 -%>
 ---
 created: <% created %>
+tags: 
 ---
 
 <% tp.file.cursor() %>
