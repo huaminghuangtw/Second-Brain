@@ -1,13 +1,13 @@
 <%*
 const result = await tp.user.createPost(tp);
 if (!result) return;
-const { title, collection, created } = result;
+const { title, created } = result;
 -%>
 ---
 created: <% created %>
 draft: true
 title: <% title %>
-tags: [<% collection %>/]
+tags: 
 ---
 
 <% tp.file.cursor() %>
