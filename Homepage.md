@@ -149,7 +149,6 @@ dv.table(
 ---
 
 > [! ]- 🫶 Health
->
 > ```dataviewjs
 > const CONFIG = {
 >     thresholds: {
@@ -210,7 +209,6 @@ dv.table(
 > ```
 
 > [! ]- 🌸 Retrospection
->
 > ```dataviewjs
 > const { Utils } = await cJS();
 >
@@ -244,7 +242,6 @@ dv.table(
 > ```
 
 > [! ]- 👨🏽‍🌾 Garden
->
 > ```dataviewjs
 > const { Utils } = await cJS();
 >
@@ -331,7 +328,6 @@ dv.table(
 > ```
 
 > [! ]- ✍️ Writing
->
 > ```dataviewjs
 > const drafts = dv.pages()
 >     .where(p => p.draft === true)
@@ -345,7 +341,6 @@ dv.table(
 > ```
 
 > [! ]- 🗒️ Notes
->
 > ```dataviewjs
 > const notes = dv.pages('"Evergreen-Notes/Permanent-Notes"');
 > const bwc = app.plugins.plugins["better-word-count"].api;
