@@ -958,15 +958,6 @@
       "key": "D"
     }
   ],
-  "obsidian-shellcommands:shell-command-2qu3zkdn75": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "C"
-    }
-  ],
   "obsidian-shellcommands:shell-command-0djiknrkgh": [
     {
       "modifiers": [
@@ -1004,6 +995,24 @@
         "Shift"
       ],
       "key": "N"
+    }
+  ],
+  "obsidian-shellcommands:shell-command-2qu3zkdn75": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "C"
     }
   ]
 }
