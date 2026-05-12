@@ -62,9 +62,6 @@ for ((i=1; i<=total_dir_num; i++)); do
         # Handle Deep Work Machine files separately
         [[ "$file_path" =~ ^Number\ of\ (Flows|Words)/ ]] && continue
         
-        # Handle README.md separately
-        [[ "$file_path" == "README.md" ]] && continue
-        
         git add "$file_path"
         
         [[ "$status_code" =~ ^(\?\?|A) ]] && git commit -m "Add: $(basename "$file_path")" || git commit -m "Update: $(basename "$file_path")"
@@ -87,16 +84,6 @@ for ((i=1; i<=total_dir_num; i++)); do
         month=$(echo "$filepath" | cut -d'/' -f3 | cut -d'-' -f2)
         git commit -m "Add stats for $year $month"
     }
-
-    if git diff --name-only | grep -q 'README.md'; then
-        git add README.md
-        git commit -m "Update: README.md"
-    fi
-
-    [ -f "README.md" ] && git update-index --assume-unchanged README.md
-    git add -A
-    git commit -m "Backup"
-    [ -f "README.md" ] && git update-index --no-assume-unchanged README.md
 
     git push origin main && {
         echo -e "${GREEN}✅ Backup Completed: $(basename "$TARGET_DIR")${NC}"
