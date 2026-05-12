@@ -262,8 +262,11 @@ dv.table(
 >     // Heading anchors in the same file (e.g. [text](#heading)) are always valid
 >     if (targetPath.startsWith("#")) return true;
 >
+>     // Links to a heading in another file (e.g. path/to/file.md#heading) are always valid
+>     if (targetPath.split("#")[0].endsWith(".md")) return true;
+>
 >     // https://docs.obsidian.md/Reference/TypeScript+API/MetadataCache/getFirstLinkpathDest
->     return !!app.metadataCache.getFirstLinkpathDest(targetPath, sourcePath);
+>     return Boolean(app.metadataCache.getFirstLinkpathDest(targetPath, sourcePath));
 > }
 >
 > async function findBadLinksAndEmbeds() {
