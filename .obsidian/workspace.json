@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "e7734c173556c280",
+        "id": "f7ebe5b36b08a52e",
         "type": "tabs",
         "children": [
           {
-            "id": "1f1afe7bb1e100db",
+            "id": "11f3f521660aacac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_12.md",
+                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_05_12"
-            }
-          },
-          {
-            "id": "547c3b3b8065cfb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_12.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026_05_12"
+              "title": "2026_05_13"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "瀟灑",
+                "query": "width=\"\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,10 +102,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Blog/posts/_attachments/d2b422b9c4b556db4089c861e8570c26.jpeg"
+                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_13.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for d2b422b9c4b556db4089c861e8570c26"
+              "title": "File properties for 2026_05_13"
             }
           },
           {
@@ -229,53 +213,53 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "547c3b3b8065cfb6",
+  "active": "11f3f521660aacac",
   "lastOpenFiles": [
+    "Evergreen-Notes/assets/brain.png",
+    "Evergreen-Notes/assets/image.png",
+    "Brain-Food/LICENSE",
+    "Deep-Work-Machine/LICENSE",
+    "Today-I-Learned/LICENSE",
+    "Dear-Today-Me/LICENSE",
+    "Weekly-Mindware-Update/LICENSE",
+    "Evergreen-Lists/LICENSE",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_12.md",
-    "Blog/posts/20250520.md",
-    "Blog/posts/_attachments/d2b422b9c4b556db4089c861e8570c26.jpeg",
-    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
-    "Evergreen-Lists/home-exercise/home-exercise.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_09.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_10.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_11.md",
-    "_attachments/Pasted image 20260512083934.png",
-    "_attachments/Pasted image 20260512083819.png",
-    "_attachments/Pasted image 20260512083729.png",
-    "_attachments/Pasted image 20260512083647.png",
-    "_attachments/Pasted image 20260512083604.png",
-    "_attachments/Pasted image 20260512083507.png",
-    "_attachments/Pasted image 20260512083351.png",
-    "_attachments/Pasted image 20260512083239.png",
-    "_attachments/Pasted image 20260512083115.png",
-    "_attachments",
-    "Daily-Bullet-Journal/journals/2023/05-May/2023_05_12.md",
-    "Daily-Bullet-Journal/journals/2018/05-May/2018_05_12.md",
-    "Daily-Bullet-Journal/journals/2016/05-May/2016_05_12.md",
-    "Daily-Bullet-Journal/journals/2021/05-May/2021_05_12.md",
-    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_12.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_12.md",
-    "Evergreen-Notes/Permanent-Notes/amateurs-vs-professionals.md",
+    "Evergreen-Lists/assets/mockup.svg",
+    "Evergreen-Lists/assets/Untitled design.svg",
+    "Evergreen-Notes/assets/banner.svg",
+    "Evergreen-Notes/assets",
+    "Evergreen-Notes/untitled folder",
+    "Shortcutomation/assets/icon.svg",
+    "Shortcutomation/assets/appleShortcuts.svg",
+    "Shortcutomation/assets",
+    "Shortcutomation/untitled folder",
+    "Brain-Food/README.md",
+    "Deep-Work-Machine/README.md",
+    "Dear-Today-Me/README.md",
+    "Evergreen-Lists/README.md",
+    "Weekly-Mindware-Update/README.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_13.md",
+    "Enoughness/assets/mockup.svg",
+    "Enoughness/assets/Untitled design (1).svg",
+    "Enoughness/assets/Untitled design.svg",
+    "Evergreen-Lists/assets/mockup.png",
+    "Life-Notes/Life/parenting.md",
+    "Life-Notes/Life/razor.md",
+    "Life-Notes/Life/laser-eye-surgery.md",
+    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_13.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_13.md",
+    "Daily-Bullet-Journal/journals/2022/05-May/2022_05_13.md",
+    "Daily-Bullet-Journal/journals/2023/05-May/2023_05_13.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_08.md",
+    "Evergreen-Notes/Permanent-Notes/the-12-month-celebration.md",
+    "Evergreen-Notes/Permanent-Notes/the-12-month-celebration (expanded).md",
     "Evergreen-Notes/Fleeting-Notes.md",
-    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_22.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_18.md",
-    "Blog/posts/20251011.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_13.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_12.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_28.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_10.md",
-    "Enoughness/posts/enoughness-9.md",
-    "Enoughness/posts/enoughness-9.md.bak",
-    "Enoughness/posts/enoughness-8.md.bak",
-    "Enoughness/posts/enoughness-7.md.bak",
-    "Enoughness/posts/enoughness-6.md.bak",
-    "Enoughness/posts/enoughness-5.md.bak",
-    "Enoughness/posts/enoughness-4.md.bak",
-    "Enoughness/posts/enoughness-3.md.bak",
-    "Enoughness/posts/enoughness-29.md.bak",
-    "Enoughness/posts/enoughness-28.md.bak"
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_12.md",
+    "Brainfoodie/posts/the-self-help-trap-what-20-years-of-optimizing-has-taught-me.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_13.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_09.md",
+    "Blog/posts/20250520.md",
+    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
+    "Evergreen-Lists/home-exercise/home-exercise.md"
   ]
 }
