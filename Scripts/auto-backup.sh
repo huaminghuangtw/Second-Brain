@@ -85,6 +85,9 @@ for ((i=1; i<=total_dir_num; i++)); do
         git commit -m "Add stats for $year $month"
     }
 
+    git add -A
+    git commit -m "Backup"
+    
     git push origin main && {
         echo -e "${GREEN}✅ Backup Completed: $(basename "$TARGET_DIR")${NC}"
     } || {
