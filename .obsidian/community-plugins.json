@@ -10,8 +10,6 @@
   "dataview",
   "obsidian-footnotes",
   "obsidian-front-matter-title-plugin",
-  "obsidian-hider",
-  "obsidian-minimal-settings",
   "note-refactor-obsidian",
   "obsidian-pandoc-reference-list",
   "darlal-switcher-plus",
@@ -28,5 +26,7 @@
   "permalink-opener",
   "update-relative-links",
   "new-tab-default-page",
-  "obsidian-auto-link-title"
+  "obsidian-auto-link-title",
+  "obsidian-hider",
+  "obsidian-minimal-settings"
 ]
