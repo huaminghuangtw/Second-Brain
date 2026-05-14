@@ -10,7 +10,7 @@ const CONFIG = {
         hours: 20,
         minutes: 30
     },
-    totalBlocks: 29,
+    totalBlocks: 32,
     block: {
         default: "⬛️",
         current: "🔻",
@@ -112,8 +112,8 @@ const results = Object.fromEntries(
 );
 
 const ROW_CONFIG = [
-    { metric: "Number of Flows", label: "Flows" },
-    { metric: "Number of Words", label: "Words" }
+    { metric: "Number of Flows", label: "🍅" },
+    { metric: "Number of Words", label: "✍️" }
 ];
 
 const todayISO = today.toISODate();
