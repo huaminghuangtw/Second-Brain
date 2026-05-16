@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "74f825610c5c0eb8",
+        "id": "fce5a8a65db0b1af",
         "type": "tabs",
         "children": [
           {
-            "id": "78f8b35a5b2d625a",
+            "id": "c36e11e169bf0cc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_15.md",
+                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_13.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_05_15"
+              "title": "2026_05_13"
+            }
+          },
+          {
+            "id": "214f5b1c05edeb89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "古寶無患子",
+                "query": "金鑽",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +96,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,10 +117,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_10.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_05_10"
+              "title": "File properties for Homepage"
             }
           },
           {
@@ -213,36 +228,37 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "78f8b35a5b2d625a",
+  "active": "214f5b1c05edeb89",
   "lastOpenFiles": [
-    "Weekly-Mindware-Update/issues/2025/2025w6.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_15.md",
+    "Microblog/posts/2026-05-07.md",
+    "Microblog/posts/2026-05-16.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_10.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_28.md",
-    "Evergreen-Notes/Permanent-Notes/microwave-mug-recipes.md",
-    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_20.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/_attachments/Pasted image 20260515111902.png",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_13.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_23.md",
     "Daily-Bullet-Journal/journals/2026/05-May/2026_05_16.md",
+    "Evergreen-Notes/Permanent-Notes/skin-care.md",
+    "Evergreen-Notes/Permanent-Notes/attention.md",
     "Daily-Bullet-Journal/journals/2026/05-May/2026_05_14.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_23.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_29.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_15.md",
+    "Microblog/posts/_attachments/Pasted image 20260516164455.png",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_24.md",
     "Daily-Bullet-Journal/journals/2026/05-May/2026_05_09.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_03.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_24.md",
-    "Daily-Bullet-Journal/journals/2022/05-May/2022_05_15.md",
-    "Daily-Bullet-Journal/journals/2019/05-May/2019_05_15.md",
-    "Daily-Bullet-Journal/journals/2017/05-May/2017_05_15.md",
-    "Daily-Bullet-Journal/journals/2016/05-May/2016_05_15.md",
-    "Daily-Bullet-Journal/journals/2021/05-May/2021_05_15.md",
-    "Daily-Bullet-Journal/journals/2023/05-May/2023_05_15.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_15.md",
-    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_15.md",
-    "Evergreen-Notes/Permanent-Notes/mudita.md",
-    "Evergreen-Notes/Fleeting-Notes.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_17.md",
+    "Life-Notes/Life/parenting.md",
+    "Evergreen-Notes/Permanent-Notes/deliberate-practice.md",
+    "Evergreen-Notes/Permanent-Notes/the-trap-of-good-enough.md",
+    "Evergreen-Notes/Permanent-Notes/relationships.md",
+    "Evergreen-Notes/Permanent-Notes/active-listening.md",
+    "Enoughness/posts/enoughness-29.md",
+    "Evergreen-Notes/Permanent-Notes/the-ability-to-bounce-back-quickly-is-one-of-the-most-important-life-skills.md",
+    "Enoughness/posts/enoughness-30.md",
+    "Daily-Bullet-Journal/journals/2022/05-May/2022_05_16.md",
+    "Daily-Bullet-Journal/journals/2023/05-May/2023_05_16.md",
+    "Daily-Bullet-Journal/journals/2015/05-May/2015_05_16.md",
+    "Daily-Bullet-Journal/journals/2015/05-May/2015_05_02.md",
+    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_16.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/_attachments/4edc65b7ba36b91c1c7c43fcb364dec2.png",
     "Visuals/Fitness/Darebee/50 Chest Expansions.gif",
-    "Weekly-Mindware-Update/README.md",
-    "Today-I-Learned/LICENSE.md",
     "Visuals/Fitness/Darebee/5+ Burpees.gif",
     "Evergreen-Notes/assets/brain.png",
     "Evergreen-Notes/assets/image.png",
@@ -258,7 +274,6 @@
     "Evergreen-Notes/assets",
     "Evergreen-Notes/untitled folder",
     "Shortcutomation/assets/icon.svg",
-    "Shortcutomation/assets/appleShortcuts.svg",
     "Shortcutomation/assets",
     "Shortcutomation/untitled folder"
   ]
