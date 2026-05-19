@@ -4,26 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fce5a8a65db0b1af",
+        "id": "6577f81faa033dee",
         "type": "tabs",
         "children": [
           {
-            "id": "c36e11e169bf0cc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_13.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026_05_13"
-            }
-          },
-          {
-            "id": "214f5b1c05edeb89",
+            "id": "b41991aaf90f11b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,6 +20,21 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
+            }
+          },
+          {
+            "id": "b215e4736cd8477f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_11.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026_05_11"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "金鑽",
+                "query": "南瓜籽",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -228,35 +229,35 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "214f5b1c05edeb89",
+  "active": "b215e4736cd8477f",
   "lastOpenFiles": [
-    "Microblog/posts/2026-05-07.md",
-    "Microblog/posts/2026-05-16.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_13.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_23.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_16.md",
-    "Evergreen-Notes/Permanent-Notes/skin-care.md",
-    "Evergreen-Notes/Permanent-Notes/attention.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_14.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_15.md",
-    "Microblog/posts/_attachments/Pasted image 20260516164455.png",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_24.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_11.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_10.md",
     "Daily-Bullet-Journal/journals/2026/05-May/2026_05_09.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_17.md",
-    "Life-Notes/Life/parenting.md",
-    "Evergreen-Notes/Permanent-Notes/deliberate-practice.md",
-    "Evergreen-Notes/Permanent-Notes/the-trap-of-good-enough.md",
-    "Evergreen-Notes/Permanent-Notes/relationships.md",
-    "Evergreen-Notes/Permanent-Notes/active-listening.md",
-    "Enoughness/posts/enoughness-29.md",
-    "Evergreen-Notes/Permanent-Notes/the-ability-to-bounce-back-quickly-is-one-of-the-most-important-life-skills.md",
-    "Enoughness/posts/enoughness-30.md",
-    "Daily-Bullet-Journal/journals/2022/05-May/2022_05_16.md",
-    "Daily-Bullet-Journal/journals/2023/05-May/2023_05_16.md",
-    "Daily-Bullet-Journal/journals/2015/05-May/2015_05_16.md",
-    "Daily-Bullet-Journal/journals/2015/05-May/2015_05_02.md",
-    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_16.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_17.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_19.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_18.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_16.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_15.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_23.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_22.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_11.md",
+    "Untitled.md",
+    "Brainfoodie/posts/becoming-the-ocean.md",
+    "Evergreen-Notes/Permanent-Notes/fear.md",
+    "Evergreen-Notes/Permanent-Notes/dare-to-be-different.md",
+    "Evergreen-Notes/Permanent-Notes/becoming-the-ocean-by-khalil-gibram.md",
+    "Evergreen-Notes/Permanent-Notes/always-start-with-end-in-mind.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_25.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_14.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_13.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_12.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_08.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_24.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_02.md",
+    "Microblog/posts/_attachments/cd4429d54684ff78fe29a07ef7109c45.png",
     "Daily-Bullet-Journal/journals/2026/05-May/_attachments/4edc65b7ba36b91c1c7c43fcb364dec2.png",
     "Visuals/Fitness/Darebee/50 Chest Expansions.gif",
     "Visuals/Fitness/Darebee/5+ Burpees.gif",
