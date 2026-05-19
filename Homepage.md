@@ -4,21 +4,13 @@
 const CONFIG = {
     startTime: {
         hours: 4,
-        minutes: 0
+        minutes: 30
     },
     endTime: {
         hours: 20,
         minutes: 30
     },
-    totalBlocks: 32,
-    block: {
-        default: "⬛️",
-        current: "🔻",
-        quarter1: "1️⃣",
-        quarter2: "2️⃣",
-        quarter3: "3️⃣",
-        quarter4: "4️⃣"
-    }
+    totalBlocks: 32
 };
 
 let now = dv.date("now");
@@ -40,25 +32,17 @@ let currentBlockIndex = Math.floor(currentMinutes / blockDuration);
 
 let blocks = [];
 for (let i = 0; i < CONFIG.totalBlocks; i++) {
-    let blockSymbol;
-    if (i === currentBlockIndex) {
-        blockSymbol = CONFIG.block.current;
-    } else if (i === Math.floor((CONFIG.totalBlocks) / 4)) {
-        blockSymbol = CONFIG.block.quarter1;
-    } else if (i === Math.floor((CONFIG.totalBlocks) / 2)) {
-        blockSymbol = CONFIG.block.quarter2;
-    } else if (i === Math.floor((3 * (CONFIG.totalBlocks)) / 4)) {
-        blockSymbol = CONFIG.block.quarter3;
-    } else if (i === ((CONFIG.totalBlocks) - 1)) {
-        blockSymbol = CONFIG.block.quarter4;
-    } else {
-        blockSymbol = CONFIG.block.default;
-    }
-    blocks.push(blockSymbol);
+    blocks.push(
+        i === currentBlockIndex ? "🔻" :
+        i === 0 ? "1️⃣" :
+        i === Math.floor(CONFIG.totalBlocks / 4) ? "2️⃣" :
+        i === Math.floor(CONFIG.totalBlocks / 2) ? "3️⃣" :
+        i === Math.floor(3 * CONFIG.totalBlocks / 4) ? "4️⃣" :
+        "⬛️"
+    );
 }
-const blocksString = blocks.join(" ");
 
-dv.paragraph(blocksString);
+dv.paragraph(blocks.join(" "));
 ```
 
 ---
@@ -149,6 +133,7 @@ dv.table(
 ---
 
 > [! ]- 🫶 Health
+>
 > ```dataviewjs
 > const CONFIG = {
 >     thresholds: {
@@ -209,6 +194,7 @@ dv.table(
 > ```
 
 > [! ]- 🌸 Retrospection
+>
 > ```dataviewjs
 > const { Utils } = await cJS();
 >
@@ -242,6 +228,7 @@ dv.table(
 > ```
 
 > [! ]- 👨🏽‍🌾 Garden
+>
 > ```dataviewjs
 > const { Utils } = await cJS();
 >
@@ -331,6 +318,7 @@ dv.table(
 > ```
 
 > [! ]- ✍️ Writing
+>
 > ```dataviewjs
 > const drafts = dv.pages()
 >     .where(p => p.draft === true)
@@ -344,35 +332,36 @@ dv.table(
 > ```
 
 > [! ]- 🗒️ Notes
+>
 > ```dataviewjs
 > const notes = dv.pages('"Evergreen-Notes/Permanent-Notes"');
 > const bwc = app.plugins.plugins["better-word-count"].api;
-> 
+>
 > await Promise.all(notes.map(async (p) => {
 >     p._wordCount = await bwc.getWordCountPagePath(p.file.path);
 >     const cache  = app.metadataCache.getFileCache(app.vault.getAbstractFileByPath(p.file.path));
 >     p._headings  = cache?.headings?.length ?? 0;
 >     p._inlinks   = p.file.inlinks.length;
 > }));
-> 
+>
 > const WEIGHTS = { inlinks: 3, words: 1, headings: 2 };
 > notes.forEach(p => {
 >     p._score = WEIGHTS.inlinks   * p._inlinks
 >              + WEIGHTS.words     * Math.log1p(p._wordCount)
 >              + WEIGHTS.headings  * p._headings;
 > });
-> 
+>
 > const top3 = (sortFn) => [...notes].sort(sortFn).slice(0, 3);
-> 
+>
 > dv.header(4, "**❥ Most Words**");
 > dv.list(top3((a, b) => b._wordCount - a._wordCount).map(p => `${p.file.link} (${p._wordCount} words)`));
-> 
+>
 > dv.header(4, "**❥ Most Inlinks**");
 > dv.list(top3((a, b) => b._inlinks - a._inlinks).map(p => `${p.file.link} (${p._inlinks} inlinks)`));
-> 
+>
 > dv.header(4, "**❥ Most Structured**");
 > dv.list(top3((a, b) => b._headings - a._headings).map(p => `${p.file.link} (${p._headings} headings)`));
-> 
+>
 > dv.header(4, "**❥ Composite Score**");
 > dv.list(top3((a, b) => b._score - a._score).map(p => `${p.file.link} (${p._score.toFixed(1)})`));
 > ```
