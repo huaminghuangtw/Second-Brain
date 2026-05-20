@@ -15,7 +15,8 @@ const CONFIG = {
 
 let now = dv.date("now");
 let startTime = now.startOf("day").plus({
-    hours: CONFIG.startTime.hours
+    hours: CONFIG.startTime.hours,
+    minutes: CONFIG.startTime.minutes
 });
 let endTime = now.startOf("day").plus({
     hours: CONFIG.endTime.hours,
