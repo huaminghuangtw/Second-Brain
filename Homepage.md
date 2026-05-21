@@ -61,25 +61,43 @@ WHERE date
 ```dataviewjs
 const { Utils } = await cJS();
 
-const CONFIG = { thresholds: { "Number of Flows": 8, "Number of Words": 1000 } };
+const CONFIG = {
+    thresholds: {
+        "Number of Flows": 8,
+        "Number of Words": 1000
+    }
+};
 
 const today = dv.date("today");
 
 const getAverage = (data, valueLabel, filterFn) => {
     const getValue = valueLabel === "Number of Words" ? s => s.words : f => f.length;
-    const values = Object.entries(data).filter(([d]) => filterFn(dv.date(d))).map(([, v]) => getValue(v)).filter(v => v > 0);
-    return values.length ? Math.round(values.reduce((s, v) => s + v, 0) / values.length) : 0;
+    const values = Object.entries(data).filter(
+        ([d]) => filterFn(dv.date(d))
+    ).map(
+        ([, v]) => getValue(v)
+    ).filter(v => v > 0);
+    return values.length ?
+        Math.round(
+            values.reduce((s, v) => s + v, 0) / values.length
+        )
+        :
+        0;
 };
 
+const { readFile } = require('fs').promises;
+
+const flowsPath = '/Users/huaminghuang/Library/Mobile Documents/com~apple~CloudDocs/Documents/JSONFiles/number-of-flows.json';
+const wordsPath = `${app.vault.configDir}/vault-stats.json`;
+
+const [flowsData, wordsData] = await Promise.all([
+    readFile(flowsPath, 'utf-8').then(JSON.parse),
+    app.vault.adapter.read(wordsPath).then(s => JSON.parse(s).history)
+]);
+
 const METRICS = {
-    "Number of Flows": {
-        path: `Deep-Work-Machine/Number of Flows/data.json`,
-        data: JSON.parse(await app.vault.adapter.read(`Deep-Work-Machine/Number of Flows/data.json`))
-    },
-    "Number of Words": {
-        path: `${app.vault.configDir}/vault-stats.json`,
-        data: JSON.parse(await app.vault.adapter.read(`${app.vault.configDir}/vault-stats.json`)).history
-    }
+    "Number of Flows": { path: flowsPath, data: flowsData },
+    "Number of Words": { path: wordsPath, data: wordsData }
 };
 
 const periods = [
@@ -103,9 +121,13 @@ const ROW_CONFIG = [
 
 const todayISO = today.toISODate();
 const yesterdayISO = today.minus({ days: 1 }).toISODate();
+const readAny = (path) => path.startsWith('/') && !path.startsWith(app.vault.adapter.basePath)
+    ? readFile(path, 'utf-8')
+    : app.vault.adapter.read(path);
+
 const lineNumbers = {};
 for (const [metric, { path }] of Object.entries(METRICS)) {
-    const content = await app.vault.adapter.read(path);
+    const content = await readAny(path);
     const lines = content.split("\n");
     const todayIdx = lines.findIndex(l => l.includes(`"${todayISO}"`));
     if (todayIdx >= 0) {
@@ -120,7 +142,9 @@ dv.table(
     ["", "**Last Week**", "**This Week**", "**Yesterday**", "**Today**"],
     ROW_CONFIG.map(({ metric, label }) => {
         const res = results[metric];
-        const link = encodeURI(`vscode://file/${app.vault.adapter.basePath}/${METRICS[metric].path}:${lineNumbers[metric]}`);
+        const p = METRICS[metric].path;
+        const absPath = p.startsWith('/') ? p : `${app.vault.adapter.basePath}/${p}`;
+        const link = encodeURI(`vscode://file${absPath}:${lineNumbers[metric]}`);
         return [
             `**[${label}](${link})**`,
             `${res[0]}`,
