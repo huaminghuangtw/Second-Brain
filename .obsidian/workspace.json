@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "11bab94780e8bfe3",
+        "id": "e4a38b63d41a336b",
         "type": "tabs",
         "children": [
           {
-            "id": "0841c016a3e631c8",
+            "id": "c5ec3fed037131f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_20.md",
+                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_05_20"
+              "title": "2026_05_21"
+            }
+          },
+          {
+            "id": "13597adcbe557684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"delayed action\"",
+                "query": "Cache.js",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +130,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_12.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -213,34 +229,34 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "0841c016a3e631c8",
+  "active": "13597adcbe557684",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_21.md",
     "Homepage.md",
+    "AdaptX/posts/death.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_10.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_31.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_30.md",
+    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_21.md",
+    "Daily-Bullet-Journal/journals/2023/05-May/2023_05_21.md",
+    "Daily-Bullet-Journal/journals/2022/05-May/2022_05_21.md",
+    "Daily-Bullet-Journal/journals/2020/05-May/2020_05_21.md",
+    "Daily-Bullet-Journal/journals/2022/02-February/2022_02_19.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_21.md",
+    "Evergreen-Notes/Permanent-Notes/habits-of-highly-effective-software-engineers.md",
+    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
+    "Evergreen-Notes/Permanent-Notes/broken-windows-theory.md",
+    "Evergreen-Notes/Permanent-Notes/always-start-small.md",
+    "Evergreen-Notes/Fleeting-Notes.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_18.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_16.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_19.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_20.md",
     "Weekly-Mindware-Update/issues/2026/2026w20.md",
     "Evergreen-Notes/Permanent-Notes/a-man-who-is-a-master-of-patience-is-master-of-everything-else.md",
     "Daily-Bullet-Journal/journals/2024/05-May/2024_05_18.md",
     "Daily-Bullet-Journal/journals/2023/05-May/2023_05_18.md",
     "Daily-Bullet-Journal/journals/2022/05-May/2022_05_18.md",
-    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_17.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_18.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_19.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_20.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_24.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_15.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_16.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_17.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_18.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_19.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_20.md",
-    "Daily-Bullet-Journal/journals/2023/05-May/2023_05_20.md",
-    "Daily-Bullet-Journal/journals/2022/05-May/2022_05_20.md",
-    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_20.md",
-    "Daily-Bullet-Journal/journals/2018/05-May/2018_05_20.md",
-    "Evergreen-Notes/Fleeting-Notes.md",
-    "Evergreen-Notes/Permanent-Notes/the-catfish-effect.md",
-    "Evergreen-Notes/Permanent-Notes/the-spillover-effect.md",
-    "Evergreen-Notes/Permanent-Notes/the-halo-effect.md",
     "Microblog/posts/_attachments/cd4429d54684ff78fe29a07ef7109c45.png",
     "Daily-Bullet-Journal/journals/2026/05-May/_attachments/4edc65b7ba36b91c1c7c43fcb364dec2.png",
     "Visuals/Fitness/Darebee/50 Chest Expansions.gif",
