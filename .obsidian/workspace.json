@@ -4,56 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "a42a335f1c9e890f",
+        "id": "4d5492718f668a1e",
         "type": "tabs",
         "children": [
           {
-            "id": "5a4fa20fc657a9b0",
+            "id": "e9b06714a237cfbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Homepage.md",
                 "mode": "preview",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "b3e8f2411a0f7e21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_18.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026_04_18"
-            }
-          },
-          {
-            "id": "05e00a61fedf95a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life-Notes/Alignment/🐤 New Hobbies.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "🐤 New Hobbies"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CrossFit",
+                "query": "定價三萬",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +114,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_04.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -244,35 +213,37 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "05e00a61fedf95a6",
+  "active": "e9b06714a237cfbb",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_18.md",
-    "Life-Notes/Alignment/🐤 New Hobbies.md",
-    "Evergreen-Notes/Permanent-Notes/apple-shortcuts.md",
-    "_why-i-write-and-run.md",
     "Homepage.md",
-    "Enoughness/posts/enoughness-4.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_22.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-use-ai-effectively.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_09.md",
-    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
-    "Evergreen-Notes/Permanent-Notes/this-too-shall-pass.md",
-    "Evergreen-Notes/Permanent-Notes/you-can-achieve-anything-if-you-focus-on-one-thing-at-a-time.md",
-    "Evergreen-Notes/Permanent-Notes/frameworks-to-achieve-any-goals.md",
-    "Evergreen-Notes/Permanent-Notes/emotion-control.md",
-    "Evergreen-Notes/Permanent-Notes/live-in-the-present.md",
-    "Evergreen-Notes/Permanent-Notes/life-is-cyclic.md",
-    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260522162732.png",
-    "Evergreen-Notes/Permanent-Notes/explicit-knowledge-and-tacit-knowledge.md",
-    "Evergreen-Notes/Permanent-Notes/work-in-sprints-work-with-your-biology.md",
-    "Enoughness/posts/enoughness-27.md",
-    "Enoughness/posts/enoughness-22.md",
+    "Blog/posts/20260517.md",
+    "Microblog/posts/2026-05-08.md",
+    "Blog/posts/20260509.md",
+    "Blog/posts/_attachments/Pasted image 20260523123300.png",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_17.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_16.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_15.md",
     "Daily-Bullet-Journal/journals/2026/05-May/2026_05_14.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_21.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_19.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_20.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_22.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_02.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_13.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_12.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_11.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_10.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_09.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_08.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_07.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_06.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_05.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_04.md",
+    "Microblog/posts/_attachments/Pasted image 20260523101219.png",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_03.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_23.md",
+    "Daily-Bullet-Journal/journals/2022/05-May/2022_05_23.md",
+    "Daily-Bullet-Journal/journals/2020/05-May/2020_05_23.md",
+    "Daily-Bullet-Journal/journals/2023/05-May/2023_05_23.md",
+    "Daily-Bullet-Journal/journals/2021/05-May/2021_05_23.md",
+    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_23.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_23.md",
+    "Evergreen-Notes/Permanent-Notes/_attachments/26886d59a312b0cfb0494c41ce69ae82.png",
     "Microblog/posts/_attachments/cd4429d54684ff78fe29a07ef7109c45.png",
     "Daily-Bullet-Journal/journals/2026/05-May/_attachments/4edc65b7ba36b91c1c7c43fcb364dec2.png",
     "Visuals/Fitness/Darebee/50 Chest Expansions.gif",
@@ -286,8 +257,6 @@
     "Weekly-Mindware-Update/LICENSE",
     "Evergreen-Lists/LICENSE",
     "Evergreen-Lists/assets/mockup.svg",
-    "Evergreen-Lists/assets/Untitled design.svg",
-    "Evergreen-Notes/assets/banner.svg",
     "Evergreen-Notes/assets",
     "Evergreen-Notes/untitled folder",
     "Shortcutomation/assets",
