@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4d5492718f668a1e",
+        "id": "0da4d46809c18212",
         "type": "tabs",
         "children": [
           {
-            "id": "e9b06714a237cfbb",
+            "id": "06190df0a4056fcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "定價三萬",
+                "query": "tmdb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_04.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -213,36 +213,37 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "e9b06714a237cfbb",
+  "active": "06190df0a4056fcd",
   "lastOpenFiles": [
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
     "Homepage.md",
+    "Evergreen-Notes/Permanent-Notes/stress-and-the-glass-of-water.md",
+    "Evergreen-Notes/Fleeting-Notes.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_24.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_03.md",
+    "Weekly-Mindware-Update/issues/2026/2026w21.md",
+    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_24.md",
+    "Daily-Bullet-Journal/journals/2023/05-May/2023_05_24.md",
+    "Daily-Bullet-Journal/journals/2022/05-May/2022_05_24.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_24.md",
+    "Evergreen-Notes/Permanent-Notes/work-hard.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_17.md",
+    "Evergreen-Notes/Permanent-Notes/always-do-your-best-as-possible.md",
+    "Evergreen-Notes/Permanent-Notes/the-growth-mindset.md",
+    "Life-Notes/Life/parenting.md",
+    "Evergreen-Notes/Permanent-Notes/never-ever-complain-about-anything.md",
+    "Deep-Work-Machine/Number of Words/2026/04-April/number-of-words_2026-04.png",
+    "Weekly-Mindware-Update/issues/2025/2025w31.md",
+    "Evergreen-Notes/Permanent-Notes/this-too-shall-pass.md",
     "Blog/posts/20260517.md",
     "Microblog/posts/2026-05-08.md",
     "Blog/posts/20260509.md",
-    "Blog/posts/_attachments/Pasted image 20260523123300.png",
+    "Blog/posts/_attachments/0bf1467d92e38bc171601a50e30e22a4.png",
     "Daily-Bullet-Journal/journals/2026/05-May/2026_05_17.md",
     "Daily-Bullet-Journal/journals/2026/05-May/2026_05_16.md",
     "Daily-Bullet-Journal/journals/2026/05-May/2026_05_15.md",
     "Daily-Bullet-Journal/journals/2026/05-May/2026_05_14.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_13.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_12.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_11.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_10.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_09.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_08.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_07.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_06.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_05.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_04.md",
-    "Microblog/posts/_attachments/Pasted image 20260523101219.png",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_03.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_23.md",
-    "Daily-Bullet-Journal/journals/2022/05-May/2022_05_23.md",
-    "Daily-Bullet-Journal/journals/2020/05-May/2020_05_23.md",
-    "Daily-Bullet-Journal/journals/2023/05-May/2023_05_23.md",
-    "Daily-Bullet-Journal/journals/2021/05-May/2021_05_23.md",
-    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_23.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_23.md",
+    "Microblog/posts/_attachments/4629c0cba645e077c8426d5f44892b90.png",
     "Evergreen-Notes/Permanent-Notes/_attachments/26886d59a312b0cfb0494c41ce69ae82.png",
     "Microblog/posts/_attachments/cd4429d54684ff78fe29a07ef7109c45.png",
     "Daily-Bullet-Journal/journals/2026/05-May/_attachments/4edc65b7ba36b91c1c7c43fcb364dec2.png",
@@ -256,7 +257,6 @@
     "Dear-Today-Me/LICENSE",
     "Weekly-Mindware-Update/LICENSE",
     "Evergreen-Lists/LICENSE",
-    "Evergreen-Lists/assets/mockup.svg",
     "Evergreen-Notes/assets",
     "Evergreen-Notes/untitled folder",
     "Shortcutomation/assets",
