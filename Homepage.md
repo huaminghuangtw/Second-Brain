@@ -70,19 +70,13 @@ const CONFIG = {
 
 const today = dv.date("today");
 
-const getAverage = (data, valueLabel, filterFn) => {
+const getAverage = (data, valueLabel, start, end) => {
     const getValue = valueLabel === "Number of Words" ? s => s.words : f => f.length;
-    const values = Object.entries(data).filter(
-        ([d]) => filterFn(dv.date(d))
-    ).map(
-        ([, v]) => getValue(v)
-    ).filter(v => v > 0);
-    return values.length ?
-        Math.round(
-            values.reduce((s, v) => s + v, 0) / values.length
-        )
-        :
-        0;
+    const numberOfDays = end.startOf("day").diff(start.startOf("day"), "days").days + 1;
+    const total = Object.entries(data)
+        .filter(([d]) => { const date = dv.date(d); return date >= start && date <= end; })
+        .reduce((sum, [, v]) => sum + getValue(v), 0);
+    return numberOfDays ? Math.round(total / numberOfDays) : 0;
 };
 
 const { readFile } = require('fs').promises;
@@ -101,16 +95,16 @@ const METRICS = {
 };
 
 const periods = [
-    ["Last Week", d => d >= today.minus({ weeks: 1 }).startOf("week") && d <= today.minus({ weeks: 1 }).endOf("week")],
-    ["This Week", d => d >= today.startOf("week") && d <= today.endOf("week")],
-    ["Yesterday", d => d.toISODate() === today.minus({ days: 1 }).toISODate()],
-    ["Today", d => d.toISODate() === today.toISODate()]
+    ["Last Week", today.minus({ weeks: 1 }).startOf("week"), today.minus({ weeks: 1 }).endOf("week")],
+    ["This Week", today.startOf("week"), today],
+    ["Yesterday", today.minus({ days: 1 }), today.minus({ days: 1 })],
+    ["Today", today, today]
 ];
 
 const results = Object.fromEntries(
     Object.entries(METRICS).map(([metric, { data }]) => [
         metric,
-        periods.map(([, filter]) => getAverage(data, metric, filter))
+        periods.map(([, start, end]) => getAverage(data, metric, start, end))
     ])
 );
 
