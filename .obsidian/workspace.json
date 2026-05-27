@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe227d4cfc84bfac",
+        "id": "046432c5e9aa9054",
         "type": "tabs",
         "children": [
           {
-            "id": "7c3adf1c10702f95",
+            "id": "92188f45566016c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deca",
+                "query": "鄰居",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,34 +213,34 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "7c3adf1c10702f95",
+  "active": "92188f45566016c2",
   "lastOpenFiles": [
-    "Enoughness/posts/enoughness-29.md",
-    "Microblog/posts/2026-05-07.md",
-    "Evergreen-Notes/Permanent-Notes/delegation.md",
-    "Microblog/posts/2026-05-08.md",
-    "Microblog/posts/2026-05-16.md",
-    "Microblog/posts/2026-05-26.md",
-    "Untitled.md",
     "Daily-Bullet-Journal/journals/2026/05-May/2026_05_26.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_27.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_23.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_24.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_05.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_25.md",
-    "Evergreen-Notes/Permanent-Notes/sleep.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_05.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_10.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_15.md",
-    "AdaptX/posts/ted-taipei-2025.md",
-    "Evergreen-Notes/Permanent-Notes/relationships.md",
-    "Brainfoodie/posts/sleep-is-your-superpower.md",
-    "Enoughness/posts/enoughness-28.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_02.md",
-    "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_22.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_21.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_20.md",
+    "Evergreen-Notes/Permanent-Notes/always-start-small.md",
+    "Brainfoodie/posts/build-a-tower-build-a-team.md",
+    "Evergreen-Notes/Permanent-Notes/just-get-started.md",
+    "AdaptX/posts/30-things-ive-learned-in-30-years.md",
+    "Brainfoodie/posts/how-to-remember-your-life.md",
+    "Daily-Bullet-Journal/summarize-task.prompt.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_09.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_20.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_18.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_31.md",
+    "Life-Notes/Business/Business Model (Machine).md",
+    "Evergreen-Notes/Permanent-Notes/from-binary-thinking-to-full-spectrum-thinking.md",
+    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
+    "Weekly-Mindware-Update/issues/2025/2025w24.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_16.md",
+    "Evergreen-Notes/Permanent-Notes/how-to-say-no-with-grace-and-style.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_16.md",
+    "Enoughness/posts/enoughness-8.md",
+    "Evergreen-Notes/Permanent-Notes/never-ever-complain-about-anything.md",
+    "Dear-Today-Me/index.md",
+    "Evergreen-Notes/Permanent-Notes/do-great-work.md",
+    "Evergreen-Notes/Permanent-Notes/always-do-your-best-as-possible.md",
+    "Evergreen-Notes/Permanent-Notes/death.md",
     "Visuals/Fitness/Darebee/March Steps.gif",
     "Deep-Work-Machine/Number of Words/2026/04-April/number-of-words_2026-04.png",
     "Blog/posts/_attachments/0bf1467d92e38bc171601a50e30e22a4.png",
