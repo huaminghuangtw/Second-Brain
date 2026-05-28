@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "046432c5e9aa9054",
+        "id": "23511b98f1434717",
         "type": "tabs",
         "children": [
           {
-            "id": "92188f45566016c2",
+            "id": "858c178cb5321b43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_28.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2026_05_28"
+            }
+          },
+          {
+            "id": "5b4e571492c85563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enoughness/posts/enoughness-33.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "enoughness-33"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "鄰居",
+                "query": "預設立場",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,10 +118,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Enoughness/posts/enoughness-30.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for enoughness-30"
             }
           },
           {
@@ -114,7 +130,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Homepage.md"
+                "file": "Enoughness/posts/enoughness-30.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -213,34 +229,36 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "92188f45566016c2",
+  "active": "5b4e571492c85563",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_26.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_27.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_28.md",
     "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/always-start-small.md",
-    "Brainfoodie/posts/build-a-tower-build-a-team.md",
-    "Evergreen-Notes/Permanent-Notes/just-get-started.md",
-    "AdaptX/posts/30-things-ive-learned-in-30-years.md",
-    "Brainfoodie/posts/how-to-remember-your-life.md",
-    "Daily-Bullet-Journal/summarize-task.prompt.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_09.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_20.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_18.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_31.md",
-    "Life-Notes/Business/Business Model (Machine).md",
-    "Evergreen-Notes/Permanent-Notes/from-binary-thinking-to-full-spectrum-thinking.md",
-    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
-    "Weekly-Mindware-Update/issues/2025/2025w24.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_16.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-say-no-with-grace-and-style.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_16.md",
-    "Enoughness/posts/enoughness-8.md",
-    "Evergreen-Notes/Permanent-Notes/never-ever-complain-about-anything.md",
-    "Dear-Today-Me/index.md",
-    "Evergreen-Notes/Permanent-Notes/do-great-work.md",
-    "Evergreen-Notes/Permanent-Notes/always-do-your-best-as-possible.md",
-    "Evergreen-Notes/Permanent-Notes/death.md",
+    "Enoughness/posts/enoughness-31.md",
+    "Enoughness/posts/enoughness-33.md",
+    "AdaptX/posts/goodbye-past-me.md",
+    "Evergreen-Notes/Permanent-Notes/the-nova-effect.md",
+    "Evergreen-Notes/Permanent-Notes/hedonic-happiness-vs-eudaimonic-happiness.md",
+    "Evergreen-Notes/Permanent-Notes/life-is-cyclic.md",
+    "Evergreen-Notes/Permanent-Notes/hope-for-the-best-prepare-for-the-worst.md",
+    "Evergreen-Notes/Permanent-Notes/journey-over-destination.md",
+    "Enoughness/posts/enoughness-15.md",
+    "Enoughness/posts/enoughness-11.md",
+    "Evergreen-Notes/Permanent-Notes/the-parable-of-chinese-farmer-parable.md",
+    "Enoughness/posts/enoughness-32.md",
+    "Evergreen-Notes/Permanent-Notes/peace-from-mind.md",
+    "Enoughness/posts/enoughness-30.md",
+    "Evergreen-Notes/Permanent-Notes/flow-state.md",
+    "Evergreen-Notes/Permanent-Notes/sprezzatura.md",
+    "Evergreen-Notes/Permanent-Notes/the-paradox-of-effort.md",
+    "Enoughness/posts/_attachments/95d28639a4d6c715ea2fde1530ccd745.png",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_14.md",
+    "Evergreen-Notes/Permanent-Notes/live-in-the-present.md",
+    "Evergreen-Notes/Permanent-Notes/gut-health.md",
+    "Evergreen-Notes/Permanent-Notes/neuroscience.md",
+    "Enoughness/posts/enoughness-7.md",
+    "Evergreen-Notes/Permanent-Notes/supplements.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_17.md",
+    "Enoughness/posts/_attachments/465b1529c53616b66107ed3387b89588.jpeg",
     "Visuals/Fitness/Darebee/March Steps.gif",
     "Deep-Work-Machine/Number of Words/2026/04-April/number-of-words_2026-04.png",
     "Blog/posts/_attachments/0bf1467d92e38bc171601a50e30e22a4.png",
@@ -249,8 +267,6 @@
     "Microblog/posts/_attachments/cd4429d54684ff78fe29a07ef7109c45.png",
     "Daily-Bullet-Journal/journals/2026/05-May/_attachments/4edc65b7ba36b91c1c7c43fcb364dec2.png",
     "Visuals/Fitness/Darebee/50 Chest Expansions.gif",
-    "Visuals/Fitness/Darebee/5+ Burpees.gif",
-    "Evergreen-Notes/assets/brain.png",
     "Brain-Food/LICENSE",
     "Deep-Work-Machine/LICENSE",
     "Today-I-Learned/LICENSE",
