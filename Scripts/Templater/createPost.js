@@ -1,41 +1,33 @@
 async function createPost(tp) {
     const collection = tp.config.template_file.basename.replace("T_", "");
 
-    let rawTitle;
-    if (collection === "Enoughness") {
-        rawTitle = "__temp__" + tp.date.now("YYYY-MM-DD-HH-mm-ss");
-    } else if (collection === "Microblog") {
-        rawTitle = '';
-    } else {
+    let title = '';
+    if (collection !== "Enoughness" && collection !== "Microblog") {
         const userInput = await tp.system.prompt("✏️ Title?");
         if (!userInput) return;
-        rawTitle = userInput;
+        title = tp.user.toTitleCase(userInput);
     }
-    let title = tp.user.toTitleCase(rawTitle);
 
-    let rawFileName;
+    let fileName = tp.user.slugify(title);
     const containsChinese = /[\u4e00-\u9fff]/.test(title);
     if (containsChinese) {
         if (collection === "Blog") {
-            rawFileName = tp.date.now("YYYYMMDD");
+            fileName = tp.date.now("YYYYMMDD");
         } else {
             const userInput = await tp.system.prompt("📁 Filename?");
             if (!userInput) return;
-            rawFileName = userInput;
+            fileName = tp.user.slugify(userInput);
         }
     } else if (collection === "Enoughness") {
         let issue = app.vault
             .getFiles()
             .filter((f) => f.path.startsWith("Enoughness/posts/") && f.extension === "md")
             .length + 1;
-        rawFileName = `enoughness-${issue}`;
+        fileName = `enoughness-${issue}`;
     } else if (collection === "Microblog") {
-        rawFileName = tp.date.now("YYYY-MM-DD");
-    } else {
-        rawFileName = title;
+        fileName = tp.date.now("YYYY-MM-DD");
     }
-    let fileName = tp.user.slugify(rawFileName);
-    
+
     const folderMap = {
         "Permanent-Notes": "Evergreen-Notes/Permanent-Notes/",
     };
