@@ -2,12 +2,12 @@
 await tp.user.showTagNewsletter();
 const result = await tp.user.createPost(tp);
 if (!result) return;
-const { title, fileName, created } = result
+const { fileName, created } = result
 -%>
 ---
 created: <% created %>
 draft: true
-title: ⚖️ <% title %>
+title: ⚖️ 、、
 issue: <% fileName.split('-').pop() %>
 tags: []
 ---
