@@ -406,8 +406,8 @@ try {
 
 let allParagraphs = fileContentLifePhilosophy.split("\n\n");
 
-// Skip salutation and closing lines
-let selectedParagraphs = allParagraphs.slice(1, allParagraphs.length - 2);
+// Skip frontmatter, salutation, and closing lines
+let selectedParagraphs = allParagraphs.slice(2, allParagraphs.length - 2);
 
 let randomParagraph = Utils.getRandomItem(selectedParagraphs);
 
