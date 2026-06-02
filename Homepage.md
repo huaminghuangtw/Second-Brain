@@ -477,12 +477,14 @@ let files;
 let filePath;
 let fileContent;
 
+const weekNumber = dv.date("today").weekNumber;
+
 try {
     files = await Utils.getRepoTree("huaminghuangtw", "Weekly-Mindware-Update");
 
     filePath = Utils.getRandomItem(
         files.filter(
-            f => f.path.includes("issues") &&
+            f => f.path.includes(`w${weekNumber}`) &&
             f.path.endsWith(".md")
         )
     ).path;
@@ -496,7 +498,9 @@ try {
     files = Utils.getAllFilesByExtension("Weekly-Mindware-Update", "md");
 
     filePath = Utils.getRandomItem(
-        files.filter(f => f.path.includes("issues"))
+        files.filter(
+            f => f.path.includes(`w${weekNumber}`)
+        )
     ).path;
 
     fileContent = await dv.io.load(filePath);
