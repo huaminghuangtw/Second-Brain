@@ -4,7 +4,7 @@
   "ellipsis": true,
   "arrows": true,
   "comparisons": true,
-  "fractions": false,
+  "fractions": true,
   "guillemets": false,
   "skipEnDash": false,
   "openSingle": "'",

@@ -140,7 +140,7 @@
     {
       "id": "ldhxfcj9cg",
       "platform_specific_commands": {
-        "default": "query=$(printf \"%s\" {{selection}} | tr -s '[:space:]' '+' | sed 's/&/%26/g')\nopen -na \"Microsoft Edge\" --args --new-window \"https://www.google.com/search?q=$query\""
+        "default": "query=$(printf \"%s\" {{selection}} | tr -s '[:space:]' '+' | sed 's/&/%26/g')\nopen \"https://www.google.com/search?q=$query\""
       },
       "shells": {},
       "alias": "Search on Google",
