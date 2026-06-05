@@ -32,7 +32,7 @@
       }
     },
     "explorer": {
-      "enabled": false,
+      "enabled": true,
       "sort": false,
       "templates": {
         "main": "",
