@@ -34,13 +34,6 @@ for ((i=1; i<=total_dir_num; i++)); do
         cd - > /dev/null 2>&1
         continue
     fi
-
-    # Handle stale Git lock files
-    if [ -f ".git/index.lock" ] || find ".git/refs" -name "*.lock" -type f 2>/dev/null | grep -q .; then
-        git fix-repo
-        "$0" "$TARGET_DIR"
-        continue
-    fi
     
     git status --porcelain | grep -E '\.(md|json|js|sh|py)("?)$' | while IFS= read -r status_line; do
         [ -z "$status_line" ] && continue
