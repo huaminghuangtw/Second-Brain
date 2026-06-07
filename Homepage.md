@@ -1,4 +1,4 @@
-<!-- four-quarters-in-a-day -->
+<!-- four-quarters-in-a-day -->    
 
 ```dataviewjs
 const CONFIG = {
@@ -10,7 +10,7 @@ const CONFIG = {
         hours: 20,
         minutes: 30
     },
-    totalBlocks: 32
+    totalBlocks: 31
 };
 
 let now = dv.date("now");
@@ -60,13 +60,6 @@ WHERE date
 
 ```dataviewjs
 const { Utils } = await cJS();
-
-const CONFIG = {
-    thresholds: {
-        "Number of Flows": 8,
-        "Number of Words": 1000
-    }
-};
 
 const today = dv.date("today");
 
@@ -143,7 +136,7 @@ dv.table(
             `**[${label}](${link})**`,
             `${res[0]}`,
             ...res.slice(1, 3),
-            res[3] >= CONFIG.thresholds[metric] ? `👌 ${res[3]}` : `💪 ${res[3]}`
+            res[3]
         ];
     })
 );
