@@ -8,7 +8,7 @@
 }
 
 .mod-cm6 .cm-line {
-  caret-color: red;
+  caret-color: magenta;
 }
 
 .cm-hashtag,
@@ -17,7 +17,9 @@
   color: white;
 }
 
-::selection {
+.markdown-preview-view ::selection,
+.markdown-source-view.mod-cm6 ::selection {
+  background-color: #87285E;
   color: #dfb431;
 }
 
