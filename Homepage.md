@@ -1,4 +1,4 @@
-<!-- four-quarters-in-a-day -->    
+<!-- four-quarters-in-a-day -->    ㄌ
 
 ```dataviewjs
 const CONFIG = {
@@ -60,19 +60,9 @@ WHERE date
 
 ```dataviewjs
 const { Utils } = await cJS();
+const { readFile } = require('fs').promises;
 
 const today = dv.date("today");
-
-const getAverage = (data, valueLabel, start, end) => {
-    const getValue = valueLabel === "Number of Words" ? s => s.words : f => f.length;
-    const numberOfDays = end.startOf("day").diff(start.startOf("day"), "days").days + 1;
-    const total = Object.entries(data)
-        .filter(([d]) => { const date = dv.date(d); return date >= start && date <= end; })
-        .reduce((sum, [, v]) => sum + getValue(v), 0);
-    return numberOfDays ? Math.round(total / numberOfDays) : 0;
-};
-
-const { readFile } = require('fs').promises;
 
 const flowsPath = '/Users/huaminghuang/Library/Mobile Documents/com~apple~CloudDocs/Documents/JSONFiles/number-of-flows.json';
 const wordsPath = `${app.vault.configDir}/vault-stats.json`;
@@ -85,6 +75,23 @@ const [flowsData, wordsData] = await Promise.all([
 const METRICS = {
     "Number of Flows": { path: flowsPath, data: flowsData },
     "Number of Words": { path: wordsPath, data: wordsData }
+};
+
+const valueExtractors = {
+    "Number of Words": s => s.words,
+    "Number of Flows": v => Array.isArray(v) ? v.length : 1
+};
+
+const getAverage = (data, valueLabel, start, end) => {
+    const getValue = valueExtractors[valueLabel];
+    const dayCount = end.startOf("day").diff(start.startOf("day"), "days").days + 1;
+    const total = Object.entries(data)
+        .filter(([dateKey]) => {
+            const date = dv.date(dateKey);
+            return date >= start && date <= end;
+        })
+        .reduce((sum, [, value]) => sum + getValue(value), 0);
+    return dayCount ? Math.round(total / dayCount) : 0;
 };
 
 const periods = [
@@ -101,42 +108,44 @@ const results = Object.fromEntries(
     ])
 );
 
+const findLineNumber = async (path) => {
+    const content = await (path.startsWith('/') && !path.startsWith(app.vault.adapter.basePath)
+        ? readFile(path, 'utf-8')
+        : app.vault.adapter.read(path));
+    const lines = content.split("\n");
+    const todayLine = lines.findIndex(l => l.includes(`"${today.toISODate()}"`));
+    return todayLine + 1;
+};
+
+const lineNumbers = Object.fromEntries(
+    await Promise.all(
+        Object.entries(METRICS).map(async ([metric, { path }]) => [
+            metric,
+            await findLineNumber(path)
+        ])
+    )
+);
+
 const ROW_CONFIG = [
     { metric: "Number of Flows", label: "🍅" },
     { metric: "Number of Words", label: "✍️" }
 ];
 
-const todayISO = today.toISODate();
-const yesterdayISO = today.minus({ days: 1 }).toISODate();
-const readAny = (path) => path.startsWith('/') && !path.startsWith(app.vault.adapter.basePath)
-    ? readFile(path, 'utf-8')
-    : app.vault.adapter.read(path);
-
-const lineNumbers = {};
-for (const [metric, { path }] of Object.entries(METRICS)) {
-    const content = await readAny(path);
-    const lines = content.split("\n");
-    const todayIdx = lines.findIndex(l => l.includes(`"${todayISO}"`));
-    if (todayIdx >= 0) {
-        lineNumbers[metric] = todayIdx + 1;
-    } else {
-        const yesterdayIdx = lines.findIndex(l => l.includes(`"${yesterdayISO}"`));
-        lineNumbers[metric] = yesterdayIdx >= 0 ? yesterdayIdx + 1 : 1;
-    }
-}
+const buildVsCodeLink = (path, lineNumber) => {
+    const absPath = path.startsWith('/') ? path : `${app.vault.adapter.basePath}/${path}`;
+    return encodeURI(`vscode://file${absPath}:${lineNumber}`);
+};
 
 dv.table(
     ["", "**Last Week**", "**This Week**", "**Yesterday**", "**Today**"],
     ROW_CONFIG.map(({ metric, label }) => {
-        const res = results[metric];
-        const p = METRICS[metric].path;
-        const absPath = p.startsWith('/') ? p : `${app.vault.adapter.basePath}/${p}`;
-        const link = encodeURI(`vscode://file${absPath}:${lineNumbers[metric]}`);
+        const values = results[metric];
+        const link = buildVsCodeLink(METRICS[metric].path, lineNumbers[metric]);
         return [
             `**[${label}](${link})**`,
-            `${res[0]}`,
-            ...res.slice(1, 3),
-            res[3]
+            `${values[0]}`,
+            ...values.slice(1, 3),
+            values[3]
         ];
     })
 );
