@@ -310,22 +310,6 @@
   "workspace:goto-tab-4": [],
   "workspace:goto-tab-5": [],
   "workspace:goto-tab-6": [],
-  "obsidian-editor-shortcuts:goToFirstLine": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "ArrowUp"
-    }
-  ],
-  "obsidian-editor-shortcuts:goToLastLine": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
   "editor:toggle-checklist-status": [
     {
       "modifiers": [
@@ -1013,6 +997,22 @@
         "Mod"
       ],
       "key": "C"
+    }
+  ],
+  "obsidian-editor-shortcuts:goToLastLine": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "obsidian-editor-shortcuts:goToFirstLine": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
     }
   ]
 }

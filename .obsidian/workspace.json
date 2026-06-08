@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9a28e859789d9d78",
+        "id": "a195285506717343",
         "type": "tabs",
         "children": [
           {
-            "id": "c5a35c22eca9ce47",
+            "id": "b4687f226619a1d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "F9wv9go5I_4",
+                "query": "偷不走",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,10 +102,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/06-June/2026_06_07.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_06_07"
+              "title": "File properties for Homepage"
             }
           },
           {
@@ -212,35 +212,36 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "c5a35c22eca9ce47",
+  "active": "b4687f226619a1d8",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_07.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_08.md",
     "Homepage.md",
-    "Enoughness/posts/enoughness-29.md",
-    "Evergreen-Notes/Permanent-Notes/nudge-theory.md",
-    "Evergreen-Notes/Permanent-Notes/incentives.md",
-    "Enoughness/posts/enoughness-33.md",
-    "Enoughness/posts/enoughness-31.md",
-    "Enoughness/posts/_attachments/Pasted image 20260607180544.png",
-    "Enoughness/posts/enoughness-34.md",
-    "Enoughness/posts/enoughness-4.md",
-    "Enoughness/posts/enoughness-3.md",
+    "Life-Notes/Missions/教育改革.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_31.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_03.md",
+    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
+    "Evergreen-Notes/Permanent-Notes/how-to-use-ai-effectively.md",
+    "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md",
+    "Evergreen-Notes/Permanent-Notes/hedonic-happiness-vs-eudaimonic-happiness.md",
+    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_19.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_12.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_17.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_07.md",
     "Daily-Bullet-Journal/journals/2026/06-June/2026_06_06.md",
-    "china-trip.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_01.md",
-    "AdaptX/posts/30-things-ive-learned-in-30-years.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_02.md",
-    "Evergreen-Notes/Permanent-Notes/emotion-control.md",
-    "Daily-Bullet-Journal/journals/2023/01-January/2023_01_29.md",
-    "Evergreen-Notes/Permanent-Notes/just-get-started.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_14.md",
-    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_21.md",
-    "Weekly-Mindware-Update/issues/2026/2026w23.md",
-    "Evergreen-Notes/Permanent-Notes/sleep.md",
-    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_07.md",
-    "AdaptX/posts/sherlock-holmes-brain-attic.md",
-    "Daily-Bullet-Journal/journals/2022/06-June/2022_06_07.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_20.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_02.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_04.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_01.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_05.md",
+    "Visuals/Fitness/Darebee/Plank Step-Ins.gif",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_20.md",
+    "AdaptX/posts/a-calm-mind-a-fit-body-a-house-full-of-love.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_05.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_19.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_14.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_28.md",
+    "Enoughness/posts/_attachments/ac3be20a7086e1267c08f344b713ec2f.png",
     "Enoughness/posts/_attachments/97d95e6e15a0e052c448f7d468bf190d.png",
     "Enoughness/posts/_attachments/9fa7dc50016b914d0d90db9a2f8c8980.png",
     "Enoughness/posts/_attachments/8a4c8a9583c074b70f4fcbdf8b8c75f6.png",
@@ -249,7 +250,6 @@
     "Enoughness/posts/_attachments/1da39cec8f0baeb88540f6cc2df8dcf0.png",
     "Evergreen-Notes/Permanent-Notes/_attachments/66302eb59a26100c50316b225457a5ee.png",
     "Visuals/Fitness/Darebee/Back Kicks.gif",
-    "Deep-Work-Machine/Number of Flows/2026/05-May/number-of-flows_2026-05.png",
     "Deep-Work-Machine/Number of Words/2026/05-May/number-of-words_2026-05.json",
     "Deep-Work-Machine/Number of Words/2026/05-May/number-of-words_2026-05.csv",
     "Deep-Work-Machine/Number of Words/2026/05-May",
