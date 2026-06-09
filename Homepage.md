@@ -1,4 +1,4 @@
-<!-- four-quarters-in-a-day -->    ㄌ
+<!-- four-quarters-in-a-day -->
 
 ```dataviewjs
 const CONFIG = {
