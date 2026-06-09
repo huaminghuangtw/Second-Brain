@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a195285506717343",
+        "id": "70734ad6d0ef4b9f",
         "type": "tabs",
         "children": [
           {
-            "id": "b4687f226619a1d8",
+            "id": "ff483fab0182bd25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Homepage.md",
                 "mode": "preview",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "偷不走",
+                "query": "家有黃金",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +80,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,24 +96,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "941fa01437a018a6",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Homepage.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for Homepage"
-            }
-          },
-          {
             "id": "04ee520414c74d80",
             "type": "leaf",
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_05.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -195,8 +182,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph of 2026_04_05"
             }
+          },
+          {
+            "id": "7c72480a80366963",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Homepage.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Homepage"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -212,44 +212,45 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "b4687f226619a1d8",
+  "active": "ff483fab0182bd25",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_08.md",
+    "Weekly-Mindware-Update/issues/2024/2024w24.md",
     "Homepage.md",
-    "Life-Notes/Missions/教育改革.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_31.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_03.md",
-    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-use-ai-effectively.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md",
-    "Evergreen-Notes/Permanent-Notes/hedonic-happiness-vs-eudaimonic-happiness.md",
-    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_19.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_12.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_17.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_07.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_06.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_20.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_09.md",
+    "Enoughness/posts/enoughness-34.md",
+    "Enoughness/posts/enoughness-32.md",
     "Daily-Bullet-Journal/journals/2026/06-June/2026_06_02.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_03.md",
     "Daily-Bullet-Journal/journals/2026/06-June/2026_06_04.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_01.md",
     "Daily-Bullet-Journal/journals/2026/06-June/2026_06_05.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_06.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_07.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_01.md",
+    "Blog/posts/20251011.md",
+    "AdaptX/posts/sherlock-holmes-brain-attic.md",
+    "Enoughness/posts/enoughness-22.md",
+    "Enoughness/posts/enoughness-14.md",
+    "Enoughness/posts/enoughness-23.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_06.md",
+    "Evergreen-Notes/Permanent-Notes/neuroscience.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_08.md",
+    "Evergreen-Notes/Permanent-Notes/emotion-control.md",
+    "Enoughness/posts/_attachments/adc2608dbe6230ff5c8ffdb67d1a29d1.png",
+    "Enoughness/posts/_attachments/97c27115e2258e19ba7c865347164cec.png",
+    "Evergreen-Notes/Permanent-Notes/peace-from-mind.md",
+    "Enoughness/posts/enoughness-31.md",
+    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_23.md",
+    "Enoughness/posts/_attachments/142f8fb0334cd6ad1cd30e3975211561.png",
+    "Enoughness/posts/enoughness-33.md",
+    "Weekly-Mindware-Update/issues/2026/2026w4.md",
+    "Daily-Bullet-Journal/journals/2017/06-June",
     "Visuals/Fitness/Darebee/Plank Step-Ins.gif",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_20.md",
-    "AdaptX/posts/a-calm-mind-a-fit-body-a-house-full-of-love.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_05.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_19.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_14.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_28.md",
     "Enoughness/posts/_attachments/ac3be20a7086e1267c08f344b713ec2f.png",
     "Enoughness/posts/_attachments/97d95e6e15a0e052c448f7d468bf190d.png",
     "Enoughness/posts/_attachments/9fa7dc50016b914d0d90db9a2f8c8980.png",
     "Enoughness/posts/_attachments/8a4c8a9583c074b70f4fcbdf8b8c75f6.png",
     "Enoughness/posts/_attachments/d993ad2d10442dd2678e029462cff669.png",
     "Enoughness/posts/_attachments/66302eb59a26100c50316b225457a5ee.png",
-    "Enoughness/posts/_attachments/1da39cec8f0baeb88540f6cc2df8dcf0.png",
-    "Evergreen-Notes/Permanent-Notes/_attachments/66302eb59a26100c50316b225457a5ee.png",
-    "Visuals/Fitness/Darebee/Back Kicks.gif",
     "Deep-Work-Machine/Number of Words/2026/05-May/number-of-words_2026-05.json",
     "Deep-Work-Machine/Number of Words/2026/05-May/number-of-words_2026-05.csv",
     "Deep-Work-Machine/Number of Words/2026/05-May",
@@ -258,7 +259,6 @@
     "Deep-Work-Machine/Number of Flows/2026/05-May/number-of-flows_2026-05.csv",
     "Deep-Work-Machine/Number of Flows/2026/05-May",
     "Daily-Bullet-Journal/journals/2015/06-June",
-    "Daily-Bullet-Journal/journals/2020/06-June",
-    "Daily-Bullet-Journal/journals/2019/06-June"
+    "Daily-Bullet-Journal/journals/2020/06-June"
   ]
 }
