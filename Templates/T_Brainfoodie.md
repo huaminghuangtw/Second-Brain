@@ -25,6 +25,7 @@ created: <% created %>
 title: ▍<% title %>
 category: <% category %>
 authors: <% authors.length === 1 ? authors[0] : `\n${authors.map(a => ` - ${a}`).join('\n')}` %>
+tags: []
 ---
 
 <% tp.file.cursor() %>
