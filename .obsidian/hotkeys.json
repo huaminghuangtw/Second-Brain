@@ -447,7 +447,15 @@
       "key": "T"
     }
   ],
-  "editor:open-search-replace": [],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
   "float-search:search-obsidian-globally": [
     {
       "modifiers": [

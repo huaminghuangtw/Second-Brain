@@ -7,13 +7,8 @@
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "Scripts/Templater",
-  "enable_folder_templates": true,
-  "folder_templates": [
-    {
-      "folder": "Evergreen-Notes/Permanent-Notes",
-      "template": "Templates/T_Permanent-Notes.md"
-    }
-  ],
+  "enable_folder_templates": false,
+  "folder_templates": [],
   "enable_file_templates": false,
   "file_templates": [
     {
