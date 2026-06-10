@@ -5,6 +5,7 @@ const { title } = result;
 -%>
 ---
 title: <% title %>
+tags: []
 ---
 
 <% tp.file.cursor() %>
