@@ -137,12 +137,12 @@ const buildVsCodeLink = (path, lineNumber) => {
 };
 
 dv.table(
-    ["", "**Last Week**", "**This Week**", "**Yesterday**", "**Today**"],
+    ["", "Last Week", "This Week", "Yesterday", "Today"],
     ROW_CONFIG.map(({ metric, label }) => {
         const values = results[metric];
         const link = buildVsCodeLink(METRICS[metric].path, lineNumbers[metric]);
         return [
-            `**[${label}](${link})**`,
+            `[${label}](${link})`,
             `${values[0]}`,
             ...values.slice(1, 3),
             values[3]
@@ -152,6 +152,56 @@ dv.table(
 ```
 
 ---
+
+
+> [! ]- ✍️ Writing
+>
+> ```dataviewjs
+> const drafts = dv.pages()
+>     .where(p => p.draft === true)
+>     .sort(p => p.file.mtime, 'desc')
+>     .groupBy(p => p.file.folder.split("/")[0]);
+>
+> for (const { key, rows } of drafts.sort(g => g.key)) {
+>     dv.header(4, `❥ ${key}`);
+>     dv.list(rows.map(p => p.file.link));
+> }
+> ```
+
+> [! ]- 🗒️ Notes
+>
+> ```dataviewjs
+> const notes = dv.pages('"Evergreen-Notes/Permanent-Notes"');
+> const bwc = app.plugins.plugins["better-word-count"].api;
+>
+> await Promise.all(notes.map(async (p) => {
+>     p._wordCount = await bwc.getWordCountPagePath(p.file.path);
+>     const cache  = app.metadataCache.getFileCache(app.vault.getAbstractFileByPath(p.file.path));
+>     p._headings  = cache?.headings?.length ?? 0;
+>     p._inlinks   = p.file.inlinks.length;
+> }));
+>
+> const WEIGHTS = { inlinks: 3, words: 1, headings: 2 };
+> notes.forEach(p => {
+>     p._score = WEIGHTS.inlinks   * p._inlinks
+>              + WEIGHTS.words     * Math.log1p(p._wordCount)
+>              + WEIGHTS.headings  * p._headings;
+> });
+>
+> const top3 = (sortFn) => [...notes].sort(sortFn).slice(0, 3);
+>
+> dv.header(4, "❥ Composite Score");
+> dv.list(top3((a, b) => b._score - a._score).map(p => `${p.file.link} (${p._score.toFixed(1)})`));
+>
+> dv.header(4, "❥ Most Words");
+> dv.list(top3((a, b) => b._wordCount - a._wordCount).map(p => `${p.file.link} (${p._wordCount} words)`));
+>
+> dv.header(4, "❥ Most Inlinks");
+> dv.list(top3((a, b) => b._inlinks - a._inlinks).map(p => `${p.file.link} (${p._inlinks} inlinks)`));
+>
+> dv.header(4, "❥ Most Structured");
+> dv.list(top3((a, b) => b._headings - a._headings).map(p => `${p.file.link} (${p._headings} headings)`));
+> ```
 
 > [! ]- 🫶 Health
 >
@@ -199,7 +249,7 @@ dv.table(
 > const avgSleep  = getAverage(data, 'sleepTime');
 >
 > dv.table(
->     ["", "**🛌 Sleep Time**"],
+>     ["", "🛌 Sleep Time"],
 >     [
 >         ...data.map(r => [
 >             `${r.link} (${r.dayOfWeek})`,
@@ -207,8 +257,8 @@ dv.table(
 >           ]
 >         ),
 >         [
->             "==**📊 14 天平均**==",
->             avgSleep !== NO_DATA ? `==**${formatThreshold(avgSleep, CONFIG.thresholds.sleepTime)}**==` : NO_DATA
+>             "==📊 14 天平均==",
+>             avgSleep !== NO_DATA ? `==${formatThreshold(avgSleep, CONFIG.thresholds.sleepTime)}==` : NO_DATA
 >         ]
 >     ]
 > );
@@ -221,34 +271,17 @@ dv.table(
 >
 > let today = dv.date("today");
 >
-> let arr = [
->   {
->     headerText: "🗓 Journals On This Day",
->     pages: await Utils.getJournalsURLs(dv,
->       p => p.date &&
->       p.date.day === today.day &&
->       p.date.month === today.month &&
->       p.date.year !== today.year
->     )
->   },
->   {
->     headerText: "🗓 Last Week’s Journals",
->     pages: await Utils.getJournalsURLs(dv,
->       p => p.date &&
->       p.date >= today.minus({ weeks: 1 }).startOf('week') &&
->       p.date <= today.minus({ weeks: 1 }).endOf('week')
->     )
->   }
-> ];
+> let pages = await Utils.getJournalsURLs(dv,
+>   p => p.date &&
+>   p.date.day === today.day &&
+>   p.date.month === today.month &&
+>   p.date.year !== today.year
+> );
 >
-> for (let element of arr) {
->   dv.header(3, element.headerText);
->
->   dv.list(element.pages.map(({ page }) => `${page.file.link} (${page.dayOfWeek})`));
-> }
+> dv.list(pages.map(({ page }) => `${page.file.link}`));
 > ```
 
-> [! ]- 👨🏽‍🌾 Garden
+> [! ]- 🗃️ Vault
 >
 > ```dataviewjs
 > const { Utils } = await cJS();
@@ -328,63 +361,14 @@ dv.table(
 >
 > const { linkResults, embedResults } = await findBadLinksAndEmbeds();
 >
-> dv.header(4, "**❥ Bad Links**");
+> dv.header(4, "❥ Bad Links");
 > dv.list(linkResults);
 >
-> dv.header(4, "**❥ Bad Embeds**");
+> dv.header(4, "❥ Bad Embeds");
 > dv.list(embedResults);
 >
-> dv.header(4, "**❥ Orphaned Images**");
+> dv.header(4, "❥ Orphaned Images");
 > dv.list(findOrphanedImages());
-> ```
-
-> [! ]- ✍️ Writing
->
-> ```dataviewjs
-> const drafts = dv.pages()
->     .where(p => p.draft === true)
->     .sort(p => p.file.mtime, 'desc')
->     .groupBy(p => p.file.folder.split("/")[0]);
->
-> for (const { key, rows } of drafts.sort(g => g.key)) {
->     dv.header(4, `**❥ ${key}**`);
->     dv.list(rows.map(p => p.file.link));
-> }
-> ```
-
-> [! ]- 🗒️ Notes
->
-> ```dataviewjs
-> const notes = dv.pages('"Evergreen-Notes/Permanent-Notes"');
-> const bwc = app.plugins.plugins["better-word-count"].api;
->
-> await Promise.all(notes.map(async (p) => {
->     p._wordCount = await bwc.getWordCountPagePath(p.file.path);
->     const cache  = app.metadataCache.getFileCache(app.vault.getAbstractFileByPath(p.file.path));
->     p._headings  = cache?.headings?.length ?? 0;
->     p._inlinks   = p.file.inlinks.length;
-> }));
->
-> const WEIGHTS = { inlinks: 3, words: 1, headings: 2 };
-> notes.forEach(p => {
->     p._score = WEIGHTS.inlinks   * p._inlinks
->              + WEIGHTS.words     * Math.log1p(p._wordCount)
->              + WEIGHTS.headings  * p._headings;
-> });
->
-> const top3 = (sortFn) => [...notes].sort(sortFn).slice(0, 3);
->
-> dv.header(4, "**❥ Most Words**");
-> dv.list(top3((a, b) => b._wordCount - a._wordCount).map(p => `${p.file.link} (${p._wordCount} words)`));
->
-> dv.header(4, "**❥ Most Inlinks**");
-> dv.list(top3((a, b) => b._inlinks - a._inlinks).map(p => `${p.file.link} (${p._inlinks} inlinks)`));
->
-> dv.header(4, "**❥ Most Structured**");
-> dv.list(top3((a, b) => b._headings - a._headings).map(p => `${p.file.link} (${p._headings} headings)`));
->
-> dv.header(4, "**❥ Composite Score**");
-> dv.list(top3((a, b) => b._score - a._score).map(p => `${p.file.link} (${p._score.toFixed(1)})`));
 > ```
 
 ---
