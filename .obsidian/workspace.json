@@ -4,41 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "eef1d857b722502f",
+        "id": "97fc897e618d167a",
         "type": "tabs",
         "children": [
           {
-            "id": "0546f307e5cb4699",
+            "id": "cbcaecf98e3b0038",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "b7fd96eed5402b87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homepage.md",
+                "file": "Life-Notes/Alignment/🎯 Life Vision Board.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "🎯 Life Vision Board"
+            }
+          },
+          {
+            "id": "d6e5985172ced949",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/06-June/2026_06_12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026_06_12"
+            }
+          },
+          {
+            "id": "ae593a5beab63dcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enoughness/posts/enoughness-35.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "enoughness-35"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "認識自己",
+                "query": "40% 法則",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +102,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -101,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 485.5,
+    "width": 376.5,
     "collapsed": true
   },
   "right": {
@@ -118,10 +133,22 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Homepage.md"
+                "file": "Enoughness/posts/enoughness-35.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
+            }
+          },
+          {
+            "id": "7c72480a80366963",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Enoughness/posts/enoughness-35.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for enoughness-35"
             }
           },
           {
@@ -199,21 +226,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph of 2026_04_05"
             }
-          },
-          {
-            "id": "7c72480a80366963",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/06-June/2026_06_11.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for 2026_06_11"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,34 +244,35 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "b7fd96eed5402b87",
+  "active": "ae593a5beab63dcf",
   "lastOpenFiles": [
+    "Enoughness/posts/enoughness-25.md",
     "Enoughness/posts/enoughness-35.md",
-    "Enoughness/posts/enoughness-15.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_12.md",
+    "Enoughness/posts/enoughness-22.md",
+    "Enoughness/posts/enoughness-27.md",
     "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-live-a-life.md",
-    "Enoughness/posts/enoughness-20.md",
-    "Enoughness/posts/enoughness-23.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_01.md",
-    "Evergreen-Notes/Permanent-Notes/mastering-yourself-is-superpower.md",
-    "Enoughness/posts/enoughness-34.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_10.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Evergreen-Notes/Permanent-Notes/persuation-and-negotiation.md",
     "Daily-Bullet-Journal/journals/2026/06-June/2026_06_11.md",
-    "Evergreen-Notes/Permanent-Notes/failing-forward-turns-setbacks-into-stepping-stones.md",
-    "Brainfoodie/posts/collection-andy-li-an-ho.md",
-    "Brainfoodie/posts/collection-jensen-huang.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_06.md",
-    "Brainfoodie/posts/collection-kobe-bryant.md",
-    "Brainfoodie/posts/collection-eliud-kipchoge.md",
-    "Evergreen-Notes/Permanent-Notes/sleep.md",
-    "AdaptX/posts/30-things-ive-learned-in-30-years.md",
-    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
-    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
-    "Microblog/posts/2026-06-11.md",
-    "Microblog/posts/2026-06-06.md",
-    "Enoughness/posts/enoughness-21.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_05.md",
-    "Slash/about.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_10.md",
+    "Daily-Bullet-Journal/journals/2021/06-June/2021_06_12.md",
+    "Daily-Bullet-Journal/journals/2022/06-June/2022_06_12.md",
+    "Daily-Bullet-Journal/journals/2023/06-June/2023_06_12.md",
+    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_12.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_12.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_11.md",
+    "Today-I-Learned/README.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_09.md",
+    "Evergreen-Lists/cheat-sheet/cheat-sheet.md",
+    "Evergreen-Lists/keyboard-hotkey/keyboard-hotkey.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_08.md",
+    "Evergreen-Notes/Permanent-Notes/a-man-who-is-a-master-of-patience-is-master-of-everything-else.md",
+    "Brainfoodie/posts/getting-started-with-ai-good-enough-prompting.md",
+    "Evergreen-Notes/Permanent-Notes/how-to-use-ai-effectively.md",
+    "Evergreen-Notes/Permanent-Notes/note-taking.md",
+    "Enoughness/posts/_attachments/0a02c3dd29337374bf6d5e1f0abc2e07.png",
+    "Enoughness/posts/enoughness-34.md",
     "Evergreen-Notes/Permanent-Notes/add_tags_frontmatter.py",
     "Enoughness/posts/_attachments/31cd1518d438d8b3d353ad05dd51f679.png",
     "Enoughness/posts/_attachments/15e15772152fb839379bc6c5262997d9.png",
@@ -268,7 +284,6 @@
     "Enoughness/posts/_attachments/ac3be20a7086e1267c08f344b713ec2f.png",
     "Enoughness/posts/_attachments/97d95e6e15a0e052c448f7d468bf190d.png",
     "Enoughness/posts/_attachments/9fa7dc50016b914d0d90db9a2f8c8980.png",
-    "Enoughness/posts/_attachments/8a4c8a9583c074b70f4fcbdf8b8c75f6.png",
     "Deep-Work-Machine/Number of Words/2026/05-May/number-of-words_2026-05.json",
     "Deep-Work-Machine/Number of Words/2026/05-May/number-of-words_2026-05.csv",
     "Deep-Work-Machine/Number of Words/2026/05-May",
