@@ -5,13 +5,18 @@ body {
 
   --text-selection: rgba(var(--color-cyan-rgb), 0.3) !important;
   
-  --list-spacing: 0.3em;
+  --heading-spacing: 1.8em;
+  
+  --p-spacing: 1.5em;
+
+  --list-spacing: 0.2em;
   --list-bullet-size: 6px;
 
   --divider-color: none;
   --divider-color-hover: none;
 
-  --table-header-color: var(--color-green);
+  --table-header-weight: var(--font-bold);
+  --table-border-color: rgba(var(--color-yellow-rgb), 0.15);
   --table-cell-vertical-alignment: middle;
 
   --blockquote-border-color: var(--color-yellow);
@@ -27,17 +32,12 @@ body {
   --metadata-border-color: rgba(var(--color-orange-rgb), 0.2);
   --metadata-border-radius: 8px;
   --metadata-border-width: 1px;
-  --metadata-padding: var(--size-4-4);
-  --metadata-gap: var(--size-4-1);
-  --metadata-divider-color: rgba(var(--color-orange-rgb), 0.08);
-  --metadata-divider-width: 1px;
-  --metadata-property-radius: 6px;
-  --metadata-property-padding: var(--size-4-2) var(--size-4-3);
+  --metadata-property-padding: var(--size-2-2) var(--size-2-3);
   --metadata-label-text-color: var(--color-orange);
   --metadata-label-font-weight: var(--font-semibold);
 
-  --link-color: rgba(var(--color-pink-rgb), 0.9);
-  --link-color-hover: rgba(var(--color-pink-rgb), 1);
+  --link-color: rgba(var(--color-red-rgb), 0.9);
+  --link-color-hover: rgba(var(--color-red-rgb), 1);
   --link-decoration: none;
   --link-decoration-hover: none;
   --link-external-color: rgba(var(--color-cyan-rgb), 0.9);
@@ -60,15 +60,15 @@ body {
 }
 
 .cm-hmd-frontmatter.cm-atom {
-  color: var(--color-pink);
+  color: magenta;
 }
 
 .footnote-link {
-  color: rgba(var(--color-red-rgb), 0.9);
+  color: rgba(var(--color-pink-rgb), 0.9);
 }
 
 .footnote-link:hover {
-  color: rgba(var(--color-red-rgb), 1);
+  color: rgba(var(--color-pink-rgb), 1);
 }
 
 .suggestion-item.is-selected {
