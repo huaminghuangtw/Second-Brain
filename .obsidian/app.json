@@ -12,7 +12,7 @@
   ],
   "trashOption": "system",
   "showUnsupportedFiles": false,
-  "livePreview": false,
+  "livePreview": true,
   "showLineNumber": false,
   "attachmentFolderPath": "./_attachments",
   "alwaysUpdateLinks": true,
@@ -39,5 +39,6 @@
   "strictLineBreaks": false,
   "openBehavior": "file:Homepage",
   "deleteUnlinkedAttachments": "ask",
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "foldIndent": false
 }
