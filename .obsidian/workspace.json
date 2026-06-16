@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6d1e702bba76a417",
+        "id": "52d28b6add2942ec",
         "type": "tabs",
         "children": [
           {
-            "id": "334b8455e6bb1a05",
+            "id": "94cb1ab31bf5892e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/06-June/2026_06_15.md",
+                "file": "Daily-Bullet-Journal/journals/2023/06-June/2023_06_13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_06_15"
+              "title": "2023_06_13"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "天降甘霖",
+                "query": "lips",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5,
+    "width": 485.5,
     "collapsed": true
   },
   "right": {
@@ -97,15 +97,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c72480a80366963",
+            "id": "941fa01437a018a6",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2023/06-June/2023_06_13.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for 2023_06_13"
+            }
+          },
+          {
+            "id": "04ee520414c74d80",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/04-April/2026_04_05.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
             }
           },
           {
@@ -200,53 +212,53 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "334b8455e6bb1a05",
+  "active": "94cb1ab31bf5892e",
   "lastOpenFiles": [
-    "Evergreen-Notes/Permanent-Notes/startups.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_18.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_09.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_16.md",
     "Daily-Bullet-Journal/journals/2026/06-June/2026_06_15.md",
-    "Evergreen-Notes/Permanent-Notes/addition-by-subtraction.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/_attachments/Pasted image 20260615210147.png",
-    "Daily-Bullet-Journal/journals/2026/06-June/_attachments",
-    "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/always-start-small.md",
-    "Evergreen-Notes/Permanent-Notes/_attachments/719bd364677580f7ddec9613303754e6.png",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_05.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_08.md",
-    "Evergreen-Notes/Permanent-Notes/always-do-your-best-as-possible.md",
     "AdaptX/posts/30-things-ive-learned-in-30-years.md",
-    "Life-Notes/Career/Career Advice.md",
-    "AdaptX/posts/start-small.md",
-    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
-    "AdaptX/posts/a-calm-mind-a-fit-body-a-house-full-of-love.md",
-    "Life-Notes/Business/Implementations & Strategies.md",
-    "Evergreen-Notes/Permanent-Notes/life-is-cyclic.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_09.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_03.md",
-    "Evergreen-Notes/Permanent-Notes/embrace-the-beauty-of-enoughness.md",
-    "Weekly-Mindware-Update/issues/2025/2025w44.md",
-    "Evergreen-Notes/Permanent-Notes/money.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_18.md",
-    "Evergreen-Notes/Permanent-Notes/self-compassion.md",
-    "Evergreen-Notes/Permanent-Notes/happiness.md",
+    "Evergreen-Notes/Permanent-Notes/love.md",
+    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_12.md",
+    "Life-Notes/Alignment/🐤 New Hobbies.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_26.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_24.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_04.md",
+    "Evergreen-Notes/Permanent-Notes/Themed Days.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_16.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_14.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_16.md",
+    "Evergreen-Notes/Permanent-Notes/innovation-is-about-everyone-agreeing-with-you-later.md",
     "Daily-Bullet-Journal/journals/2026/06-June/2026_06_14.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_01.md",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_27.md",
-    "_attachments",
-    "Enoughness/posts/_attachments/0a02c3dd29337374bf6d5e1f0abc2e07.png",
-    "Evergreen-Notes/Permanent-Notes/add_tags_frontmatter.py",
-    "Enoughness/posts/_attachments/31cd1518d438d8b3d353ad05dd51f679.png",
-    "Enoughness/posts/_attachments/15e15772152fb839379bc6c5262997d9.png",
-    "Enoughness/posts/_attachments/adc2608dbe6230ff5c8ffdb67d1a29d1.png",
-    "Enoughness/posts/_attachments/97c27115e2258e19ba7c865347164cec.png",
-    "Enoughness/posts/_attachments/142f8fb0334cd6ad1cd30e3975211561.png",
-    "Daily-Bullet-Journal/journals/2017/06-June",
-    "Visuals/Fitness/Darebee/Plank Step-Ins.gif",
-    "Enoughness/posts/_attachments/ac3be20a7086e1267c08f344b713ec2f.png",
-    "Deep-Work-Machine/Number of Words/2026/05-May/number-of-words_2026-05.json",
-    "Deep-Work-Machine/Number of Words/2026/05-May/number-of-words_2026-05.csv",
-    "Deep-Work-Machine/Number of Words/2026/05-May",
-    "Daily-Bullet-Journal/journals/2023/06-June/_attachments",
-    "Deep-Work-Machine/Number of Flows/2026/05-May/number-of-flows_2026-05.json",
-    "Deep-Work-Machine/Number of Flows/2026/05-May/number-of-flows_2026-05.csv"
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_13.md",
+    "Daily-Bullet-Journal/journals/2022/05-May/2022_05_18.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_19.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_12.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_11.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_10.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_09.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_02.md",
+    "Daily-Bullet-Journal/scripts/remove_backups_and_self.py",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_17.md.bak",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_23.md.bak",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_07.md.bak",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_27.md.bak",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_13.md.bak",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_03.md.bak",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_26.md.bak",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_12.md.bak",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_02.md.bak",
+    "Daily-Bullet-Journal/journals/2024/12-December/_attachments/66258069db3ab0128b35042356ddb128 2.png",
+    "Daily-Bullet-Journal/journals/2024/12-December/_attachments/c88d4e22a299b069a2eedb842850de01 2.png",
+    "Daily-Bullet-Journal/journals/2024/12-December/_attachments/066d7a3025e6c010e456eda921dc1d8b 2.png",
+    "Daily-Bullet-Journal/journals/2024/12-December/_attachments/49caf5cd793af8d4b31459e3535b837c 2.png",
+    "Daily-Bullet-Journal/journals/2024/12-December/_attachments/9b5ae0ab3b92e45b15feb24b8f07bed2 2.png",
+    "Daily-Bullet-Journal/journals/2024/12-December/_attachments/43825b0d6366b41cf7eab756f8b2a46d 2.png",
+    "Daily-Bullet-Journal/journals/2024/12-December/_attachments/ef85dfd75b5faf0f3de91354f3e79c02 2.png",
+    "Daily-Bullet-Journal/journals/2024/12-December/_attachments/5ebf2eb2267b5d9b0aca51c2c1ed96b7 2.png",
+    "Daily-Bullet-Journal/journals/2024/12-December/_attachments/c5b88c9ba9cb4678d537efc8d39cf8b3 2.png",
+    "Daily-Bullet-Journal/journals/2024/12-December/_attachments/827d636f42b15aa91538f4171471c528 2.png"
   ]
 }
