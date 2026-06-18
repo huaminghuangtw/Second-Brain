@@ -1,9 +1,9 @@
 body {
   --bold-color: var(--color-blue);
 
-  --caret-color: var(--text-error);
+  --caret-color: red;
 
-  --text-selection: rgba(var(--color-cyan-rgb), 0.3) !important;
+  --text-selection: rgba(var(--color-cyan-rgb), 0.4) !important;
   
   --heading-spacing: 1.8em;
   
@@ -23,10 +23,12 @@ body {
   --blockquote-border-thickness: 4px;
   --blockquote-font-style: italic;
 
-  --inline-title-color: var(--color-purple);
-  --inline-title-size: var(--font-ui-large);
-  --inline-title-weight: var(--font-bold);
-  --inline-title-line-height: 1.3;
+  --callout-title-size: var(--font-ui-medium);
+  --callout-title-weight: var(--font-bold);
+  --callout-content-padding: var(--size-4-4);
+
+  --inline-title-color: Beige;
+  --inline-title-line-height: 2.6;
 
   --metadata-background: rgba(var(--color-orange-rgb), 0.08);
   --metadata-border-color: rgba(var(--color-orange-rgb), 0.2);
@@ -48,7 +50,8 @@ body {
 
 .cm-hashtag,
 .tag {
-  border-color: var(--text-accent) !important;
+  border-color: var(--color-purple) !important;
+  border-width: 1.5px !important;
 }
 
 .cm-hmd-frontmatter.cm-comment {
@@ -83,8 +86,7 @@ body {
   font-style: italic;
 }
 
-.cm-inline-code,
-.markdown-preview-view code,
+.markdown-preview-view :not(pre) > code,
 kbd {
   background: rgba(var(--mono-rgb-100), 0.08);
   color: yellow;
