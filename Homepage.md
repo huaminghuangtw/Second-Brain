@@ -153,9 +153,7 @@ dv.table(
 
 ---
 
-
-> [! ]- ✍️ Writing
->
+> [!example]- ✍️ Writing
 > ```dataviewjs
 > const drafts = dv.pages()
 >     .where(p => p.draft === true)
@@ -168,8 +166,7 @@ dv.table(
 > }
 > ```
 
-> [! ]- 🗒️ Notes
->
+> [!example]- 🗒️ Notes
 > ```dataviewjs
 > const notes = dv.pages('"Evergreen-Notes/Permanent-Notes"');
 > const bwc = app.plugins.plugins["better-word-count"].api;
@@ -203,86 +200,7 @@ dv.table(
 > dv.list(top3((a, b) => b._headings - a._headings).map(p => `${p.file.link} (${p._headings} headings)`));
 > ```
 
-> [! ]- 🫶 Health
->
-> ```dataviewjs
-> const CONFIG = {
->     thresholds: {
->         sleepTime: { hours: 8, minutes: 0 },
->     }
-> };
->
-> const NO_DATA = "";
-> const today = dv.date("today");
->
-> function getAverage(data, metric) {
->     const valid = Array.from(data).filter(r => r[metric] !== NO_DATA);
->     if (!valid.length) return NO_DATA;
->     const totalMinutes = valid.reduce((sum, r) => sum + (r[metric].hours * 60 + r[metric].minutes), 0);
->     const avgMinutes = totalMinutes / valid.length;
->     return { hours: Math.floor(avgMinutes / 60), minutes: Math.round(avgMinutes % 60) };
-> }
->
-> function formatThreshold(value, threshold) {
->     if (value === NO_DATA) return value;
->     const icon = (value.hours * 60 + value.minutes) >= (threshold.hours * 60 + threshold.minutes) ? "✅" : "❌";
->     return `${icon} ${value.hours}h ${value.minutes}m`;
-> }
->
-> // Fetch one extra day (15 days ago) so the earliest entry’s sleep can be computed from the prior day’s bedTime
-> const data = dv.pages('"Daily-Bullet-Journal"')
->     .where(p => p.date >= today.minus({ days: 15 }) && p.date <= today.minus({ days: 1 }))
->     .sort(p => p.date, 'desc')
->     .map((entry, i, entries) => {
->         const prev = entries[i + 1];
->         const sleepTime = prev?.bedTime && entry.wakeUpTime
->             ? { hours: Math.floor((entry.wakeUpTime - prev.bedTime) / 3600000), minutes: Math.round(((entry.wakeUpTime - prev.bedTime) % 3600000) / 60000) }
->             : NO_DATA;
->         return {
->             link: entry.file.link,
->             dayOfWeek: entry.date.weekdayLong,
->             sleepTime,
->         };
->     })
->     .slice(0, -1); // Remove the extra day (15 days ago)
->
-> const avgSleep  = getAverage(data, 'sleepTime');
->
-> dv.table(
->     ["", "🛌 Sleep Time"],
->     [
->         ...data.map(r => [
->             `${r.link} (${r.dayOfWeek})`,
->             formatThreshold(r.sleepTime, CONFIG.thresholds.sleepTime)
->           ]
->         ),
->         [
->             "==📊 14 天平均==",
->             avgSleep !== NO_DATA ? `==${formatThreshold(avgSleep, CONFIG.thresholds.sleepTime)}==` : NO_DATA
->         ]
->     ]
-> );
-> ```
-
-> [! ]- 🌸 Retrospection
->
-> ```dataviewjs
-> const { Utils } = await cJS();
->
-> let today = dv.date("today");
->
-> let pages = await Utils.getJournalsURLs(dv,
->   p => p.date &&
->   p.date.day === today.day &&
->   p.date.month === today.month &&
->   p.date.year !== today.year
-> );
->
-> dv.list(pages.map(({ page }) => `${page.file.link}`));
-> ```
-
-> [! ]- 🗃️ Vault
->
+> [!example]- 🗃️ Vault
 > ```dataviewjs
 > const { Utils } = await cJS();
 >
@@ -369,6 +287,84 @@ dv.table(
 >
 > dv.header(4, "❥ Orphaned Images");
 > dv.list(findOrphanedImages());
+> ```
+
+---
+
+> [!bug]- 🌸 Retrospection
+> ```dataviewjs
+> const { Utils } = await cJS();
+>
+> let today = dv.date("today");
+>
+> let pages = await Utils.getJournalsURLs(dv,
+>   p => p.date &&
+>   p.date.day === today.day &&
+>   p.date.month === today.month &&
+>   p.date.year !== today.year
+> );
+>
+> dv.list(pages.map(({ page }) => `${page.file.link}`));
+> ```
+
+> [!bug]- 🫶 Health
+> ```dataviewjs
+> const CONFIG = {
+>     thresholds: {
+>         sleepTime: { hours: 8, minutes: 0 },
+>     }
+> };
+>
+> const NO_DATA = "";
+> const today = dv.date("today");
+>
+> function getAverage(data, metric) {
+>     const valid = Array.from(data).filter(r => r[metric] !== NO_DATA);
+>     if (!valid.length) return NO_DATA;
+>     const totalMinutes = valid.reduce((sum, r) => sum + (r[metric].hours * 60 + r[metric].minutes), 0);
+>     const avgMinutes = totalMinutes / valid.length;
+>     return { hours: Math.floor(avgMinutes / 60), minutes: Math.round(avgMinutes % 60) };
+> }
+>
+> function formatThreshold(value, threshold) {
+>     if (value === NO_DATA) return value;
+>     const icon = (value.hours * 60 + value.minutes) >= (threshold.hours * 60 + threshold.minutes) ? "✅" : "❌";
+>     return `${icon} ${value.hours}h ${value.minutes}m`;
+> }
+>
+> // Fetch one extra day (15 days ago) so the earliest entry's sleep can be computed from the prior day's bedTime
+> const data = dv.pages('"Daily-Bullet-Journal"')
+>     .where(p => p.date >= today.minus({ days: 15 }) && p.date <= today.minus({ days: 1 }))
+>     .sort(p => p.date, 'desc')
+>     .map((entry, i, entries) => {
+>         const prev = entries[i + 1];
+>         const sleepTime = prev?.bedTime && entry.wakeUpTime
+>             ? { hours: Math.floor((entry.wakeUpTime - prev.bedTime) / 3600000), minutes: Math.round(((entry.wakeUpTime - prev.bedTime) % 3600000) / 60000) }
+>             : NO_DATA;
+>         return {
+>             link: entry.file.link,
+>             dayOfWeek: entry.date.weekdayLong,
+>             sleepTime,
+>         };
+>     })
+>     .slice(0, -1); // Remove the extra day (15 days ago)
+>
+> const avgSleep  = getAverage(data, 'sleepTime');
+>
+> dv.table(
+>     ["", "🛌 Sleep Time"],
+>     [
+>         ...data.map(r => [
+>             `${r.link} (${r.dayOfWeek})`,
+>             formatThreshold(r.sleepTime, CONFIG.thresholds.sleepTime)
+>           ]
+>         ),
+>         [
+>             "==📊 14 天平均==",
+>             avgSleep !== NO_DATA ? `==${formatThreshold(avgSleep, CONFIG.thresholds.sleepTime)}==` : NO_DATA
+>         ]
+>     ]
+> );
 > ```
 
 ---
@@ -520,3 +516,13 @@ for (const [index, title] of titles.entries()) {
     Utils.renderEditLink(dv, editURI3);
 }
 ```
+
+---
+
+<!-- https://obsidian.md/help/plugins/search#Embed+search+results+in+a+note -->
+
+> [!quote]- 📌 Highlights
+> 
+> ```query
+> /<mark>.+?<\/mark>/ --path:"Brainfoodie"
+> ```
