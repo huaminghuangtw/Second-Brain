@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1de4878419e64968",
+        "id": "c8ee3384b4324322",
         "type": "tabs",
         "children": [
           {
-            "id": "7861ccd82043462a",
+            "id": "3251a0ea519826d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,39 +21,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "1b323f864126bf33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/03-March/2026_03_08.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026_03_08"
-            }
-          },
-          {
-            "id": "afeae4e4ec653f67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enoughness/posts/enoughness-36.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "enoughness-36"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "商人",
+                "query": "\"Hip Flexor Stretch\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,8 +80,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,12 +182,24 @@
               "icon": "quote-glyph",
               "title": "References"
             }
+          },
+          {
+            "id": "1cb178e448b2c036",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Homepage.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 411.5,
+    "width": 428.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -231,35 +211,41 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "afeae4e4ec653f67",
+  "active": "3251a0ea519826d7",
   "lastOpenFiles": [
-    "Enoughness/posts/_attachments/c1cbc0daa61a76355cafa1cab42e201a.png",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_08.md",
+    "Enoughness/posts/enoughness-37.md",
     "Enoughness/posts/enoughness-36.md",
+    "Enoughness/posts/enoughness-7.md",
+    "Enoughness/posts/enoughness-11.md",
     "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/you-are-what-you-eat.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Evergreen-Notes/Permanent-Notes/the-law-of-diminishing-returns.md",
+    "Enoughness/posts/enoughness-27.md",
+    "Enoughness/posts/enoughness-30.md",
+    "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md",
     "Enoughness/posts/enoughness-5.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_18.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_16.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_17.md",
-    "Enoughness/posts/enoughness-35.md",
-    "Evergreen-Notes/Permanent-Notes/longevity.md",
-    "AdaptX/posts/a-calm-mind-a-fit-body-a-house-full-of-love.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_06.md",
-    "Brainfoodie/posts/collection-jensen-huang.md",
-    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_18.md",
-    "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
-    "Evergreen-Notes/Permanent-Notes/vulnerability.md",
-    "Evergreen-Notes/Permanent-Notes/humor-is-a-way-to-show-you-are-smart-without-bragging.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_15.md",
-    "Daily-Bullet-Journal/journals/2023/06-June/2023_06_18.md",
-    "Daily-Bullet-Journal/journals/2022/06-June/2022_06_18.md",
-    "Daily-Bullet-Journal/journals/2021/06-June/2021_06_18.md",
-    "Daily-Bullet-Journal/journals/2016/06-June/2016_06_18.md",
-    "Daily-Bullet-Journal/journals/2015/06-June/2015_06_18.md",
+    "Evergreen-Notes/Permanent-Notes/grip-dynamometer.md",
+    "Enoughness/posts/_attachments/c44ba0fe8fee90887a2d6add64fc893c.png",
+    "Enoughness/posts/_attachments/eac2499bee6356637d248d6cc298209d.png",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_09.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_30.md",
+    "Daily-Bullet-Journal/journals/2023/05-May/2023_05_08.md",
+    "Enoughness/posts/enoughness-15.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_01.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_04.md",
+    "Enoughness/posts/_attachments/a9a2fb7a9ec72c500f91028da2efda19.png",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_28.md",
     "Enoughness/posts/_attachments/30e2fb38204ebef6420d27b10fa92a04.png",
+    "Enoughness/posts/_attachments/3cfd4a8f0a7a668cb3b961ae8006e9a3.png",
+    "Daily-Bullet-Journal/journals/2019/06-June/2019_06_19.md",
+    "Daily-Bullet-Journal/journals/2022/06-June/2022_06_19.md",
+    "Daily-Bullet-Journal/journals/2021/06-June/2021_06_19.md",
+    "Daily-Bullet-Journal/journals/2023/06-June/2023_06_19.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_19.md",
+    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_19.md",
+    "Life-Notes/Business/Astro 網頁開發接案.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_13.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_19.md",
+    "Enoughness/posts/_attachments/ad761d762634fba209ce33315a9767b8.png",
+    "Enoughness/posts/_attachments/c1cbc0daa61a76355cafa1cab42e201a.png",
     "Enoughness/posts/_attachments/9e3462db90410ba410df4e3e96ededc3.png",
     "Daily-Bullet-Journal/journals/2026/06-June/_attachments/a490b4e77bc75e16d320108e2a92ae16.png",
     "Drafts",
@@ -272,12 +258,6 @@
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_03.md.bak",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_26.md.bak",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_12.md.bak",
-    "Daily-Bullet-Journal/journals/2024/12-December/_attachments/66258069db3ab0128b35042356ddb128 2.png",
-    "Daily-Bullet-Journal/journals/2024/12-December/_attachments/c88d4e22a299b069a2eedb842850de01 2.png",
-    "Daily-Bullet-Journal/journals/2024/12-December/_attachments/066d7a3025e6c010e456eda921dc1d8b 2.png",
-    "Daily-Bullet-Journal/journals/2024/12-December/_attachments/49caf5cd793af8d4b31459e3535b837c 2.png",
-    "Daily-Bullet-Journal/journals/2024/12-December/_attachments/9b5ae0ab3b92e45b15feb24b8f07bed2 2.png",
-    "Daily-Bullet-Journal/journals/2024/12-December/_attachments/43825b0d6366b41cf7eab756f8b2a46d 2.png",
-    "Daily-Bullet-Journal/journals/2024/12-December/_attachments/ef85dfd75b5faf0f3de91354f3e79c02 2.png"
+    "Daily-Bullet-Journal/journals/2024/12-December/_attachments/66258069db3ab0128b35042356ddb128 2.png"
   ]
 }
