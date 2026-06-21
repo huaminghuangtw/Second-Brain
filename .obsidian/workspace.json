@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "da7d47b33439bf52",
+        "id": "f289865abd6d6331",
         "type": "tabs",
         "children": [
           {
-            "id": "dbbca91ac48d1169",
+            "id": "70d6e2467997d45a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Daily-Bullet-Journal/journals/2026/06-June/2026_06_21.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "d597ff6c02c45a9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enoughness/posts/enoughness-36.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "enoughness-36"
+              "title": "2026_06_21"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "痛 苦 甘願",
+                "query": "肉粽",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,10 +102,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Enoughness/posts/enoughness-36.md"
+                "file": "Daily-Bullet-Journal/journals/2026/06-June/2026_06_21.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for enoughness-36"
+              "title": "File properties for 2026_06_21"
             }
           },
           {
@@ -159,7 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Enoughness/posts/enoughness-36.md",
+                "file": "Homepage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +171,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of enoughness-36"
+              "title": "Graph of Homepage"
             }
           },
           {
@@ -206,7 +190,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Enoughness/posts/enoughness-36.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -228,34 +212,35 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "d597ff6c02c45a9a",
+  "active": "70d6e2467997d45a",
   "lastOpenFiles": [
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/_attachments/a3684a098aef5588f9d555ada38a0af5.png",
-    "Enoughness/posts/enoughness-9.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_02.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_19.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_18.md",
-    "Life-Notes/Finance/Investment 101.md",
-    "Evergreen-Notes/Permanent-Notes/the-compounding-effect.md",
-    "Life-Notes/Finance/Investment 102.md",
-    "Brainfoodie/posts/44-harsh-truths-about-human-nature.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_12.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_14.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_20.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_01.md",
-    "Microblog/posts/2026-06-06.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_11.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_21.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_05.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_04.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_03.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_18.md",
     "Enoughness/posts/enoughness-36.md",
-    "Evergreen-Notes/Permanent-Notes/planning-and-preparation-help-maximize-your-productivity.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_24.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_01.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_29.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_07.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_03.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_29.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_12.md",
-    "Evergreen-Notes/Permanent-Notes/batching-emails-and-text-messages.md",
+    "AdaptX/posts/30-things-ive-learned-in-30-years.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_30.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_18.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_19.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_20.md",
+    "Weekly-Mindware-Update/issues/2024/2024w2.md",
+    "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_31.md",
+    "Evergreen-Notes/Permanent-Notes/love.md",
+    "Evergreen-Notes/Permanent-Notes/speak-less-listen-more.md",
+    "Evergreen-Notes/Permanent-Notes/resilience.md",
+    "Evergreen-Notes/Permanent-Notes/anger.md",
+    "Evergreen-Notes/Permanent-Notes/the-unaccepted-gift.md",
+    "Evergreen-Notes/Permanent-Notes/the-growth-mindset.md",
+    "Evergreen-Notes/Permanent-Notes/emotion-control.md",
+    "Evergreen-Notes/Permanent-Notes/vulnerability.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_17.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_16.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_15.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/_attachments/a3684a098aef5588f9d555ada38a0af5.png",
     "Enoughness/posts/_attachments/c44ba0fe8fee90887a2d6add64fc893c.png",
     "Enoughness/posts/_attachments/eac2499bee6356637d248d6cc298209d.png",
     "Enoughness/posts/_attachments/a9a2fb7a9ec72c500f91028da2efda19.png",
