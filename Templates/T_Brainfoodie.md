@@ -7,6 +7,7 @@ const categories = [
     "Excerpt",
     "Essay",
     "Poem",
+    "Parable",
     "Podcast",
     "Letter",
     "Inspiring Speech",
@@ -17,14 +18,18 @@ const categories = [
     "People"
 ];
 const category = await tp.system.suggester(categories, categories, false, "🤖 Which one? ");
-const authorsInput = await tp.system.prompt("👤 Author(s)? (comma-separated for multiple)") || "";
-const authors = authorsInput.split(',').map(a => a.trim()).filter(a => a);
+let authorsInput = "";
+if (category !== "Parable") {
+    authorsInput = (await tp.system.prompt("👤 Author(s)? (comma-separated)")) || "";
+}
 -%>
 ---
 created: <% created %>
 title: ▍<% title %>
 category: <% category %>
-authors: <% authors.length === 1 ? authors[0] : `\n${authors.map(a => ` - ${a}`).join('\n')}` %>
+<%* if (category !== "Parable") { %>
+authors: [<% authorsInput %>]
+<%* } %>
 tags: []
 ---
 
