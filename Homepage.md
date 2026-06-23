@@ -524,5 +524,5 @@ for (const [index, title] of titles.entries()) {
 > [!quote]- 📌 Highlights
 > 
 > ```query
-> /<mark>.+?<\/mark>/ --path:"Brainfoodie"
+> /(?<=<mark>).+?(?=<\/mark>)/ --path:"Brainfoodie"
 > ```
