@@ -6179,6 +6179,7 @@ tdot
 teenage
 thirties
 tedium
+troublesome
 Escape
 Everything
 Earl
@@ -19696,6 +19697,7 @@ consolation
 centrally
 comforting
 confiscating
+colons
 authenticity
 and
 avoids
@@ -32762,6 +32764,7 @@ mosquito
 mosquitos
 multiplying
 moat
+mistaking
 popular
 pause
 prisons
@@ -39714,6 +39717,7 @@ portal
 plunder
 pooled
 planes
+pumps
 is
 it
 in
@@ -46357,6 +46361,7 @@ intellectualize
 isolating
 isolate
 incumbents
+ichigyo
 wrong
 world
 with
@@ -52139,6 +52144,8 @@ wUTQ
 wkvy
 wliYE
 warps
+writings
+wobble
 Oscar
 Only
 Once
@@ -83460,6 +83467,7 @@ forewords
 fluently
 forties
 feudal
+fitter
 one
 opinions
 of
@@ -101319,6 +101327,7 @@ DybS
 DRBz
 Dialogues
 Donnerstagsrennen
+Dextrose
 Victorious
 Virginia
 Vincent
@@ -113177,6 +113186,7 @@ gzdm
 grading
 guesses
 governments
+greats
 defeated
 do
 distinctiveness
@@ -119990,6 +120000,7 @@ disadvantages
 defensible
 democratization
 dulls
+disengages
 seek
 side
 successful
@@ -140836,6 +140847,11 @@ Smallness
 Scalable
 Safer
 Speculative
+SGLT
+Sophie
+Shokunin
+Schleicher
+Supercompensation
 you
 yourself
 your
@@ -153611,6 +153627,7 @@ reproduction
 reserves
 rulers
 regulatory
+reorients
 Mark
 Matshona
 Malcolm
@@ -166277,6 +166294,8 @@ ITYp
 IJUy
 IeFf
 Inamori
+Irvine
+Ichigyo
 life
 ll
 let
@@ -201803,6 +201822,7 @@ BAcgL
 BpWp
 Bugs
 Bait
+Burroughs
 Coco
 Channel
 Chase
@@ -226034,6 +226054,8 @@ GkU
 GZrR
 GIHt
 Geopolitics
+GLUT
+Gloria
 universe
 undervalue
 uniqueness
@@ -231987,6 +232009,8 @@ uHas
 unfulfilling
 unrewarding
 unbridled
+unitasking
+umlauts
 Forbes
 Fight
 Find
@@ -251281,6 +251305,7 @@ Prestige
 Pursuing
 Precht
 PornHub
+Pfitzinger
 Lewis
 Lean
 Let
@@ -299255,6 +299280,7 @@ zpyC
 zmzz
 zMA
 zmcMd
+zammai
 Keep
 Kick
 Kipchoge
@@ -305137,6 +305163,7 @@ Knk
 KgIr
 KUd
 KUhf
+Kempis
 Xx
 Xg
 XN
