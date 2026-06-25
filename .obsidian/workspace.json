@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5e9df5eac27ba0d0",
+        "id": "32974f3018a0f02a",
         "type": "tabs",
         "children": [
           {
-            "id": "d822c8c2141cf0d3",
+            "id": "d8cd1ba0df111943",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/06-June/2026_06_24.md",
+                "file": "Homepage.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_06_24"
+              "title": "Homepage"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "報名 馬拉松",
+                "query": "吃力不討好",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,10 +102,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/06-June/2026_06_24.md"
+                "file": "Evergreen-Notes/Permanent-Notes/anger.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_06_24"
+              "title": "File properties for anger"
             }
           },
           {
@@ -212,44 +212,44 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "d822c8c2141cf0d3",
+  "active": "d8cd1ba0df111943",
   "lastOpenFiles": [
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_06.md",
+    "Brainfoodie/posts/waki-ai-as-a-second-brain.md",
     "Daily-Bullet-Journal/journals/2026/06-June/2026_06_24.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_21.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md",
-    "Drafts/2026-marathon-training.md",
-    "Evergreen-Notes/Permanent-Notes/running-strides.md",
-    "Enoughness/posts/enoughness-36.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_16.md",
-    "Evergreen-Notes/Permanent-Notes/pfitz-18-70-marathon-plan.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_14.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_25.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_04.md",
+    "Homepage.md",
+    "AdaptX/posts/you-and-your-timeline.md",
     "Enoughness/posts/enoughness-37.md",
-    "Evergreen-Notes/Permanent-Notes/do-hard-things.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_09.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/_attachments/Pasted image 20260624093611.png",
-    "Life-Notes/Life/parenting.md",
-    "Evergreen-Notes/Permanent-Notes/frameworks-to-structure-your-day.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_18.md",
-    "Life-Notes/Finance/Investment 101.md",
-    "Evergreen-Notes/Permanent-Notes/money.md",
-    "Life-Notes/Finance/投資理財正確心態.md",
-    "Life-Notes/Finance/財金金融相關知識&專業術語&詞彙.md",
-    "Life-Notes/Finance/台股.md",
-    "Life-Notes/Finance/ETF.md",
-    "Life-Notes/Missions/教育改革.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_11.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_29.md",
-    "Enoughness/posts/_attachments/be1acb744ab8cfa3711533e46e60a118.png",
-    "Brainfoodie/posts/_attachments/fcc1929f8c6044ff48bfbf8d5419907c.png",
-    "Daily-Bullet-Journal/journals/2025/03-March/_attachments/a3684a098aef5588f9d555ada38a0af5.png",
-    "Enoughness/posts/_attachments/c44ba0fe8fee90887a2d6add64fc893c.png",
-    "Enoughness/posts/_attachments/eac2499bee6356637d248d6cc298209d.png",
-    "Enoughness/posts/_attachments/a9a2fb7a9ec72c500f91028da2efda19.png",
-    "Enoughness/posts/_attachments/30e2fb38204ebef6420d27b10fa92a04.png",
-    "Enoughness/posts/_attachments/3cfd4a8f0a7a668cb3b961ae8006e9a3.png",
-    "Enoughness/posts/_attachments/ad761d762634fba209ce33315a9767b8.png",
+    "Evergreen-Notes/Permanent-Notes/overthinking.md",
+    "Evergreen-Notes/Permanent-Notes/anger.md",
+    "Enoughness/posts/enoughness-19.md",
+    "Enoughness/posts/enoughness-28.md",
+    "Enoughness/posts/enoughness-20.md",
+    "Evergreen-Notes/Permanent-Notes/_attachments/6f4cbd9eaa25c23ba85fa647787f4298.png",
+    "Enoughness/posts/_attachments/b067ffbb87ccb65ed192a227cc0c4cc0.png",
+    "Enoughness/posts/enoughness-31.md",
+    "Evergreen-Notes/Permanent-Notes/dispel-your-narratives.md",
+    "Brainfoodie/posts/a-walk-in-the-wood.md",
+    "Enoughness/posts/enoughness-18.md",
+    "Enoughness/posts/_attachments/19d55875acd9a623c3ea76e94b87305f.png",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_01.md",
+    "AdaptX/posts/ted-taipei-2025.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_16.md",
+    "Evergreen-Notes/Permanent-Notes/control-the-controllable.md",
+    "Enoughness/posts/enoughness-38.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_27.md",
+    "Daily-Bullet-Journal/journals/2016/06-June/2016_06_25.md",
+    "Daily-Bullet-Journal/journals/2021/06-June/2021_06_25.md",
+    "Daily-Bullet-Journal/journals/2022/06-June/2022_06_25.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_25.md",
+    "Enoughness/posts/_attachments/eeb90f976c085c45f0c6bac773099587.png",
+    "Enoughness/posts/_attachments/66fca761c564a5d4269c378d3e909acc.png",
+    "Brainfoodie/posts/_attachments/99137f8bd2106a906cb161782515c6fc.png",
+    "Enoughness/posts/_attachments/75cbbca333792735e27c98bb2283aa4d.png",
+    "Enoughness/posts/_attachments/Pasted image 20260624214052.png",
+    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260624204711.png",
+    "Daily-Bullet-Journal/journals/2026/06-June/_attachments/a817ded76de3853d9bfabfd6f9ebdba3.png",
     "Drafts",
     "Daily-Bullet-Journal/scripts/remove_backups_and_self.py",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_17.md.bak",
