@@ -1,6 +1,6 @@
 body {
   --bold-color: var(--color-blue);
-
+  --italic-color: var(--color-pink);
   --caret-color: red;
 
   --text-selection: rgba(var(--color-cyan-rgb), 0.4) !important;
@@ -50,7 +50,7 @@ body {
 
 .cm-hashtag,
 .tag {
-  border-color: var(--color-purple) !important;
+  border-color: rgba(var(--mono-rgb-100), 0.4) !important;
   border-width: 1.5px !important;
 }
 
@@ -63,15 +63,15 @@ body {
 }
 
 .cm-hmd-frontmatter.cm-atom {
-  color: magenta;
+  color: deeppink;
 }
 
 .footnote-link {
-  color: rgba(var(--color-pink-rgb), 0.9);
+  color: rgba(var(--color-purple-rgb), 0.9);
 }
 
 .footnote-link:hover {
-  color: rgba(var(--color-pink-rgb), 1);
+  color: rgba(var(--color-purple-rgb), 1);
 }
 
 .suggestion-item.is-selected {
@@ -95,7 +95,7 @@ kbd {
   padding: 2px 6px;
 }
 
-/* Hide anything that distracts me */
+/* Hide everything that distracts me */
 
 div[data-path$='.pdf']{
 	display: none;
@@ -112,6 +112,11 @@ div[data-path$='.pdf']{
 .external-link {
   background-image: none;
   padding-right: 0px;
+}
+
+.workspace-tab-header:is([data-type="all-properties"])
+{
+	display: none;
 }
 
 .metadata-property-icon {
