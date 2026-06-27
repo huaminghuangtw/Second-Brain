@@ -31,6 +31,10 @@
   color: var(--text-error);
 }
 
+.qsp-hidden {
+  display: none;
+}
+
 .qsp-tag {
   background-color: var(--background-modifier-hover);
   border-radius: var(--radius-s);
@@ -60,16 +64,6 @@
 /* symbol suggestion should align to the left */
 .suggestion-item.qsp-suggestion-symbol {
   justify-content: left;
-}
-
-/* highlight recently used file suggestions */
-.suggestion-item.qsp-recent-file .qsp-title {
-  text-decoration: underline dotted var(--text-muted);
-}
-
-/* highlight currently open editor suggestions */
-.suggestion-item.qsp-open-editor .qsp-title {
-  text-decoration: underline var(--text-accent);
 }
 
 /* highlight the open editor flair icon */

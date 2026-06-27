@@ -86,7 +86,9 @@
       "style": "Title Case",
       "ignore-case-words": false,
       "ignore-words": "macOS, iOS, iPhone, iPad, JavaScript, TypeScript, AppleScript, I",
-      "lowercase-words": ""
+      "lowercase-words": "",
+      "starting-word-ignore-characters": "'\"(‘“-",
+      "ending-word-ignore-characters": ".?!,:;'\")”’0123456789-"
     },
     "file-name-heading": {
       "enabled": false
@@ -275,6 +277,8 @@
   "recordLintOnSaveLogs": true,
   "displayChanged": false,
   "suppressMessageWhenNoChange": false,
+  "suppressLintAllFilesConfirmationModal": false,
+  "suppressLintAllFilesInFolderConfirmationModal": false,
   "lintOnFileChange": true,
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,

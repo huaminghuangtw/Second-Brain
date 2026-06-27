@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "1898fe5771965f2e",
+        "id": "807e9c6dc957dfe0",
         "type": "tabs",
         "children": [
           {
-            "id": "329448aa13bf2d04",
+            "id": "a1a0098375e5d57a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/06-June/2026_06_26.md",
+                "file": "Homepage.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_06_26"
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "3a80ec5ff97e6fe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/06-June/2026_06_27.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026_06_27"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#BuJo",
+                "query": "故宮南院馬拉",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 485.5
+    "width": 485.5,
+    "collapsed": true
   },
   "right": {
     "id": "622d958ae975569a",
@@ -101,10 +118,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/06-June/2026_06_26.md"
+                "file": "Daily-Bullet-Journal/journals/2026/06-June/2026_06_27.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_06_26"
+              "title": "File properties for 2026_06_27"
             }
           },
           {
@@ -127,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/06-June/2026_06_26.md",
+                "file": "Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026_06_26"
+              "title": "Outline of Homepage"
             }
           },
           {
@@ -142,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/06-June/2026_06_26.md",
+                "file": "Homepage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +187,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2026_06_26"
+              "title": "Graph of Homepage"
             }
           },
           {
@@ -189,14 +206,13 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/06-June/2026_06_26.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,35 +228,36 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "09de3fe4648a779a",
+  "active": "3a80ec5ff97e6fe0",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_21.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_02.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_26.md",
     "Homepage.md",
-    "AdaptX/posts/30-things-ive-learned-in-30-years.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_08.md",
-    "Daily-Bullet-Journal/journals/2026/07-July",
-    "Drafts/_why-i-write-and-run.md",
-    "Enoughness/posts/enoughness-22.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_21.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md",
-    "Drafts/2026-marathon-training.md",
-    "Enoughness/posts/enoughness-37.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_29.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_02.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_20.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_16.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_16.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_10.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_01.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_05.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_25.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_17.md",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_09.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_05.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_27.md",
+    "Enoughness/posts/enoughness-24.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_23.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Life-Notes/Missions/體育改革.md",
+    "Life-Notes/Missions/學生運動員.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/_attachments/Pasted image 20260627170101.png",
+    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
+    "Brainfoodie/posts/the-longevity-project.md",
+    "Evergreen-Notes/Permanent-Notes/burnout.md",
+    "Life-Notes/Business/Astro 網頁開發接案.md",
+    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_19.md",
+    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_24.md",
     "Daily-Bullet-Journal/journals/2024/02-February/2024_02_18.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_17.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_20.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_01.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_05.md",
+    "Daily-Bullet-Journal/journals/2023/07-July/2023_07_09.md",
+    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_09.md",
+    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_01.md",
+    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_06.md",
+    "Evergreen-Notes/Permanent-Notes/busyness.md",
+    "Evergreen-Notes/Permanent-Notes/the-most-productive-people-prioritize-intentional-rest.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_24.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_27.md",
+    "Daily-Bullet-Journal/journals/2026/07-July",
     "Enoughness/posts/_attachments/e34c0476e188b229eca492393de614fa.png",
     "Enoughness/posts/_attachments/be1acb744ab8cfa3711533e46e60a118.png",
     "Evergreen-Notes/Permanent-Notes/_attachments/6f4cbd9eaa25c23ba85fa647787f4298.png",
@@ -250,7 +267,6 @@
     "Enoughness/posts/_attachments/66fca761c564a5d4269c378d3e909acc.png",
     "Brainfoodie/posts/_attachments/99137f8bd2106a906cb161782515c6fc.png",
     "Enoughness/posts/_attachments/75cbbca333792735e27c98bb2283aa4d.png",
-    "Enoughness/posts/_attachments/Pasted image 20260624214052.png",
     "Drafts",
     "Daily-Bullet-Journal/scripts/remove_backups_and_self.py",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_17.md.bak",

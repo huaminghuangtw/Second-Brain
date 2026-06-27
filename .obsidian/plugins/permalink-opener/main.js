@@ -46,10 +46,8 @@ var Opener = class extends import_obsidian.Plugin {
       checkCallback: (checking) => {
         var _a;
         let file = this.app.workspace.getActiveFile();
-        if (!file)
-          return false;
-        if (checking)
-          return true;
+        if (!file) return false;
+        if (checking) return true;
         let metadata = (_a = this.app.metadataCache.getFileCache(file)) == null ? void 0 : _a.frontmatter;
         let name = file.basename;
         let permalink = (0, import_obsidian.parseFrontMatterEntry)(metadata, this.settings.keyName);
@@ -67,10 +65,8 @@ var Opener = class extends import_obsidian.Plugin {
       checkCallback: (checking) => {
         var _a;
         let file = this.app.workspace.getActiveFile();
-        if (!file)
-          return false;
-        if (checking)
-          return true;
+        if (!file) return false;
+        if (checking) return true;
         let metadata = (_a = this.app.metadataCache.getFileCache(file)) == null ? void 0 : _a.frontmatter;
         let name = file.basename;
         let permalink = (0, import_obsidian.parseFrontMatterEntry)(metadata, this.settings.keyName);
@@ -102,17 +98,14 @@ var OpenerSettingTab = class extends import_obsidian.PluginSettingTab {
     const { containerEl } = this;
     containerEl.empty();
     new import_obsidian.Setting(containerEl).setName("Permalink property name").setDesc("The file property used to populate the page slug").addText((text) => text.setPlaceholder("permalink").setValue(this.plugin.settings.keyName).onChange(async (value) => {
-      console.log("Key name: " + value);
       this.plugin.settings.keyName = value;
       await this.plugin.saveSettings();
     }));
     new import_obsidian.Setting(containerEl).setName("Live site base URL").setDesc("The production URL for your site").addText((text) => text.setPlaceholder("http://").setValue(this.plugin.settings.prodUrl).onChange(async (value) => {
-      console.log("Prod URL: " + value);
       this.plugin.settings.prodUrl = value;
       await this.plugin.saveSettings();
     }));
     new import_obsidian.Setting(containerEl).setName("Development site base URL").setDesc("The staging URL for your site").addText((text) => text.setPlaceholder("http://").setValue(this.plugin.settings.devUrl).onChange(async (value) => {
-      console.log("Dev URL: " + value);
       this.plugin.settings.devUrl = value;
       await this.plugin.saveSettings();
     }));

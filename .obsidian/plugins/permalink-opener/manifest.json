@@ -1,11 +1,11 @@
 {
-    "author": "@kepano",
-    "isDesktopOnly": true,
-    "id": "permalink-opener",
-    "minAppVersion": "0.15.0",
-    "fundingUrl": "https://www.buymeacoffee.com/kepano",
-    "version": "1.0.2",
-    "description": "Opens URLs based on a permalink or slug in the file properties",
-    "name": "Permalink Opener",
-    "authorUrl": "https://www.twitter.com/kepano"
+	"id": "permalink-opener",
+	"name": "Permalink Opener",
+	"version": "1.0.3",
+	"minAppVersion": "0.15.0",
+	"description": "Opens URLs based on a permalink or slug in the file properties.",
+	"author": "@kepano",
+	"authorUrl": "https://www.twitter.com/kepano",
+	"fundingUrl": "https://www.buymeacoffee.com/kepano",
+	"isDesktopOnly": false
 }
