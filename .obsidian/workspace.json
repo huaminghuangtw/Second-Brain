@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "807e9c6dc957dfe0",
+        "id": "ea6122dd2237a1e0",
         "type": "tabs",
         "children": [
           {
-            "id": "a1a0098375e5d57a",
+            "id": "377185d2a7a746cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,24 +21,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "3a80ec5ff97e6fe0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/06-June/2026_06_27.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026_06_27"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "故宮南院馬拉",
+                "query": "馬有失足",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,10 +102,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/06-June/2026_06_27.md"
+                "file": "Evergreen-Notes/Permanent-Notes/ai-prompt-hacks.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_06_27"
+              "title": "File properties for ai-prompt-hacks"
             }
           },
           {
@@ -228,35 +212,35 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "3a80ec5ff97e6fe0",
+  "active": "377185d2a7a746cb",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_28.md",
     "Homepage.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_25.md",
+    "Enoughness/posts/enoughness-37.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_14.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_24.md",
+    "Evergreen-Notes/Permanent-Notes/scarcity-creates-a-mindset-that-perpetuates-scarcity.md",
+    "Weekly-Mindware-Update/issues/2024/2024w23.md",
+    "Evergreen-Notes/Permanent-Notes/attention-residue.md",
+    "Evergreen-Notes/Permanent-Notes/task-switching.md",
+    "Evergreen-Notes/Permanent-Notes/ai-prompt-hacks.md",
+    "Evergreen-Notes/Permanent-Notes/how-to-use-ai-effectively.md",
+    "Brainfoodie/posts/the-most-overlooked-trait-of-investing-success.md",
     "Daily-Bullet-Journal/journals/2026/06-June/2026_06_27.md",
-    "Enoughness/posts/enoughness-24.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_23.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Evergreen-Notes/Permanent-Notes/have-the-courage-to-do-the-right-things.md",
+    "Daily-Bullet-Journal/journals/2019/06-June/2019_06_28.md",
+    "Daily-Bullet-Journal/journals/2022/06-June/2022_06_28.md",
+    "Daily-Bullet-Journal/journals/2016/06-June/2016_06_28.md",
+    "Daily-Bullet-Journal/journals/2023/06-June/2023_06_28.md",
+    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_28.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_28.md",
+    "Evergreen-Notes/Fleeting-Notes.md",
+    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
     "Life-Notes/Missions/體育改革.md",
-    "Life-Notes/Missions/學生運動員.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/_attachments/Pasted image 20260627170101.png",
-    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
-    "Brainfoodie/posts/the-longevity-project.md",
-    "Evergreen-Notes/Permanent-Notes/burnout.md",
-    "Life-Notes/Business/Astro 網頁開發接案.md",
-    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_19.md",
-    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_24.md",
-    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_18.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_17.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_20.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_01.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_05.md",
-    "Daily-Bullet-Journal/journals/2023/07-July/2023_07_09.md",
-    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_09.md",
-    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_01.md",
-    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_06.md",
-    "Evergreen-Notes/Permanent-Notes/busyness.md",
-    "Evergreen-Notes/Permanent-Notes/the-most-productive-people-prioritize-intentional-rest.md",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_24.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_27.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Enoughness/posts/enoughness-24.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/_attachments/adea595f469c0dc8b2e139417051682e.png",
     "Daily-Bullet-Journal/journals/2026/07-July",
     "Enoughness/posts/_attachments/e34c0476e188b229eca492393de614fa.png",
     "Enoughness/posts/_attachments/be1acb744ab8cfa3711533e46e60a118.png",
