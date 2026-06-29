@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ea6122dd2237a1e0",
+        "id": "69c314b18def9705",
         "type": "tabs",
         "children": [
           {
-            "id": "377185d2a7a746cb",
+            "id": "9e1e1b35cc1ec210",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2024/04-April/2024_04_13.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2024_04_13"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "馬有失足",
+                "query": "花季",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,10 +102,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/ai-prompt-hacks.md"
+                "file": "Daily-Bullet-Journal/journals/2024/04-April/2024_04_13.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for ai-prompt-hacks"
+              "title": "File properties for 2024_04_13"
             }
           },
           {
@@ -212,34 +212,34 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "377185d2a7a746cb",
+  "active": "9e1e1b35cc1ec210",
   "lastOpenFiles": [
+    "Drafts/2026-marathon-training.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_13.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_29.md",
     "Daily-Bullet-Journal/journals/2026/06-June/2026_06_28.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_25.md",
-    "Enoughness/posts/enoughness-37.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_14.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_24.md",
-    "Evergreen-Notes/Permanent-Notes/scarcity-creates-a-mindset-that-perpetuates-scarcity.md",
-    "Weekly-Mindware-Update/issues/2024/2024w23.md",
-    "Evergreen-Notes/Permanent-Notes/attention-residue.md",
-    "Evergreen-Notes/Permanent-Notes/task-switching.md",
-    "Evergreen-Notes/Permanent-Notes/ai-prompt-hacks.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-use-ai-effectively.md",
-    "Brainfoodie/posts/the-most-overlooked-trait-of-investing-success.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_05.md",
+    "Evergreen-Notes/Permanent-Notes/dare-to-be-different.md",
+    "Life-Notes/Business/🏰 My Biz Empire.md",
+    "Life-Notes/Business/Build Communities.md",
     "Daily-Bullet-Journal/journals/2026/06-June/2026_06_27.md",
-    "Evergreen-Notes/Permanent-Notes/have-the-courage-to-do-the-right-things.md",
-    "Daily-Bullet-Journal/journals/2019/06-June/2019_06_28.md",
-    "Daily-Bullet-Journal/journals/2022/06-June/2022_06_28.md",
-    "Daily-Bullet-Journal/journals/2016/06-June/2016_06_28.md",
-    "Daily-Bullet-Journal/journals/2023/06-June/2023_06_28.md",
-    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_28.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_28.md",
-    "Evergreen-Notes/Fleeting-Notes.md",
-    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
-    "Life-Notes/Missions/體育改革.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Enoughness/posts/enoughness-24.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_26.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_08.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_31.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_31.md",
+    "AdaptX/posts/30-things-ive-learned-in-30-years.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_17.md",
+    "Evergreen-Notes/Permanent-Notes/slow-down-to-speed-up.md",
+    "Evergreen-Notes/Permanent-Notes/work-smart.md",
+    "Evergreen-Notes/Permanent-Notes/the-law-of-reversed-effort.md",
+    "Evergreen-Notes/Permanent-Notes/the-most-productive-people-prioritize-intentional-rest.md",
+    "Evergreen-Notes/Permanent-Notes/boredom-promotes-creativity.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_07.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_15.md",
+    "Evergreen-Notes/Permanent-Notes/you-are-what-you-eat.md",
+    "Evergreen-Notes/Permanent-Notes/you-dont-need-to-be-liked-to-be-loved.md",
+    "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
     "Daily-Bullet-Journal/journals/2026/06-June/_attachments/adea595f469c0dc8b2e139417051682e.png",
     "Daily-Bullet-Journal/journals/2026/07-July",
     "Enoughness/posts/_attachments/e34c0476e188b229eca492393de614fa.png",
