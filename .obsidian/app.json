@@ -34,7 +34,7 @@
   "newFileFolderPath": "Drafts",
   "readableLineLength": true,
   "mobileQuickRibbonItem": "command-palette:Open command palette",
-  "propertiesInDocument": "source",
+  "propertiesInDocument": "hidden",
   "tabSize": 2,
   "strictLineBreaks": false,
   "openBehavior": "",

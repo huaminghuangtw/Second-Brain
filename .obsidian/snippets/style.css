@@ -25,7 +25,6 @@ body {
 
   --callout-title-size: var(--font-ui-medium);
   --callout-title-weight: var(--font-bold);
-  --callout-content-padding: var(--size-4-4);
 
   --inline-title-color: Beige;
   --inline-title-line-height: 2.6;
