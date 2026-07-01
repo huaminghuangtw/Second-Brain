@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b52e7e4538c0a2d5",
+        "id": "3100ab57fd12d002",
         "type": "tabs",
         "children": [
           {
-            "id": "3b7b55b16b3752d8",
+            "id": "e99fa6189c7bda42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/06-June/2026_06_28.md",
+                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_06_28"
+              "title": "2026_07_01"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "紅龜",
+                "query": "tag:#BuJo/💫Inspiration×Wonder",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,10 +102,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/06-June/2026_06_30.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_06_30"
+              "title": "File properties for Homepage"
             }
           },
           {
@@ -190,7 +190,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/06-June/2026_06_30.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -212,35 +212,36 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "3b7b55b16b3752d8",
+  "active": "e99fa6189c7bda42",
   "lastOpenFiles": [
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_30.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_21.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/_attachments/Pasted image 20260630150517.png",
-    "Evergreen-Notes/Permanent-Notes/how-to-use-ai-effectively.md",
-    "Evergreen-Notes/Permanent-Notes/you-cant-beat-someone-who-genuinely-enjoys-the-work-itself.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_29.md",
-    "Drafts/2026-marathon-training.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_03.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_21.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_23.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_28.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_22.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_19.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_24.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_29.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_12.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_02.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_11.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_01.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_25.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_10.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_19.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_05.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_03.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_15.md",
+    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_22.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_22.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_23.md",
+    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_14.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_01.md",
+    "Evergreen-Notes/Permanent-Notes/be-a-habit-and-routine-machine.md",
     "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md",
-    "Evergreen-Notes/Permanent-Notes/fear.md",
-    "Evergreen-Notes/Permanent-Notes/courage-is-knowing-what-not-to-fear.md",
-    "Brainfoodie/posts/collection-jensen-huang.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_26.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_27.md",
-    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_28.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_25.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_24.md",
-    "Evergreen-Notes/Permanent-Notes/just-get-started.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_23.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_30.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_08.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_22.md",
-    "Drafts/_about.md",
-    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_03.md",
-    "Today-I-Learned/posts/how-to-minimize-distractions-in-vs-code.md",
+    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260701122507.png",
+    "Daily-Bullet-Journal/journals/2026/06-June/_attachments/83cdb223ac2cc17ee958000e24371815.png",
     "Daily-Bullet-Journal/journals/2026/06-June/_attachments/adea595f469c0dc8b2e139417051682e.png",
     "Daily-Bullet-Journal/journals/2026/07-July",
     "Enoughness/posts/_attachments/e34c0476e188b229eca492393de614fa.png",
@@ -250,7 +251,6 @@
     "Enoughness/posts/_attachments/19d55875acd9a623c3ea76e94b87305f.png",
     "Enoughness/posts/_attachments/eeb90f976c085c45f0c6bac773099587.png",
     "Enoughness/posts/_attachments/66fca761c564a5d4269c378d3e909acc.png",
-    "Brainfoodie/posts/_attachments/99137f8bd2106a906cb161782515c6fc.png",
     "Drafts",
     "Daily-Bullet-Journal/scripts/remove_backups_and_self.py",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_17.md.bak",

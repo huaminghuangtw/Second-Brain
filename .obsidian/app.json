@@ -27,7 +27,7 @@
   "useMarkdownLinks": true,
   "uriCallbacks": false,
   "newLinkFormat": "relative",
-  "showIndentGuide": false,
+  "showIndentGuide": true,
   "newFileLocation": "folder",
   "promptDelete": false,
   "mobilePullAction": "editor:toggle-source",
