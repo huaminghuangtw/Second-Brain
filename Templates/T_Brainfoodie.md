@@ -10,7 +10,7 @@ const categories = [
     "Parable",
     "Podcast",
     "Letter",
-    "Inspiring Speech",
+    "Speech",
     "TED Talk",
     "YouTube Video",
     "Movie",
