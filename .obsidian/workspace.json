@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3100ab57fd12d002",
+        "id": "ba3f56303e1597c7",
         "type": "tabs",
         "children": [
           {
-            "id": "e99fa6189c7bda42",
+            "id": "f4e1da13e02bd746",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_01.md",
+                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_07_01"
+              "title": "2026_07_02"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#BuJo/💫Inspiration×Wonder",
+                "query": "到最後都",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,10 +102,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Evergreen-Notes/Permanent-Notes/if-you-want-to-win-you-must-prepare-to-win.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for if-you-want-to-win-you-must-prepare-to-win"
             }
           },
           {
@@ -212,35 +212,38 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "e99fa6189c7bda42",
+  "active": "f4e1da13e02bd746",
   "lastOpenFiles": [
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_03.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_21.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_23.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_28.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_22.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_19.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_24.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_29.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_12.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_02.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_11.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_01.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_25.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_10.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_19.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_05.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_03.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_15.md",
-    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_22.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_22.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_23.md",
-    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_14.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_01.md",
-    "Evergreen-Notes/Permanent-Notes/be-a-habit-and-routine-machine.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md",
-    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260701122507.png",
+    "Drafts/_why-i-write-and-run.md",
+    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
+    "Brainfoodie/posts/what-i-talk-about-when-i-talk-about-running.md",
+    "Drafts/_about.md",
+    "AdaptX/posts/you-and-your-timeline.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_05.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_01.md",
+    "AdaptX/posts/30-things-ive-learned-in-30-years.md",
+    "Weekly-Mindware-Update/issues/2025/2025w37.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_28.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_02.md",
+    "Evergreen-Notes/Permanent-Notes/the-one-percent-rule.md",
+    "Evergreen-Notes/Permanent-Notes/be-ware-of-blind-consistency.md",
+    "Evergreen-Notes/Permanent-Notes/plan-your-days-not-your-decades.md",
+    "Evergreen-Notes/Permanent-Notes/always-keep-going.md",
+    "Evergreen-Notes/Permanent-Notes/two-types-of-passion.md",
+    "Evergreen-Notes/Permanent-Notes/planning-and-preparation-help-maximize-your-productivity.md",
+    "Evergreen-Notes/Permanent-Notes/startups.md",
+    "Evergreen-Notes/Permanent-Notes/if-you-want-to-win-you-must-prepare-to-win.md",
+    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
+    "Evergreen-Notes/Permanent-Notes/work-in-sprints-work-with-your-biology.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_01.md",
+    "Evergreen-Notes/Permanent-Notes/never-lose-faith-and-hope.md",
+    "Drafts/if-you-want-to-win-you-must-prepare-to-win.md",
+    "Evergreen-Notes/Permanent-Notes/specific-knowledge.md",
+    "Daily-Bullet-Journal/journals/2020/07-July",
+    "Daily-Bullet-Journal/journals/2019/07-July",
+    "Daily-Bullet-Journal/journals/2016/07-July",
+    "Evergreen-Notes/Permanent-Notes/_attachments/6c405ce0940a51dcb7a59841d9a488af.png",
     "Daily-Bullet-Journal/journals/2026/06-June/_attachments/83cdb223ac2cc17ee958000e24371815.png",
     "Daily-Bullet-Journal/journals/2026/06-June/_attachments/adea595f469c0dc8b2e139417051682e.png",
     "Daily-Bullet-Journal/journals/2026/07-July",
@@ -256,9 +259,6 @@
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_17.md.bak",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_23.md.bak",
     "Daily-Bullet-Journal/journals/2026/01-January/2026_01_07.md.bak",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_27.md.bak",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_13.md.bak",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_03.md.bak",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_26.md.bak"
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_27.md.bak"
   ]
 }
