@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a6a0616b5e9b205f",
+        "id": "304e3b8c1d1ac1e9",
         "type": "tabs",
         "children": [
           {
-            "id": "307b5db221bd2211",
+            "id": "680cbc7125e4b2ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,24 +21,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "6881ce883a69008f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enoughness/posts/enoughness-38.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "enoughness-38"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "今天是",
+                "query": "constraints",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,10 +102,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Enoughness/posts/enoughness-38.md"
+                "file": "Brainfoodie/posts/jason-fried-your-only-competition-is-your-costs.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for enoughness-38"
+              "title": "File properties for jason-fried-your-only-competition-is-your-costs"
             }
           },
           {
@@ -228,37 +212,42 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "6881ce883a69008f",
+  "active": "680cbc7125e4b2ae",
   "lastOpenFiles": [
-    "Enoughness/posts/enoughness-3.md",
-    "Enoughness/posts/enoughness-38.md",
-    "Enoughness/posts/_attachments/10722c1909496cb13aaa6cf493fb33bd.png",
-    "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/life-is-chaotic.md",
+    "Evergreen-Notes/Permanent-Notes/startups.md",
     "Evergreen-Notes/Permanent-Notes/plan-your-days-not-your-decades.md",
-    "Evergreen-Notes/Permanent-Notes/collective-unconscious.md",
-    "Brainfoodie/posts/collection-jensen-huang.md",
-    "Enoughness/posts/enoughness-39.md",
-    "Evergreen-Notes/Permanent-Notes/eat-the-biggest-frog-first-thing-in-the-morning.md",
-    "Enoughness/posts/_attachments/409870e52c47e163435a9f53e231e576.png",
-    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
-    "Evergreen-Notes/Permanent-Notes/the-pickle-jar-theory.md",
-    "Weekly-Mindware-Update/issues/2024/2024w19.md",
-    "Enoughness/posts/_attachments/63aed20147a2455fb4ad8216559e6af4.png",
-    "Evergreen-Notes/Permanent-Notes/work-in-sprints-work-with-your-biology.md",
-    "Evergreen-Notes/Permanent-Notes/the-long-path-is-the-shortcut.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_01.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_23.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_28.md",
-    "Evergreen-Notes/Permanent-Notes/_attachments/80b1737614b3190df437c11d1c481e77.png",
-    "Brainfoodie/posts/what-i-talk-about-when-i-talk-about-running.md",
-    "Evergreen-Notes/Permanent-Notes/slow-down-to-speed-up.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Homepage.md",
     "Daily-Bullet-Journal/journals/2026/07-July/2026_07_03.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_24.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_16.md",
-    "Evergreen-Notes/Permanent-Notes/a-man-who-is-a-master-of-patience-is-master-of-everything-else.md",
-    "Daily-Bullet-Journal/journals/2019/07-July/2019_07_02.md",
-    "Daily-Bullet-Journal/journals/2018/07-July/2018_07_03.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_04.md",
+    "Evergreen-Notes/Permanent-Notes/perfectionism.md",
+    "Evergreen-Notes/Permanent-Notes/productivity.md",
+    "Evergreen-Notes/Permanent-Notes/decision-making.md",
+    "Evergreen-Notes/Permanent-Notes/theory-of-constraints.md",
+    "Evergreen-Notes/Permanent-Notes/life-is-cyclic.md",
+    "Brainfoodie/posts/jason-fried-your-only-competition-is-your-costs.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_20.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_05.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_23.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_02.md",
+    "Enoughness/posts/enoughness-25.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_09.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/_attachments/Pasted image 20260704165340.png",
+    "Daily-Bullet-Journal/journals/2026/07-July/_attachments",
+    "Life-Notes/Alignment/🐤 New Hobbies.md",
+    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
+    "Daily-Bullet-Journal/journals/2023/11-November/2023_11_25.md",
+    "Evergreen-Notes/Fleeting-Notes.md",
+    "Weekly-Mindware-Update/issues/2026/2026w17.md",
+    "Weekly-Mindware-Update/issues/2026/2026w16.md",
+    "Weekly-Mindware-Update/issues/2026/2026w15.md",
+    "Weekly-Mindware-Update/issues/2026/2026w14.md",
+    "Daily-Bullet-Journal/journals/2015/07-July",
+    "Visuals/Miscellaneous/how-to-say-number-92-in-european-countries-v0-d9acdi1kxa4a1.png",
+    "Enoughness/posts/_attachments/10722c1909496cb13aaa6cf493fb33bd.png",
+    "Enoughness/posts/_attachments/409870e52c47e163435a9f53e231e576.png",
+    "Enoughness/posts/_attachments/63aed20147a2455fb4ad8216559e6af4.png",
+    "Evergreen-Notes/Permanent-Notes/_attachments/80b1737614b3190df437c11d1c481e77.png",
     "Daily-Bullet-Journal/journals/2021/07-July",
     "Daily-Bullet-Journal/journals/2018/07-July",
     "Daily-Bullet-Journal/journals/2017/07-July",
@@ -270,10 +259,6 @@
     "Daily-Bullet-Journal/journals/2026/06-June/_attachments/adea595f469c0dc8b2e139417051682e.png",
     "Daily-Bullet-Journal/journals/2026/07-July",
     "Enoughness/posts/_attachments/e34c0476e188b229eca492393de614fa.png",
-    "Enoughness/posts/_attachments/be1acb744ab8cfa3711533e46e60a118.png",
-    "Evergreen-Notes/Permanent-Notes/_attachments/6f4cbd9eaa25c23ba85fa647787f4298.png",
-    "Drafts",
-    "Daily-Bullet-Journal/scripts/remove_backups_and_self.py",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_17.md.bak"
+    "Drafts"
   ]
 }
