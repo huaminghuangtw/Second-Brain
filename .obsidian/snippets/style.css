@@ -37,14 +37,12 @@ body {
   --metadata-label-text-color: var(--color-orange);
   --metadata-label-font-weight: var(--font-semibold);
 
-  --link-color: rgba(var(--color-red-rgb), 0.9);
+  --link-color: rgba(var(--color-red-rgb), 1);
   --link-color-hover: rgba(var(--color-red-rgb), 1);
-  --link-decoration: none;
-  --link-decoration-hover: none;
-  --link-external-color: rgba(var(--color-cyan-rgb), 0.9);
+  --link-decoration-hover: underline;
+  --link-external-color: rgba(var(--color-cyan-rgb), 1);
   --link-external-color-hover: rgba(var(--color-cyan-rgb), 1);
-  --link-external-decoration: none;
-  --link-external-decoration-hover: none;
+  --link-external-decoration-hover: underline;
 }
 
 .cm-hashtag,

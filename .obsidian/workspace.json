@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "304e3b8c1d1ac1e9",
+        "id": "c056c69dbc6ca456",
         "type": "tabs",
         "children": [
           {
-            "id": "680cbc7125e4b2ae",
+            "id": "544415f8da2537d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "constraints",
+                "query": "Bito",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,10 +102,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Brainfoodie/posts/jason-fried-your-only-competition-is-your-costs.md"
+                "file": "Daily-Bullet-Journal/journals/2015/07-July/2015_07_04.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for jason-fried-your-only-competition-is-your-costs"
+              "title": "File properties for 2015_07_04"
             }
           },
           {
@@ -128,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2015/07-July/2015_07_04.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Homepage"
+              "title": "Outline of 2015_07_04"
             }
           },
           {
@@ -212,38 +212,40 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "680cbc7125e4b2ae",
+  "active": "544415f8da2537d9",
   "lastOpenFiles": [
-    "Evergreen-Notes/Permanent-Notes/startups.md",
-    "Evergreen-Notes/Permanent-Notes/plan-your-days-not-your-decades.md",
     "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Life-Notes/Alignment/🤡 My Identities & Characters.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_03.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_07.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_08.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_18.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_26.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_06.md",
+    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_03.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_04.md",
-    "Evergreen-Notes/Permanent-Notes/perfectionism.md",
-    "Evergreen-Notes/Permanent-Notes/productivity.md",
-    "Evergreen-Notes/Permanent-Notes/decision-making.md",
-    "Evergreen-Notes/Permanent-Notes/theory-of-constraints.md",
-    "Evergreen-Notes/Permanent-Notes/life-is-cyclic.md",
-    "Brainfoodie/posts/jason-fried-your-only-competition-is-your-costs.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_20.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_05.md",
-    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_23.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_02.md",
-    "Enoughness/posts/enoughness-25.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_09.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/_attachments/Pasted image 20260704165340.png",
-    "Daily-Bullet-Journal/journals/2026/07-July/_attachments",
-    "Life-Notes/Alignment/🐤 New Hobbies.md",
-    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
-    "Daily-Bullet-Journal/journals/2023/11-November/2023_11_25.md",
-    "Evergreen-Notes/Fleeting-Notes.md",
-    "Weekly-Mindware-Update/issues/2026/2026w17.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_24.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_28.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_05.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_30.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_21.md",
+    "Weekly-Mindware-Update/issues/2025/2025w40.md",
+    "Drafts/taitung-trip.md",
+    "Weekly-Mindware-Update/issues/2026/2026w4.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_23.md",
+    "Daily-Bullet-Journal/journals/2023/07-July/2023_07_04.md",
     "Weekly-Mindware-Update/issues/2026/2026w16.md",
-    "Weekly-Mindware-Update/issues/2026/2026w15.md",
-    "Weekly-Mindware-Update/issues/2026/2026w14.md",
+    "Weekly-Mindware-Update/issues/2026/2026w27.md",
+    "Life-Notes/Missions/教育改革.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_11.md",
+    "Evergreen-Notes/Permanent-Notes/self-compassion.md",
+    "Evergreen-Notes/Permanent-Notes/journaling.md",
+    "Evergreen-Notes/Permanent-Notes/_attachments/4eb1f6fae5610c2f3b95c50fe21c087f.jpeg",
+    "Evergreen-Notes/Permanent-Notes/_attachments/805fb24e36e13a2ab675338edc208d51.png",
+    "Daily-Bullet-Journal/journals/2026/07-July/_attachments/c81a53c479cf11befe668a53a2cc938a.png",
+    "Daily-Bullet-Journal/journals/2026/07-July/_attachments",
     "Daily-Bullet-Journal/journals/2015/07-July",
-    "Visuals/Miscellaneous/how-to-say-number-92-in-european-countries-v0-d9acdi1kxa4a1.png",
+    "Visuals/Miscellaneous/03fcfbd751e62be0f334d530654fca25.png",
     "Enoughness/posts/_attachments/10722c1909496cb13aaa6cf493fb33bd.png",
     "Enoughness/posts/_attachments/409870e52c47e163435a9f53e231e576.png",
     "Enoughness/posts/_attachments/63aed20147a2455fb4ad8216559e6af4.png",
@@ -256,9 +258,7 @@
     "Daily-Bullet-Journal/journals/2016/07-July",
     "Evergreen-Notes/Permanent-Notes/_attachments/6c405ce0940a51dcb7a59841d9a488af.png",
     "Daily-Bullet-Journal/journals/2026/06-June/_attachments/83cdb223ac2cc17ee958000e24371815.png",
-    "Daily-Bullet-Journal/journals/2026/06-June/_attachments/adea595f469c0dc8b2e139417051682e.png",
     "Daily-Bullet-Journal/journals/2026/07-July",
-    "Enoughness/posts/_attachments/e34c0476e188b229eca492393de614fa.png",
     "Drafts"
   ]
 }
