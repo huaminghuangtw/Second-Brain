@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c056c69dbc6ca456",
+        "id": "50a82b125842bf7f",
         "type": "tabs",
         "children": [
           {
-            "id": "544415f8da2537d9",
+            "id": "ceb1d6c9f4ee026f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "c320ac7d81d82a1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drafts/taitung-trip.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "taitung-trip"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Bito",
+                "query": "line:(find beauty everything)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,10 +118,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2015/07-July/2015_07_04.md"
+                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_05.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2015_07_04"
+              "title": "File properties for 2026_07_05"
             }
           },
           {
@@ -190,7 +206,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_05.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -212,34 +228,35 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "544415f8da2537d9",
+  "active": "c320ac7d81d82a1a",
   "lastOpenFiles": [
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Life-Notes/Alignment/🤡 My Identities & Characters.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_03.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_07.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_08.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_18.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_26.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_06.md",
-    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_24.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_28.md",
+    "Evergreen-Notes/Permanent-Notes/be-grateful.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_06.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_06.md",
+    "Evergreen-Notes/Permanent-Notes/stay-curious.md",
+    "Evergreen-Notes/Permanent-Notes/optimism.md",
     "Daily-Bullet-Journal/journals/2026/07-July/2026_07_05.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_30.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_21.md",
-    "Weekly-Mindware-Update/issues/2025/2025w40.md",
     "Drafts/taitung-trip.md",
-    "Weekly-Mindware-Update/issues/2026/2026w4.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_23.md",
-    "Daily-Bullet-Journal/journals/2023/07-July/2023_07_04.md",
-    "Weekly-Mindware-Update/issues/2026/2026w16.md",
-    "Weekly-Mindware-Update/issues/2026/2026w27.md",
-    "Life-Notes/Missions/教育改革.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_11.md",
-    "Evergreen-Notes/Permanent-Notes/self-compassion.md",
-    "Evergreen-Notes/Permanent-Notes/journaling.md",
+    "Evergreen-Notes/Permanent-Notes/the-johari-window.md",
+    "Evergreen-Notes/Permanent-Notes/courage-is-knowing-what-not-to-fear.md",
+    "Evergreen-Notes/Permanent-Notes/mastering-yourself-is-superpower.md",
+    "Evergreen-Notes/Permanent-Notes/_attachments/db8e9b18777335e48b7b1d8b0eaf5a68.png",
+    "Drafts/china-trip.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_06.md",
+    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_09.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_29.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_08.md",
+    "Evergreen-Notes/Permanent-Notes/emotion-control.md",
+    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_06.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_21.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_08.md",
+    "Daily-Bullet-Journal/journals/2018/06-June/2018_06_02.md",
+    "Daily-Bullet-Journal/journals/2017/07-July/2017_07_05.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_25.md",
+    "Daily-Bullet-Journal/journals/2023/07-July/2023_07_06.md",
+    "Daily-Bullet-Journal/journals/2019/07-July/2019_07_06.md",
     "Evergreen-Notes/Permanent-Notes/_attachments/4eb1f6fae5610c2f3b95c50fe21c087f.jpeg",
     "Evergreen-Notes/Permanent-Notes/_attachments/805fb24e36e13a2ab675338edc208d51.png",
     "Daily-Bullet-Journal/journals/2026/07-July/_attachments/c81a53c479cf11befe668a53a2cc938a.png",
@@ -257,7 +274,6 @@
     "Daily-Bullet-Journal/journals/2019/07-July",
     "Daily-Bullet-Journal/journals/2016/07-July",
     "Evergreen-Notes/Permanent-Notes/_attachments/6c405ce0940a51dcb7a59841d9a488af.png",
-    "Daily-Bullet-Journal/journals/2026/06-June/_attachments/83cdb223ac2cc17ee958000e24371815.png",
     "Daily-Bullet-Journal/journals/2026/07-July",
     "Drafts"
   ]
