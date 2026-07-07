@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e1c138a11c411423",
+        "id": "ad1eb040f70a34b9",
         "type": "tabs",
         "children": [
           {
-            "id": "0633a57dd102802d",
+            "id": "8eb2e882bbe0ea2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/06-June/2026_06_29.md",
-                "mode": "source",
+                "file": "Homepage.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_06_29"
+              "title": "Homepage"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"生活 C\"",
+                "query": "平凡",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,10 +102,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/06-June/2026_06_29.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_06_29"
+              "title": "File properties for Homepage"
             }
           },
           {
@@ -212,34 +212,35 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "0633a57dd102802d",
+  "active": "8eb2e882bbe0ea2e",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_30.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_29.md",
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_06.md",
-    "Evergreen-Notes/Permanent-Notes/self-compassion.md",
-    "Evergreen-Notes/Permanent-Notes/news-sobriety.md",
-    "Microblog/posts/2026-07-06.md",
-    "Drafts/taitung-trip.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_05.md",
-    "Microblog/posts/2026-07-05.md",
-    "Microblog/posts/2026-07-02.md",
-    "Drafts/Untitled.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_04.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_03.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_02.md",
-    "Drafts/_why-i-write-and-run.md",
+    "Enoughness/posts/enoughness-39.md",
+    "Weekly-Mindware-Update/issues/2025/2025w49.md",
+    "Evergreen-Notes/Permanent-Notes/the-consistently-good-rather-than-occasionally-great-principle.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_22.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_17.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_03.md",
+    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_08.md",
+    "Evergreen-Notes/Permanent-Notes/invert-always-invert.md",
+    "Evergreen-Notes/Permanent-Notes/no-unforced-errors.md",
+    "Enoughness/posts/enoughness-25.md",
     "Daily-Bullet-Journal/journals/2026/07-July/2026_07_01.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_03.md",
-    "Evergreen-Notes/Permanent-Notes/be-grateful.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_06.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_06.md",
-    "Evergreen-Notes/Permanent-Notes/stay-curious.md",
-    "Evergreen-Notes/Permanent-Notes/optimism.md",
-    "Evergreen-Notes/Permanent-Notes/the-johari-window.md",
-    "Evergreen-Notes/Permanent-Notes/courage-is-knowing-what-not-to-fear.md",
-    "Evergreen-Notes/Permanent-Notes/mastering-yourself-is-superpower.md",
+    "Evergreen-Notes/Permanent-Notes/winners-game-vs-losers-game.md",
+    "Evergreen-Notes/Permanent-Notes/the-one-percent-rule.md",
+    "Evergreen-Notes/Permanent-Notes/_attachments/3306b178286bfd96a1397b747dba38c8.png",
+    "AdaptX/posts/30-things-ive-learned-in-30-years.md",
+    "Homepage.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_06.md",
+    "Evergreen-Notes/Permanent-Notes/maslows-hammer.md",
+    "Enoughness/posts/enoughness-40.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_05.md",
+    "Weekly-Mindware-Update/issues/2026/2026w15.md",
+    "Weekly-Mindware-Update/issues/2025/2025w21.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_31.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_06.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_07.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_08.md",
     "Evergreen-Notes/Permanent-Notes/_attachments/db8e9b18777335e48b7b1d8b0eaf5a68.png",
     "Evergreen-Notes/Permanent-Notes/_attachments/4eb1f6fae5610c2f3b95c50fe21c087f.jpeg",
     "Evergreen-Notes/Permanent-Notes/_attachments/805fb24e36e13a2ab675338edc208d51.png",
@@ -257,7 +258,6 @@
     "Daily-Bullet-Journal/journals/2020/07-July",
     "Daily-Bullet-Journal/journals/2019/07-July",
     "Daily-Bullet-Journal/journals/2016/07-July",
-    "Evergreen-Notes/Permanent-Notes/_attachments/6c405ce0940a51dcb7a59841d9a488af.png",
     "Daily-Bullet-Journal/journals/2026/07-July",
     "Drafts"
   ]
