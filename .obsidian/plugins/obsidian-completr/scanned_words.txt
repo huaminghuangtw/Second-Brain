@@ -6521,6 +6521,7 @@ tBwI
 tFlO
 tttp
 tQzG
+tactile
 Escape
 Everything
 Earl
@@ -20689,6 +20690,8 @@ cwJk
 caliber
 cliffside
 china
+conceptually
+crude
 authenticity
 and
 avoids
@@ -27566,6 +27569,7 @@ afSmpo
 aIgp
 aWLMy
 anticipated
+aphantasia
 modified
 means
 mind
@@ -34450,6 +34454,9 @@ miqy
 mxOl
 mllo
 muzQ
+modality
+musicians
+motivators
 popular
 pause
 prisons
@@ -41739,6 +41746,7 @@ pnGXj
 ponds
 pacing
 plucks
+premeditating
 is
 it
 in
@@ -48732,6 +48740,9 @@ iDNc
 iNfRE
 iOI
 iyRZd
+imagining
+incision
+indulge
 wrong
 world
 with
@@ -61248,6 +61259,7 @@ OIip
 OONe
 OLQA
 OhDS
+Oettingen
 Wilde
 Whenever
 Woolf
@@ -81159,6 +81171,9 @@ eqmR
 eQbn
 eUHX
 examined
+embraces
+evils
+extensively
 from
 first
 find
@@ -93995,6 +94010,7 @@ oUHq
 oHvI
 oUpyF
 owgkO
+overlooks
 not
 no
 needed
@@ -112787,6 +112803,8 @@ VXXR
 VVyA
 VcFk
 Visualizing
+Vividness
+VVIQ
 go
 given
 greater
@@ -119053,6 +119071,7 @@ gwDFY
 gDW
 gatKP
 gnawing
+grandmaster
 defeated
 do
 distinctiveness
@@ -134021,6 +134040,8 @@ sociologist
 seniors
 strawberry
 stoicism
+subpar
+spectacularly
 battle
 be
 but
@@ -168286,6 +168307,7 @@ MMhyb
 MrYl
 MomD
 MSuJS
+Malorum
 If
 In
 It
@@ -174856,6 +174878,8 @@ IfUs
 IAhY
 IQvt
 Ifut
+Imagery
+Imagining
 life
 ll
 let
@@ -193810,6 +193834,7 @@ hBAA
 hsWX
 hWUg
 halts
+hyperphantasia
 You
 Youer
 Your
@@ -218979,6 +219004,8 @@ CVn
 CZhGX
 CTMLU
 Contrasting
+Complements
+Counterfactual
 All
 Always
 Against
@@ -225317,6 +225344,7 @@ AJTY
 ATSf
 AuCS
 Aphantasia
+Anticipated
 version
 very
 visual
@@ -237770,6 +237798,7 @@ GÖR
 GCUn
 GUmt
 GSwk
+Gabriele
 universe
 undervalue
 uniqueness
@@ -257753,6 +257782,8 @@ RvUz
 RoL
 Representations
 Realization
+Registered
+Roadmapping
 Pfeffer
 Parker
 Pattern
@@ -264398,6 +264429,7 @@ PDWX
 PKjU
 PAqRl
 PLYPlL
+Premeditatio
 Lewis
 Lean
 Let
@@ -295933,6 +295965,7 @@ kdgo
 kFAu
 kvU
 kZjT
+kinesthetic
 How
 Highlights
 HR

@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "e819078224ea598a",
+        "id": "0cae4dfb83851223",
         "type": "tabs",
         "children": [
           {
-            "id": "c45bceb609c77e0d",
+            "id": "d991a6fc952cc01e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_10.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2026_07_10"
+            }
+          },
+          {
+            "id": "59c04310714e6d3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drafts/china-trip.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "china-trip"
             }
           }
         ]
@@ -54,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#china",
+                "query": "柴山",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,10 +117,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_10.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for 2026_07_10"
             }
           },
           {
@@ -128,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2015/07-July/2015_07_04.md",
+                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_10.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2015_07_04"
+              "title": "Outline of 2026_07_10"
             }
           },
           {
@@ -190,7 +205,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_05.md"
+                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_10.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -212,34 +227,34 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "c45bceb609c77e0d",
+  "active": "d991a6fc952cc01e",
   "lastOpenFiles": [
+    "Drafts/china-trip.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_10.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2020/07-July/2020_07_10.md",
+    "Daily-Bullet-Journal/journals/2021/07-July/2021_07_10.md",
+    "Daily-Bullet-Journal/journals/2015/07-July/2015_07_10.md",
+    "Daily-Bullet-Journal/journals/2015/07-July/2015_07_05.md",
+    "Daily-Bullet-Journal/journals/2023/07-July/2023_07_10.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_10.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_10.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_09.md",
+    "Evergreen-Notes/Permanent-Notes/visualization.md",
+    "Evergreen-Notes/Permanent-Notes/speak-less-listen-more.md",
+    "Evergreen-Notes/Permanent-Notes/if-you-want-to-win-you-must-prepare-to-win.md",
+    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
+    "Evergreen-Notes/Permanent-Notes/happiness.md",
     "Daily-Bullet-Journal/journals/2026/07-July/2026_07_08.md",
     "Daily-Bullet-Journal/journals/2026/07-July/2026_07_09.md",
-    "Homepage.md",
-    "Drafts/china-trip.md",
     "Evergreen-Notes/Permanent-Notes/manage-the-gap-between-expectations-and-reality.md",
     "Evergreen-Notes/Permanent-Notes/money.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_09.md",
     "Life-Notes/Alignment/🎯 Life Vision Board.md",
     "Daily-Bullet-Journal/journals/2024/07-July/2024_07_09.md",
     "Daily-Bullet-Journal/journals/2023/07-July/2023_07_09.md",
     "Daily-Bullet-Journal/journals/2017/07-July/2017_07_09.md",
     "Daily-Bullet-Journal/journals/2019/07-July/2019_07_09.md",
     "Daily-Bullet-Journal/journals/2022/07-July/2022_07_09.md",
-    "Evergreen-Notes/Permanent-Notes/visualization.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_05.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_01.md",
-    "Evergreen-Notes/Permanent-Notes/winners-game-vs-losers-game.md",
-    "Evergreen-Notes/Permanent-Notes/love.md",
-    "Evergreen-Notes/Permanent-Notes/be-grateful.md",
-    "Evergreen-Notes/Permanent-Notes/fame.md",
-    "Evergreen-Notes/Permanent-Notes/stress-and-anxiety.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_25.md",
-    "Evergreen-Notes/Permanent-Notes/happiness.md",
-    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_02.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_07.md",
     "Enoughness/posts/_attachments/fde9411a9b5e27d59d35abf3b7a146f3.png",
     "Enoughness/posts/_attachments/5b88616ae7936c6d3d431dec7848611c.png",
     "Enoughness/posts/_attachments/86cf44b7a7c0237eb8b80b90a6d830c7.png",
