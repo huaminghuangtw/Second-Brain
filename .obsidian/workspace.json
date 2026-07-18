@@ -4,146 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "f3862dc46a7174f2",
+        "id": "0563e20195b63867",
         "type": "tabs",
         "children": [
           {
-            "id": "8592393d55a469b3",
+            "id": "5933dbda6b874199",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2024/06-June/2024_06_18.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2024_06_18"
-            }
-          },
-          {
-            "id": "4f1d966a586d45e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2022/11-November/2022_11_18.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2022_11_18"
-            }
-          },
-          {
-            "id": "ee754e520bcee0bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/seeking-vs-finding.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "seeking-vs-finding"
-            }
-          },
-          {
-            "id": "46b8f1126c3d98fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/seeking-vs-finding.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "seeking-vs-finding"
-            }
-          },
-          {
-            "id": "cf4bcafe1be24240",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_01.md",
+                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_11.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_05_01"
+              "title": "2026_07_11"
             }
           },
           {
-            "id": "a8f800c1bdcf018c",
+            "id": "e727e95439a54d9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enoughness/posts/enoughness-40.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "enoughness-40"
-            }
-          },
-          {
-            "id": "0f5301c8823f2936",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/true-education-begins-where-school-ends.md",
+                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_16.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "true-education-begins-where-school-ends"
-            }
-          },
-          {
-            "id": "a1d3d62e4b411129",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "cultivate-a-strong-bias-towards-action"
-            }
-          },
-          {
-            "id": "ecc517e69650119f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/the-one-percent-rule.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "the-one-percent-rule"
+              "title": "2026_07_16"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "啟示",
+                "query": "Barefoot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,18 +113,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "941fa01437a018a6",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Enoughness/posts/enoughness-40.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for enoughness-40"
-            }
-          },
-          {
             "id": "613560bf0c493e9f",
             "type": "leaf",
             "state": {
@@ -241,6 +124,18 @@
               },
               "icon": "lucide-archive",
               "title": "All properties"
+            }
+          },
+          {
+            "id": "941fa01437a018a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/minimalism.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for minimalism"
             }
           },
           {
@@ -317,7 +212,8 @@
               "title": "Footnotes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -333,39 +229,39 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "a8f800c1bdcf018c",
+  "active": "e727e95439a54d9f",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_01.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_02.md",
-    "Enoughness/posts/enoughness-40.md",
-    "Enoughness/posts/_attachments/753db8ffcd2d2fdc8e893faca5cd744a.png",
-    "Enoughness/posts/enoughness-27.md",
-    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_18.md",
-    "Daily-Bullet-Journal/journals/2023/07-July/2023_07_04.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_31.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_15.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_14.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_13.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_11.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_12.md",
     "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/journey-over-destination.md",
-    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-waters.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_10.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_09.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_08.md",
+    "Evergreen-Notes/Permanent-Notes/the-arrival-fallacy.md",
+    "Evergreen-Notes/Permanent-Notes/the-dunning-kruger-effect.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_18.md",
+    "Daily-Bullet-Journal/journals/2023/06-June/2023_06_10.md",
+    "Evergreen-Notes/Permanent-Notes/caffeine.md",
+    "Evergreen-Notes/Permanent-Notes/minimalism.md",
+    "Drafts/taitung-trip.md",
+    "Daily-Bullet-Journal/journals/2022/12-December/2022_12_28.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_20.md",
+    "Daily-Bullet-Journal/journals/2015/07-July/2015_07_18.md",
+    "Daily-Bullet-Journal/journals/2020/07-July/2020_07_18.md",
+    "Daily-Bullet-Journal/journals/2023/07-July/2023_07_18.md",
+    "Daily-Bullet-Journal/journals/2015/07-July/2015_07_17.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_18.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_18.md",
+    "Evergreen-Notes/Permanent-Notes/happiness.md",
+    "Evergreen-Notes/Permanent-Notes/frameworks-to-structure-your-day.md",
+    "Enoughness/posts/_attachments/753db8ffcd2d2fdc8e893faca5cd744a.png",
     "Enoughness/posts/_attachments/61f86ffa24365578a823284e664ca8a9.png",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_16.md",
-    "Enoughness/posts/enoughness-26.md",
-    "Enoughness/posts/enoughness-28.md",
     "Enoughness/posts/_attachments/2db658e3be7ddaa5b4f4de2ab081b9e1.png",
-    "Enoughness/posts/enoughness-15.md",
     "Enoughness/posts/_attachments/01644918a833b3f6d0934c4438da2969.png",
     "Enoughness/posts/_attachments/5dda30144d80743bc5ec18a3a2362b7a.png",
-    "Evergreen-Notes/Permanent-Notes/true-education-begins-where-school-ends.md",
-    "Evergreen-Notes/Permanent-Notes/dispel-your-narratives.md",
-    "Daily-Bullet-Journal/journals/2022/11-November/2022_11_18.md",
-    "Evergreen-Notes/Permanent-Notes/seeking-vs-finding.md",
-    "Evergreen-Notes/Permanent-Notes/not-caring-lets-us-perform-better.md",
-    "Weekly-Mindware-Update/issues/2026/2026w27.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_27.md",
-    "Enoughness/posts/enoughness-41.md",
-    "Enoughness/posts/enoughness-39.md",
-    "Evergreen-Notes/Permanent-Notes/the-one-percent-rule.md",
-    "Evergreen-Notes/Permanent-Notes/cultivate-a-strong-bias-towards-action.md",
-    "Brainfoodie/posts/things-that-arent-doing-the-thing.md",
     "Enoughness/posts/_attachments/fde9411a9b5e27d59d35abf3b7a146f3.png",
     "Enoughness/posts/_attachments/5b88616ae7936c6d3d431dec7848611c.png",
     "Enoughness/posts/_attachments/86cf44b7a7c0237eb8b80b90a6d830c7.png",
