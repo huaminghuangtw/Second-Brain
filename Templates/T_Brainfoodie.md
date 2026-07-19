@@ -33,7 +33,6 @@ category: <% category %>
 <%* if (category !== "Parable") { %>
 authors: <% authorsOutput %>
 <%* } %>
-tags: []
 ---
 
 <% tp.file.cursor() %>
