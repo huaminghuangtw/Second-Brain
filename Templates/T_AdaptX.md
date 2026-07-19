@@ -8,7 +8,6 @@ created: <% created %>
 draft: true
 featured: false
 title: <% title %>
-tags: []
 coverImage: _coverImages/
 ---
 
