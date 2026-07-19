@@ -7,7 +7,6 @@ const { title, created } = result;
 created: <% created %>
 draft: true
 title: <% title %>
-tags: []
 sources: []
 ---
 
