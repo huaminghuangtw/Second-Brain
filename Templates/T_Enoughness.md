@@ -9,7 +9,6 @@ created: <% created %>
 draft: true
 title: ⚖️ 、、
 issue: <% fileName.split('-').pop() %>
-tags: []
 ---
 
 <!-- SELF-INTRO-START -->
