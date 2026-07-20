@@ -6,7 +6,6 @@ const { title, created } = result;
 ---
 created: <% created %>
 draft: true
-featured: false
 title: <% title %>
 coverImage: _coverImages/
 ---
