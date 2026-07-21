@@ -6525,6 +6525,7 @@ tactile
 timescales
 transcends
 toll
+turbocharge
 Escape
 Everything
 Earl
@@ -20721,6 +20722,10 @@ combinations
 civilizations
 censorship
 capitalise
+communicates
+contracted
+candor
+cofounder
 authenticity
 and
 avoids
@@ -27609,6 +27614,8 @@ abstracts
 archaeologists
 archiving
 articulated
+associates
+advises
 modified
 means
 mind
@@ -34502,6 +34509,8 @@ milligrams
 meantime
 metaphysics
 macroscopic
+mentored
+mindsets
 popular
 pause
 prisons
@@ -41798,6 +41807,11 @@ producivitiy
 picturing
 practitioner
 provisional
+postures
+posing
+panicking
+pilots
+purport
 is
 it
 in
@@ -48808,6 +48822,10 @@ inquiry
 inexperience
 intermediary
 indestructible
+innovator
+intermission
+impose
+innovators
 wrong
 world
 with
@@ -61333,6 +61351,7 @@ Oettingen
 Osgood
 Oohs
 Overwhelming
+Omidyar
 Wilde
 Whenever
 Woolf
@@ -67644,6 +67663,8 @@ Webb
 Wastes
 Wakes
 Winterson
+Weiheim
+Weißensee
 To
 The
 Tzu
@@ -81263,6 +81284,9 @@ endorsed
 eSIM
 exclamations
 ethics
+extinct
+executives
+endowed
 from
 first
 find
@@ -94117,6 +94141,8 @@ oppressing
 overstimulating
 optimising
 oranges
+observational
+overseas
 not
 no
 needed
@@ -100413,6 +100439,7 @@ nnLn
 notices
 negativities
 narrowed
+neutrally
 Dogen
 Don
 Dr
@@ -106647,6 +106674,10 @@ DoCoMo
 Deloitte
 Derrida
 Deficit
+Dönerbox
+Discrete
+Diversity
+Devoting
 Victorious
 Virginia
 Vincent
@@ -112923,6 +112954,7 @@ Visualizing
 Vividness
 VVIQ
 Väkeväinen
+Vested
 go
 given
 greater
@@ -126362,6 +126394,8 @@ descend
 declaring
 demolished
 dilemma
+diametrically
+ding
 seek
 side
 successful
@@ -134193,6 +134227,10 @@ slaughtered
 shellfish
 senseless
 scaffolding
+scrutinizing
+samples
+seminars
+steering
 battle
 be
 but
@@ -140876,6 +140914,7 @@ breeding
 breakdancing
 brokers
 batched
+botched
 Sun
 Seuss
 Sam
@@ -148197,6 +148236,8 @@ Symbian
 Softbank
 Schwab
 Surplus
+Spencer
+Seaweed
 you
 yourself
 your
@@ -161686,6 +161727,7 @@ rungs
 raft
 reactively
 renewals
+revisitable
 Mark
 Matshona
 Malcolm
@@ -168495,6 +168537,8 @@ Mikael
 McKinsey
 Musement
 McKeown
+Mentorship
+Murder
 If
 In
 It
@@ -175072,6 +175116,7 @@ Inulin
 Internalization
 Iisalo
 Inlined
+Intuit
 life
 ll
 let
@@ -194033,6 +194078,7 @@ hyperphantasia
 headphone
 hydrocinnamic
 harmonious
+helix
 You
 Youer
 Your
@@ -206281,6 +206327,8 @@ Jewish
 Jarno
 Jaakko
 Jeanette
+Janik
+Junge
 Bezos
 Bob
 Be
@@ -212470,6 +212518,8 @@ Billie
 Borysenko
 Bain
 Branding
+Berwang
+Braintrust
 Coco
 Channel
 Chase
@@ -225580,6 +225630,7 @@ Aren
 Abstraction
 Allegory
 Archaeology
+Advisory
 version
 very
 visual
@@ -238044,6 +238095,7 @@ Gakuen
 Gregersen
 Guilt
 Grows
+Gaichtpass
 universe
 undervalue
 uniqueness
@@ -244403,6 +244455,8 @@ unsatisfactoriness
 unessential
 underpins
 underpinning
+uncommon
+unflinching
 Forbes
 Fight
 Find
@@ -251112,6 +251166,7 @@ Fencing
 Flammkuchen
 Firms
 Filing
+Füssen
 Rita
 Romans
 Rumi
@@ -258047,6 +258102,7 @@ Raymon
 Relude
 Rovio
 Raft
+Ruddock
 Pfeffer
 Parker
 Pattern
@@ -264701,6 +264757,7 @@ Phare
 Paradigms
 Peirce
 Permanence
+Plansee
 Lewis
 Lean
 Let
@@ -271141,6 +271198,7 @@ LLmm
 LiDAR
 Loyalty
 LOCK
+Lambertiplatz
 Uncondition
 Undo
 Use
@@ -277492,6 +277550,8 @@ Ukiyo
 Unfamiliar
 Unchained
 Unusual
+Uellendahl
+Unbiased
 Quintana
 Qualification
 Quarkus
@@ -302450,6 +302510,7 @@ HlhsO
 HEjQ
 Harnessing
 Hubble
+Haldensee
 question
 quiet
 questions
@@ -308853,6 +308914,7 @@ qHzRRd
 quartus
 quart
 quarts
+questioners
 zone
 zu
 zur
@@ -339677,6 +339739,7 @@ ZvVw
 Zetv
 ZqrY
 Zhonghe
+Zennström
 äP
 äC
 äb
