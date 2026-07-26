@@ -1,14 +1,7 @@
 {
   "ignoreFolders": [
     "Visuals/Fitness/Darebee/",
-    "Deep-Work-Machine/",
-    "Weekly-Mindware-Update/assets/",
-    "Brain-Food/assets/",
-    "Evergreen-Lists/assets/",
-    "Evergreen-Notes/assets/",
-    "Dear-Today-Me/assets/",
-    "Shortcutomation/assets/",
-    "Enoughness/assets/"
+    "Deep-Work-Machine/"
   ],
   "renameFileTypes": [
     "bmp",
