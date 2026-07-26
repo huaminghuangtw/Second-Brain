@@ -55,6 +55,7 @@ def content_type(ext):
         ".jpeg": "image/jpeg",
         ".gif": "image/gif",
         ".webp": "image/webp",
+        ".avif": "image/avif",
         ".svg": "image/svg+xml",
     }.get(ext, "application/octet-stream")
 
@@ -66,7 +67,7 @@ def is_md5_name(stem):
 def log(msg, kind="info"):
     prefix = {
         "ok": "✅",
-        "warn": "⚠️",
+        "warn": "❗",
         "err": "❌",
         "skip": "⏭️",
         "info": "",
@@ -74,8 +75,14 @@ def log(msg, kind="info"):
     print(f"{prefix} {msg}")
 
 
+def prompt_continue_or_quit():
+    response = input("👉 Press Enter to continue, or 'q' to quit: ")
+    if response.lower() == 'q':
+        sys.exit(1)
+
+
 def trash(path):
-    """Move a file or directory to the macOS Trash via Finder."""
+    """Move a file or directory to the macOS Trash via Finder"""
     abs_path = os.path.abspath(path)
     escaped = abs_path.replace("\\", "\\\\").replace('"', '\\"')
     script = f'tell application "Finder" to delete POSIX file "{escaped}"'
@@ -184,7 +191,7 @@ def process_collection(collection_dir, s3):
         try:
             s3.head_object(Bucket=BUCKET, Key=r2_key)
             label = name if name == uploaded_name else f"{name} → {uploaded_name}"
-            log(f"{label} (already exists, skipped)", "skip")
+            log(f"{label} (already exists, skipped)\n🔗 {r2_url}", "skip")
             uploaded += 1
         except Exception:
             try:
@@ -195,11 +202,11 @@ def process_collection(collection_dir, s3):
                     ContentType=ctype,
                 )
                 label = name if name == uploaded_name else f"{name} → {uploaded_name}"
-                log(label, "ok")
+                log(f"{label}\n🔗 {r2_url}", "ok")
                 uploaded += 1
             except Exception as e:
                 log(f"{name} — upload failed: {e}", "err")
-                sys.exit(1)
+                prompt_continue_or_quit()
 
         file_rewritten = False
         md_files = find_markdown_files(collection_dir)
@@ -216,14 +223,15 @@ def process_collection(collection_dir, s3):
                     rewritten += 1
             except Exception as e:
                 log(f"  ↳ failed to rewrite {md_file}: {e}", "err")
-                sys.exit(1)
+                prompt_continue_or_quit()
 
         if not file_rewritten:
-            log(f"✋ No markdown references found for {name} — aborting", "err")
-            sys.exit(1)
+            log(f"No markdown references found for {name}", "warn")
+            prompt_continue_or_quit()
 
         trash(filepath)
         log("  ↳ moved to Trash")
+        print()
 
     # Remove empty _attachments directories
     for d in attach_dirs:
@@ -238,16 +246,13 @@ def process_collection(collection_dir, s3):
 
 
 def main():
-    parser = argparse.ArgumentParser(
-        description="Upload _attachments to Cloudflare R2 and rewrite markdown references."
-    )
-    parser.add_argument("account_id", help="Cloudflare R2 account ID")
-    parser.add_argument("access_key", help="Cloudflare R2 access key")
-    parser.add_argument("secret_key", help="Cloudflare R2 secret key")
+    parser = argparse.ArgumentParser()
+    parser.add_argument("account_id")
+    parser.add_argument("access_key")
+    parser.add_argument("secret_key")
     parser.add_argument(
         "paths",
         nargs="+",
-        help="One or more directory paths to process",
     )
     args = parser.parse_args()
 
@@ -269,6 +274,7 @@ def main():
         total_rewritten += r
 
     print()
+
     log("─── Summary ───")
     log(f"Uploaded:  {total_uploaded}", "ok")
     log(f"Errors:    {total_errors}", "err" if total_errors > 0 else "ok")
