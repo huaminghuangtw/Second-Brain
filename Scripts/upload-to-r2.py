@@ -265,7 +265,6 @@ def main():
     for dir_path in args.paths:
         resolved = os.path.abspath(dir_path)
         if resolved in SKIP_DIRS:
-            log(f"Skipping (root vault): {resolved}", "skip")
             continue
         print(f"\n\n📁 {resolved}\n\n")
         u, e, r = process_collection(resolved, s3)
