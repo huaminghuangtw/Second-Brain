@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "673f53b6a4f56a26",
+        "id": "46681f1125b07d5d",
         "type": "tabs",
         "children": [
           {
-            "id": "31842443f287c29f",
+            "id": "5de492ab7c9e5f93",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "較真",
+                "query": "\"og image\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,14 +131,13 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_27.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for 2026_07_27"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,10 +153,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "31842443f287c29f",
+  "active": "5de492ab7c9e5f93",
   "lastOpenFiles": [
-    "Life-Notes/WebDev/Image CDN.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_05.md",
     "Homepage.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_26.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_27.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md",
+    "Enoughness/posts/enoughness-9.md",
+    "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md",
+    "Weekly-Mindware-Update/issues/2026/2026w30.md",
+    "Brainfoodie/posts/pale-blue-dot.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_04.md",
+    "Enoughness/posts/enoughness-30.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_23.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_25.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_26.md",
+    "Life-Notes/Running/marathon-checklist.md",
+    "Life-Notes/Running/2026-marathon-training.md",
+    "Life-Notes/Running/taiwan-marathon.md",
+    "Life-Notes/taiwan-marathon.md",
+    "Life-Notes/Running",
+    "Life-Notes/untitled folder",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_21.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_19.md",
+    "Evergreen-Notes/Permanent-Notes/be-careful-how-you-are-talking-to-yourself.md",
+    "Daily-Bullet-Journal/journals/2023/04-April/2023_04_08.md",
+    "Daily-Bullet-Journal/journals/2019/07-July/2019_07_27.md",
+    "Daily-Bullet-Journal/journals/2018/07-July/2018_07_27.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_27.md",
+    "Daily-Bullet-Journal/journals/2023/07-July/2023_07_27.md",
     "Daily-Bullet-Journal/journals/2025/11-November/_attachments/568d34012d30e00c59e3428ef3b4c153.png",
     "Shortcutomation/_attachments/icon.svg",
     "Shortcutomation/_attachments",
@@ -174,32 +200,6 @@
     "Deep-Work-Machine/_attachments",
     "Enoughness/_attachments",
     "Evergreen-Lists/_attachments",
-    "Evergreen-Notes/_attachments",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_31.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_26.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_26.md",
-    "Daily-Bullet-Journal/journals/2023/07-July/2023_07_26.md",
-    "Daily-Bullet-Journal/journals/2017/07-July/2017_07_26.md",
-    "Daily-Bullet-Journal/journals/2016/07-July/2016_07_26.md",
-    "Daily-Bullet-Journal/journals/2015/07-July/2015_07_26.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_26.md",
-    "Daily-Bullet-Journal/journals/2020/07-July/2020_07_26.md",
-    "Drafts/Untitled.md",
-    "AdaptX/posts/30-things-ive-learned-in-30-years.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_31.md",
-    "Evergreen-Notes/Fleeting-Notes.md",
-    "Evergreen-Notes/Fleeting-Notes.md.md",
-    "Enoughness/posts/enoughness-15.md",
-    "Weekly-Mindware-Update/issues/2026/2026w30.md",
-    "Enoughness/posts/enoughness-7.md",
-    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
-    "Today-I-Learned/posts/handling-case-sensitive-file-renames-in-git.md",
-    "Today-I-Learned/posts/git-tags.md",
-    "Enoughness/posts/enoughness-41.md",
-    "Enoughness/posts/enoughness-31.md",
-    "Evergreen-Notes/Permanent-Notes/the-mueller-lyer-illusion.md",
-    "Shortcutomation/posts/why-i-watch-the-earth-spin-every-night-before-bed.md",
-    "Today-I-Learned/posts/_attachments",
-    "Enoughness/posts/_attachments"
+    "Evergreen-Notes/_attachments"
   ]
 }
