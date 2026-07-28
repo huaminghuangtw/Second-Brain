@@ -266,7 +266,7 @@ def main():
         resolved = os.path.abspath(dir_path)
         if resolved in SKIP_DIRS:
             continue
-        print(f"\n\n📁 {resolved}\n\n")
+        print(f"\n📁 {resolved}\n")
         u, e, r = process_collection(resolved, s3)
         total_uploaded += u
         total_errors += e
