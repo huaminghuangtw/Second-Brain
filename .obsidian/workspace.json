@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "9acf038ad73ff6c3",
+        "id": "aba63f1d70562dd1",
         "type": "tabs",
         "children": [
           {
-            "id": "77b9a74f18bfbfcf",
+            "id": "4babfb25595aad1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_27.md",
+                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_07_27"
+              "title": "2026_07_29"
+            }
+          },
+          {
+            "id": "133be9eef7d32c46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "how-to-prepare-for-a-marathon"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "南隘晨騎",
+                "query": "tag:#BuJo/💡TIL split\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 570.5,
+    "width": 274.5,
     "collapsed": true
   },
   "right": {
@@ -131,10 +147,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_27.md"
+                "file": "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_07_27"
+              "title": "File properties for how-to-prepare-for-a-marathon"
             }
           },
           {
@@ -143,14 +159,13 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_27.md"
+                "file": "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,34 +181,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "77b9a74f18bfbfcf",
+  "active": "133be9eef7d32c46",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_28.md",
-    "Homepage.md",
-    "Drafts/_why-i-write-and-run.md",
-    "Microblog/posts/2026-07-28.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_28.md",
-    "Daily-Bullet-Journal/journals/2018/07-July/2018_07_28.md",
-    "Daily-Bullet-Journal/journals/2017/07-July/2017_07_28.md",
-    "Daily-Bullet-Journal/journals/2016/07-July/2016_07_28.md",
-    "Daily-Bullet-Journal/journals/2020/07-July/2020_07_28.md",
-    "Daily-Bullet-Journal/journals/2022/07-July/2022_07_28.md",
-    "Daily-Bullet-Journal/journals/2022/07-July/2022_07_27.md",
-    "Daily-Bullet-Journal/journals/2023/07-July/2023_07_28.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_28.md",
-    "AdaptX/posts/30-things-ive-learned-in-30-years.md",
-    "Evergreen-Notes/Permanent-Notes/information-overwhelm.md",
-    "Brainfoodie/posts/why-is-everyone-so-boring.md",
-    "Evergreen-Notes/Permanent-Notes/human-sponges.md",
-    "Evergreen-Notes/Permanent-Notes/low-information-diet.md",
-    "Enoughness/posts/enoughness-18.md",
-    "Brainfoodie/posts/being-boring.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_05.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_26.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_27.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md",
-    "Enoughness/posts/enoughness-9.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_29.md",
     "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_08.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_11.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_05.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_30.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_20.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_11.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_10.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_20.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_29.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_25.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_15.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_23.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_12.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_13.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_05.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_29.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_26.md",
+    "Evergreen-Notes/Permanent-Notes/the-law-of-attraction.md",
+    "Life-Notes/Business/🏰 My Biz Empire.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_18.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_28.md",
+    "Daily-Bullet-Journal/journals/2020/07-July/2020_07_29.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_29.md",
+    "Evergreen-Notes/Permanent-Notes/_attachments/12edafc503bc5d0a567475e493c7e895.png",
+    "Evergreen-Notes/Permanent-Notes/_attachments",
     "Life-Notes/Running",
     "Life-Notes/untitled folder",
     "Daily-Bullet-Journal/journals/2025/11-November/_attachments/568d34012d30e00c59e3428ef3b4c153.png",
@@ -207,12 +224,10 @@
     "Brain-Food/_attachments",
     "Dear-Today-Me/_attachments/notification.png",
     "Dear-Today-Me/_attachments/widget.png",
-    "Dear-Today-Me/_attachments/dashboard.png",
     "Dear-Today-Me/_attachments",
     "Weekly-Mindware-Update/_attachments",
     "Deep-Work-Machine/_attachments",
     "Enoughness/_attachments",
-    "Evergreen-Lists/_attachments",
-    "Evergreen-Notes/_attachments"
+    "Evergreen-Lists/_attachments"
   ]
 }
