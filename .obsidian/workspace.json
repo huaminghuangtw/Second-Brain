@@ -4,37 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "aba63f1d70562dd1",
+        "id": "14cf4897617b692b",
         "type": "tabs",
         "children": [
           {
-            "id": "4babfb25595aad1b",
+            "id": "c84c940f57ee2d2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_29.md",
+                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_07_29"
+              "title": "2026_07_30"
             }
           },
           {
-            "id": "133be9eef7d32c46",
+            "id": "10085da4d016742f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md",
-                "mode": "preview",
-                "source": false,
+                "file": "Slash/colophon.md",
+                "mode": "source",
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "how-to-prepare-for-a-marathon"
+              "title": "colophon"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#BuJo/💡TIL split\"",
+                "query": "；跑步是為了找到伴侶，然後繁衍後代。",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,13 +81,11 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 361.5
   },
   "right": {
     "id": "788977113be17e7b",
@@ -147,10 +145,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for how-to-prepare-for-a-marathon"
+              "title": "File properties for Homepage"
             }
           },
           {
@@ -159,13 +157,14 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -181,34 +180,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "133be9eef7d32c46",
+  "active": "10085da4d016742f",
   "lastOpenFiles": [
+    "Slash/uses.md",
+    "Slash/colophon.md",
+    "Slash/now.md",
+    "Slash/about.md",
+    "Drafts/Untitled.md",
+    "Drafts/Untitled 1.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_30.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_30.md",
+    "Dear-Today-Me/index.md",
+    "Enoughness/posts/enoughness-41.md",
+    "Drafts/_why-i-write-and-run.md",
+    "Evergreen-Notes/Permanent-Notes/push-your-limits.md",
+    "Daily-Bullet-Journal/journals/2022/07-July/2022_07_30.md",
+    "Daily-Bullet-Journal/journals/2016/07-July/2016_07_30.md",
+    "Daily-Bullet-Journal/journals/2015/07-July/2015_07_30.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_30.md",
+    "Daily-Bullet-Journal/journals/2023/07-July/2023_07_30.md",
+    "Daily-Bullet-Journal/journals/2015/07-July/2015_07_29.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_15.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_19.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_29.md",
+    "Evergreen-Notes/Permanent-Notes/delegation.md",
     "Daily-Bullet-Journal/journals/2026/07-July/2026_07_29.md",
     "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md",
-    "Homepage.md",
     "Daily-Bullet-Journal/journals/2025/06-June/2025_06_08.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_11.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_05.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_30.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_20.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_11.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_10.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_20.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_29.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_25.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_15.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_23.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_12.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_13.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_05.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_29.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_26.md",
-    "Evergreen-Notes/Permanent-Notes/the-law-of-attraction.md",
-    "Life-Notes/Business/🏰 My Biz Empire.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_18.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_28.md",
-    "Daily-Bullet-Journal/journals/2020/07-July/2020_07_29.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_29.md",
     "Evergreen-Notes/Permanent-Notes/_attachments/12edafc503bc5d0a567475e493c7e895.png",
     "Evergreen-Notes/Permanent-Notes/_attachments",
     "Life-Notes/Running",
