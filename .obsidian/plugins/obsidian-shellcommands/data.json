@@ -176,7 +176,7 @@
     {
       "id": "2qu3zkdn75",
       "platform_specific_commands": {
-        "default": "echo -n {{title}} | pbcopy"
+        "default": "echo -n https://huam.ing/{{title}} | pbcopy"
       },
       "shells": {},
       "alias": "Copy Slug",
