@@ -5,7 +5,11 @@ Upload images from `_attachments` folders to Cloudflare R2,
 then rewrite markdown references and clean up local files.
 
 Usage:
-  python3 upload-to-r2.py <account-id> <access-key> <secret-key> <path1> [<path2> <path3> ...]
+  python3 upload-to-r2.py [<path1> <path2> <path3> ...]
+
+Credentials are read from config.json.
+When run from a directory containing `_attachments` folders,
+`python3 upload-to-r2.py` with no arguments uses the current directory.
 
 What it does:
   1. Walks each given directory to find all `_attachments` subfolders
@@ -18,6 +22,7 @@ What it does:
 
 import argparse
 import hashlib
+import json
 import os
 import re
 import sys
@@ -35,6 +40,26 @@ PUBLIC_URL = "https://media.huam.ing"
 SKIP_DIRS = {
     "/Users/huaminghuang/Library/Mobile Documents/iCloud~md~obsidian/Documents/Second-Brain",
 }
+
+CONFIG_PATH = (
+    "/Users/huaminghuang/Library/Mobile Documents/com~apple~CloudDocs/Documents/JSONFiles/config.json"
+)
+
+
+def load_credentials(config_path=CONFIG_PATH):
+    try:
+        with open(config_path, "r", encoding="utf-8") as f:
+            config = json.load(f)
+        cloudflare = config["API Credentials"]["Cloudflare"]
+        return (
+            cloudflare["accountID"],
+            cloudflare["accessKey"],
+            cloudflare["secretKey"],
+        )
+    except (OSError, KeyError, json.JSONDecodeError) as e:
+        log(f"Failed to load credentials from {config_path}: {e}", "err")
+        sys.exit(1)
+
 
 def build_s3_client(account_id, access_key, secret_key):
     return boto3.client(
@@ -125,15 +150,16 @@ def find_attachment_dirs(root):
 def find_markdown_files(root):
     files = []
     for dirpath, dirnames, filenames in os.walk(root):
-        dirnames[:] = [d for d in dirnames if not d.startswith(".") and d != "_attachments"]
+        dirnames[:] = [d for d in dirnames if not d.startswith(
+            ".") and d != "_attachments"]
         for f in filenames:
-            if f.endswith(".md") or f.endswith(".mdx"):
+            if f.endswith(".md"):
                 files.append(os.path.join(dirpath, f))
     return files
 
 
 def rewrite_markdown(content, filename, r2_url):
-    escaped = re.escape(filename)
+    escaped = re.escape(filename).replace(r"\ ", r"(?:\ |%20)")
     pattern = re.compile(
         rf'!\[\]\(_attachments/{escaped}(?:\s+"([^"]*)")?\s*\)'
     )
@@ -183,7 +209,8 @@ def process_collection(collection_dir, s3):
 
         stem = os.path.splitext(uploaded_name)[0]
         if not is_md5_name(stem):
-            uploaded_name = hashlib.md5(file_content).hexdigest() + os.path.splitext(uploaded_name)[1]
+            uploaded_name = hashlib.md5(file_content).hexdigest(
+            ) + os.path.splitext(uploaded_name)[1]
 
         r2_key = f"image/{uploaded_name}"
         r2_url = f"{PUBLIC_URL}/{r2_key}"
@@ -211,22 +238,21 @@ def process_collection(collection_dir, s3):
         file_rewritten = False
         md_files = find_markdown_files(collection_dir)
         for md_file in md_files:
-            try:
-                with open(md_file, "r", encoding="utf-8") as f:
-                    content = f.read()
-                updated = rewrite_markdown(content, name, r2_url)
-                if updated != content:
-                    with open(md_file, "w", encoding="utf-8") as f:
-                        f.write(updated)
-                    log(f"  ↳ updated reference in {os.path.relpath(md_file, collection_dir)}")
-                    file_rewritten = True
-                    rewritten += 1
-            except Exception as e:
-                log(f"  ↳ failed to rewrite {md_file}: {e}", "err")
-                prompt_continue_or_quit()
+            with open(md_file, "r", encoding="utf-8") as f:
+                content = f.read()
+            updated = rewrite_markdown(content, name, r2_url)
+            if updated != content:
+                with open(md_file, "w", encoding="utf-8") as f:
+                    f.write(updated)
+                log(
+                    f"  ↳ updated reference in {os.path.relpath(md_file, collection_dir)}")
+                file_rewritten = True
+                rewritten += 1
 
         if not file_rewritten:
             log(f"No markdown references found for {name}", "warn")
+            subprocess.run(["pbcopy"], input=r2_url, text=True)
+            subprocess.run(["open", r2_url])
             prompt_continue_or_quit()
 
         trash(filepath)
@@ -247,22 +273,23 @@ def process_collection(collection_dir, s3):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("account_id")
-    parser.add_argument("access_key")
-    parser.add_argument("secret_key")
     parser.add_argument(
         "paths",
-        nargs="+",
+        nargs="*",
+        help="Directory (or directories) to process; defaults to current directory",
     )
     args = parser.parse_args()
 
-    s3 = build_s3_client(args.account_id, args.access_key, args.secret_key)
+    account_id, access_key, secret_key = load_credentials()
+    s3 = build_s3_client(account_id, access_key, secret_key)
 
     total_uploaded = 0
     total_errors = 0
     total_rewritten = 0
 
-    for dir_path in args.paths:
+    dir_paths = args.paths or ["."]
+
+    for dir_path in dir_paths:
         resolved = os.path.abspath(dir_path)
         if resolved in SKIP_DIRS:
             continue
