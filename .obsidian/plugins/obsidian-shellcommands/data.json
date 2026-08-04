@@ -176,10 +176,10 @@
     {
       "id": "2qu3zkdn75",
       "platform_specific_commands": {
-        "default": "echo -n https://huam.ing/{{title}} | pbcopy"
+        "default": "slug={{title}}\ndisplay=$(printf \"%s\" \"$slug\" | awk '{\n    gsub(/-/, \" \")\n    for (i=1; i<=NF; i++)\n      $i = toupper(substr($i,1,1)) tolower(substr($i,2))\n    printf \"%s\", $0\n  }')\nprintf \"[%s](https://huam.ing/%s)\" \"$display\" \"$slug\" | pbcopy"
       },
       "shells": {},
-      "alias": "Copy Slug",
+      "alias": "Copy Link",
       "icon": null,
       "confirm_execution": false,
       "ignore_error_codes": [],

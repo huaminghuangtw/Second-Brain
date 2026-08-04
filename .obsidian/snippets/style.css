@@ -124,6 +124,10 @@ div[data-path$='.pdf']{
   display: none;
 }
 
+.graph-controls {
+  display: none;
+}
+
 /* Tag pane */
 
 .tag-pane-tag .tree-item-inner {
