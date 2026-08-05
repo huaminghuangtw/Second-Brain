@@ -1,23 +1,13 @@
 #!/usr/bin/env python3
 
 """
-Upload images from `_attachments` folders to Cloudflare R2,
-then rewrite markdown references and clean up local files.
+Upload images from `_attachments` folders to Cloudflare R2
 
 Usage:
   python3 upload-to-r2.py [<path1> <path2> <path3> ...]
 
-Credentials are read from config.json.
-When run from a directory containing `_attachments` folders,
-`python3 upload-to-r2.py` with no arguments uses the current directory.
-
-What it does:
-  1. Walks each given directory to find all `_attachments` subfolders
-  2. Converts to WebP
-  3. Uploads each file to R2 at `image/{filename.ext}`
-  4. Rewrites markdown references:
-     ![](_attachments/xxx.png "caption") → ![](https://media.huam.ing/image/xxx.webp "caption")
-  5. Moves local attachment files to Trash
+  When run from a directory containing `_attachments` folders, 
+  `python3 upload-to-r2.py` with no arguments uses the current directory.
 """
 
 import argparse
@@ -29,10 +19,11 @@ import sys
 import subprocess
 from io import BytesIO
 from pathlib import Path
+from urllib.parse import quote
 
 import boto3
 from botocore.config import Config
-from PIL import Image
+from PIL import Image, ImageSequence
 
 BUCKET = "huaming-media"
 PUBLIC_URL = "https://media.huam.ing"
@@ -123,18 +114,42 @@ def to_webp(filepath):
 
     try:
         with Image.open(filepath) as img:
-            if img.mode in ("RGBA", "LA", "P"):
-                img = img.convert("RGBA")
+            if getattr(img, "n_frames", 1) > 1:
+                webp_bytes = _to_animated_webp(img)
             else:
-                img = img.convert("RGB")
+                if img.mode in ("RGBA", "LA", "P"):
+                    img = img.convert("RGBA")
+                else:
+                    img = img.convert("RGB")
 
-            buf = BytesIO()
-            img.save(buf, format="WEBP")
-            webp_bytes = buf.getvalue()
+                buf = BytesIO()
+                img.save(buf, format="WEBP")
+                webp_bytes = buf.getvalue()
 
         return webp_bytes, f"{stem}.webp"
     except Exception:
         return None, None
+
+
+def _to_animated_webp(img):
+    """Encode an animated image (e.g. GIF) as an animated WebP, preserving frames."""
+    frames = []
+    durations = []
+    for frame in ImageSequence.Iterator(img):
+        durations.append(
+            frame.info.get("duration") or img.info.get("duration") or 100)
+        frames.append(frame.convert("RGBA"))
+
+    buf = BytesIO()
+    frames[0].save(
+        buf,
+        format="WEBP",
+        save_all=True,
+        append_images=frames[1:],
+        duration=durations,
+        loop=img.info.get("loop", 0),
+    )
+    return buf.getvalue()
 
 
 def find_attachment_dirs(root):
@@ -173,7 +188,17 @@ def rewrite_markdown(content, filename, r2_url):
     return pattern.sub(replacer, content)
 
 
-def process_collection(collection_dir, s3):
+def r2_dashboard_url(account_id, bucket, r2_key):
+    """Build the Cloudflare R2 dashboard URL for an object."""
+    encoded_key = quote(r2_key, safe="")
+    encoded_prefix = quote(f"{Path(r2_key).parent}/", safe="")
+    return (
+        f"https://dash.cloudflare.com/{account_id}/r2/default/buckets/{bucket}"
+        f"/objects/{encoded_key}/details?prefix={encoded_prefix}"
+    )
+
+
+def process_collection(collection_dir, s3, account_id):
     if not os.path.isdir(collection_dir):
         log(f"Directory not found: {collection_dir}", "err")
         return 0, 0, 0
@@ -252,6 +277,7 @@ def process_collection(collection_dir, s3):
         if not file_rewritten:
             log(f"No markdown references found for {name}", "warn")
             subprocess.run(["pbcopy"], input=r2_url, text=True)
+            subprocess.run(["open", r2_dashboard_url(account_id, BUCKET, r2_key)])
             subprocess.run(["open", r2_url])
             prompt_continue_or_quit()
 
@@ -294,7 +320,7 @@ def main():
         if resolved in SKIP_DIRS:
             continue
         print(f"\n📁 {resolved}\n")
-        u, e, r = process_collection(resolved, s3)
+        u, e, r = process_collection(resolved, s3, account_id)
         total_uploaded += u
         total_errors += e
         total_rewritten += r
