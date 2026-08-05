@@ -4,56 +4,86 @@
     "type": "split",
     "children": [
       {
-        "id": "327c11752d5b0aeb",
+        "id": "eea0991e5310b653",
         "type": "tabs",
         "children": [
           {
-            "id": "bbdaa8080170712f",
+            "id": "a5e361cc9a7d9d0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_24.md",
+                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_05.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026_08_05"
+            }
+          },
+          {
+            "id": "c610f1126faa3d8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/relative-energy-deficiency-in-sport.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_07_24"
+              "title": "relative-energy-deficiency-in-sport"
             }
           },
           {
-            "id": "474c38a196ba6855",
+            "id": "34dd756593f70472",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_25.md",
+                "file": "Evergreen-Notes/Permanent-Notes/behavior-change.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "behavior-change"
+            }
+          },
+          {
+            "id": "d6df7a4fdd6dde30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_07_25"
+              "title": "2026_07_30"
             }
           },
           {
-            "id": "3ee4a7abd05698e9",
+            "id": "4a96e6577bd6c025",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_25.md",
-                "mode": "source",
+                "file": "Evergreen-Lists/cheat-sheet/cheat-sheet.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_07_25"
+              "title": "cheat-sheet"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jpeg",
+                "query": "水舞",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,6 +142,18 @@
         "id": "dcc7ab71a02d447d",
         "type": "tabs",
         "children": [
+          {
+            "id": "85ce70840b153221",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_30.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 2026_07_30"
+            }
+          },
           {
             "id": "a048e6e8463195bb",
             "type": "leaf",
@@ -155,25 +197,12 @@
               "icon": "lucide-list",
               "title": "Outline of Homepage"
             }
-          },
-          {
-            "id": "85ce70840b153221",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/07-July/2026_07_25.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for 2026_07_25"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 394.5,
-    "collapsed": true
+    "width": 394.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,53 +213,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3ee4a7abd05698e9",
+  "active": "d6df7a4fdd6dde30",
   "lastOpenFiles": [
-    "AdaptX/posts/ted-taipei-2025.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_25.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_26.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_29.md",
+    "Evergreen-Notes/Permanent-Notes/behavior-change.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_28.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_27.md",
+    "Evergreen-Notes/Permanent-Notes/relative-energy-deficiency-in-sport.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_05.md",
     "Homepage.md",
-    "Enoughness/posts/enoughness-41.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_10.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_23.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_27.md",
+    "Evergreen-Lists/cheat-sheet/cheat-sheet.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_06.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_22.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_26.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_02.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_25.md",
     "Daily-Bullet-Journal/journals/2026/07-July/2026_07_24.md",
     "Daily-Bullet-Journal/journals/2026/07-July/2026_07_23.md",
     "Daily-Bullet-Journal/journals/2026/07-July/2026_07_22.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_05.md",
-    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_03.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_17.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_27.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_28.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_29.md",
-    "Enoughness/posts/enoughness-31.md",
-    "Evergreen-Notes/Permanent-Notes/planning-and-preparation-help-maximize-your-productivity.md",
-    "Enoughness/posts/enoughness-37.md",
-    "Enoughness/posts/enoughness-36.md",
-    "Enoughness/posts/enoughness-35.md",
-    "Enoughness/posts/enoughness-33.md",
-    "Enoughness/posts/enoughness-39.md",
-    "Enoughness/posts/enoughness-40.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_21.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_20.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_19.md",
+    "Evergreen-Notes/Permanent-Notes/how-the-poor-and-rich-think-differently.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_26.md",
+    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_04.md",
+    "Enoughness/posts/enoughness-30.md",
+    "Weekly-Mindware-Update/issues/2024/2024w37.md",
     "Enoughness/posts/enoughness-42.md",
-    "Scripts/__pycache__/upload-to-r2.cpython-312.pyc",
-    "Scripts/__pycache__",
-    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/Pasted image 20260802145155.png",
-    "Daily-Bullet-Journal/journals/2026/08-August/_attachments",
-    "Daily-Bullet-Journal/journals/2019/08-August",
-    "Daily-Bullet-Journal/journals/2018/08-August",
-    "Daily-Bullet-Journal/journals/2020/08-August",
-    "Daily-Bullet-Journal/journals/2017/08-August",
-    "Daily-Bullet-Journal/journals/2015/08-August",
-    "Daily-Bullet-Journal/journals/2026/08-August",
-    "Enoughness/posts/_attachments/Pasted image 20260731172251.png",
-    "Enoughness/posts/_attachments/Pasted image 20260731171441.png",
-    "Enoughness/posts/_attachments",
-    "Evergreen-Notes/Permanent-Notes/_attachments/12edafc503bc5d0a567475e493c7e895.png",
-    "Daily-Bullet-Journal/journals/2025/11-November/_attachments/568d34012d30e00c59e3428ef3b4c153.png",
-    "Shortcutomation/_attachments/icon.svg",
-    "Brain-Food/_attachments/youtube-video.png",
-    "Brain-Food/_attachments/notification.png",
-    "Brain-Food/_attachments/movie-and-tv.png",
-    "Brain-Food/_attachments/book.png"
+    "Deep-Work-Machine/Number of Words/2026/07-July/number-of-words_2026-07.csv",
+    "Deep-Work-Machine/Number of Words/2026/07-July/number-of-words_2026-07.json",
+    "Deep-Work-Machine/Number of Words/2026/07-July/number-of-words_2026-07.png",
+    "Deep-Work-Machine/Number of Words/2026/07-July",
+    "Deep-Work-Machine/Number of Flows/2026/07-July/number-of-flows_2026-07.csv",
+    "Deep-Work-Machine/Number of Flows/2026/07-July/number-of-flows_2026-07.json",
+    "Deep-Work-Machine/Number of Flows/2026/07-July/number-of-flows_2026-07.png",
+    "Deep-Work-Machine/Number of Flows/2026/07-July",
+    "_attachments/1aa2bd6ef72df5ee5f3daf06d7aa5a3f.webp",
+    "_attachments/c163988d0698d609c618ea765b486ce7.webp",
+    "_attachments/b3afb27fe6ab94068cc254a528f9a699.webp",
+    "_attachments/download.png",
+    "_attachments/c163988d0698d609c618ea765b486ce7.avif",
+    "_attachments/1aa2bd6ef72df5ee5f3daf06d7aa5a3f.svg",
+    "_attachments",
+    "Shortcutomation/_attachments/2d28399fa18c3b51fd2258e7f7b3b44b.C1d5cF9C_Z1Lghhd.gif",
+    "Shortcutomation/_attachments",
+    "Shortcutomation/untitled folder",
+    "Shortcutomation/2d28399fa18c3b51fd2258e7f7b3b44b.C1d5cF9C_Z1Lghhd.gif",
+    "Scripts/__pycache__/upload-to-r2.cpython-312.pyc"
   ]
 }
