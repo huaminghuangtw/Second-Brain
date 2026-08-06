@@ -176,7 +176,7 @@
     {
       "id": "2qu3zkdn75",
       "platform_specific_commands": {
-        "default": "slug={{title}}\ndisplay=$(printf \"%s\" \"$slug\" | awk '{\n    gsub(/-/, \" \")\n    for (i=1; i<=NF; i++)\n      $i = toupper(substr($i,1,1)) tolower(substr($i,2))\n    printf \"%s\", $0\n  }')\nprintf \"[%s](https://huam.ing/%s)\" \"$display\" \"$slug\" | pbcopy"
+        "default": "printf \"[%s](https://huam.ing/%s)\" {{yaml_value:title}} {{title}} | pbcopy"
       },
       "shells": {},
       "alias": "Copy Link",
