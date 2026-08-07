@@ -31,9 +31,11 @@
     "Templates/T_AdaptX.md",
     "Templates/T_Brainfoodie.md",
     "Templates/T_Microblog.md",
-    "Templates/T_Blog.md"
+    "Templates/T_Blog.md",
+    "Templates/T_Drafts.md"
   ],
   "startup_templates": [],
   "intellisense_render": 0,
+  "ignore_folders_on_creation": [],
   "enable_ribbon_icon": true
 }

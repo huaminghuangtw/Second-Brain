@@ -18,14 +18,7 @@
     }
   ],
   "templater-obsidian:create-new-note-from-template": [],
-  "file-explorer:new-file": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "N"
-    }
-  ],
+  "file-explorer:new-file": [],
   "templater-obsidian:templates/note_template.md": [
     {
       "modifiers": [
@@ -1021,6 +1014,22 @@
         "Alt"
       ],
       "key": "ArrowUp"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_Draft.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "templater-obsidian:create-Templates/T_Drafts.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
     }
   ]
 }
