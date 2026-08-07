@@ -105,7 +105,7 @@
               "state": {
                 "file": "Enoughness/posts/enoughness-43.md",
                 "mode": "preview",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "盡全力",
+                "query": "\"專注力 >\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -246,13 +246,13 @@
   },
   "active": "feeb6f660536a631",
   "lastOpenFiles": [
-    "Homepage.md",
+    "Enoughness/posts/enoughness-17.md",
     "Enoughness/posts/enoughness-43.md",
     "Enoughness/posts/enoughness-20.md",
+    "Homepage.md",
     "Enoughness/posts/_attachments/Pasted image 20260807171335.png",
     "Evergreen-Notes/Permanent-Notes/work-in-sprints-work-with-your-biology.md",
     "Evergreen-Notes/Permanent-Notes/energy-management.md",
-    "Enoughness/posts/enoughness-17.md",
     "Enoughness/posts/enoughness-11.md",
     "Enoughness/posts/enoughness-30.md",
     "Enoughness/posts/enoughness-31.md",
