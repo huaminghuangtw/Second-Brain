@@ -157,7 +157,7 @@ dv.table(
 > ```dataviewjs
 > const drafts = dv.pages()
 >     .where(p => p.draft === true)
->     .sort(p => p.file.mtime, 'desc')
+>     .sort(p => p.file.name)
 >     .groupBy(p => p.file.folder.split("/")[0]);
 >
 > for (const { key, rows } of drafts.sort(g => g.key)) {
@@ -204,14 +204,27 @@ dv.table(
 > ```dataviewjs
 > const { Utils } = await cJS();
 >
-> function findOrphanedImages() {
->     const linkedPaths = new Set(
->         // https://docs.obsidian.md/Reference/TypeScript+API/MetadataCache/resolvedLinks
+> function getLinkedPaths() {
+>     // https://docs.obsidian.md/Reference/TypeScript+API/MetadataCache/resolvedLinks
+>     return new Set(
 >         Object.values(app.metadataCache.resolvedLinks).flatMap(Object.keys)
 >     );
+> }
+>
+> function findOrphanedImages() {
+>     const linkedPaths = getLinkedPaths();
 >
 >     return app.vault.getFiles()
 >         .filter(file => file.path.includes("_attachments/") && !linkedPaths.has(file.path))
+>         .map(file => dv.fileLink(file.path));
+> }
+>
+> function findOrphanedNotes() {
+>     const linkedPaths = getLinkedPaths();
+>
+>     return app.vault.getMarkdownFiles()
+>         .filter(file => file.path.startsWith("Evergreen-Notes/Permanent-Notes/"))
+>         .filter(file => !linkedPaths.has(file.path))
 >         .map(file => dv.fileLink(file.path));
 > }
 >
@@ -287,6 +300,10 @@ dv.table(
 >
 > dv.header(4, "❥ Orphaned Images");
 > dv.list(findOrphanedImages());
+>
+> dv.header(4, "❥ Orphaned Notes");
+> dv.list(findOrphanedNotes());
+>
 > ```
 
 ---
