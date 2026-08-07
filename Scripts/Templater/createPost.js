@@ -10,7 +10,7 @@ async function createPost(tp) {
 
     let title = '';
     if (collection !== "Enoughness" && collection !== "Microblog") {
-        const userInput = await tp.system.prompt("✏️ Title?");
+        const userInput = await tp.system.prompt(`✏️ Title? (${collection})`);
         if (!userInput) return;
         title = tp.user.toTitleCase(userInput);
     }
@@ -21,7 +21,7 @@ async function createPost(tp) {
         if (collection === "Blog") {
             fileName = tp.date.now("YYYYMMDD");
         } else {
-            const userInput = await tp.system.prompt("📁 Filename?");
+            const userInput = await tp.system.prompt(`📁 Filename? (${collection})`);
             if (!userInput) return;
             fileName = tp.user.slugify(userInput);
         }
@@ -29,10 +29,13 @@ async function createPost(tp) {
         fileName = `enoughness-${posts.length + 1}`;
     } else if (collection === "Microblog") {
         fileName = tp.date.now("YYYY-MM-DD");
+    } else if (collection === "Drafts") {
+        fileName = `_${fileName}`;
     }
 
     const folderMap = {
         "Permanent-Notes": "Evergreen-Notes/Permanent-Notes/",
+        "Drafts": "Drafts/",
     };
     const folder = folderMap[collection] || `${collection}/posts/`;
     const file = tp.file.find_tfile(folder + fileName);
