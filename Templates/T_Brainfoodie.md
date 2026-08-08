@@ -28,7 +28,7 @@ if (category !== "Parable") {
 -%>
 ---
 created: <% created %>
-title: ▍<% title %>
+title: <% title %>
 category: <% category %>
 <%* if (category !== "Parable") { %>
 authors: <% authorsOutput %>
