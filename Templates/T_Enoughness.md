@@ -7,7 +7,7 @@ const { fileName, created } = result
 ---
 created: <% created %>
 draft: true
-title: ⚖️ 、、
+title: 、、
 issue: <% fileName.split('-').pop() %>
 ---
 
