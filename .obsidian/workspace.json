@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c409d4d9bf6212a9",
+        "id": "932f32986800d339",
         "type": "tabs",
         "children": [
           {
-            "id": "fcc1a627a884a21a",
+            "id": "a1640f24904b1739",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_10.md",
-                "mode": "source",
+                "file": "Homepage.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_08_10"
+              "title": "Homepage"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "當時的我還是社群媒體重度成癮者",
+                "query": "白木耳",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,10 +87,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_10.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026_08_10"
+              "title": "File properties for Homepage"
             }
           },
           {
@@ -137,7 +137,8 @@
               "title": "Outline of Homepage"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -153,34 +154,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fcc1a627a884a21a",
+  "active": "a1640f24904b1739",
   "lastOpenFiles": [
+    "Brain-Food/README.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_11.md",
+    "Evergreen-Notes/Permanent-Notes/energy-management.md",
     "Homepage.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_22.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_02.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_12.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_23.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_23.md",
     "Drafts/_taitung-trip.md",
-    "Daily-Bullet-Journal/journals/2015/08-August/2015_08_10.md",
-    "Daily-Bullet-Journal/journals/2022/08-August/2022_08_10.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_10.md",
-    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_10.md",
-    "Daily-Bullet-Journal/journals/2019/08-August/2019_08_10.md",
-    "Daily-Bullet-Journal/journals/2017/08-August/2017_08_10.md",
-    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_09.md",
-    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_08.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_10.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_10.md",
-    "Evergreen-Notes/Permanent-Notes/brain-attic.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_13.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_12.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_11.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_10.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_09.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_08.md",
-    "Enoughness/posts/enoughness-9.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/404.gif",
     "Daily-Bullet-Journal/journals/2026/08-August/2026_08_09.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_10.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/image.png",
+    "404.gif",
+    "Today-I-Learned/posts/using-markdown-image-titles-as-captions.md",
+    "Enoughness/posts/enoughness-6.md",
+    "Enoughness/posts/enoughness-43.md",
+    "Enoughness/posts/enoughness-9.md",
+    "Enoughness/posts/enoughness-3.md",
+    "Deep-Work-Machine/README.md",
+    "Weekly-Mindware-Update/issues/2026/2026w32.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_09.md",
     "Today-I-Learned/posts/astro-fragment-vs-shorthand-syntax.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_08.md",
-    "Today-I-Learned/posts/git-commit-messages-from-a-file.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_15.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_04.md",
+    "Today-I-Learned/posts/crontab-and-cronjob.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_11.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_11.md",
+    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_11.md",
+    "Daily-Bullet-Journal/journals/2019/08-August/2019_08_11.md",
     "Daily-Bullet-Journal/journals/2026/08-August/_attachments/b5fb29fed587bdcaa015244fadd5e655.png",
     "Daily-Bullet-Journal/journals/2026/08-August/_attachments/b54dc172c6a9a3e8f448ebf304f101c2.PNG",
     "Daily-Bullet-Journal/journals/2026/08-August/_attachments/2026_08_07_19_31_56.PNG",
@@ -188,8 +192,6 @@
     "Daily-Bullet-Journal/journals/2026/08-August/_attachments/ed396aee95f2ddcbaeb98482d76838f0.PNG",
     "Enoughness/posts/_attachments/Pasted image 20260807171335.png",
     "Enoughness/posts/_attachments/Pasted image 20260807151605.png",
-    "Daily-Bullet-Journal/journals/2024/11-November/_attachments/d7ec8eeb11ff942da5dcae517c6a8258.png",
-    "Enoughness/posts/_attachments/Pasted image 20260807143645.png",
     "Enoughness/posts/_attachments",
     "Drafts/posts",
     "Drafts",
@@ -199,7 +201,6 @@
     "Screen Recording 2026-08-05 at 21.29.50.mov",
     "Deep-Work-Machine/Number of Words/2026/07-July/number-of-words_2026-07.csv",
     "Deep-Work-Machine/Number of Words/2026/07-July/number-of-words_2026-07.json",
-    "Deep-Work-Machine/Number of Words/2026/07-July/number-of-words_2026-07.png",
     "Deep-Work-Machine/Number of Words/2026/07-July"
   ]
 }

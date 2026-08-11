@@ -176,7 +176,7 @@
     {
       "id": "2qu3zkdn75",
       "platform_specific_commands": {
-        "default": "printf \"[%s](https://huam.ing/%s)\" {{yaml_value:title}} {{title}} | pbcopy"
+        "default": "export LC_ALL=en_US.UTF-8 LANG=en_US.UTF-8\ntitle=\"$(printf %s {{yaml_value:title}} | python3 -c '\nimport sys\nt = sys.stdin.buffer.read().decode(\"utf-8\")\ntry:\n    print(t.encode(\"mac_roman\").decode(\"utf-8\"))\nexcept (UnicodeEncodeError, UnicodeDecodeError):\n    print(t)\n')\"\nslug=\"$(printf %s {{title}} | python3 -c 'import sys,urllib.parse;print(urllib.parse.quote(sys.stdin.buffer.read().decode(\"utf-8\")))')\"\nprintf '[%s](https://huam.ing/%s)' $title $slug | pbcopy"
       },
       "shells": {},
       "alias": "Copy Link",
