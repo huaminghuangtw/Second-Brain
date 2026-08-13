@@ -55,10 +55,15 @@ function slugify(text) {
                 /[àáâãäåæçèéêëìíîïñòóôõöøùúûüýÿßœ&@©®™€£$%]/g,
                 (char) => charMap[char] || char
             )
+            // Normalize dash-like punctuation (en/em dash, figure dash,
+            // non-breaking hyphen, minus sign) to a plain hyphen, so numeric
+            // ranges like "0–1000 words" become "0-1000-words"
+            .replace(/[\u2010\u2011\u2012\u2013\u2014\u2015\u2212]/g, "-")
             // Replace whitespace and underscores with hyphens
             .replace(/[\s_]+/g, "-")
-            // Remove any remaining non-alphanumeric characters (except hyphens)
-            .replace(/[^a-z0-9-]/g, "")
+            // Remove any remaining characters except Unicode letters/numbers
+            // (this keeps CJK like "中文書") and hyphens
+            .replace(/[^\p{L}\p{N}-]/gu, "")
             // Replace multiple consecutive hyphens with single hyphen
             .replace(/-+/g, "-")
             // Remove leading and trailing hyphens
