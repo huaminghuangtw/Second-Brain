@@ -39,6 +39,6 @@
   "strictLineBreaks": false,
   "openBehavior": "",
   "deleteUnlinkedAttachments": "ask",
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "foldIndent": false
 }
