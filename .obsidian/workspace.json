@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "426557d80af8d8ed",
+        "id": "7f9fc8a0e53dc509",
         "type": "tabs",
         "children": [
           {
-            "id": "a427bcca0b1872ea",
+            "id": "6aba24f884a1b346",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "耐熱",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +137,8 @@
               "title": "Outline of 2026_08_08"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -153,37 +154,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a427bcca0b1872ea",
+  "active": "6aba24f884a1b346",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_06.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_06.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_15.md",
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_14.md",
-    "Evergreen-Notes/Fleeting-Notes.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_10.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_09.md",
     "Daily-Bullet-Journal/journals/2026/08-August/2026_08_08.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_07.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_05.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_10.md",
     "Daily-Bullet-Journal/journals/2026/08-August/2026_08_04.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_03.md",
+    "Homepage.md",
     "Daily-Bullet-Journal/journals/2026/08-August/2026_08_11.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_12.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_15.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_14.md",
     "Daily-Bullet-Journal/journals/2026/08-August/2026_08_13.md",
-    "Evergreen-Notes/Permanent-Notes/abandon-your-ego.md",
-    "Drafts/_taitung-trip.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/0585658e1ca2338cc5500385adb8447f.jpg",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_02.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_21.md",
-    "Daily-Bullet-Journal/journals/2015/08-August/2015_08_15.md",
-    "Daily-Bullet-Journal/journals/2016/08-August/2016_08_15.md",
-    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_15.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_15.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_16.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/Pasted image 20260813180147.png",
-    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/Pasted image 20260813175905.png",
+    "Evergreen-Notes/Permanent-Notes/delegation.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_18.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_26.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_16.md",
+    "Drafts/_about.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_10.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_24.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_29.md",
+    "Evergreen-Notes/Permanent-Notes/you-cant-beat-someone-who-genuinely-enjoys-the-work-itself.md",
+    "Evergreen-Notes/Permanent-Notes/always-do-your-best-as-possible.md",
+    "Brainfoodie/posts/jason-fried-your-only-competition-is-your-costs.md",
+    "Drafts/_why-i-write-and-run.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_26.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_22.md",
+    "Life-Notes/Running/2026-marathon-training.md",
+    "Enoughness/posts/enoughness-36.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_09.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_16.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_10.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/d01179967017d6391a612f9f340e6f3f.jpg",
+    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/c014e662c5353ce9f071b51bdccb576e.png",
+    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/9d301d7d233119b34867ae675a61c0e1.png",
     "Brain-Food/podcast.json",
     "Brain-Food/movie-and-tv.json",
     "Brain-Food/book.json",
