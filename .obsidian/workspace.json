@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7f9fc8a0e53dc509",
+        "id": "51fc907f85f6417e",
         "type": "tabs",
         "children": [
           {
-            "id": "6aba24f884a1b346",
+            "id": "0cb4cae31593f1e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_17.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2026_08_17"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "耐熱",
+                "query": "grief",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,10 +87,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_16.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for 2026_08_16"
             }
           },
           {
@@ -136,9 +136,20 @@
               "icon": "lucide-list",
               "title": "Outline of 2026_08_08"
             }
+          },
+          {
+            "id": "271d4e1e3579eb45",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_16.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,34 +165,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6aba24f884a1b346",
+  "active": "0cb4cae31593f1e6",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_08.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_04.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_11.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_15.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_14.md",
     "Daily-Bullet-Journal/journals/2026/08-August/2026_08_13.md",
-    "Evergreen-Notes/Permanent-Notes/delegation.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_18.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_26.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_16.md",
-    "Drafts/_about.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_10.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_24.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_29.md",
-    "Evergreen-Notes/Permanent-Notes/you-cant-beat-someone-who-genuinely-enjoys-the-work-itself.md",
-    "Evergreen-Notes/Permanent-Notes/always-do-your-best-as-possible.md",
-    "Brainfoodie/posts/jason-fried-your-only-competition-is-your-costs.md",
-    "Drafts/_why-i-write-and-run.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_26.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_22.md",
-    "Life-Notes/Running/2026-marathon-training.md",
-    "Enoughness/posts/enoughness-36.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_09.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_14.md",
     "Daily-Bullet-Journal/journals/2026/08-August/2026_08_16.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_10.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_12.md",
+    "Evergreen-Notes/Permanent-Notes/death.md",
+    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
+    "Brainfoodie/posts/beauty-is-the-mystery-of-life.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_17.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/Pasted image 20260817111050.png",
+    "Drafts/_taitung-trip.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_08.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_03.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_02.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_01.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_05.md",
+    "Evergreen-Notes/Permanent-Notes/low-information-diet.md",
+    "Weekly-Mindware-Update/issues/2026/2026w33.md",
+    "Evergreen-Notes/Permanent-Notes/information-overwhelm.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_17.md",
+    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_17.md",
+    "Daily-Bullet-Journal/journals/2021/08-August/2021_08_17.md",
+    "Daily-Bullet-Journal/journals/2017/08-August/2017_08_17.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_17.md",
+    "Evergreen-Notes/Permanent-Notes/be-grateful.md",
+    "Evergreen-Notes/Permanent-Notes/burnout.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_08.md",
     "Daily-Bullet-Journal/journals/2026/08-August/_attachments/d01179967017d6391a612f9f340e6f3f.jpg",
     "Daily-Bullet-Journal/journals/2026/08-August/_attachments/c014e662c5353ce9f071b51bdccb576e.png",
     "Daily-Bullet-Journal/journals/2026/08-August/_attachments/9d301d7d233119b34867ae675a61c0e1.png",
@@ -196,7 +208,6 @@
     "Daily-Bullet-Journal/journals/2026/08-August/_attachments/b5fb29fed587bdcaa015244fadd5e655.png",
     "Daily-Bullet-Journal/journals/2026/08-August/_attachments/b54dc172c6a9a3e8f448ebf304f101c2.PNG",
     "Daily-Bullet-Journal/journals/2026/08-August/_attachments/2026_08_07_19_31_56.PNG",
-    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/a3c6279f7c0cc37de0b57ac8a5a4bfb3.PNG",
     "Enoughness/posts/_attachments",
     "Drafts/posts",
     "Drafts",
