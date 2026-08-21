@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7aafef12a765090",
+        "id": "a0efaec6be88527f",
         "type": "tabs",
         "children": [
           {
-            "id": "55a92d08316b158e",
+            "id": "4e02bd36f87fa9ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -54,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "蔥油餅",
+                "query": "抵達謬誤",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,13 +145,14 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_16.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,53 +168,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "55a92d08316b158e",
+  "active": "4e02bd36f87fa9ba",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/2026_08_18_19_59_33.png",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_15.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_17.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_18.md",
-    "Drafts/_taitung-trip.md",
+    "Evergreen-Notes/Permanent-Notes/fame.md",
+    "Enoughness/posts/enoughness-9.md",
+    "Evergreen-Notes/Permanent-Notes/journey-over-destination.md",
+    "Enoughness/posts/enoughness-45.md",
+    "Enoughness/posts/enoughness-40.md",
+    "Enoughness/posts/_attachments/Pasted image 20260821162225.png",
+    "Enoughness/posts/enoughness-43.md",
+    "Enoughness/posts/_attachments",
+    "Evergreen-Notes/Permanent-Notes/pain-is-inevitable-suffering-is-optional.md",
+    "AdaptX/posts/you-and-your-timeline.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_28.md",
+    "Evergreen-Notes/Permanent-Notes/the-arrival-fallacy.md",
+    "Weekly-Mindware-Update/issues/2025/2025w45.md",
+    "Enoughness/posts/enoughness-39.md",
+    "Evergreen-Notes/Permanent-Notes/manage-the-gap-between-expectations-and-reality.md",
+    "Evergreen-Notes/Permanent-Notes/not-caring-lets-us-perform-better.md",
     "Homepage.md",
+    "Drafts/_why-i-write-and-run.md",
+    "Evergreen-Notes/Permanent-Notes/the-nova-effect.md",
+    "Enoughness/posts/enoughness-33.md",
+    "Evergreen-Notes/Permanent-Notes/hedonic-happiness-vs-eudaimonic-happiness.md",
+    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
+    "Evergreen-Notes/Permanent-Notes/miswanting.md",
+    "Enoughness/posts/enoughness-46.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_18.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/148dc665c522033764c5c07b20221b0e.png",
+    "_attachments/591ef1a2b4f217efb6d9241035ad8cbb.jpg.md",
+    "Evergreen-Notes/Permanent-Notes/energy-management.md",
+    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260821101333.png",
+    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260821100832.png",
+    "Evergreen-Notes/Permanent-Notes/show-up-then-show-up-again.md",
+    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260821095949.png",
+    "Evergreen-Notes/Permanent-Notes/_attachments/591ef1a2b4f217efb6d9241035ad8cbb.jpg",
+    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260821095127.png",
+    "_attachments",
+    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260821093934.png",
+    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260821095030.png",
+    "Evergreen-Notes/Permanent-Notes/_attachments",
+    "Evergreen-Lists/keyboard-hotkey/keyboard-hotkey.pdf",
     "Daily-Bullet-Journal/journals/2026/08-August/_attachments/Pasted image 20260817111050.png",
-    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/Scanned Document.png",
     "Daily-Bullet-Journal/journals/2026/08-August/_attachments/Scanned Document.pdf.sb-dbedbee3-l6yfzd",
     "Daily-Bullet-Journal/journals/2026/08-August/_attachments/Scanned Document.pdf",
-    "Drafts/Untitled.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/2026_08_18_16_43_12.png",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_09.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_18.md",
-    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_18.md",
-    "Daily-Bullet-Journal/journals/2021/08-August/2021_08_18.md",
-    "Daily-Bullet-Journal/journals/2018/08-August/2018_08_18.md",
-    "Daily-Bullet-Journal/journals/2016/08-August/2016_08_18.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_18.md",
-    "Evergreen-Notes/Permanent-Notes/broken-windows-theory.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_13.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_14.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_16.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_12.md",
-    "Evergreen-Notes/Permanent-Notes/death.md",
-    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
-    "Brainfoodie/posts/beauty-is-the-mystery-of-life.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_08.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_03.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_02.md",
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_01.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/d01179967017d6391a612f9f340e6f3f.jpg",
-    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/c014e662c5353ce9f071b51bdccb576e.png",
-    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/9d301d7d233119b34867ae675a61c0e1.png",
     "Brain-Food/podcast.json",
     "Brain-Food/movie-and-tv.json",
     "Brain-Food/book.json",
-    "Brain-Food/youtube-video.json",
-    "Brain-Food/essay.json",
-    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/404.gif",
-    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/dc357c9008b51d5fef20bc3963c4df5c.png",
-    "404.gif",
-    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/b5fb29fed587bdcaa015244fadd5e655.png",
-    "Enoughness/posts/_attachments",
-    "Drafts/posts",
-    "Drafts"
+    "Brain-Food/youtube-video.json"
   ]
 }
