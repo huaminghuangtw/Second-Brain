@@ -48,6 +48,11 @@ dv.paragraph(blocks.join(" "));
 
 ---
 
+```dataviewjs
+// Force Dataview's CALENDAR to open notes in a new tab
+app.workspace.getUnpinnedLeaf = () => app.workspace.getLeaf("tab");
+```
+
 ```dataview
 CALENDAR date
 FROM "Daily-Bullet-Journal"
@@ -306,8 +311,6 @@ dv.table(
 >
 > ```
 
----
-
 > [!bug]- 🌸 Retrospection
 > ```dataviewjs
 > const { Utils } = await cJS();
@@ -383,6 +386,16 @@ dv.table(
 >     ]
 > );
 > ```
+
+
+<!-- https://obsidian.md/help/plugins/search#Embed+search+results+in+a+note -->
+
+> [!quote]- 📌 Highlights
+> 
+> ```query
+> /(?<=<mark>).+?(?=<\/mark>)/ --path:"Brainfoodie"
+> ```
+
 
 ---
 
@@ -533,13 +546,3 @@ for (const [index, title] of titles.entries()) {
     Utils.renderEditLink(dv, editURI3);
 }
 ```
-
----
-
-<!-- https://obsidian.md/help/plugins/search#Embed+search+results+in+a+note -->
-
-> [!quote]- 📌 Highlights
-> 
-> ```query
-> /(?<=<mark>).+?(?=<\/mark>)/ --path:"Brainfoodie"
-> ```
