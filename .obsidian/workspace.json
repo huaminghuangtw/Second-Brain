@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a0efaec6be88527f",
+        "id": "bf955b137e0256a1",
         "type": "tabs",
         "children": [
           {
-            "id": "4e02bd36f87fa9ba",
+            "id": "2d0118cc543eb570",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "抵達謬誤",
+                "query": "\"Inspiration is merely the reward for working every day.\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,7 @@
                 "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties"
             }
           },
           {
@@ -130,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_08.md",
+                "file": "Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026_08_08"
+              "title": "Outline"
             }
           },
           {
@@ -151,8 +151,7 @@
               "title": "Footnotes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,39 +167,41 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4e02bd36f87fa9ba",
+  "active": "2d0118cc543eb570",
   "lastOpenFiles": [
-    "Evergreen-Notes/Permanent-Notes/fame.md",
-    "Enoughness/posts/enoughness-9.md",
-    "Evergreen-Notes/Permanent-Notes/journey-over-destination.md",
-    "Enoughness/posts/enoughness-45.md",
-    "Enoughness/posts/enoughness-40.md",
-    "Enoughness/posts/_attachments/Pasted image 20260821162225.png",
-    "Enoughness/posts/enoughness-43.md",
-    "Enoughness/posts/_attachments",
-    "Evergreen-Notes/Permanent-Notes/pain-is-inevitable-suffering-is-optional.md",
-    "AdaptX/posts/you-and-your-timeline.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_28.md",
-    "Evergreen-Notes/Permanent-Notes/the-arrival-fallacy.md",
-    "Weekly-Mindware-Update/issues/2025/2025w45.md",
-    "Enoughness/posts/enoughness-39.md",
-    "Evergreen-Notes/Permanent-Notes/manage-the-gap-between-expectations-and-reality.md",
-    "Evergreen-Notes/Permanent-Notes/not-caring-lets-us-perform-better.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_17.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_16.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_15.md",
+    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-water.md",
+    "Weekly-Mindware-Update/issues/2024/2024w10.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_14.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_13.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_12.md",
+    "Blog/posts/20260822.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_11.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_10.md",
+    "Blog/posts/_attachments/IMG_6233.jpeg",
+    "Blog/posts/_attachments",
     "Homepage.md",
-    "Drafts/_why-i-write-and-run.md",
-    "Evergreen-Notes/Permanent-Notes/the-nova-effect.md",
-    "Enoughness/posts/enoughness-33.md",
-    "Evergreen-Notes/Permanent-Notes/hedonic-happiness-vs-eudaimonic-happiness.md",
-    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
-    "Evergreen-Notes/Permanent-Notes/miswanting.md",
-    "Enoughness/posts/enoughness-46.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_18.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_22.md",
+    "Evergreen-Notes/Permanent-Notes/judgment-is-the-most-important-skill-in-an-age-of-infinite-leverage.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_21.md",
+    "Enoughness/posts/enoughness-45.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_05.md",
+    "Evergreen-Notes/Permanent-Notes/frameworks-to-structure-your-day.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_22.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_22.md",
+    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_22.md",
+    "Daily-Bullet-Journal/journals/2022/08-August/2022_08_22.md",
+    "Daily-Bullet-Journal/journals/2018/08-August/2018_08_22.md",
+    "Drafts/_taitung-trip.md",
+    "Evergreen-Notes/Permanent-Notes/embrace-the-beauty-of-enoughness.md",
+    "Evergreen-Notes/Permanent-Notes/the-arrival-fallacy.md",
+    "Enoughness/posts/_attachments/Pasted image 20260821162225.png",
+    "Enoughness/posts/_attachments",
     "Daily-Bullet-Journal/journals/2026/08-August/_attachments/148dc665c522033764c5c07b20221b0e.png",
-    "_attachments/591ef1a2b4f217efb6d9241035ad8cbb.jpg.md",
-    "Evergreen-Notes/Permanent-Notes/energy-management.md",
     "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260821101333.png",
     "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260821100832.png",
-    "Evergreen-Notes/Permanent-Notes/show-up-then-show-up-again.md",
     "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260821095949.png",
     "Evergreen-Notes/Permanent-Notes/_attachments/591ef1a2b4f217efb6d9241035ad8cbb.jpg",
     "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260821095127.png",
@@ -209,12 +210,10 @@
     "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260821095030.png",
     "Evergreen-Notes/Permanent-Notes/_attachments",
     "Evergreen-Lists/keyboard-hotkey/keyboard-hotkey.pdf",
-    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/Pasted image 20260817111050.png",
     "Daily-Bullet-Journal/journals/2026/08-August/_attachments/Scanned Document.pdf.sb-dbedbee3-l6yfzd",
     "Daily-Bullet-Journal/journals/2026/08-August/_attachments/Scanned Document.pdf",
     "Brain-Food/podcast.json",
     "Brain-Food/movie-and-tv.json",
-    "Brain-Food/book.json",
-    "Brain-Food/youtube-video.json"
+    "Brain-Food/book.json"
   ]
 }
