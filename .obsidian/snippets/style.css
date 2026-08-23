@@ -23,18 +23,21 @@ body {
   --blockquote-border-thickness: 4px;
   --blockquote-font-style: italic;
 
+  --callout-padding: var(--size-2-3);
+  --callout-title-padding: var(--size-2-1) var(--size-2-2);
+  --callout-content-padding: var(--size-2-3);
+
   --inline-title-color: Beige;
   --inline-title-line-height: 2.6;
 
-  --metadata-background: rgba(var(--color-orange-rgb), 0.08);
-  --metadata-border-color: rgba(var(--color-orange-rgb), 0.2);
+  --metadata-background: rgba(var(--color-orange-rgb), 0.05);
   --metadata-border-radius: 8px;
   --metadata-border-width: 1px;
-  --metadata-property-padding: var(--size-2-2) var(--size-2-3);
-  --metadata-label-text-color: var(--color-orange);
+  --metadata-property-padding: var(--size-2-1) var(--size-2-1);
+  --metadata-label-width: var(--size-24);
   --metadata-label-font-weight: var(--font-medium);
+  --metadata-label-text-color: darkgray;
   --metadata-sidebar-label-font-size: 12px;
-  --metadata-sidebar-input-font-size: 10px;
 
   --link-color: rgba(var(--color-red-rgb), 1);
   --link-color-hover: rgba(var(--color-red-rgb), 1);
@@ -81,6 +84,13 @@ body {
 .cm-quote {
   font-style: italic;
 }
+
+/* Blockquote: rounded ends on the left border */
+
+blockquote {
+  border-radius: 4px;
+}
+
 
 .markdown-preview-view :not(pre) > code,
 kbd {

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bf955b137e0256a1",
+        "id": "cc8a7014045a4079",
         "type": "tabs",
         "children": [
           {
-            "id": "2d0118cc543eb570",
+            "id": "6155c3c12f2ff933",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "4f459e0e45eba04b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_23.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026_08_23"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Inspiration is merely the reward for working every day.\"",
+                "query": "台東博覽會",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +105,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_07.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -101,7 +117,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -130,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_07.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -145,17 +161,18 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_07.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 394.5,
+    "width": 415.7847900390625,
     "collapsed": true
   },
   "left-ribbon": {
@@ -167,47 +184,47 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2d0118cc543eb570",
+  "active": "4f459e0e45eba04b",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_17.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_16.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_15.md",
-    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-water.md",
-    "Weekly-Mindware-Update/issues/2024/2024w10.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_14.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_13.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_12.md",
-    "Blog/posts/20260822.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_11.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_10.md",
-    "Blog/posts/_attachments/IMG_6233.jpeg",
-    "Blog/posts/_attachments",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_22.md",
-    "Evergreen-Notes/Permanent-Notes/judgment-is-the-most-important-skill-in-an-age-of-infinite-leverage.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_21.md",
-    "Enoughness/posts/enoughness-45.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_05.md",
-    "Evergreen-Notes/Permanent-Notes/frameworks-to-structure-your-day.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_22.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_22.md",
-    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_22.md",
-    "Daily-Bullet-Journal/journals/2022/08-August/2022_08_22.md",
-    "Daily-Bullet-Journal/journals/2018/08-August/2018_08_22.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_23.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_14.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_20.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_19.md",
     "Drafts/_taitung-trip.md",
-    "Evergreen-Notes/Permanent-Notes/embrace-the-beauty-of-enoughness.md",
-    "Evergreen-Notes/Permanent-Notes/the-arrival-fallacy.md",
-    "Enoughness/posts/_attachments/Pasted image 20260821162225.png",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_21.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_17.md",
+    "Evergreen-Notes/Permanent-Notes/you-are-what-you-eat.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_09.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_18.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_22.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_11.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_22.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/2026_08_23_15_11_11.png",
+    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/2026_08_23_15_09_44.png",
+    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/2026_08_23_15_09_13.png",
+    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/2026_08_23_15_08_39.png",
+    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/2026_08_23_15_08_24.png",
+    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/2026_08_23_15_07_54.png",
+    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/2026_08_23_15_07_20.png",
+    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/2026_08_23_15_06_57.png",
+    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/2026_08_23_15_06_27.png",
+    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/2026_08_23_15_06_06.png",
+    "Evergreen-Notes/Permanent-Notes/choose-your-response.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_08.md",
+    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_26.md",
+    "Evergreen-Notes/Fleeting-Notes.md",
+    "Daily-Bullet-Journal/journals/2015/11-November/2015_11_05.md",
+    "Daily-Bullet-Journal/journals/2023/02-February/2023_02_14.md",
+    "Daily-Bullet-Journal/journals/2023/07-July/2023_07_11.md",
+    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_10.md",
+    "Daily-Bullet-Journal/journals/2023/11-November/2023_11_05.md",
+    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_22.md",
+    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_02.md",
+    "Daily-Bullet-Journal/journals/2024/02-February/2024_02_09.md",
+    "Blog/posts/_attachments",
     "Enoughness/posts/_attachments",
-    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/148dc665c522033764c5c07b20221b0e.png",
-    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260821101333.png",
-    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260821100832.png",
-    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260821095949.png",
-    "Evergreen-Notes/Permanent-Notes/_attachments/591ef1a2b4f217efb6d9241035ad8cbb.jpg",
-    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260821095127.png",
     "_attachments",
-    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260821093934.png",
-    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260821095030.png",
     "Evergreen-Notes/Permanent-Notes/_attachments",
     "Evergreen-Lists/keyboard-hotkey/keyboard-hotkey.pdf",
     "Daily-Bullet-Journal/journals/2026/08-August/_attachments/Scanned Document.pdf.sb-dbedbee3-l6yfzd",
