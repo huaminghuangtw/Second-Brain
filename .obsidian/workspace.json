@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "82f9a928d57f3658",
+        "id": "8faa31c245075132",
         "type": "tabs",
         "children": [
           {
-            "id": "1ec867efb3e7637f",
+            "id": "0694ca394388b0e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "4ea2c9c1073af416",
+            "id": "d46bc53e672d9be8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,174 +36,9 @@
               "icon": "lucide-file",
               "title": "2026_08_26"
             }
-          },
-          {
-            "id": "b438d64c02f2eb02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_25.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026_08_25"
-            }
-          },
-          {
-            "id": "c1ae309bf5873749",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_24.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026_08_24"
-            }
-          },
-          {
-            "id": "1cd389f6a04cc2c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_23.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026_08_23"
-            }
-          },
-          {
-            "id": "bf34532b45f3f2a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_22.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026_08_22"
-            }
-          },
-          {
-            "id": "bac6aaa2216f5464",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_21.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026_08_21"
-            }
-          },
-          {
-            "id": "e7339407b44b2e5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_20.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026_08_20"
-            }
-          },
-          {
-            "id": "b9504bad524c3597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_19.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026_08_19"
-            }
-          },
-          {
-            "id": "1ef07fa80d7be5c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_20.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026_08_20"
-            }
-          },
-          {
-            "id": "22c88eae52a242d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_19.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026_08_19"
-            }
-          },
-          {
-            "id": "a44ab9729cfc1e87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_18.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026_08_18"
-            }
-          },
-          {
-            "id": "fac1f0d45ac762a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_19.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026_08_19"
-            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "火力全開",
+                "query": "how-to-deploy-with-cicd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -253,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 510.5
+    "width": 510.5,
+    "collapsed": true
   },
   "right": {
     "id": "788977113be17e7b",
@@ -269,7 +105,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_19.md"
+                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_26.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -323,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.7847900390625
+    "width": 415.7847900390625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -334,34 +171,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26dce5ad09ea52ce",
+  "active": "d46bc53e672d9be8",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_18.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_19.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_20.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_21.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_22.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_23.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_24.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_25.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_25.md",
     "Daily-Bullet-Journal/journals/2026/08-August/2026_08_26.md",
     "Homepage.md",
-    "Brainfoodie/posts/jason-fried-your-only-competition-is-your-costs.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_17.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Drafts/_taitung-trip.md",
-    "Blog/posts/20260822.md",
-    "Enoughness/posts/enoughness-15.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_21.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_16.md",
-    "Life-Notes/Alignment/🐤 New Hobbies.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-use-ai-effectively.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_02.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_22.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_11.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_08.md",
-    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_25.md",
-    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_24.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_25.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_26.md",
+    "Weekly-Mindware-Update/issues/2025/2025w45.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_21.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_26.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_26.md",
+    "Daily-Bullet-Journal/journals/2020/08-August/2020_08_26.md",
+    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_27.md",
+    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_26.md",
+    "Daily-Bullet-Journal/journals/2022/08-August/2022_08_26.md",
+    "Daily-Bullet-Journal/journals/2018/08-August/2018_08_25.md",
+    "Daily-Bullet-Journal/journals/2021/08-August/2021_08_26.md",
+    "Daily-Bullet-Journal/journals/2019/08-August/2019_08_26.md",
+    "Daily-Bullet-Journal/journals/2018/08-August/2018_08_26.md",
+    "Evergreen-Notes/Permanent-Notes/smile-and-laugh.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_29.md",
+    "Evergreen-Notes/Permanent-Notes/vulnerability.md",
+    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_11.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_19.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_18.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_20.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_22.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_23.md",
     "Weekly-Mindware-Update/remove_year_weekNumber_tmp.py",
     "Daily-Bullet-Journal/journals/2026/08-August/_attachments/0997a523ef96c9cc6953ac15fd1c4a08.png",
     "Daily-Bullet-Journal/journals/2026/08-August/_attachments/781d857c77f8594c2cfc2b4701ba0aa4.png",
