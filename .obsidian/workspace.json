@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a4f37f7965d2477",
+        "id": "ae3bdbcc3e959e68",
         "type": "tabs",
         "children": [
           {
-            "id": "e5d2baf29a05df3d",
+            "id": "0fbc4c7bc3db9192",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,7 +23,22 @@
             }
           },
           {
-            "id": "86ad84284d117289",
+            "id": "424f3a720ee84d01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_29.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026_08_29"
+            }
+          },
+          {
+            "id": "20fe160dd530f924",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,172 +53,52 @@
             }
           },
           {
-            "id": "ee8340f2e72d7c22",
+            "id": "a16aa4383f789ae2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
+                "file": "Evergreen-Notes/Permanent-Notes/you-cant-beat-someone-who-genuinely-enjoys-the-work-itself.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "why-we-exist"
+              "title": "you-cant-beat-someone-who-genuinely-enjoys-the-work-itself"
             }
           },
           {
-            "id": "2fa74a2524504204",
+            "id": "3d7e808558acc6e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/find-joy-not-pleasure.md",
+                "file": "Life-Notes/Running/2026-marathon-training.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "find-joy-not-pleasure"
+              "title": "2026-marathon-training"
             }
           },
           {
-            "id": "777785ac041e69f2",
+            "id": "c56057dc7ffc1b93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
+                "file": "Daily-Bullet-Journal/journals/2025/11-November/2025_11_22.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have"
-            }
-          },
-          {
-            "id": "a3f8210948d5705d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2024/09-September/2024_09_29.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2024_09_29"
-            }
-          },
-          {
-            "id": "f0ae9053ab9d8b10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/10-October/2025_10_02.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025_10_02"
-            }
-          },
-          {
-            "id": "72042a725a1a6d9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/journaling.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "journaling"
-            }
-          },
-          {
-            "id": "3930dc6713babb06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enoughness/posts/enoughness-19.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "enoughness-19"
-            }
-          },
-          {
-            "id": "14f94725df053f33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/readers-are-leaders.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "readers-are-leaders"
-            }
-          },
-          {
-            "id": "5e927b5975f592ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Microblog/posts/2026-06-01.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-01"
-            }
-          },
-          {
-            "id": "369ec97435f26cdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/be-primarily-internally-driven-with-intrinsic-motivation.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "be-primarily-internally-driven-with-intrinsic-motivation"
-            }
-          },
-          {
-            "id": "7d61003a9a133d77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_27.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026_08_27"
+              "title": "2025_11_22"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "死亡",
+                "query": "樂在其中",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -270,7 +165,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_27.md"
+                "file": "Evergreen-Notes/Permanent-Notes/you-cant-beat-someone-who-genuinely-enjoys-the-work-itself.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -319,6 +214,18 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "bd2c6e219e10f126",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Enoughness/posts/enoughness-46.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ]
       }
@@ -336,9 +243,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "369ec97435f26cdf",
+  "active": "a16aa4383f789ae2",
   "lastOpenFiles": [
     "Enoughness/posts/enoughness-46.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_22.md",
+    "Life-Notes/Running/2026-marathon-training.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_29.md",
+    "Homepage.md",
+    "Enoughness/posts/enoughness-26.md",
+    "Evergreen-Notes/Permanent-Notes/be-primarily-internally-driven-with-intrinsic-motivation.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_28.md",
+    "Enoughness/posts/enoughness-45.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_27.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_28.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_29.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_29.md",
+    "Daily-Bullet-Journal/journals/2023/08-August/2023_08_29.md",
+    "Daily-Bullet-Journal/journals/2020/08-August/2020_08_29.md",
+    "Daily-Bullet-Journal/journals/2016/08-August/2016_08_29.md",
+    "Evergreen-Notes/Permanent-Notes/sleep.md",
+    "Evergreen-Notes/Fleeting-Notes.md",
     "Evergreen-Notes/Permanent-Notes/readers-are-leaders.md",
     "Enoughness/posts/enoughness-28.md",
     "Enoughness/posts/enoughness-19.md",
@@ -347,25 +271,8 @@
     "Daily-Bullet-Journal/journals/2025/10-October/2025_10_02.md",
     "Daily-Bullet-Journal/journals/2024/09-September/2024_09_29.md",
     "Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md",
-    "Evergreen-Notes/Permanent-Notes/find-joy-not-pleasure.md",
-    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
-    "Evergreen-Notes/Permanent-Notes/be-primarily-internally-driven-with-intrinsic-motivation.md",
-    "Microblog/posts/2026-06-01.md",
-    "AdaptX/posts/you-and-your-timeline.md",
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_27.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_04.md",
-    "Evergreen-Notes/Permanent-Notes/you-cant-beat-someone-who-genuinely-enjoys-the-work-itself.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_30.md",
-    "Enoughness/posts/enoughness-45.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_08.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_16.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_28.md",
     "Enoughness/posts/_attachments/Pasted image 20260828153150.png",
     "Enoughness/posts/_attachments",
-    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_21.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_26.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_22.md",
     "Weekly-Mindware-Update/remove_year_weekNumber_tmp.py",
     "Daily-Bullet-Journal/journals/2026/08-August/_attachments/0997a523ef96c9cc6953ac15fd1c4a08.png",
     "Daily-Bullet-Journal/journals/2026/08-August/_attachments/781d857c77f8594c2cfc2b4701ba0aa4.png",
