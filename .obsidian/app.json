@@ -40,5 +40,6 @@
   "openBehavior": "",
   "deleteUnlinkedAttachments": "ask",
   "defaultViewMode": "source",
-  "foldIndent": false
+  "foldIndent": false,
+  "settingsPopoutWindow": false
 }

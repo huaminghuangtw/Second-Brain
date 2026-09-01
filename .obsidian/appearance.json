@@ -2,7 +2,7 @@
   "interfaceFontFamily": "SF Pro Display",
   "monospaceFontFamily": "Source Code Pro",
   "baseFontSize": 14,
-  "baseFontSizeAction": true,
+  "baseFontSizeAction": false,
   "cssTheme": "Minimal",
   "translucency": true,
   "enabledCssSnippets": [
@@ -18,5 +18,6 @@
   "showViewHeader": false,
   "textFontFamily": "SF Pro Text",
   "accentColor": "",
-  "showRibbon": false
+  "showRibbon": false,
+  "nativeMenus": false
 }
