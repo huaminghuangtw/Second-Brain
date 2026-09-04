@@ -78,7 +78,7 @@
           "convert_ansi_code": true
         },
         "stderr": {
-          "handler": "notification",
+          "handler": "ignore",
           "convert_ansi_code": true
         }
       },

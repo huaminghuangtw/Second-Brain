@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9bfcb02f006bde37",
+        "id": "6fcaca37630729e8",
         "type": "tabs",
         "children": [
           {
-            "id": "c4aaf091d8a740c2",
+            "id": "a4644ad5f75f29fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "還能跑",
+                "query": "禪修班",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.0289001464844,
+    "width": 361.9408874511719,
     "collapsed": true
   },
   "right": {
@@ -89,7 +89,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/09-September/2026_09_03.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -123,24 +123,12 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "bd2c6e219e10f126",
-            "type": "leaf",
-            "state": {
-              "type": "footnotes",
-              "state": {
-                "file": "Homepage.md"
-              },
-              "icon": "lucide-file-signature",
-              "title": "Footnotes"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 415.7847900390625,
+    "width": 325.02679443359375,
     "collapsed": true
   },
   "left-ribbon": {
@@ -152,53 +140,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c4aaf091d8a740c2",
+  "active": "a4644ad5f75f29fe",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/09-September/_attachments/2026_09_03_19_56_09.jpeg",
-    "Daily-Bullet-Journal/journals/2026/09-September/_attachments",
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_02.md",
-    "Weekly-Mindware-Update/issues/2026/2026w35.md",
-    "Homepage.md",
+    "iCloud/Notes/回台灣後要做的事.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_04.md",
     "Daily-Bullet-Journal/journals/2026/09-September/2026_09_03.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Evergreen-Notes/Permanent-Notes/empathy.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_01.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_31.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_28.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_29.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_30.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_21.md",
-    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_18.md",
-    "Evergreen-Notes/Permanent-Notes/life-is-chaotic.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_29.md",
-    "Enoughness/posts/enoughness-37.md",
-    "Weekly-Mindware-Update/issues/2025/2025w36.md",
-    "Brainfoodie/posts/getting-started-with-ai-good-enough-prompting.md",
-    "Daily-Bullet-Journal/journals/2024/01-January/2024_01_15.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_03.md",
-    "Evergreen-Notes/Permanent-Notes/procrastination.md",
-    "Daily-Bullet-Journal/journals/2015/03-March/2015_03_13.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_09.md",
-    "Evergreen-Notes/Permanent-Notes/programming-best-practices.md",
-    "Brainfoodie/posts/the-art-of-unix-programming.md",
-    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260903085908.png",
-    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260903083040.png",
-    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260903081546.png",
-    "Evergreen-Notes/Permanent-Notes/_attachments",
-    "Daily-Bullet-Journal/journals/2020/09-September",
-    "Daily-Bullet-Journal/journals/2017/09-September",
-    "Daily-Bullet-Journal/journals/2015/09-September",
-    "Daily-Bullet-Journal/journals/2021/09-September",
-    "Daily-Bullet-Journal/journals/2019/09-September",
-    "Daily-Bullet-Journal/journals/2018/09-September",
-    "Daily-Bullet-Journal/journals/2016/09-September",
-    "Daily-Bullet-Journal/journals/2026/09-September",
-    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/c26a2c188b7f6f82e619628c59e5a23e.png",
-    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/781d857c77f8594c2cfc2b4701ba0aa4.png",
-    "Daily-Bullet-Journal/journals/2025/08-August/_attachments/ee3a38f373e2c5da163015009f3f58d2.png",
-    "Enoughness/posts/_attachments/Pasted image 20260828153150.png",
-    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/0997a523ef96c9cc6953ac15fd1c4a08.png",
-    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/2026_08_23_15_09_44.png",
-    "Daily-Bullet-Journal/journals/2026/08-August/_attachments/2026_08_23_15_09_13.png"
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_16.md",
+    "Enoughness/posts/enoughness-47.md",
+    "iCloud/Notes shared with Yi/Collaborative Notes/🤖 Artificial Intelligence.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/_attachments/03ee4fcc7ade1b74e1c48636ac86c309.jpeg",
+    "_attachments/2026_09_03_19_56_09.jpeg.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_25.md",
+    "Evergreen-Notes/Permanent-Notes/slow-down-to-speed-up.md",
+    "Enoughness/posts/enoughness-33.md",
+    "AdaptX/posts/30-things-ive-learned-in-30-years.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_02.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_12.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_25.md",
+    "Enoughness/posts/enoughness-43.md",
+    "Enoughness/posts/enoughness-1.md",
+    "Enoughness/posts/enoughness-46.md",
+    "Enoughness/posts/enoughness-18.md",
+    "Enoughness/posts/enoughness-14.md",
+    "Evergreen-Notes/Permanent-Notes/busyness.md",
+    "Enoughness/posts/_attachments/Pasted image 20260904142501.png",
+    "Enoughness/posts/_attachments",
+    "Brainfoodie/posts/jason-fried-your-only-competition-is-your-costs.md",
+    "Evergreen-Notes/Permanent-Notes/what-you-work-on-is-far-more-important-than-how-productively-you-work.md",
+    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
+    "AdaptX/posts/the-monkey-and-pedestal-mindset.md",
+    "Evergreen-Notes/Permanent-Notes/the-red-queen-effect.md",
+    "iCloud/Notes/images/90A38321-935C-4F92-B815-AC1D73C91F2B.png",
+    "iCloud/Notes/images/9888F9A1-3347-4092-AF2E-D207876E9D2A.png",
+    "iCloud/Notes shared with Yi/Lifelong Relationships/images/804A14B1-EE51-4F69-9A54-841BBECD3897.png",
+    "iCloud/Notes shared with Yi/Collaborative Notes/images/38A5BC74-A1B5-4D93-BB7E-41CCA70DFEB8.jpeg",
+    "iCloud/No Tags/images/B7801867-BF22-41CB-AA90-C5565852ED82.jpg",
+    "iCloud/No Tags/images/4BDF255D-C04D-461A-8547-D514C9B2CBB8.PNG",
+    "iCloud/No Tags/images/12BD3E12-5075-4312-98CB-F83E298E5291.PNG",
+    "iCloud/No Tags/images/5A1626FC-AA72-498C-BB6C-A5AA3EB6C8D4.png",
+    "Failed Exports/iCloud/No Tags",
+    "iCloud/No Tags/images",
+    "iCloud/No Tags/attachments",
+    "iCloud/No Tags",
+    "iCloud/Notes shared with Yi/Lifelong Relationships/images",
+    "iCloud/Notes shared with Yi/Lifelong Relationships/attachments",
+    "iCloud/Recently Deleted/images",
+    "iCloud/Recently Deleted/attachments",
+    "iCloud/Notes/images/F4D2B827-6234-4DE0-8E7D-70063955F73C.jxl"
   ]
 }
