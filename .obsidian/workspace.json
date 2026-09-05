@@ -4,11 +4,101 @@
     "type": "split",
     "children": [
       {
-        "id": "6fcaca37630729e8",
+        "id": "1a5a02744e3b741c",
         "type": "tabs",
         "children": [
           {
-            "id": "a4644ad5f75f29fe",
+            "id": "e0ec3d0fba69cc9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "f587edef18afb410",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/09-September/2026_09_05.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026_09_05"
+            }
+          },
+          {
+            "id": "a5193dcd8d4d3599",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "f289f96e3730e655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enoughness/posts/enoughness-47.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "enoughness-47"
+            }
+          },
+          {
+            "id": "547b884408a7bdbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/the-hofstadters-law.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "the-hofstadters-law"
+            }
+          },
+          {
+            "id": "abaee62e978f69d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enoughness/posts/enoughness-45.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "enoughness-45"
+            }
+          },
+          {
+            "id": "e0a300da06e62b2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +112,8 @@
               "title": "Homepage"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -56,8 +147,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "禪修班",
-                "matchingCase": false,
+                "query": "一點點",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -67,12 +158,11 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 361.9408874511719,
+    "width": 241.42576599121094,
     "collapsed": true
   },
   "right": {
@@ -89,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/09-September/2026_09_03.md"
+                "file": "Enoughness/posts/enoughness-47.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -128,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.02679443359375,
+    "width": 320.46295166015625,
     "collapsed": true
   },
   "left-ribbon": {
@@ -140,53 +230,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a4644ad5f75f29fe",
+  "active": "f289f96e3730e655",
   "lastOpenFiles": [
-    "iCloud/Notes/回台灣後要做的事.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_04.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_03.md",
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_16.md",
+    "Evergreen-Notes/Permanent-Notes/the-hofstadters-law.md",
+    "Enoughness/posts/enoughness-20.md",
     "Enoughness/posts/enoughness-47.md",
-    "iCloud/Notes shared with Yi/Collaborative Notes/🤖 Artificial Intelligence.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/_attachments/03ee4fcc7ade1b74e1c48636ac86c309.jpeg",
-    "_attachments/2026_09_03_19_56_09.jpeg.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_25.md",
-    "Evergreen-Notes/Permanent-Notes/slow-down-to-speed-up.md",
-    "Enoughness/posts/enoughness-33.md",
-    "AdaptX/posts/30-things-ive-learned-in-30-years.md",
-    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_02.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_12.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_25.md",
-    "Enoughness/posts/enoughness-43.md",
-    "Enoughness/posts/enoughness-1.md",
-    "Enoughness/posts/enoughness-46.md",
-    "Enoughness/posts/enoughness-18.md",
-    "Enoughness/posts/enoughness-14.md",
-    "Evergreen-Notes/Permanent-Notes/busyness.md",
-    "Enoughness/posts/_attachments/Pasted image 20260904142501.png",
+    "Enoughness/posts/enoughness-45.md",
+    "Homepage.md",
+    "Enoughness/posts/_attachments/Pasted image 20260905181538.png",
+    "_attachments/Pasted image 20260905181208.png.md",
+    "Enoughness/posts/_attachments/Pasted image 20260905181208.png",
+    "Enoughness/posts/_attachments/Pasted image 20260905172059.png",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_05.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_29.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_28.md",
+    "Enoughness/posts/enoughness-41.md",
+    "Enoughness/posts/enoughness-40.md",
     "Enoughness/posts/_attachments",
-    "Brainfoodie/posts/jason-fried-your-only-competition-is-your-costs.md",
+    "Enoughness/posts/enoughness-39.md",
+    "Evergreen-Notes/Permanent-Notes/a-little-bit-of-slope-makes-up-for-a-lot-of-y-intercept.md",
+    "Evergreen-Notes/Permanent-Notes/slow-down-to-speed-up.md",
     "Evergreen-Notes/Permanent-Notes/what-you-work-on-is-far-more-important-than-how-productively-you-work.md",
-    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
-    "AdaptX/posts/the-monkey-and-pedestal-mindset.md",
-    "Evergreen-Notes/Permanent-Notes/the-red-queen-effect.md",
+    "Evergreen-Notes/Permanent-Notes/the-compounding-effect.md",
+    "Evergreen-Notes/Permanent-Notes/the-one-percent-rule.md",
+    "Dear-Today-Me/index.md",
+    "Evergreen-Notes/Permanent-Notes/a-man-who-is-a-master-of-patience-is-master-of-everything-else.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_13.md",
+    "Enoughness/posts/enoughness-42.md",
+    "Enoughness/posts/enoughness-38.md",
+    "Enoughness/posts/enoughness-31.md",
+    "Evergreen-Notes/Permanent-Notes/be-like-water.md",
+    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260905154916.png",
+    "Evergreen-Notes/Permanent-Notes/_attachments",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_02.md",
+    "Brainfoodie/posts/what-i-talk-about-when-i-talk-about-running.md",
+    "Deep-Work-Machine/Number of Words/2026/08-August/number-of-words_2026-08.json",
+    "Deep-Work-Machine/Number of Words/2026/08-August/number-of-words_2026-08.csv",
+    "Deep-Work-Machine/Number of Words/2026/08-August/number-of-words_2026-08.png",
+    "Deep-Work-Machine/Number of Flows/2026/08-August/number-of-flows_2026-08.csv",
+    "Deep-Work-Machine/Number of Flows/2026/08-August/number-of-flows_2026-08.json",
+    "Deep-Work-Machine/Number of Flows/2026/08-August/number-of-flows_2026-08.png",
+    "Deep-Work-Machine/Number of Words/2026/08-August",
+    "Deep-Work-Machine/Number of Flows/2026/08-August",
+    "Daily-Bullet-Journal/journals/2026/09-September/_attachments/03ee4fcc7ade1b74e1c48636ac86c309.jpeg",
+    "Enoughness/posts/_attachments/Pasted image 20260904142501.png",
     "iCloud/Notes/images/90A38321-935C-4F92-B815-AC1D73C91F2B.png",
     "iCloud/Notes/images/9888F9A1-3347-4092-AF2E-D207876E9D2A.png",
-    "iCloud/Notes shared with Yi/Lifelong Relationships/images/804A14B1-EE51-4F69-9A54-841BBECD3897.png",
-    "iCloud/Notes shared with Yi/Collaborative Notes/images/38A5BC74-A1B5-4D93-BB7E-41CCA70DFEB8.jpeg",
-    "iCloud/No Tags/images/B7801867-BF22-41CB-AA90-C5565852ED82.jpg",
-    "iCloud/No Tags/images/4BDF255D-C04D-461A-8547-D514C9B2CBB8.PNG",
-    "iCloud/No Tags/images/12BD3E12-5075-4312-98CB-F83E298E5291.PNG",
-    "iCloud/No Tags/images/5A1626FC-AA72-498C-BB6C-A5AA3EB6C8D4.png",
     "Failed Exports/iCloud/No Tags",
-    "iCloud/No Tags/images",
-    "iCloud/No Tags/attachments",
-    "iCloud/No Tags",
-    "iCloud/Notes shared with Yi/Lifelong Relationships/images",
-    "iCloud/Notes shared with Yi/Lifelong Relationships/attachments",
-    "iCloud/Recently Deleted/images",
-    "iCloud/Recently Deleted/attachments",
-    "iCloud/Notes/images/F4D2B827-6234-4DE0-8E7D-70063955F73C.jxl"
+    "iCloud/No Tags/images"
   ]
 }

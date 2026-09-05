@@ -801,19 +801,10 @@
       "key": "H"
     }
   ],
-  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1740516620458": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "K"
-    }
-  ],
   "editor:insert-link": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
       "key": "K"
     }
@@ -841,15 +832,6 @@
         "Alt"
       ],
       "key": "S"
-    }
-  ],
-  "editor:insert-wikilink": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "K"
     }
   ],
   "obsidian-shellcommands:shell-command-a4mqepg0uf": [
@@ -1030,6 +1012,23 @@
         "Mod"
       ],
       "key": "N"
+    }
+  ],
+  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1740516620458": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "K"
+    }
+  ],
+  "obsidian-shellcommands:shell-command-iq29kaub5k": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
     }
   ]
 }
