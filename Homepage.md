@@ -1,3 +1,7 @@
+---
+modified: 2026-09-07
+---
+
 <!-- four-quarters-in-a-day -->
 
 ```dataviewjs
@@ -49,7 +53,7 @@ dv.paragraph(blocks.join(" "));
 ---
 
 ```dataviewjs
-// Force Dataview's CALENDAR to open notes in a new tab
+// Force Dataview’s CALENDAR to open notes in a new tab
 app.workspace.getUnpinnedLeaf = () => app.workspace.getLeaf("tab");
 ```
 
@@ -159,6 +163,7 @@ dv.table(
 ---
 
 > [!example]- ✍️ Writing
+>
 > ```dataviewjs
 > const drafts = dv.pages()
 >     .where(p => p.draft === true)
@@ -172,6 +177,7 @@ dv.table(
 > ```
 
 > [!example]- 🗒️ Notes
+>
 > ```dataviewjs
 > const notes = dv.pages('"Evergreen-Notes/Permanent-Notes"');
 > const bwc = app.plugins.plugins["better-word-count"].api;
@@ -206,6 +212,7 @@ dv.table(
 > ```
 
 > [!example]- 🗃️ Vault
+>
 > ```dataviewjs
 > const { Utils } = await cJS();
 >
@@ -312,6 +319,7 @@ dv.table(
 > ```
 
 > [!bug]- 🌸 Retrospection
+>
 > ```dataviewjs
 > const { Utils } = await cJS();
 >
@@ -328,6 +336,7 @@ dv.table(
 > ```
 
 > [!bug]- 🫶 Health
+>
 > ```dataviewjs
 > const CONFIG = {
 >     thresholds: {
@@ -352,7 +361,7 @@ dv.table(
 >     return `${icon} ${value.hours}h ${value.minutes}m`;
 > }
 >
-> // Fetch one extra day (15 days ago) so the earliest entry's sleep can be computed from the prior day's bedTime
+> // Fetch one extra day (15 days ago) so the earliest entry’s sleep can be computed from the prior day’s bedTime
 > const data = dv.pages('"Daily-Bullet-Journal"')
 >     .where(p => p.date >= today.minus({ days: 15 }) && p.date <= today.minus({ days: 1 }))
 >     .sort(p => p.date, 'desc')
@@ -387,15 +396,13 @@ dv.table(
 > );
 > ```
 
-
 <!-- https://obsidian.md/help/plugins/search#Embed+search+results+in+a+note -->
 
 > [!quote]- 📌 Highlights
-> 
+>
 > ```query
 > /(?<=<mark>).+?(?=<\/mark>)/ --path:"Brainfoodie"
 > ```
-
 
 ---
 
