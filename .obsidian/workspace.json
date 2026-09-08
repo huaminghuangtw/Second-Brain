@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "713ae56ef154d7ae",
+        "id": "a736638d6e6974e9",
         "type": "tabs",
         "children": [
           {
-            "id": "9870677fb9514af4",
+            "id": "db4c04e42a36118c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,37 +23,52 @@
             }
           },
           {
-            "id": "b28b18562c958a41",
+            "id": "da2658a39c02750c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/09-September/2026_09_07.md",
+                "file": "Daily-Bullet-Journal/journals/2026/09-September/2026_09_08.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_09_07"
+              "title": "2026_09_08"
             }
           },
           {
-            "id": "48cb69f32810331c",
+            "id": "c0e1aacae69fe877",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/08-August/2026_08_16.md",
+                "file": "Evergreen-Notes/Permanent-Notes/minimalism.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_08_16"
+              "title": "minimalism"
+            }
+          },
+          {
+            "id": "1ffcc9743c49a8ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "how-to-prepare-for-a-marathon"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -87,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "艾粄",
+                "query": "跨大步",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.42576599121094
+    "width": 346.3920593261719
   },
   "right": {
     "id": "788977113be17e7b",
@@ -119,7 +134,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/09-September/2026_09_08.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -160,7 +175,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/09-September/2026_09_04.md"
+                "file": "Daily-Bullet-Journal/journals/2026/09-September/2026_09_08.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -182,52 +197,52 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26dce5ad09ea52ce",
+  "active": "1ffcc9743c49a8ef",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_07.md",
+    "Evergreen-Notes/Permanent-Notes/minimalism.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_08.md",
     "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/the-law-of-attraction.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_12.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_09.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_03.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_04.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_06.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_31.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_05.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_14.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_05.md",
+    "Evergreen-Notes/Permanent-Notes/lateral-thinking.md",
     "Daily-Bullet-Journal/journals/2026/08-August/2026_08_27.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_02.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_23.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_07.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_06.md",
+    "Enoughness/posts/enoughness-47.md",
+    "Enoughness/posts/enoughness-13.md",
+    "Daily-Bullet-Journal/journals/2023/07-July/2023_07_04.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_22.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_28.md",
+    "Evergreen-Notes/Permanent-Notes/be-a-habit-and-routine-machine.md",
+    "Drafts/_taitung-trip.md",
     "Daily-Bullet-Journal/journals/2026/09-September/2026_09_03.md",
-    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_25.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/_attachments/23cc1f8287055893d5ac269ba05fdf30.png",
+    "Daily-Bullet-Journal/journals/2026/09-September/_attachments/8ed44179c77662c10f1fffc3575fe0b9.jpg",
+    "Daily-Bullet-Journal/journals/2026/09-September/_attachments/2140da3a963d7a6369b43c944bcdb809.png",
+    "Daily-Bullet-Journal/journals/2026/09-September/_attachments/2026_09_08_16_58_16.png",
+    "Daily-Bullet-Journal/journals/2026/09-September/_attachments/2026_09_08_17_05_31.png",
+    "Daily-Bullet-Journal/journals/2026/09-September/_attachments/2026_09_08_17_03_38.png",
+    "Daily-Bullet-Journal/journals/2026/09-September/_attachments/2026_09_08_16_55_32.png",
+    "Daily-Bullet-Journal/journals/2026/09-September/_attachments/2026_09_08_16_38_38.png",
     "Daily-Bullet-Journal/journals/2026/09-September/2026_09_01.md",
-    "Evergreen-Notes/Permanent-Notes/planning-and-preparation-help-maximize-your-productivity.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_08.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_07.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_06.md",
-    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_07.md",
-    "Daily-Bullet-Journal/journals/2021/09-September/2021_09_07.md",
-    "Daily-Bullet-Journal/journals/2020/09-September/2020_09_07.md",
+    "Life-Notes/Writing/✍️ My Writing Principles & Rules.md",
+    "iCloud/Notes/New Bike Day.md",
+    "iCloud/No Tags/Anker PowerExpand+ 7-in-1 USB-C Hub.md",
+    "iCloud/No Tags/🥗 Nutrition Guide (as an elite athlete).md",
+    "iCloud/No Tags/🛠️ Tools for business.md",
+    "iCloud/No Tags/🧭 My Life Philosophy.md",
+    "iCloud/No Tags/🏃‍♂️.md",
+    "iCloud/No Tags/💰Personal Finance.md",
+    "iCloud/Notes/From -writing articles-posts in a traditional blogging sense- to -planting….md",
     "Daily-Bullet-Journal/journals/2026/09-September/_attachments/2026_09_06_22_05_54.png",
     "Enoughness/posts/_attachments/Pasted image 20260905205033.png",
     "Enoughness/posts/_attachments",
-    "Enoughness/posts/_attachments/Pasted image 20260905181538.png",
-    "Enoughness/posts/_attachments/Pasted image 20260905181208.png",
-    "Enoughness/posts/_attachments/Pasted image 20260905172059.png",
-    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20260905154916.png",
     "Evergreen-Notes/Permanent-Notes/_attachments",
     "Deep-Work-Machine/Number of Words/2026/08-August/number-of-words_2026-08.json",
     "Deep-Work-Machine/Number of Words/2026/08-August/number-of-words_2026-08.csv",
-    "Deep-Work-Machine/Number of Words/2026/08-August/number-of-words_2026-08.png",
     "Deep-Work-Machine/Number of Flows/2026/08-August/number-of-flows_2026-08.csv",
     "Deep-Work-Machine/Number of Flows/2026/08-August/number-of-flows_2026-08.json",
-    "Deep-Work-Machine/Number of Flows/2026/08-August/number-of-flows_2026-08.png",
     "Deep-Work-Machine/Number of Words/2026/08-August",
     "Deep-Work-Machine/Number of Flows/2026/08-August",
-    "Daily-Bullet-Journal/journals/2026/09-September/_attachments/03ee4fcc7ade1b74e1c48636ac86c309.jpeg",
-    "Enoughness/posts/_attachments/Pasted image 20260904142501.png",
     "Failed Exports/iCloud/No Tags",
     "iCloud/No Tags/images"
   ]

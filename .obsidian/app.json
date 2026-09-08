@@ -37,7 +37,7 @@
   "propertiesInDocument": "hidden",
   "tabSize": 4,
   "strictLineBreaks": false,
-  "openBehavior": "",
+  "openBehavior": "file:Homepage.md",
   "deleteUnlinkedAttachments": "ask",
   "defaultViewMode": "source",
   "foldIndent": false,
