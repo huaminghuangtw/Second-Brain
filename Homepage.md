@@ -65,7 +65,7 @@ WHERE date
 
 ---
 
-<!-- https://github.com/huaminghuangtw/Deep-Work-Machine -->
+<!-- https://huam.ing/deep-work-machine -->
 
 ```dataviewjs
 const { Utils } = await cJS();
@@ -409,7 +409,7 @@ dv.table(
 ```dataviewjs
 const { Utils } = await cJS();
 
-// https://github.com/huaminghuangtw/Dear-Today-Me
+// https://huam.ing/dear-today-me
 
 let fileContentLifePhilosophy;
 
@@ -442,7 +442,7 @@ dv.header(2, "🧘‍♂️ Life Philosophy");
 dv.paragraph(`> ${randomParagraph}`);
 Utils.renderEditLink(dv, editURI);
 
-// https://github.com/huaminghuangtw/Evergreen-Lists
+// https://huam.ing/lists
 
 let reminders;
 
@@ -490,7 +490,7 @@ if (randomSubtask.notes) {
 
 Utils.renderEditLink(dv, editURI2);
 
-// https://github.com/huaminghuangtw/Weekly-Mindware-Update
+// https://huam.ing/wmu
 
 let files;
 let filePath;
