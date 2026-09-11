@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1ceb249dfcb9139e",
+        "id": "799d4f47f6bed805",
         "type": "tabs",
         "children": [
           {
-            "id": "912b96387cbdd91f",
+            "id": "c677d7056a9183d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,67 +23,37 @@
             }
           },
           {
-            "id": "645355e86def3aad",
+            "id": "019401b020a763a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/09-September/2026_09_10.md",
+                "file": "Brainfoodie/posts/commencement-address-by-roger-federer-at-dartmouth.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_09_10"
+              "title": "commencement-address-by-roger-federer-at-dartmouth"
             }
           },
           {
-            "id": "4931c879af19720b",
+            "id": "a7d9f76fdfa51833",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "b828b0b77de3f5d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "683a0b067083210d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/09-September/2026_09_08.md",
+                "file": "Evergreen-Notes/Permanent-Notes/always-keep-going.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_09_08"
+              "title": "always-keep-going"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "沈伯洋",
+                "query": "line:(storm eventually)",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.3920593261719,
+    "width": 262.1773376464844,
     "collapsed": true
   },
   "right": {
@@ -150,7 +120,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Enoughness/posts/enoughness-48.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -191,7 +161,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Homepage.md"
+                "file": "Brainfoodie/posts/commencement-address-by-roger-federer-at-dartmouth.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -201,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.46295166015625,
+    "width": 291.8070068359375,
     "collapsed": true
   },
   "left-ribbon": {
@@ -213,34 +183,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "683a0b067083210d",
+  "active": "a7d9f76fdfa51833",
   "lastOpenFiles": [
+    "Enoughness/posts/_attachments/Pasted image 20260911182435.png",
+    "Enoughness/posts/enoughness-48.md",
+    "Enoughness/posts/_attachments/Pasted image 20260911181813.png",
+    "Enoughness/posts/_attachments",
+    "Evergreen-Notes/Permanent-Notes/always-keep-going.md",
+    "Enoughness/posts/enoughness-32.md",
+    "Brainfoodie/posts/commencement-address-by-roger-federer-at-dartmouth.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_08.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_10.md",
-    "Daily-Bullet-Journal/journals/2024/05-May/2024_05_06.md",
-    "Evergreen-Notes/Permanent-Notes/frameworks-to-achieve-any-goals.md",
+    "Enoughness/posts/enoughness-24.md",
+    "Evergreen-Notes/Permanent-Notes/show-up-then-show-up-again.md",
+    "Dear-Today-Me/index.md",
+    "Evergreen-Notes/Permanent-Notes/character-is-who-you-are-when-nobodys-watching.md",
+    "Enoughness/posts/enoughness-45.md",
+    "Enoughness/posts/enoughness-47.md",
+    "Drafts/_taitung-trip.md",
+    "Microblog/posts/2026-08-14.md",
+    "Brainfoodie/posts/mirka-federer-introduces-her-husband-roger-federer-at-ithf-induction-ceremony.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_11.md",
+    "Enoughness/posts/enoughness-30.md",
+    "Enoughness/posts/enoughness-41.md",
+    "Daily-Bullet-Journal/journals/2024/06-June/2024_06_16.md",
+    "Enoughness/posts/enoughness-39.md",
+    "Enoughness/posts/enoughness-2.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_01.md",
     "Evergreen-Notes/Permanent-Notes/the-arrival-fallacy.md",
-    "Evergreen-Notes/Permanent-Notes/work-smart.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_09.md",
-    "Evergreen-Notes/Permanent-Notes/mentorship-is-dated-build-a-panel-of-advisors-instead.md",
-    "Evergreen-Notes/Permanent-Notes/why-we-exist.md",
-    "Brainfoodie/posts/on-ownership.md",
-    "Life-Notes/Business/🏰 My Biz Empire.md",
-    "Evergreen-Notes/Permanent-Notes/humor-is-a-way-to-show-you-are-smart-without-bragging.md",
-    "Evergreen-Notes/Permanent-Notes/life-is-shorter-than-you-think.md",
-    "Weekly-Mindware-Update/issues/2025/2025w37.md",
-    "Evergreen-Notes/Permanent-Notes/money.md",
-    "Daily-Bullet-Journal/journals/2022/08-August/2022_08_01.md",
-    "Weekly-Mindware-Update/issues/2024/2024w35.md",
-    "Enoughness/posts/enoughness-13.md",
-    "Enoughness/posts/enoughness-29.md",
-    "Enoughness/posts/enoughness-1.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_18.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_07.md",
-    "Life-Notes/Life/razor.md",
-    "Life-Notes/Life/laser-eye-surgery.md",
+    "_attachments/Pasted image 20260905181208.png.md",
+    "Daily-Bullet-Journal/journals/2018/09-September/2018_09_11.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_10.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/_attachments/Pasted image 20260910205621.png",
+    "Daily-Bullet-Journal/journals/2026/09-September/_attachments/Pasted image 20260910205625.png",
     "Brainfoodie/posts/_attachments/Pasted image 20260909164808.png",
     "Brainfoodie/posts/_attachments",
     "Daily-Bullet-Journal/journals/2026/09-September/_attachments/23cc1f8287055893d5ac269ba05fdf30.png",
@@ -248,11 +222,6 @@
     "Daily-Bullet-Journal/journals/2026/09-September/_attachments/2140da3a963d7a6369b43c944bcdb809.png",
     "Daily-Bullet-Journal/journals/2026/09-September/_attachments/2026_09_08_16_58_16.png",
     "Daily-Bullet-Journal/journals/2026/09-September/_attachments/2026_09_08_17_05_31.png",
-    "Daily-Bullet-Journal/journals/2026/09-September/_attachments/2026_09_08_17_03_38.png",
-    "Daily-Bullet-Journal/journals/2026/09-September/_attachments/2026_09_08_16_55_32.png",
-    "Daily-Bullet-Journal/journals/2026/09-September/_attachments/2026_09_08_16_38_38.png",
-    "Daily-Bullet-Journal/journals/2026/09-September/_attachments/2026_09_06_22_05_54.png",
-    "Enoughness/posts/_attachments",
     "Evergreen-Notes/Permanent-Notes/_attachments",
     "Deep-Work-Machine/Number of Words/2026/08-August/number-of-words_2026-08.json",
     "Deep-Work-Machine/Number of Words/2026/08-August/number-of-words_2026-08.csv",
