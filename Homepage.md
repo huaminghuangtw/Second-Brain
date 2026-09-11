@@ -52,11 +52,6 @@ dv.paragraph(blocks.join(" "));
 
 ---
 
-```dataviewjs
-// Force Dataview’s CALENDAR to open notes in a new tab
-app.workspace.getUnpinnedLeaf = () => app.workspace.getLeaf("tab");
-```
-
 ```dataview
 CALENDAR date
 FROM "Daily-Bullet-Journal"
@@ -162,7 +157,7 @@ dv.table(
 
 ---
 
-> [!example]- ✍️ Writing
+> [!example]- Writing
 >
 > ```dataviewjs
 > const drafts = dv.pages()
@@ -176,7 +171,7 @@ dv.table(
 > }
 > ```
 
-> [!example]- 🗒️ Notes
+> [!example]- Notes
 >
 > ```dataviewjs
 > const notes = dv.pages('"Evergreen-Notes/Permanent-Notes"');
@@ -211,7 +206,7 @@ dv.table(
 > dv.list(top3((a, b) => b._headings - a._headings).map(p => `${p.file.link} (${p._headings} headings)`));
 > ```
 
-> [!example]- 🗃️ Vault
+> [!example]- Vault
 >
 > ```dataviewjs
 > const { Utils } = await cJS();
@@ -318,7 +313,7 @@ dv.table(
 >
 > ```
 
-> [!bug]- 🌸 Retrospection
+> [!example]- Retrospection
 >
 > ```dataviewjs
 > const { Utils } = await cJS();
@@ -335,7 +330,7 @@ dv.table(
 > dv.list(pages.map(({ page }) => `${page.file.link}`));
 > ```
 
-> [!bug]- 🫶 Health
+> [!example]- Health
 >
 > ```dataviewjs
 > const CONFIG = {
@@ -398,7 +393,7 @@ dv.table(
 
 <!-- https://obsidian.md/help/plugins/search#Embed+search+results+in+a+note -->
 
-> [!quote]- 📌 Highlights
+> [!example]- Highlights
 >
 > ```query
 > /(?<=<mark>).+?(?=<\/mark>)/ --path:"Brainfoodie"
