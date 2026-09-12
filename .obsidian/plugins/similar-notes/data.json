@@ -1,0 +1,24 @@
+{
+  "modelProvider": "builtin",
+  "modelId": "sentence-transformers/all-MiniLM-L6-v2",
+  "includeFrontmatter": false,
+  "showSourceChunk": false,
+  "useGPU": true,
+  "excludeFolderPatterns": [
+    "Templates/",
+    "Archive/",
+    ".trash/",
+    "Excalidraw/"
+  ],
+  "excludeRegexPatterns": [],
+  "excludeFrontmatterRules": [],
+  "regexpTestInputText": "",
+  "noteDisplayMode": "smart",
+  "showAtBottom": true,
+  "sidebarResultCount": 10,
+  "bottomResultCount": 5,
+  "minSimilarityThreshold": 0,
+  "indexingDelaySeconds": 1,
+  "semanticLinkTrigger": ";;",
+  "lastPluginVersion": "1.7.0"
+}
