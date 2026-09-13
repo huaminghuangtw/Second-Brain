@@ -14,7 +14,7 @@
   "excludeFrontmatterRules": [],
   "regexpTestInputText": "",
   "noteDisplayMode": "smart",
-  "showAtBottom": true,
+  "showAtBottom": false,
   "sidebarResultCount": 10,
   "bottomResultCount": 5,
   "minSimilarityThreshold": 0,
