@@ -6,48 +6,36 @@ modified: 2026-09-07
 
 ```dataviewjs
 const CONFIG = {
-    startTime: {
-        hours: 4,
-        minutes: 30
-    },
-    endTime: {
-        hours: 20,
-        minutes: 30
-    },
-    totalBlocks: 31
+    startTime: { hours: 4, minutes: 30 },
+    endTime: { hours: 20, minutes: 30 },
+    totalBlocks: 32
 };
 
-let now = dv.date("now");
-let startTime = now.startOf("day").plus({
-    hours: CONFIG.startTime.hours,
-    minutes: CONFIG.startTime.minutes
-});
-let endTime = now.startOf("day").plus({
-    hours: CONFIG.endTime.hours,
-    minutes: CONFIG.endTime.minutes
-});
+const now = dv.date("now");
+const dayStart = now.startOf("day");
+const toTime = ({ hours, minutes }) => dayStart.plus({ hours, minutes });
 
-// 1 minute = 60 seconds = 60000 milliseconds
-let currentMinutes = (now - startTime) / 60000;
-let totalAwakeMinutes = (endTime - startTime) / 60000;
+const startTime = toTime(CONFIG.startTime);
+const endTime = toTime(CONFIG.endTime);
 
-let blockDuration = totalAwakeMinutes / CONFIG.totalBlocks;
+const currentIndex = Math.floor(
+    (now - startTime) / (endTime - startTime) * CONFIG.totalBlocks
+);
 
-let currentBlockIndex = Math.floor(currentMinutes / blockDuration);
+const QUARTER_MARKS = new Map([
+    [0, "1️⃣"],
+    [Math.floor(CONFIG.totalBlocks / 4), "2️⃣"],
+    [Math.floor(CONFIG.totalBlocks / 2), "3️⃣"],
+    [Math.floor(3 * CONFIG.totalBlocks / 4), "4️⃣"]
+]);
 
-let blocks = [];
-for (let i = 0; i < CONFIG.totalBlocks; i++) {
-    blocks.push(
-        i === currentBlockIndex ? "🔻" :
-        i === 0 ? "1️⃣" :
-        i === Math.floor(CONFIG.totalBlocks / 4) ? "2️⃣" :
-        i === Math.floor(CONFIG.totalBlocks / 2) ? "3️⃣" :
-        i === Math.floor(3 * CONFIG.totalBlocks / 4) ? "4️⃣" :
-        "⬛️"
-    );
-}
+const blocks = Array.from({ length: CONFIG.totalBlocks }, (_, i) =>
+    i === currentIndex ? "🔻" : QUARTER_MARKS.get(i) ?? "⬛️"
+);
 
-dv.paragraph(blocks.join(" "));
+const bar = dv.el("div", blocks.join(""));
+bar.style.whiteSpace = "nowrap";
+bar.style.letterSpacing = "0.26em";
 ```
 
 ---
