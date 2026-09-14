@@ -28,7 +28,7 @@ body {
   --callout-content-padding: var(--size-2-3);
 
   --inline-title-color: Beige;
-  --inline-title-line-height: 2.6;
+  --inline-title-line-height: 1.8em;
 
   --metadata-background: rgba(var(--color-orange-rgb), 0.05);
   --metadata-border-radius: 8px;
