@@ -1030,5 +1030,14 @@
       ],
       "key": "K"
     }
+  ],
+  "better-links:create-link-at-cursor": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "K"
+    }
   ]
 }

@@ -1,0 +1,193 @@
+/* ── Better Links popover ── */
+
+/* 外层透明交互容器：扩展鼠标命中区域，不影响视觉 */
+.better-links-popover-wrapper {
+	z-index: var(--layer-popover);
+}
+
+.better-links-popover {
+	width: 320px;
+	max-width: calc(100vw - 16px);
+	padding: 8px;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: var(--radius-m);
+	background: var(--background-primary);
+	box-shadow: var(--shadow-s);
+	opacity: 0;
+	transition: opacity 150ms ease-out;
+}
+
+.better-links-popover.is-visible {
+	opacity: 1;
+}
+
+/* badge row */
+.better-links-popover__badge-row {
+	margin-bottom: 6px;
+}
+
+.better-links-popover__badge {
+	display: inline-block;
+	padding: 2px 6px;
+	border-radius: var(--radius-s);
+	background: var(--background-secondary);
+	color: var(--text-muted);
+	font-size: var(--font-smallest);
+	font-weight: 500;
+}
+
+/* form */
+.better-links-popover__form {
+	display: flex;
+	flex-direction: column;
+	gap: 6px;
+}
+
+.better-links-popover__input {
+	width: 100%;
+	padding: 6px 8px;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: var(--radius-s);
+	background: var(--background-primary);
+	color: var(--text-normal);
+	font-size: var(--font-ui-small);
+}
+
+/* destination 输入行：input + 浮动警告图标 */
+.better-links-popover__input-row {
+	position: relative;
+}
+
+.better-links-popover__input-row .better-links-popover__input {
+	width: 100%;
+}
+
+.better-links-popover__input-warning {
+	position: absolute;
+	right: 6px;
+	top: 50%;
+	transform: translateY(-50%);
+	cursor: default;
+	font-size: var(--font-ui-small);
+	line-height: 1;
+	pointer-events: auto;
+	text-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+}
+
+.better-links-popover__input-warning.is-hidden {
+	display: none;
+}
+
+.better-links-popover__input:focus {
+	border-color: var(--interactive-accent);
+	outline: none;
+	box-shadow: 0 0 0 2px color-mix(in srgb, var(--interactive-accent) 20%, transparent);
+}
+
+.better-links-popover__input.mod-warning {
+	border-color: var(--text-error);
+	background: color-mix(in srgb, var(--text-error) 8%, var(--background-primary));
+}
+
+.better-links-popover__input.mod-warning:focus {
+	border-color: var(--text-error);
+	box-shadow: 0 0 0 2px color-mix(in srgb, var(--text-error) 20%, transparent);
+}
+
+/* footer with icon buttons */
+.better-links-popover__footer {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-top: 6px;
+}
+
+.better-links-popover__footer-left,
+.better-links-popover__footer-right {
+	display: flex;
+	align-items: center;
+	gap: 4px;
+}
+
+.better-links-popover__open-hint {
+	margin-left: 4px;
+	color: var(--text-muted);
+	font-size: var(--font-smallest);
+	white-space: nowrap;
+}
+
+.better-links-popover__open-hint.is-hidden {
+	display: none;
+}
+
+.better-links-popover__icon-btn {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 28px;
+	height: 28px;
+	padding: 0;
+	border: none;
+	border-radius: var(--radius-s);
+	background: transparent;
+	color: var(--text-muted);
+	cursor: pointer;
+}
+
+.better-links-popover__icon-btn:hover {
+	background: var(--background-modifier-hover);
+	color: var(--text-normal);
+}
+
+.better-links-popover__icon-btn.mod-danger:hover {
+	color: var(--text-error);
+}
+
+.better-links-popover__icon-btn svg {
+	width: 16px;
+	height: 16px;
+}
+
+.better-links-popover__icon-btn.is-hidden {
+	display: none;
+}
+
+/* settings page spacing */
+.better-links-settings h2 {
+	margin-bottom: 1rem;
+}
+
+.better-links-settings-group {
+	margin-bottom: 1.5rem;
+}
+
+/* ── Link suggest dropdown items ── */
+.better-links-suggest__title {
+	font-size: var(--font-ui-small);
+	line-height: 1.4;
+	color: var(--text-normal);
+}
+
+.better-links-suggest__path {
+	font-size: var(--font-ui-smaller);
+	color: var(--text-muted);
+	margin-top: 1px;
+}
+
+.better-links-suggest__heading-prefix {
+	font-size: var(--font-ui-smaller);
+	color: var(--text-faint);
+}
+
+.better-links-suggest__heading-prefix--dim {
+	opacity: 0.5;
+}
+
+/* 非 Markdown 文件条目降色 */
+.better-links-suggest__item--non-md .better-links-suggest__title {
+	color: var(--text-muted);
+}
+
+.better-links-suggest__item--non-md .better-links-suggest__path {
+	color: var(--text-faint);
+}
