@@ -379,8 +379,6 @@ dv.table(
 > );
 > ```
 
-<!-- https://obsidian.md/help/plugins/search#Embed+search+results+in+a+note -->
-
 > [!example]- Highlights
 >
 > ```query
