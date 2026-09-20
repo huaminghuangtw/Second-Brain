@@ -91,7 +91,6 @@ blockquote {
   border-radius: 4px;
 }
 
-
 .markdown-preview-view :not(pre) > code,
 kbd {
   background: rgba(var(--mono-rgb-100), 0.08);
@@ -107,6 +106,10 @@ img {
 }
 
 /* Hide everything that distracts me */
+
+.notice-container {
+  display: none;
+}
 
 div[data-path$='.pdf']{
 	display: none;
