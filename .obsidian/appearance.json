@@ -7,13 +7,13 @@
   "translucency": true,
   "enabledCssSnippets": [
     "custom-links",
-    "style",
     "code",
     "footnotes",
     "properties",
     "comments",
     "table",
-    "quote"
+    "quote",
+    "style"
   ],
   "showViewHeader": false,
   "textFontFamily": "SF Pro Text",
