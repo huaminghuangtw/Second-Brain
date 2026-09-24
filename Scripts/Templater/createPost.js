@@ -1,7 +1,6 @@
 async function createPost(tp) {
     const collection = tp.config.template_file.basename.replace("T_", "");
 
-    // Enoughness posts back both issue numbering and publish-date staggering.
     const posts = collection === "Enoughness"
         ? app.vault.getFiles().filter(
             (f) => f.path.startsWith("Enoughness/posts/") && f.extension === "md"
@@ -12,11 +11,23 @@ async function createPost(tp) {
     if (collection !== "Enoughness" && collection !== "Microblog") {
         const userInput = await tp.system.prompt(`✏️ Title? (${collection})`);
         if (!userInput) return;
-        title = tp.user.toTitleCase(userInput);
+
+        if (tp.user.containsChinese(userInput)) {
+            title = userInput;
+        } else {
+            const casings = {
+                "Title Case": tp.user.toTitleCase,
+                "Sentence Case": tp.user.toSentenceCase,
+            };
+            const casing = await tp.system.suggester((name) => name, Object.keys(casings));
+            if (!casing) return;
+
+            title = casings[casing](userInput);
+        }
     }
 
     let fileName = tp.user.slugify(title);
-    const containsChinese = /[\u4e00-\u9fff]/.test(title);
+    const containsChinese = tp.user.containsChinese(title);
     if (containsChinese) {
         if (collection === "Blog") {
             fileName = tp.date.now("YYYYMMDD");
