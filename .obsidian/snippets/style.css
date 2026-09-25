@@ -107,10 +107,6 @@ img {
 
 /* Hide everything that distracts me */
 
-/* .notice-container {
-  display: none;
-} */
-
 div[data-path$='.pdf']{
 	display: none;
 }
