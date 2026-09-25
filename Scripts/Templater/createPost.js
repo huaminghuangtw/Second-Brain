@@ -19,7 +19,7 @@ async function createPost(tp) {
                 "Title Case": tp.user.toTitleCase,
                 "Sentence Case": tp.user.toSentenceCase,
             };
-            const casing = await tp.system.suggester((name) => name, Object.keys(casings));
+            const casing = await tp.system.suggester((name) => name, Object.keys(casings), false, "🤖  Which one?");
             if (!casing) return;
 
             title = casings[casing](userInput);
