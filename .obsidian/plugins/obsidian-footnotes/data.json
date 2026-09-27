@@ -1,5 +1,21 @@
 {
-  "enableAutoSuggest": true,
+  "settingsVersion": 2,
+  "insertAtEndOfWord": true,
+  "expandSelectionToWholeWords": true,
+  "enablePopupEditor": true,
+  "enableFootnotePrefix": false,
   "enableFootnoteSectionHeading": false,
-  "FootnoteSectionHeading": "Footnotes"
+  "footnoteSectionHeading": "# Footnotes",
+  "enableRemoveBlankLastLines": true,
+  "renumberNamedFootnotes": false,
+  "lintDeleteOrphanedReferences": false,
+  "lintDeleteOrphanedDefinitions": false,
+  "lintMergeDuplicateDefinitions": false,
+  "lintFixPunctuation": true,
+  "lintFixLazyDefinitions": true,
+  "lintMoveToBottom": true,
+  "lintReindex": true,
+  "lintApplyPrefix": true,
+  "lintOnSave": false,
+  "lintOnFootnoteCreation": false
 }

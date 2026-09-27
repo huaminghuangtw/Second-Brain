@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d97fea53ebecb9c5",
+        "id": "7ab7f14722482fa2",
         "type": "tabs",
         "children": [
           {
-            "id": "9511ef38d0a2ec47",
+            "id": "1120a18ecce527fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/03-March/2025_03_15.md",
+                "file": "Daily-Bullet-Journal/journals/2026/09-September/2026_09_27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025_03_15"
+              "title": "2026_09_27"
             }
           }
         ]
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"list of dictionaries\"",
+                "query": "tag:#BuJo/👍GoodHabits",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.83203125
+    "width": 291.83203125,
+    "collapsed": true
   },
   "right": {
     "id": "788977113be17e7b",
@@ -88,7 +89,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/03-March/2025_03_15.md"
+                "file": "Daily-Bullet-Journal/journals/2026/09-September/2026_09_26.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -182,11 +183,13 @@
               "title": "Local graph"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 388.4659423828125
+    "width": 388.4659423828125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,20 +201,34 @@
       "similar-notes:Open Similar Notes": false
     }
   },
-  "active": "9511ef38d0a2ec47",
+  "active": "1120a18ecce527fc",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2017/09-September/2017_09_26.md",
-    "Daily-Bullet-Journal/journals/2015/09-September/2015_09_26.md",
-    "Daily-Bullet-Journal/journals/2016/09-September/2016_09_26.md",
     "Homepage.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_27.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_24.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_27.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_15.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_18.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_19.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_20.md",
     "Daily-Bullet-Journal/journals/2026/09-September/2026_09_26.md",
-    "Weekly-Mindware-Update/README.md",
-    "Evergreen-Lists/README.md",
-    "Dear-Today-Me/README.md",
+    "Enoughness/posts/enoughness-48.md",
+    "Daily-Bullet-Journal/journals/2015/09-September/2015_09_27.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_23.md",
     "Daily-Bullet-Journal/journals/2026/09-September/2026_09_25.md",
-    "Evergreen-Notes/Fleeting-Notes.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_13.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_17.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_21.md",
+    "Daily-Bullet-Journal/journals/2021/09-September/2021_09_26.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_30.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_04.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_27.md",
+    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_27.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_27.md",
     "Daily-Bullet-Journal/journals/2024/09-September/2024_09_26.md",
-    "Users/huaminghuang/Library/Mobile Documents/iCloud~md~obsidian/Documents/Second-Brain/Evergreen-Notes/Fleeting-Notes.md",
+    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_28.md",
+    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_27.md",
+    "Daily-Bullet-Journal/journals/2021/09-September/2021_09_27.md",
     "Users/huaminghuang/Library/Mobile Documents/iCloud~md~obsidian/Documents/Second-Brain/Evergreen-Notes",
     "Users/huaminghuang/Library/Mobile Documents/iCloud~md~obsidian/Documents/Second-Brain",
     "Users/huaminghuang/Library/Mobile Documents/iCloud~md~obsidian/Documents",
@@ -220,20 +237,6 @@
     "Users/huaminghuang/Library",
     "Users/huaminghuang",
     "Users",
-    "Daily-Bullet-Journal/journals/2018/09-September/2018_09_01.md",
-    "Daily-Bullet-Journal/journals/2020/09-September/2020_09_26.md",
-    "Daily-Bullet-Journal/journals/2021/09-September/2021_09_26.md",
-    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_26.md",
-    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_25.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_25.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_26.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_25.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_24.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_27.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_27.md",
-    "Evergreen-Notes/Permanent-Notes/the-art-of-start-stop-and-finish.md",
-    "Evergreen-Notes/Permanent-Notes/every-single-day-chop-wood-carry-water.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_28.md",
     "iCloud/images/7cb9ee130cac4bbdc4d3572fa8e24d4a.png",
     "iCloud/images/33ca0c8f58d4b33095905816341b160e.heic",
     "iCloud/images/Notes shared with Yi/Collaborative Notes/attachments",
