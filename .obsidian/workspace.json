@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fa8c221aa2da70ce",
+        "id": "c792f82edee431ae",
         "type": "tabs",
         "children": [
           {
-            "id": "6c51374310f1684b",
+            "id": "6d0b92aa5f3ad44d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2026/09-September/2026_09_30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2026_09_30"
             }
           }
         ]
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"icloud sync\"",
+                "query": "papaya",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/09-September/2026_09_30.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Homepage.md",
+                "file": "Evergreen-Notes/Permanent-Notes/prompt-engineering.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -200,45 +200,45 @@
       "similar-notes:Open Similar Notes": false
     }
   },
-  "active": "6c51374310f1684b",
+  "active": "6d0b92aa5f3ad44d",
   "lastOpenFiles": [
     "Daily-Bullet-Journal/journals/2026/09-September/2026_09_29.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/_attachments/Pasted image 20260929210816.png",
     "Homepage.md",
-    "Weekly-Mindware-Update/issues/2025/2025w9.md",
-    "Weekly-Mindware-Update/issues/2025/2025w6.md",
-    "Weekly-Mindware-Update/issues/2025/2025w51.md",
-    "Weekly-Mindware-Update/issues/2025/2025w7.md",
-    "Weekly-Mindware-Update/issues/2025/2025w8.md",
-    "Weekly-Mindware-Update/issues/2025/2025w50.md",
-    "Weekly-Mindware-Update/issues/2025/2025w5.md",
-    "Weekly-Mindware-Update/issues/2025/2025w52.md",
-    "Weekly-Mindware-Update/issues/2025/2025w46.md",
-    "Weekly-Mindware-Update/issues/2025/2025w48.md",
-    "Weekly-Mindware-Update/issues/2025/2025w47.md",
-    "Weekly-Mindware-Update/issues/2025/2025w49.md",
-    "Weekly-Mindware-Update/issues/2025/2025w44.md",
-    "Weekly-Mindware-Update/issues/2025/2025w36.md",
-    "Weekly-Mindware-Update/issues/2025/2025w43.md",
-    "Weekly-Mindware-Update/issues/2025/2025w45.md",
-    "Weekly-Mindware-Update/issues/2025/2025w42.md",
-    "Weekly-Mindware-Update/issues/2025/2025w41.md",
-    "Weekly-Mindware-Update/issues/2025/2025w37.md",
-    "Weekly-Mindware-Update/issues/2025/2025w40.md",
-    "Weekly-Mindware-Update/issues/2025/2025w4.md",
-    "Weekly-Mindware-Update/issues/2025/2025w39.md",
-    "Weekly-Mindware-Update/issues/2025/2025w22.md",
-    "Weekly-Mindware-Update/issues/2025/2025w38.md",
-    "Weekly-Mindware-Update/issues/2025",
-    "Weekly-Mindware-Update/issues/2024",
-    "Weekly-Mindware-Update/issues/2026",
-    "Weekly-Mindware-Update/issues",
-    "Weekly-Mindware-Update",
-    "vault-stats.json",
-    "Users/huaminghuang/Library/Mobile Documents/iCloud~md~obsidian/Documents/Second-Brain/Evergreen-Notes",
-    "Users/huaminghuang/Library/Mobile Documents/iCloud~md~obsidian/Documents/Second-Brain",
-    "Users/huaminghuang/Library/Mobile Documents/iCloud~md~obsidian/Documents",
-    "Users/huaminghuang/Library/Mobile Documents/iCloud~md~obsidian",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_27.md",
+    "Life-Notes/Life/razor.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_30.md",
+    "iCloud/🧸 Things I didn’t know I needed.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_30.md",
+    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_30.md",
+    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_30.md",
+    "Daily-Bullet-Journal/journals/2022/09-September/2022_09_30.md",
+    "Daily-Bullet-Journal/journals/2021/09-September/2021_09_30.md",
+    "Daily-Bullet-Journal/journals/2017/09-September/2017_09_30.md",
+    "Daily-Bullet-Journal/journals/2020/09-September/2020_09_30.md",
+    "Evergreen-Notes/Permanent-Notes/prompt-engineering.md",
+    "Q&A.md",
+    "Evergreen-Notes/Permanent-Notes/how-to-use-ai-effectively.md",
+    "Evergreen-Notes/Permanent-Notes/ai-prompt-hacks.md",
+    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
+    "Evergreen-Notes/Permanent-Notes/teaching-is-the-most-powerful-form-of-learning.md",
+    "iCloud/Naval’s Recommended Book List.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_28.md",
+    "Evergreen-Notes/Permanent-Notes/the-lollapalooza-effect.md",
+    "Life-Notes/Running/marathon-checklist.md",
+    "Daily-Bullet-Journal/journals 2",
+    "Visuals/Fitness 2",
+    "Visuals/Sleep 2",
+    "Visuals/Nutrition 2",
+    "Visuals/Finance 2",
+    "Visuals/Relationships 2",
+    "Visuals/Life Pro Tips 2",
+    "Visuals/Daily Routine 2",
+    "Visuals/Personal Growth 2",
+    "Visuals/Success 2",
+    "Drafts/_why-i-write-and-run 2.md",
+    "Drafts/_taitung-trip 2.md",
+    "Drafts/_finland 2.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/_attachments/462c854960f0ac43f60a445bd3aed22e.png",
     "iCloud/images/7cb9ee130cac4bbdc4d3572fa8e24d4a.png",
     "iCloud/images/3ba0bb83a225301d0220ba0e6f46d467.png",
     "iCloud/images/3f78c2b7b4673b445bfaa139a99d153a.png",
