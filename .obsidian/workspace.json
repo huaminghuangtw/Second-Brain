@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "c792f82edee431ae",
+        "id": "cb262ab4f0536b8b",
         "type": "tabs",
         "children": [
           {
-            "id": "6d0b92aa5f3ad44d",
+            "id": "ecf904de592c4036",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/09-September/2026_09_30.md",
+                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_09_30"
+              "title": "2026_10_01"
+            }
+          },
+          {
+            "id": "717e32209de9bc27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/fame.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "fame"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "papaya",
+                "query": "line:(information knowledge)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.83203125,
-    "collapsed": true
+    "width": 291.83203125
   },
   "right": {
     "id": "788977113be17e7b",
@@ -89,7 +104,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/09-September/2026_09_30.md"
+                "file": "Daily-Bullet-Journal/journals/2024/11-November/2024_11_18.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -130,7 +145,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "iCloud/💰Investment.md"
+                "file": "Daily-Bullet-Journal/journals/2024/11-November/2024_11_18.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -183,7 +198,8 @@
               "title": "Local graph"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,53 +216,53 @@
       "similar-notes:Open Similar Notes": false
     }
   },
-  "active": "6d0b92aa5f3ad44d",
+  "active": "717e32209de9bc27",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_29.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_01.md",
     "Homepage.md",
+    "Evergreen-Notes/Permanent-Notes/information-overwhelm.md",
+    "Daily-Bullet-Journal/journals/2024/08-August/2024_08_06.md",
+    "Evergreen-Notes/Permanent-Notes/productivity.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_20.md",
+    "Daily-Bullet-Journal/journals/2025/06-June/2025_06_08.md",
+    "Evergreen-Notes/Permanent-Notes/journaling.md",
     "Daily-Bullet-Journal/journals/2026/09-September/2026_09_27.md",
-    "Life-Notes/Life/razor.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_30.md",
-    "iCloud/🧸 Things I didn’t know I needed.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_30.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_30.md",
-    "Daily-Bullet-Journal/journals/2023/09-September/2023_09_30.md",
-    "Daily-Bullet-Journal/journals/2022/09-September/2022_09_30.md",
-    "Daily-Bullet-Journal/journals/2021/09-September/2021_09_30.md",
-    "Daily-Bullet-Journal/journals/2017/09-September/2017_09_30.md",
-    "Daily-Bullet-Journal/journals/2020/09-September/2020_09_30.md",
-    "Evergreen-Notes/Permanent-Notes/prompt-engineering.md",
-    "Q&A.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-use-ai-effectively.md",
-    "Evergreen-Notes/Permanent-Notes/ai-prompt-hacks.md",
-    "Evergreen-Notes/Permanent-Notes/learning-is-the-single-best-investment-that-you-can-make-for-your-time.md",
-    "Evergreen-Notes/Permanent-Notes/teaching-is-the-most-powerful-form-of-learning.md",
-    "iCloud/Naval’s Recommended Book List.md",
     "Daily-Bullet-Journal/journals/2026/09-September/2026_09_28.md",
-    "Evergreen-Notes/Permanent-Notes/the-lollapalooza-effect.md",
-    "Life-Notes/Running/marathon-checklist.md",
-    "Daily-Bullet-Journal/journals 2",
-    "Visuals/Fitness 2",
-    "Visuals/Sleep 2",
-    "Visuals/Nutrition 2",
-    "Visuals/Finance 2",
-    "Visuals/Relationships 2",
-    "Visuals/Life Pro Tips 2",
-    "Visuals/Daily Routine 2",
-    "Visuals/Personal Growth 2",
-    "Visuals/Success 2",
-    "Drafts/_why-i-write-and-run 2.md",
-    "Drafts/_taitung-trip 2.md",
-    "Drafts/_finland 2.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/_attachments/462c854960f0ac43f60a445bd3aed22e.png",
-    "iCloud/images/7cb9ee130cac4bbdc4d3572fa8e24d4a.png",
-    "iCloud/images/3ba0bb83a225301d0220ba0e6f46d467.png",
-    "iCloud/images/3f78c2b7b4673b445bfaa139a99d153a.png",
-    "iCloud/images/4a14e55d703657df96056ff0fe017c7d.jpg",
-    "iCloud/images/4a19e7c48ec8638e89aed83fd5fd9189.png",
-    "iCloud/images/4dc9a641e00ec37d503bd2a879e12b83.png",
-    "iCloud/images/5a32a9280dd001aadafd75a30a3f5889.png",
-    "iCloud/images/5c875b0eb4f6a53565d88610046968d6.png",
-    "iCloud/images/5fccea3eef763b77099185695ebd088b.jpeg"
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_29.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_30.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_18.md",
+    "Daily-Bullet-Journal/journals/2025/08-August/2025_08_04.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_24.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_16.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_29.md",
+    "Evergreen-Notes/Permanent-Notes/supplements.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_28.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_01.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_18.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_01.md",
+    "Daily-Bullet-Journal/journals/2024/03-March/2024_03_31.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_01.md",
+    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_01.md",
+    "Daily-Bullet-Journal/journals/2021/10-October/2021_10_01.md",
+    "Daily-Bullet-Journal/journals/2021/10-October",
+    "Visuals/Fitness/Darebee/Shoulder Taps.gif",
+    "Visuals/Fitness/Darebee/Chest Expansions.gif",
+    "Visuals/Fitness/Darebee/Superman Stretch Hold.gif",
+    "Visuals/Fitness/Darebee/V-Extensions.gif",
+    "Visuals/Fitness/Darebee/Raised Legs Hold.gif",
+    "Visuals/Fitness/Darebee/Elbow Clicks.gif",
+    "Visuals/Fitness/Darebee/Wide Arm Circles.gif",
+    "Visuals/Fitness/Darebee/Plank Leg Raises.gif",
+    "Visuals/Fitness/Darebee/Jumping Jacks.gif",
+    "Visuals/Fitness/Darebee/Bridge Taps.gif",
+    "Visuals/Personal Growth",
+    "Visuals/Life Pro Tips",
+    "Daily-Bullet-Journal/journals/2020/10-October",
+    "Daily-Bullet-Journal/journals/2019/10-October",
+    "Daily-Bullet-Journal/journals/2018/10-October",
+    "Daily-Bullet-Journal/journals/2016/10-October",
+    "Daily-Bullet-Journal/journals/2015/10-October",
+    "Daily-Bullet-Journal/journals/2026/10-October",
+    "Daily-Bullet-Journal/journals 2"
   ]
 }
