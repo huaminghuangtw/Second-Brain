@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4bde139093f127ff",
+        "id": "e93fd506eeed2c4a",
         "type": "tabs",
         "children": [
           {
-            "id": "0d8394a23369c269",
+            "id": "5f1bbe30e5a87883",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_04.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2026_10_04"
             }
           }
         ]
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "徐躍誠",
+                "query": "蒜頭公有零售市場",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,13 +188,23 @@
       "similar-notes:Open Similar Notes": false
     }
   },
-  "active": "0d8394a23369c269",
+  "active": "5f1bbe30e5a87883",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_03.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_27.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_04.md",
+    "Homepage.md",
+    "Evergreen-Lists/world-cuisine/world-cuisine.pdf",
+    "Evergreen-Lists/tech-pro-tip/tech-pro-tip.pdf",
+    "Evergreen-Lists/shortcuts-dev-tip/shortcuts-dev-tip.pdf",
+    "Evergreen-Lists/life-pro-tip/life-pro-tip.pdf",
+    "Evergreen-Lists/keyboard-hotkey/keyboard-hotkey.pdf",
+    "Evergreen-Lists/journal-prompt/journal-prompt.pdf",
+    "Evergreen-Lists/home-exercise/home-exercise.pdf",
+    "Evergreen-Lists/healthy-food/healthy-food.pdf",
+    "Evergreen-Lists/gym-workout/gym-workout.pdf",
+    "Evergreen-Lists/ai-prompt/ai-prompt.pdf",
     "Evergreen-Lists/world-cuisine/world-cuisine.md",
     "Evergreen-Lists/tech-pro-tip/tech-pro-tip.md",
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_27.md",
     "Evergreen-Lists/shortcuts-dev-tip/shortcuts-dev-tip.md",
     "Evergreen-Lists/life-pro-tip/life-pro-tip.md",
     "Evergreen-Lists/keyboard-hotkey/keyboard-hotkey.md",
@@ -204,37 +214,27 @@
     "Evergreen-Lists/gym-workout/gym-workout.md",
     "Evergreen-Lists/ai-prompt/ai-prompt.md",
     "Evergreen-Lists/cheat-sheet/cheat-sheet.md",
-    "Brainfoodie/posts/how-money-actually-works.md",
-    "Evergreen-Notes/Permanent-Notes/the-story-of-the-cracked-pot.md",
-    "Evergreen-Notes/Permanent-Notes/wabi-sabi.md",
-    "iCloud/🏠 Dream Smart Home.md",
-    "iCloud/_attachments/Pasted image 20261003160839.png",
-    "iCloud/_attachments",
-    "Evergreen-Notes/Permanent-Notes/the-spillover-effect.md",
-    "Evergreen-Notes/Permanent-Notes/the-catfish-effect.md",
-    "Evergreen-Notes/Permanent-Notes/Kintsugi.md",
-    "Evergreen-Notes/Permanent-Notes/perfectionism.md",
-    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_25.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_01.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_22.md",
-    "Evergreen-Notes/Permanent-Notes/work-smart.md",
-    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20261003093731.png",
-    "Evergreen-Notes/Permanent-Notes/_attachments",
-    "Daily-Bullet-Journal/journals/2026/10-October/_attachments/Pasted image 20261003093246.png",
-    "Daily-Bullet-Journal/journals/2026/10-October/_attachments",
-    "Evergreen-Notes/Permanent-Notes/_attachments/e13cf68748e5c19e3b3f7ed42db54e01.png",
-    "Evergreen-Notes/Permanent-Notes/e13cf68748e5c19e3b3f7ed42db54e01.png",
-    "Evergreen-Notes/Permanent-Notes/_atatchments/e13cf68748e5c19e3b3f7ed42db54e01.png",
-    "Evergreen-Notes/Permanent-Notes/_atatchments",
-    "Evergreen-Notes/Permanent-Notes/untitled folder",
-    "Daily-Bullet-Journal/journals/2021/10-October",
-    "Visuals/Fitness/Darebee/Shoulder Taps.gif",
-    "Visuals/Fitness/Darebee/Chest Expansions.gif",
-    "Visuals/Fitness/Darebee/Superman Stretch Hold.gif",
-    "Visuals/Fitness/Darebee/V-Extensions.gif",
-    "Visuals/Personal Growth",
-    "Visuals/Life Pro Tips",
-    "Daily-Bullet-Journal/journals/2020/10-October",
-    "Daily-Bullet-Journal/journals/2019/10-October"
+    "Daily-Bullet-Journal/journals/2026/10-October/_attachments 2/222c8bd212866cf3ee95638504b28497.png",
+    "Daily-Bullet-Journal/journals/2026/10-October/_attachments 2/2026_10_03_18_36_36.png",
+    "Evergreen-Lists/scripts/pandoc/node_modules/fs-extra/node_modules/jsonfile/README.md",
+    "Evergreen-Lists/scripts/pandoc/node_modules/fs-extra/node_modules/jsonfile/CHANGELOG.md",
+    "Evergreen-Lists/scripts/pandoc/node_modules/universalify/README.md",
+    "Evergreen-Lists/scripts/pandoc/node_modules/twemoji/README.md",
+    "Evergreen-Lists/scripts/pandoc/node_modules/supports-preserve-symlinks-flag/README.md",
+    "Evergreen-Lists/scripts/pandoc/node_modules/supports-preserve-symlinks-flag/CHANGELOG.md",
+    "Evergreen-Lists/scripts/pandoc/node_modules/wrappy/README.md",
+    "Evergreen-Lists/scripts/pandoc/node_modules/twemoji-parser/README.md",
+    "Evergreen-Lists/scripts/pandoc/node_modules/twemoji-parser/LICENSE.md",
+    "Evergreen-Lists/scripts/pandoc/node_modules/jsonfile/README.md",
+    "Evergreen-Lists/scripts/pandoc/node_modules/jsonfile/CHANGELOG.md",
+    "Evergreen-Lists/scripts/pandoc/node_modules/resolve/SECURITY.md",
+    "Evergreen-Lists/scripts/pandoc/twemoji/2328.svg",
+    "Evergreen-Lists/scripts/pandoc/twemoji/2194.svg",
+    "Evergreen-Lists/scripts/pandoc/twemoji/1f9be.svg",
+    "Evergreen-Lists/scripts/pandoc/twemoji/1f957.svg",
+    "Evergreen-Lists/scripts/pandoc/twemoji/1f951.svg",
+    "Evergreen-Lists/scripts/pandoc/twemoji/1f916.svg",
+    "Evergreen-Lists/scripts/pandoc/twemoji/1f609.svg",
+    "Evergreen-Lists/scripts/pandoc/twemoji/1f4f1.svg"
   ]
 }
