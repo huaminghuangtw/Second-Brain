@@ -3,23 +3,15 @@ class Utils {
         return arr[Math.floor(Math.random() * arr.length)];
     }
 
-    getAllFilesByExtension(folderPath, fileExtension) {
-        const files = app.vault.getFiles();
-
-        return (
-            files
-                .filter(
-                    (file) =>
-                        file.path.startsWith(folderPath) &&
-                        file.extension === fileExtension
-                )
-                // Sort the filtered files by name in descending order (Z to A)
-                .sort((a, b) => {
-                    if (a.name > b.name) return -1;
-                    if (a.name < b.name) return 1;
-                    return 0;
-                })
+    getRandomFile(folderPath, predicate) {
+        const prefix = `${folderPath}/`;
+        const matches = app.vault.getFiles().filter(
+            (file) =>
+                file.path.startsWith(prefix) &&
+                predicate(file, file.path.slice(prefix.length))
         );
+
+        return this.getRandomItem(matches);
     }
 
     renderEditLink(dv, uri) {
@@ -48,23 +40,5 @@ class Utils {
                 page,
             }))
         );
-    }
-
-    // https://docs.github.com/en/rest/git/trees?apiVersion=2022-11-28#get-a-tree
-    async getRepoTree(repoOwner, repoName) {
-        const url = `https://api.github.com/repos/${repoOwner}/${repoName}/git/trees/main?recursive=true`;
-        const response = await fetch(url, {
-            headers: {
-                accept: "application/vnd.github+json",
-                "X-GitHub-Api-Version": "2022-11-28",
-            }
-        });
-        return response.json().tree;
-    }
-
-    async getFileContent(repoOwner, repoName, filePath) {
-        let url = `https://raw.githubusercontent.com/${repoOwner}/${repoName}/main/${filePath}`;
-        let response = await fetch(url);
-        return response.text();
     }
 }
