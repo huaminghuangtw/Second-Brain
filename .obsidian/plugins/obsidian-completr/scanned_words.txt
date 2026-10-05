@@ -52281,6 +52281,7 @@ integer
 inferring
 itho
 ioDX
+indices
 wrong
 world
 with
@@ -79798,6 +79799,7 @@ Tunnbröd
 Tack
 TXJO
 TFKm
+Titanic
 escape
 eyes
 everyone
@@ -110509,6 +110511,10 @@ dfto
 daskw
 dhNtP
 dgV
+diaper
+disciplinary
+ditch
+dotfile
 vscode
 values
 value
@@ -111904,6 +111910,7 @@ vMLr
 viBi
 vvo
 vipfI
+venture
 lineNumber
 link
 location
@@ -113651,6 +113658,7 @@ lmj
 lHzC
 latn
 langua
+luxuriously
 Health
 Highlights
 Holistic
@@ -115345,6 +115353,10 @@ HGUT
 HnTBD
 Hkf
 Hlj
+Hybridize
+Heinlein
+Handshakes
+HOME
 hours
 held
 habits
@@ -117064,6 +117076,9 @@ hOM
 hBp
 hjw
 hil
+heavenly
+hog
+heavyweight
 CONFIG
 City
 Chiayi
@@ -119172,6 +119187,7 @@ Ciqmj
 Cuf
 Cubes
 CJS
+Channing
 sleepTime
 startTheDayAt
 speed
@@ -121929,6 +121945,16 @@ sRB
 suM
 sJv
 sheets
+staged
+staging
+summarized
+sonnet
+specialist
+specialty
+superpowers
+succeeded
+sages
+showUntrackedFiles
 Search
 Stay
 Saturday
@@ -124286,6 +124312,9 @@ SRwh
 SFW
 SUG
 Slash
+Specialize
+Specialization
+Sunset
 Reminders
 Run
 Right
@@ -126177,6 +126206,9 @@ RWLr
 RSZ
 RoR
 RyGY
+Removes
+REPO
+Residence
 randomReminder
 randomBulletPoint
 run
@@ -128329,6 +128361,10 @@ rUMV
 rJo
 rPAe
 realise
+railing
+ranging
+redeemed
+refinement
 Friday
 For
 Founder
@@ -130049,6 +130085,8 @@ FaS
 Fov
 FfV
 FfFQ
+FOLDER
+Fair
 bedTime
 but
 befc
@@ -132009,6 +132047,12 @@ bZJS
 bpKE
 bPl
 bXlb
+basename
+betrayal
+breathed
+babes
+bravely
+bashrc
 July
 Jacky
 Jerry
@@ -135094,6 +135138,10 @@ DvT
 DuT
 DZi
 Dgfl
+Doppelherz
+Daylight
+Dotfiles
+Dotfile
 BuJo
 BrainFood
 Base
@@ -136926,6 +136974,9 @@ BEj
 BSeiA
 BNzr
 BiauKaiTC
+Boolean
+Biloba
+Barbara
 Grateful
 Garmin
 Goal
@@ -138569,6 +138620,8 @@ GjZ
 GcfI
 Ground
 Gotcha
+Generalize
+Ginkgo
 Achieved
 Adventure
 Airbnb
@@ -140447,6 +140500,9 @@ AqM
 AVC
 ABO
 AnBp
+Armpit
+Ahmed
+Aborting
 NewPost
 Novelty
 NOTE
@@ -145251,6 +145307,12 @@ gnng
 gaF
 gNo
 gUi
+gallantly
+generalist
+generalists
+gists
+gitignore
+gitconfig
 just
 jpg
 jpeg
@@ -148245,6 +148307,7 @@ Lsge
 LAVW
 LEf
 LFe
+Learnings
 Podcast
 ProTip
 Personalized
@@ -150169,6 +150232,7 @@ PXd
 PJw
 PIJ
 Pfs
+Prepares
 Meraki
 MERAKI
 MeTime
@@ -154883,6 +154947,10 @@ ueHJ
 uNli
 ucCV
 uMs
+underpins
+untracked
+unbidden
+udev
 your
 you
 yourself
@@ -159011,6 +159079,7 @@ kfA
 khd
 kGL
 kCV
+kintsugi
 You
 Your
 Yet
@@ -162906,6 +162975,7 @@ zIr
 zcC
 zOx
 zKQ
+zshrc
 Use
 Usually
 Uncle
@@ -164404,6 +164474,7 @@ UvO
 Uwprn
 Uzf
 UMlAW
+Unforgettable
 Kudu
 King
 Kevin
@@ -165869,6 +165940,10 @@ KWr
 KWn
 Kjq
 Kondensmilch
+Keeps
+Kalmar
+Krathon
+Kingsolver
 Xuucw
 Xso
 XyV

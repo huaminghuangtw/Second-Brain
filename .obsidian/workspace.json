@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e93fd506eeed2c4a",
+        "id": "4bd67b6759b52203",
         "type": "tabs",
         "children": [
           {
-            "id": "5f1bbe30e5a87883",
+            "id": "b13c12916e62b01d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_04.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_10_04"
+              "title": "Homepage"
             }
           }
         ]
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "蒜頭公有零售市場",
+                "query": "\"later than you think\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,6 +170,18 @@
               "icon": "lucide-git-fork",
               "title": "Local graph"
             }
+          },
+          {
+            "id": "5b0c7a1dc8365b4f",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/the-story-of-the-cracked-pot.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ]
       }
@@ -188,11 +200,35 @@
       "similar-notes:Open Similar Notes": false
     }
   },
-  "active": "5f1bbe30e5a87883",
+  "active": "b13c12916e62b01d",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_27.md",
+    "Evergreen-Notes/Permanent-Notes/solitude.md",
+    "Evergreen-Notes/Permanent-Notes/how-to-live-a-life.md",
     "Daily-Bullet-Journal/journals/2026/10-October/2026_10_04.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_18.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_05.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_13.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/_attachments/Pasted image 20261005172613.png",
     "Homepage.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_03.md",
+    "Today-I-Learned/posts/manage-your-dotfiles.md",
+    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_15.md",
+    "Weekly-Mindware-Update/issues/2026/2026w37.md",
+    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
+    "Evergreen-Notes/Permanent-Notes/busyness.md",
+    "Evergreen-Notes/Permanent-Notes/burnout.md",
+    "Weekly-Mindware-Update/issues/2026/2026w40.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_08.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_30.md",
+    "Evergreen-Notes/Permanent-Notes/wabi-sabi.md",
+    "Evergreen-Notes/Permanent-Notes/the-story-of-the-cracked-pot.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_05.md",
+    "Evergreen-Notes/Permanent-Notes/specific-knowledge.md",
+    "Evergreen-Notes/Permanent-Notes/specialization-is-for-insects.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_06.md",
+    "Brainfoodie/posts/titanic.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_04.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_05.md",
     "Evergreen-Lists/world-cuisine/world-cuisine.pdf",
     "Evergreen-Lists/tech-pro-tip/tech-pro-tip.pdf",
     "Evergreen-Lists/shortcuts-dev-tip/shortcuts-dev-tip.pdf",
@@ -203,38 +239,14 @@
     "Evergreen-Lists/healthy-food/healthy-food.pdf",
     "Evergreen-Lists/gym-workout/gym-workout.pdf",
     "Evergreen-Lists/ai-prompt/ai-prompt.pdf",
-    "Evergreen-Lists/world-cuisine/world-cuisine.md",
-    "Evergreen-Lists/tech-pro-tip/tech-pro-tip.md",
-    "Evergreen-Lists/shortcuts-dev-tip/shortcuts-dev-tip.md",
-    "Evergreen-Lists/life-pro-tip/life-pro-tip.md",
-    "Evergreen-Lists/keyboard-hotkey/keyboard-hotkey.md",
-    "Evergreen-Lists/journal-prompt/journal-prompt.md",
-    "Evergreen-Lists/home-exercise/home-exercise.md",
-    "Evergreen-Lists/healthy-food/healthy-food.md",
-    "Evergreen-Lists/gym-workout/gym-workout.md",
-    "Evergreen-Lists/ai-prompt/ai-prompt.md",
-    "Evergreen-Lists/cheat-sheet/cheat-sheet.md",
     "Daily-Bullet-Journal/journals/2026/10-October/_attachments 2/222c8bd212866cf3ee95638504b28497.png",
     "Daily-Bullet-Journal/journals/2026/10-October/_attachments 2/2026_10_03_18_36_36.png",
-    "Evergreen-Lists/scripts/pandoc/node_modules/fs-extra/node_modules/jsonfile/README.md",
-    "Evergreen-Lists/scripts/pandoc/node_modules/fs-extra/node_modules/jsonfile/CHANGELOG.md",
-    "Evergreen-Lists/scripts/pandoc/node_modules/universalify/README.md",
-    "Evergreen-Lists/scripts/pandoc/node_modules/twemoji/README.md",
-    "Evergreen-Lists/scripts/pandoc/node_modules/supports-preserve-symlinks-flag/README.md",
-    "Evergreen-Lists/scripts/pandoc/node_modules/supports-preserve-symlinks-flag/CHANGELOG.md",
-    "Evergreen-Lists/scripts/pandoc/node_modules/wrappy/README.md",
-    "Evergreen-Lists/scripts/pandoc/node_modules/twemoji-parser/README.md",
-    "Evergreen-Lists/scripts/pandoc/node_modules/twemoji-parser/LICENSE.md",
-    "Evergreen-Lists/scripts/pandoc/node_modules/jsonfile/README.md",
-    "Evergreen-Lists/scripts/pandoc/node_modules/jsonfile/CHANGELOG.md",
-    "Evergreen-Lists/scripts/pandoc/node_modules/resolve/SECURITY.md",
     "Evergreen-Lists/scripts/pandoc/twemoji/2328.svg",
     "Evergreen-Lists/scripts/pandoc/twemoji/2194.svg",
     "Evergreen-Lists/scripts/pandoc/twemoji/1f9be.svg",
     "Evergreen-Lists/scripts/pandoc/twemoji/1f957.svg",
     "Evergreen-Lists/scripts/pandoc/twemoji/1f951.svg",
     "Evergreen-Lists/scripts/pandoc/twemoji/1f916.svg",
-    "Evergreen-Lists/scripts/pandoc/twemoji/1f609.svg",
-    "Evergreen-Lists/scripts/pandoc/twemoji/1f4f1.svg"
+    "Evergreen-Lists/scripts/pandoc/twemoji/1f609.svg"
   ]
 }
