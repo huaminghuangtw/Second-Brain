@@ -1,5 +1,5 @@
 ---
-modified: 2026-09-07
+modified: 2026-10-05
 ---
 
 <!-- four-quarters-in-a-day -->
@@ -392,17 +392,7 @@ const { Utils } = await cJS();
 
 // https://huam.ing/dear-today-me
 
-let fileContentLifePhilosophy;
-
-try {
-    fileContentLifePhilosophy = await Utils.getFileContent(
-        "huaminghuangtw",
-        "Dear-Today-Me",
-        "index.md"
-    );
-} catch {
-    fileContentLifePhilosophy = await dv.io.load("Dear-Today-Me/index.md");
-}
+let fileContentLifePhilosophy = await dv.io.load("Dear-Today-Me/index.md");
 
 let allParagraphs = fileContentLifePhilosophy.split("\n\n");
 
@@ -425,29 +415,12 @@ Utils.renderEditLink(dv, editURI);
 
 // https://huam.ing/lists
 
-let reminders;
+const isListExport = ({ basename }, pathWithinRepo) =>
+    pathWithinRepo === `${basename}/${basename}.json`;
 
-try {
-    reminders = JSON.parse(
-        await Utils.getFileContent(
-            "huaminghuangtw",
-            "Evergreen-Lists",
-            Utils.getRandomItem(
-                (await Utils.getRepoTree("huaminghuangtw", "Evergreen-Lists"))
-                            .filter(item => item.path.includes("json"))
-            ).path
-        )
-    ).reminders;
-} catch {
-    reminders = JSON.parse(
-        await dv.io.load(
-            Utils.getRandomItem(
-                Utils.getAllFilesByExtension("Evergreen-Lists", "json")
-                    .map(file => file.path)
-            )
-        )
-    ).reminders;
-}
+const reminders = JSON.parse(
+    await dv.io.load(Utils.getRandomFile("Evergreen-Lists", isListExport).path)
+).reminders;
 
 let reminderWithSubtasks = reminders.filter(
     r => r.subtasks.length > 0
@@ -458,7 +431,7 @@ let randomReminder = Utils.getRandomItem(reminderWithSubtasks);
 let randomSubtask = Utils.getRandomItem(randomReminder.subtasks);
 
 let editURI2 = `shortcuts://run-shortcut?` +
-                `name=${encodeURIComponent("Search Reminders")}&` +
+                `name=${encodeURIComponent("_Search Reminders")}&` +
                 `input=${encodeURIComponent(randomSubtask.name)}`;
 
 dv.header(2, randomReminder.list);
@@ -473,38 +446,15 @@ Utils.renderEditLink(dv, editURI2);
 
 // https://huam.ing/wmu
 
-let files;
-let filePath;
-let fileContent;
-
 const weekNumber = dv.date("today").weekNumber;
 
-try {
-    files = await Utils.getRepoTree("huaminghuangtw", "Weekly-Mindware-Update");
+const file = Utils.getRandomFile(
+    "Weekly-Mindware-Update",
+    ({ name }) => name.endsWith(`w${weekNumber}.md`)
+);
 
-    filePath = Utils.getRandomItem(
-        files.filter(
-            f => f.path.includes(`w${weekNumber}`) &&
-            f.path.endsWith(".md")
-        )
-    ).path;
-
-    fileContent = await Utils.getFileContent(
-        "huaminghuangtw",
-        "Weekly-Mindware-Update",
-        filePath
-    );
-} catch {
-    files = Utils.getAllFilesByExtension("Weekly-Mindware-Update", "md");
-
-    filePath = Utils.getRandomItem(
-        files.filter(
-            f => f.path.includes(`w${weekNumber}`)
-        )
-    ).path;
-
-    fileContent = await dv.io.load(filePath);
-}
+const filePath = file.path;
+const fileContent = await dv.io.load(filePath);
 
 let titles = [
     "🧠 Wisdom I Pondered This Week",
