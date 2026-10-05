@@ -30,7 +30,7 @@ if (category !== "Parable") {
 created: <% created %>
 title: <% title %>
 category: <% category %>
-<%* if (category !== "Parable") { %>
+<%* if (category !== "Parable" && authorsOutput) { %>
 authors: <% authorsOutput %>
 <%* } %>
 ---
