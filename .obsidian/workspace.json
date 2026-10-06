@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4bd67b6759b52203",
+        "id": "1ccacdcb096c67b1",
         "type": "tabs",
         "children": [
           {
-            "id": "b13c12916e62b01d",
+            "id": "b24c960cbf640add",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2026_10_06"
             }
           }
         ]
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"later than you think\"",
+                "query": "耐熱",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_06.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -182,6 +182,21 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "1aa67ce1d6af52b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_06.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
           }
         ]
       }
@@ -200,49 +215,49 @@
       "similar-notes:Open Similar Notes": false
     }
   },
-  "active": "b13c12916e62b01d",
+  "active": "b24c960cbf640add",
   "lastOpenFiles": [
-    "Evergreen-Notes/Permanent-Notes/solitude.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-live-a-life.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_04.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_18.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_05.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_13.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/_attachments/Pasted image 20261005172613.png",
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_03.md",
-    "Today-I-Learned/posts/manage-your-dotfiles.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_15.md",
-    "Weekly-Mindware-Update/issues/2026/2026w37.md",
-    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
-    "Evergreen-Notes/Permanent-Notes/busyness.md",
-    "Evergreen-Notes/Permanent-Notes/burnout.md",
-    "Weekly-Mindware-Update/issues/2026/2026w40.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_08.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_08.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_06.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_01.md",
     "Daily-Bullet-Journal/journals/2026/09-September/2026_09_30.md",
-    "Evergreen-Notes/Permanent-Notes/wabi-sabi.md",
-    "Evergreen-Notes/Permanent-Notes/the-story-of-the-cracked-pot.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_05.md",
-    "Evergreen-Notes/Permanent-Notes/specific-knowledge.md",
-    "Evergreen-Notes/Permanent-Notes/specialization-is-for-insects.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_06.md",
-    "Brainfoodie/posts/titanic.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_04.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_05.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_04.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_03.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_02.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_29.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_28.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_24.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_05.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_17.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_24.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_20.md",
+    "Drafts/_shortcutomation-business-plan.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_01.md",
+    "Daily-Bullet-Journal/journals/2026/06-June/2026_06_02.md",
+    "iCloud/🧸 Things I didn’t know I needed.md",
+    "Life-Notes/Business/🏰 My Biz Empire.md",
+    "Evergreen-Notes/Permanent-Notes/always-start-with-end-in-mind.md",
+    "shortcutomation.com-Performance-on-Search-2026-10-06/裝置.csv",
+    "shortcutomation.com-Performance-on-Search-2026-10-06/網頁.csv",
+    "shortcutomation.com-Performance-on-Search-2026-10-06/篩選器.csv",
+    "shortcutomation.com-Performance-on-Search-2026-10-06/查詢.csv",
+    "shortcutomation.com-Performance-on-Search-2026-10-06/搜尋外觀.csv",
+    "shortcutomation.com-Performance-on-Search-2026-10-06/圖表.csv",
+    "shortcutomation.com-Performance-on-Search-2026-10-06/國家_地區.csv",
+    "shortcutomation.com-Performance-on-Search-2026-10-06",
+    "Evergreen-Notes/Permanent-Notes/how-to-use-ai-effectively.md",
+    "Life-Notes/Business/Implementations & Strategies.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_26.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_25.md",
+    "Evergreen-Lists/scripts/pandoc/node_modules/glob/README.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/_attachments/Pasted image 20261005172613.png",
     "Evergreen-Lists/world-cuisine/world-cuisine.pdf",
     "Evergreen-Lists/tech-pro-tip/tech-pro-tip.pdf",
-    "Evergreen-Lists/shortcuts-dev-tip/shortcuts-dev-tip.pdf",
-    "Evergreen-Lists/life-pro-tip/life-pro-tip.pdf",
-    "Evergreen-Lists/keyboard-hotkey/keyboard-hotkey.pdf",
-    "Evergreen-Lists/journal-prompt/journal-prompt.pdf",
-    "Evergreen-Lists/home-exercise/home-exercise.pdf",
-    "Evergreen-Lists/healthy-food/healthy-food.pdf",
-    "Evergreen-Lists/gym-workout/gym-workout.pdf",
-    "Evergreen-Lists/ai-prompt/ai-prompt.pdf",
     "Daily-Bullet-Journal/journals/2026/10-October/_attachments 2/222c8bd212866cf3ee95638504b28497.png",
     "Daily-Bullet-Journal/journals/2026/10-October/_attachments 2/2026_10_03_18_36_36.png",
     "Evergreen-Lists/scripts/pandoc/twemoji/2328.svg",
-    "Evergreen-Lists/scripts/pandoc/twemoji/2194.svg",
+    "Evergreen-Lists/scripts/pandoc/twemoji/43e7ad0f9a97bb8c7655bf3ec472ded6.svg",
     "Evergreen-Lists/scripts/pandoc/twemoji/1f9be.svg",
     "Evergreen-Lists/scripts/pandoc/twemoji/1f957.svg",
     "Evergreen-Lists/scripts/pandoc/twemoji/1f951.svg",
