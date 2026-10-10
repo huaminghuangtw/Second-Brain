@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6cf7331740ed233e",
+        "id": "220956c4237da454",
         "type": "tabs",
         "children": [
           {
-            "id": "1a9790221bf82c18",
+            "id": "98f27e86a023d670",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2024/07-July/2024_07_26.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2024_07_26"
+              "title": "Homepage"
             }
           }
         ]
@@ -56,12 +56,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "caffeinate",
+                "query": "汗蒸",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.83203125
+    "width": 291.83203125,
+    "collapsed": true
   },
   "right": {
     "id": "788977113be17e7b",
@@ -88,7 +89,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_10.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -214,36 +215,39 @@
       "similar-notes:Open Similar Notes": false
     }
   },
-  "active": "1a9790221bf82c18",
+  "active": "98f27e86a023d670",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_08.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_07.md",
-    "Evergreen-Notes/Permanent-Notes/you-can-achieve-anything-if-you-focus-on-one-thing-at-a-time.md",
-    "Evergreen-Notes/Permanent-Notes/the-consistently-good-rather-than-occasionally-great-principle.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_22.md",
+    "Brainfoodie/posts/what-i-talk-about-when-i-talk-about-running.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_12.md",
+    "Evergreen-Notes/Permanent-Notes/hanjeungmak.md",
+    "Blog/posts/20260822.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_10.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_09.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_11.md",
+    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_05.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_10.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_10.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/_attachments/411eb64e34fdc0bbebbbfcda68067c19.png",
+    "Daily-Bullet-Journal/journals/2024/10-October/_attachments/e0392d66a06ca391ca49602be211182d.png",
+    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_10.md",
+    "Daily-Bullet-Journal/journals/2022/10-October/2022_10_10.md",
+    "Daily-Bullet-Journal/journals/2021/10-October/2021_10_10.md",
+    "Daily-Bullet-Journal/journals/2020/10-October/2020_10_10.md",
+    "Daily-Bullet-Journal/journals/2018/10-October/2018_10_10.md",
+    "Daily-Bullet-Journal/journals/2017/10-October/2017_10_10.md",
+    "Evergreen-Notes/Fleeting-Notes.md",
+    "Evergreen-Notes/Permanent-Notes/speak-less-listen-more.md",
+    "Evergreen-Notes/Permanent-Notes/storytelling.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/_attachments/2026_10_09_20_23_32.jpeg",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_01.md",
     "Daily-Bullet-Journal/journals/2026/10-October/2026_10_06.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_16.md",
+    "temp.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_08.md",
+    "iCloud/Luggage Packing.md",
+    "iCloud/回台灣後要做的事.md",
     "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20261008110923.png",
     "Evergreen-Notes/Permanent-Notes/_attachments",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_08.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_08.md",
-    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_08.md",
-    "Daily-Bullet-Journal/journals/2022/10-October/2022_10_08.md",
-    "Daily-Bullet-Journal/journals/2021/10-October/2021_10_08.md",
-    "Daily-Bullet-Journal/journals/2017/10-October/2017_10_08.md",
-    "Daily-Bullet-Journal/journals/2020/10-October/2020_10_08.md",
-    "Daily-Bullet-Journal/journals/2015/10-October/2015_10_08.md",
-    "Homepage.md",
-    "Evergreen-Notes/Permanent-Notes/never-ever-complain-about-anything.md",
-    "temp.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_03.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_04.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_01.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_30.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_29.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_28.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_07.md",
     "shortcutomation.com-Performance-on-Search-2026-10-06/裝置.csv",
     "shortcutomation.com-Performance-on-Search-2026-10-06/網頁.csv",
     "shortcutomation.com-Performance-on-Search-2026-10-06/篩選器.csv",
@@ -258,9 +262,6 @@
     "Daily-Bullet-Journal/journals/2026/10-October/_attachments 2/2026_10_03_18_36_36.png",
     "Evergreen-Lists/scripts/pandoc/twemoji/2328.svg",
     "Evergreen-Lists/scripts/pandoc/twemoji/43e7ad0f9a97bb8c7655bf3ec472ded6.svg",
-    "Evergreen-Lists/scripts/pandoc/twemoji/1f9be.svg",
-    "Evergreen-Lists/scripts/pandoc/twemoji/1f957.svg",
-    "Evergreen-Lists/scripts/pandoc/twemoji/1f951.svg",
-    "Evergreen-Lists/scripts/pandoc/twemoji/1f916.svg"
+    "Evergreen-Lists/scripts/pandoc/twemoji/1f9be.svg"
   ]
 }
