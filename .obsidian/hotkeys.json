@@ -964,15 +964,6 @@
       "key": "N"
     }
   ],
-  "obsidian-shellcommands:shell-command-2qu3zkdn75": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "C"
-    }
-  ],
   "editor:insert-callout": [
     {
       "modifiers": [
@@ -1038,6 +1029,15 @@
         "Mod"
       ],
       "key": "K"
+    }
+  ],
+  "obsidian-shellcommands:shell-command-2qu3zkdn75": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "C"
     }
   ]
 }
