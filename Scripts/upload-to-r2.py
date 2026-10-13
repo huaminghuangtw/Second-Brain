@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
 
 """
-Upload images from `_attachments` folders to Cloudflare R2
+Upload images and videos from `_attachments` folders to Cloudflare R2
+
+Images are converted to WebP and stored under the `image/` prefix. Videos are
+transcoded to MP4 and stored under the `video/` prefix.
 
 Usage:
-  python3 upload-to-r2.py [<path1> <path2> <path3> ...]
+  python3 path/to/upload-to-r2.py [<path1> <path2> <path3> ...]
 
   When run from a directory containing `_attachments` folders, 
-  `python3 upload-to-r2.py` with no arguments uses the current directory.
+  `python3 path/to/upload-to-r2.py` with no arguments uses the current directory.
 """
 
 import argparse
@@ -15,8 +18,10 @@ import hashlib
 import json
 import os
 import re
+import shutil
 import sys
 import subprocess
+import tempfile
 from io import BytesIO
 from pathlib import Path
 from urllib.parse import quote
@@ -27,6 +32,10 @@ from PIL import Image, ImageSequence
 
 BUCKET = "huaming-media"
 PUBLIC_URL = "https://media.huam.ing"
+
+VIDEO_EXTS = {
+    ".mp4", ".m4v", ".mov", ".webm", ".avi", ".mkv", ".ogv", ".3gp",
+}
 
 SKIP_DIRS = {
     "/Users/huaminghuang/Library/Mobile Documents/iCloud~md~obsidian/Documents/Second-Brain",
@@ -73,7 +82,28 @@ def content_type(ext):
         ".webp": "image/webp",
         ".avif": "image/avif",
         ".svg": "image/svg+xml",
+        ".mp4": "video/mp4",
+        ".m4v": "video/x-m4v",
+        ".mov": "video/quicktime",
+        ".webm": "video/webm",
+        ".avi": "video/x-msvideo",
     }.get(ext, "application/octet-stream")
+
+
+def media_prefix(filename):
+    """R2 key prefix for an attachment: `video` for videos, `image` otherwise."""
+    if os.path.splitext(filename)[1].lower() in VIDEO_EXTS:
+        return "video"
+    return "image"
+
+
+def file_md5(path, chunk_size=1024 * 1024):
+    """Hash a file on disk without loading it into memory."""
+    digest = hashlib.md5()
+    with open(path, "rb") as f:
+        for chunk in iter(lambda: f.read(chunk_size), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
 
 
 def is_md5_name(stem):
@@ -152,6 +182,38 @@ def _to_animated_webp(img):
     return buf.getvalue()
 
 
+def to_mp4(filepath):
+    """Transcode a video to MP4."""
+    if shutil.which("ffmpeg") is None:
+        log("ffmpeg not found — install it with: brew install ffmpeg", "err")
+        return None
+
+    fd, tmp_path = tempfile.mkstemp(prefix="upload-to-r2-", suffix=".mp4")
+    os.close(fd)
+
+    result = subprocess.run(
+        [
+            "ffmpeg", "-y", "-v", "error",
+            "-i", filepath,
+            "-c:v", "libx264", "-crf", "26", "-preset", "veryfast",
+            "-vf", "scale='if(gt(iw,ih),min(1920,iw),min(1080,iw))':-2",
+            "-c:a", "aac", "-b:a", "128k",
+            "-movflags", "+faststart",
+            tmp_path,
+        ],
+        capture_output=True,
+        text=True,
+    )
+
+    if result.returncode != 0:
+        os.remove(tmp_path)
+        detail = result.stderr.strip().splitlines()
+        log(f"ffmpeg failed: {detail[-1] if detail else 'unknown error'}", "err")
+        return None
+
+    return tmp_path
+
+
 def find_attachment_dirs(root):
     dirs = []
     for dirpath, dirnames, filenames in os.walk(root):
@@ -219,46 +281,73 @@ def process_collection(collection_dir, s3, account_id):
 
     for filepath in all_files:
         name = os.path.basename(filepath)
+        prefix = media_prefix(name)
+
+        upload_path = filepath
+        temp_video = None
 
         webp_bytes, webp_name = to_webp(filepath)
         if webp_bytes is not None:
-            file_content = webp_bytes
+            body = webp_bytes
             uploaded_name = webp_name
             ctype = "image/webp"
+        elif prefix == "video":
+            temp_video = to_mp4(filepath)
+            if temp_video is None:
+                prompt_continue_or_quit()
+                continue
+            body = None
+            upload_path = temp_video
+            uploaded_name = f"{os.path.splitext(name)[0]}.mp4"
+            ctype = "video/mp4"
         else:
-            ext = os.path.splitext(name)[1]
-            ctype = content_type(ext)
-            with open(filepath, "rb") as f:
-                file_content = f.read()
+            body = None
             uploaded_name = name
+            ctype = content_type(os.path.splitext(name)[1])
 
-        stem = os.path.splitext(uploaded_name)[0]
-        if not is_md5_name(stem):
-            uploaded_name = hashlib.md5(file_content).hexdigest(
-            ) + os.path.splitext(uploaded_name)[1]
+        stem, ext = os.path.splitext(uploaded_name)
+        if is_md5_name(stem):
+            r2_name = uploaded_name
+        elif body is not None:
+            r2_name = hashlib.md5(body).hexdigest() + ext
+        else:
+            r2_name = file_md5(upload_path) + ext
 
-        r2_key = f"image/{uploaded_name}"
+        r2_key = f"{prefix}/{r2_name}"
         r2_url = f"{PUBLIC_URL}/{r2_key}"
 
         try:
             s3.head_object(Bucket=BUCKET, Key=r2_key)
-            label = name if name == uploaded_name else f"{name} → {uploaded_name}"
+            label = name if name == r2_name else f"{name} → {r2_name}"
             log(f"{label} (already exists, skipped)\n🔗 {r2_url}", "skip")
             uploaded += 1
         except Exception:
             try:
-                s3.put_object(
-                    Bucket=BUCKET,
-                    Key=r2_key,
-                    Body=file_content,
-                    ContentType=ctype,
-                )
-                label = name if name == uploaded_name else f"{name} → {uploaded_name}"
+                if body is not None:
+                    # bytes in memory
+                    s3.put_object(
+                        Bucket=BUCKET,
+                        Key=r2_key,
+                        Body=body,
+                        ContentType=ctype,
+                    )
+                else:
+                    # bytes on disk
+                    s3.upload_file(
+                        upload_path,
+                        BUCKET,
+                        r2_key,
+                        ExtraArgs={"ContentType": ctype},
+                    )
+                label = name if name == r2_name else f"{name} → {r2_name}"
                 log(f"{label}\n🔗 {r2_url}", "ok")
                 uploaded += 1
             except Exception as e:
                 log(f"{name} — upload failed: {e}", "err")
                 prompt_continue_or_quit()
+        finally:
+            if temp_video is not None:
+                os.remove(temp_video)
 
         file_rewritten = False
         md_files = find_markdown_files(collection_dir)
@@ -277,7 +366,8 @@ def process_collection(collection_dir, s3, account_id):
         if not file_rewritten:
             log(f"No markdown references found for {name}", "warn")
             subprocess.run(["pbcopy"], input=r2_url, text=True)
-            subprocess.run(["open", r2_dashboard_url(account_id, BUCKET, r2_key)])
+            subprocess.run(
+                ["open", r2_dashboard_url(account_id, BUCKET, r2_key)])
             subprocess.run(["open", r2_url])
             prompt_continue_or_quit()
 
