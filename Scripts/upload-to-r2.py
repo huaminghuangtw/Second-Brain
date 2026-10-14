@@ -4,7 +4,8 @@
 Upload images and videos from `_attachments` folders to Cloudflare R2
 
 Images are converted to WebP and stored under the `image/` prefix. Videos are
-transcoded to MP4 and stored under the `video/` prefix.
+transcoded to MP4 and stored under the `video/` prefix. An attachment is only
+moved to the Trash — and its note references rewritten — after it uploaded.
 
 Usage:
   python3 path/to/upload-to-r2.py [<path1> <path2> <path3> ...]
@@ -111,13 +112,7 @@ def is_md5_name(stem):
 
 
 def log(msg, kind="info"):
-    prefix = {
-        "ok": "✅",
-        "warn": "❗",
-        "err": "❌",
-        "skip": "⏭️",
-        "info": "",
-    }.get(kind)
+    prefix = {"ok": "✅", "warn": "❗", "err": "❌", "skip": "⏭️"}.get(kind, "")
     print(f"{prefix} {msg}")
 
 
@@ -136,29 +131,23 @@ def trash(path):
 
 
 def to_webp(filepath):
+    """Return WebP bytes for a convertible image, or None for anything else."""
     ext = os.path.splitext(filepath)[1].lower()
     if ext not in {".png", ".jpg", ".jpeg", ".gif", ".tiff", ".tif", ".bmp", ".ico"}:
-        return None, None
-
-    stem = os.path.splitext(os.path.basename(filepath))[0]
+        return None
 
     try:
         with Image.open(filepath) as img:
             if getattr(img, "n_frames", 1) > 1:
-                webp_bytes = _to_animated_webp(img)
-            else:
-                if img.mode in ("RGBA", "LA", "P"):
-                    img = img.convert("RGBA")
-                else:
-                    img = img.convert("RGB")
+                return _to_animated_webp(img)
 
-                buf = BytesIO()
-                img.save(buf, format="WEBP")
-                webp_bytes = buf.getvalue()
-
-        return webp_bytes, f"{stem}.webp"
+            img = img.convert("RGBA" if img.mode in (
+                "RGBA", "LA", "P") else "RGB")
+            buf = BytesIO()
+            img.save(buf, format="WEBP")
+            return buf.getvalue()
     except Exception:
-        return None, None
+        return None
 
 
 def _to_animated_webp(img):
@@ -216,8 +205,7 @@ def to_mp4(filepath):
 
 def find_attachment_dirs(root):
     dirs = []
-    for dirpath, dirnames, filenames in os.walk(root):
-        # Skip hidden directories
+    for dirpath, dirnames, _ in os.walk(root):
         dirnames[:] = [d for d in dirnames if not d.startswith(".")]
         if Path(dirpath).name == "_attachments":
             dirs.append(dirpath)
@@ -243,9 +231,8 @@ def rewrite_markdown(content, filename, r2_url):
 
     def replacer(match):
         caption = match.group(1)
-        if caption is not None:
-            return f'![]({r2_url} "{caption}")'
-        return f"![]({r2_url})"
+        suffix = f' "{caption}"' if caption is not None else ""
+        return f"![]({r2_url}{suffix})"
 
     return pattern.sub(replacer, content)
 
@@ -260,110 +247,127 @@ def r2_dashboard_url(account_id, bucket, r2_key):
     )
 
 
+def object_exists(s3, r2_key):
+    try:
+        s3.head_object(Bucket=BUCKET, Key=r2_key)
+        return True
+    except Exception:
+        return False
+
+
+def upload_attachment(s3, filepath):
+    """Upload one attachment to R2; return `(r2_key, r2_url)`, or None on failure."""
+    name = os.path.basename(filepath)
+    stem, ext = os.path.splitext(name)
+    prefix = media_prefix(name)
+
+    body = None
+    upload_path = filepath
+    upload_name = name
+    temp_video = None
+
+    webp_bytes = to_webp(filepath)
+    if webp_bytes is not None:
+        body = webp_bytes
+        upload_name = f"{stem}.webp"
+        ctype = "image/webp"
+    elif prefix == "video":
+        temp_video = to_mp4(filepath)
+        if temp_video is None:
+            return None
+        upload_path = temp_video
+        upload_name = f"{stem}.mp4"
+        ctype = "video/mp4"
+    else:
+        ctype = content_type(ext)
+
+    try:
+        r2_stem, r2_ext = os.path.splitext(upload_name)
+        if is_md5_name(r2_stem):
+            r2_name = upload_name
+        elif body is not None:
+            r2_name = hashlib.md5(body).hexdigest() + r2_ext
+        else:
+            r2_name = file_md5(upload_path) + r2_ext
+
+        r2_key = f"{prefix}/{r2_name}"
+        r2_url = f"{PUBLIC_URL}/{r2_key}"
+        label = name if name == r2_name else f"{name} → {r2_name}"
+
+        if object_exists(s3, r2_key):
+            log(f"{label} (already exists, skipped)\n🔗 {r2_url}", "skip")
+            return r2_key, r2_url
+
+        if body is not None:
+            s3.put_object(Bucket=BUCKET, Key=r2_key,
+                          Body=body, ContentType=ctype)
+        else:
+            s3.upload_file(
+                upload_path, BUCKET, r2_key, ExtraArgs={"ContentType": ctype}
+            )
+        log(f"{label}\n🔗 {r2_url}", "ok")
+        return r2_key, r2_url
+    except Exception as e:
+        log(f"{name} — upload failed: {e}", "err")
+        return None
+    finally:
+        if temp_video is not None:
+            os.remove(temp_video)
+
+
+def rewrite_references(md_files, collection_dir, filename, r2_url):
+    """
+    Point every `![](_attachments/<filename>)` link at `r2_url`.
+    Returns how many markdown files were changed.
+    """
+    changed = 0
+    for md_file in md_files:
+        with open(md_file, "r", encoding="utf-8") as f:
+            content = f.read()
+        updated = rewrite_markdown(content, filename, r2_url)
+        if updated != content:
+            with open(md_file, "w", encoding="utf-8") as f:
+                f.write(updated)
+            log(f"  ↳ updated reference in {os.path.relpath(md_file, collection_dir)}")
+            changed += 1
+    return changed
+
+
 def process_collection(collection_dir, s3, account_id):
     if not os.path.isdir(collection_dir):
         log(f"Directory not found: {collection_dir}", "err")
-        return 0, 0, 0
+        return 0, 1, 0
 
     attach_dirs = find_attachment_dirs(collection_dir)
     if not attach_dirs:
         return 0, 0, 0
 
-    all_files = []
-    for d in attach_dirs:
-        for entry in os.scandir(d):
-            if entry.is_file() and not entry.name.startswith('.'):
-                all_files.append(entry.path)
+    files = [
+        entry.path
+        for d in attach_dirs
+        for entry in os.scandir(d)
+        if entry.is_file() and not entry.name.startswith(".")
+    ]
+    md_files = find_markdown_files(collection_dir)
 
-    uploaded = 0
-    errors = 0
-    rewritten = 0
+    uploaded = errors = rewritten = 0
 
-    for filepath in all_files:
+    for filepath in files:
         name = os.path.basename(filepath)
-        prefix = media_prefix(name)
 
-        upload_path = filepath
-        temp_video = None
+        result = upload_attachment(s3, filepath)
+        if result is None:
+            errors += 1
+            prompt_continue_or_quit()
+            continue
 
-        webp_bytes, webp_name = to_webp(filepath)
-        if webp_bytes is not None:
-            body = webp_bytes
-            uploaded_name = webp_name
-            ctype = "image/webp"
-        elif prefix == "video":
-            temp_video = to_mp4(filepath)
-            if temp_video is None:
-                prompt_continue_or_quit()
-                continue
-            body = None
-            upload_path = temp_video
-            uploaded_name = f"{os.path.splitext(name)[0]}.mp4"
-            ctype = "video/mp4"
-        else:
-            body = None
-            uploaded_name = name
-            ctype = content_type(os.path.splitext(name)[1])
+        r2_key, r2_url = result
+        uploaded += 1
 
-        stem, ext = os.path.splitext(uploaded_name)
-        if is_md5_name(stem):
-            r2_name = uploaded_name
-        elif body is not None:
-            r2_name = hashlib.md5(body).hexdigest() + ext
-        else:
-            r2_name = file_md5(upload_path) + ext
+        count = rewrite_references(md_files, collection_dir, name, r2_url)
+        rewritten += count
 
-        r2_key = f"{prefix}/{r2_name}"
-        r2_url = f"{PUBLIC_URL}/{r2_key}"
-
-        try:
-            s3.head_object(Bucket=BUCKET, Key=r2_key)
-            label = name if name == r2_name else f"{name} → {r2_name}"
-            log(f"{label} (already exists, skipped)\n🔗 {r2_url}", "skip")
-            uploaded += 1
-        except Exception:
-            try:
-                if body is not None:
-                    # bytes in memory
-                    s3.put_object(
-                        Bucket=BUCKET,
-                        Key=r2_key,
-                        Body=body,
-                        ContentType=ctype,
-                    )
-                else:
-                    # bytes on disk
-                    s3.upload_file(
-                        upload_path,
-                        BUCKET,
-                        r2_key,
-                        ExtraArgs={"ContentType": ctype},
-                    )
-                label = name if name == r2_name else f"{name} → {r2_name}"
-                log(f"{label}\n🔗 {r2_url}", "ok")
-                uploaded += 1
-            except Exception as e:
-                log(f"{name} — upload failed: {e}", "err")
-                prompt_continue_or_quit()
-        finally:
-            if temp_video is not None:
-                os.remove(temp_video)
-
-        file_rewritten = False
-        md_files = find_markdown_files(collection_dir)
-        for md_file in md_files:
-            with open(md_file, "r", encoding="utf-8") as f:
-                content = f.read()
-            updated = rewrite_markdown(content, name, r2_url)
-            if updated != content:
-                with open(md_file, "w", encoding="utf-8") as f:
-                    f.write(updated)
-                log(
-                    f"  ↳ updated reference in {os.path.relpath(md_file, collection_dir)}")
-                file_rewritten = True
-                rewritten += 1
-
-        if not file_rewritten:
+        if not count:
             log(f"No markdown references found for {name}", "warn")
             subprocess.run(["pbcopy"], input=r2_url, text=True)
             subprocess.run(
@@ -378,8 +382,7 @@ def process_collection(collection_dir, s3, account_id):
     # Remove empty _attachments directories
     for d in attach_dirs:
         try:
-            remaining = [f for f in os.listdir(d) if not f.startswith('.')]
-            if not remaining:
+            if not [f for f in os.listdir(d) if not f.startswith(".")]:
                 trash(d)
         except OSError:
             pass
