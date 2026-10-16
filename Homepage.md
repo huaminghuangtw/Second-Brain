@@ -1,7 +1,6 @@
 ---
 modified: 2026-10-05
 ---
-
 <!-- four-quarters-in-a-day -->
 
 ```dataviewjs
