@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "be616bb5284a1c3b",
+        "id": "d158e619c82f61a5",
         "type": "tabs",
         "children": [
           {
-            "id": "c775e823ea5c6180",
+            "id": "7a0d8ccaa7a8fe84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_18.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_10_18"
+              "title": "Homepage"
             }
           }
         ]
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kobe",
+                "query": "Nibbana",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +67,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -89,7 +88,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_18.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -215,37 +214,41 @@
       "similar-notes:Open Similar Notes": false
     }
   },
-  "active": "c775e823ea5c6180",
+  "active": "7a0d8ccaa7a8fe84",
   "lastOpenFiles": [
-    "Brainfoodie/posts/instructions-for-living-a-life.md",
-    "Slash/about.md",
-    "20260523.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_18.md",
-    "Blog/posts/20251029.md",
-    "Enoughness/README.md",
-    "Enoughness/posts/enoughness-3.md",
-    "Blog/posts/_attachments/Pasted image 20261018145532.png",
-    "Blog/posts/_attachments",
-    "Blog/posts/20251024.md",
-    "Blog/posts/20251031.md",
-    "Enoughness/posts/enoughness-41.md",
-    "Visuals/Personal Growth/1efabbc2d82c4ed6c8bbd572b3a0f3b5.webp",
-    "AdaptX/posts/30-things-i-wish-i-knew-in-20s.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_17.md",
-    "Drafts/_about.md",
+    "Today-I-Learned/posts/how-to-remove-markdown-frontmatter-programmatically.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_16.md",
-    "Evergreen-Notes/Permanent-Notes/money.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-fuel-in-endurance-sports.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_08.md",
-    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_07.md",
-    "Life-Notes/Running/2026-marathon-training.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_03.md",
-    "Blog/posts/20260617.md",
+    "Blog/posts/20261017.md",
+    "Blog/posts/20261019.md",
+    "Blog/posts/20260113.md",
+    "Blog/posts/Invalid date.md",
+    "Blog/posts/20261001.md",
+    "Blog/posts/20261018.md",
+    "Blog/posts/test1.md",
+    "Blog/posts/test2.md",
+    "Blog/posts/test3.md",
+    "Blog/posts/20260414.md",
+    "temp.md",
     "Weekly-Mindware-Update/issues/2026/2026w42.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_18.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_18.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_19.md",
+    "Scripts/Templater/datePicker.js",
+    "Slash/about.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
+    "Today-I-Learned/posts/how-to-put-a-live-counter-in-a-markdown-page.md",
+    "Slash/_attachments/Pasted image 20261019151655.png",
+    "Slash/_attachments",
+    "Brainfoodie/posts/walking.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_18.md",
+    "Enoughness/posts/enoughness-32.md",
+    "Enoughness/README.md",
+    "Blog/posts/20260523.md",
+    "Blog/posts/20260109.md",
+    "Enoughness/posts/enoughness-4.md",
+    "Blog/posts/20251107.md",
+    "Blog/posts/_attachments/Pasted image 20261019113116.png",
+    "Blog/posts/_attachments",
+    "Blog/posts/_attachments/Pasted image 20261018145532.png",
+    "Visuals/Personal Growth/1efabbc2d82c4ed6c8bbd572b3a0f3b5.webp",
     "Daily-Bullet-Journal/journals/2026/10-October/_attachments/Pasted image 20261017192155.png",
     "Daily-Bullet-Journal/journals/2024/10-October/_attachments/ac2f7ca6fac0154a1ecbf52e06d75883.png",
     "Daily-Bullet-Journal/journals/2024/10-October/_attachments/3efd87e942622314a85ecf20afaa3408.png",
@@ -256,12 +259,8 @@
     "iCloud/_attachments/Pasted image 20261013213312.png",
     "Blog/posts/_attachments/IMG_6355.mov",
     "Blog/posts/_attachments/IMG_6356.mov",
-    "Blog/posts/_attachments/Pasted image 20261013112432.png",
     "Blog/posts/_attachments/IMG_6374.mov",
     "Blog/_attachments",
-    "Blog/untitled folder",
-    "Blog/IMG_6374.mov",
-    "Blog/IMG_6355.mov",
-    "Blog/posts/_attachments/Pasted image 20261013113508.png"
+    "Blog/untitled folder"
   ]
 }
