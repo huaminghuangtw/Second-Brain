@@ -28,20 +28,18 @@ async function createPost(tp) {
 
     let fileName = tp.user.slugify(title);
     const containsChinese = tp.user.containsChinese(title);
-    if (containsChinese) {
-        if (collection === "Blog") {
-            fileName = tp.date.now("YYYYMMDD");
-        } else {
-            const userInput = await tp.system.prompt(`📁 Filename? (${collection})`);
-            if (!userInput) return;
-            fileName = tp.user.slugify(userInput);
-        }
+    if (collection === "Blog") {
+        fileName = tp.date.now("YYYYMMDD");
     } else if (collection === "Enoughness") {
         fileName = `enoughness-${posts.length + 1}`;
     } else if (collection === "Microblog") {
         fileName = tp.date.now("YYYY-MM-DD");
     } else if (collection === "Drafts") {
         fileName = `_${fileName}`;
+    } else if (containsChinese) {
+        const userInput = await tp.system.prompt(`📁 Filename? (${collection})`);
+        if (!userInput) return;
+        fileName = tp.user.slugify(userInput);
     }
 
     const folderMap = {
@@ -50,6 +48,7 @@ async function createPost(tp) {
     };
     const folder = folderMap[collection] || `${collection}/posts/`;
     const file = tp.file.find_tfile(folder + fileName);
+    let pickedDate = null;
     if (file) {
         window.open(
             `obsidian://adv-uri?filepath=${encodeURIComponent(
@@ -57,12 +56,38 @@ async function createPost(tp) {
             )}&viewmode=source&openmode=true&line=${await (async () =>
                 (await app.vault.read(file)).split("\n").length)()}`
         );
-        return;
+
+        if (collection !== "Blog" && collection !== "Microblog") return;
+
+        while (!pickedDate) {
+            let chosen;
+            try {
+                chosen = await tp.user.datePicker(tp);
+            } catch {
+                return; // User cancelled the date picker
+            }
+            if (!chosen) return;
+
+            const candidate =
+                collection === "Microblog"
+                    ? chosen
+                    : chosen.replace(/-/g, "");
+            if (tp.file.find_tfile(folder + candidate)) {
+                new Notice(
+                    `${folder}${candidate} already exists. Pick another date.`
+                );
+                continue;
+            }
+            pickedDate = chosen;
+            fileName = candidate;
+        }
     }
     tp.user.setViewMode("source");
     await tp.file.move(folder + fileName);
 
-    let created = tp.date.now();
+    let created = pickedDate
+        ? moment(pickedDate, "YYYY-MM-DD")
+        : tp.date.now();
     if (collection === "Enoughness") {
         const dates = [];
         for (const f of posts) {
@@ -78,7 +103,7 @@ async function createPost(tp) {
     return {
         title,
         fileName,
-        created: created.format("YYYY-MM-DD"),
+        created: moment(created).format("YYYY-MM-DD"),
     };
 }
 
