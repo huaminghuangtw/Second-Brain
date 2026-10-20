@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d158e619c82f61a5",
+        "id": "6a5cb602857c876d",
         "type": "tabs",
         "children": [
           {
-            "id": "7a0d8ccaa7a8fe84",
+            "id": "0c763b63ae5c2ac6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Nibbana",
+                "query": "為了錢",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,53 +215,53 @@
       "similar-notes:Open Similar Notes": false
     }
   },
-  "active": "7a0d8ccaa7a8fe84",
+  "active": "0c763b63ae5c2ac6",
   "lastOpenFiles": [
-    "Today-I-Learned/posts/how-to-remove-markdown-frontmatter-programmatically.md",
+    "Weekly-Mindware-Update/issues/2025/2025w43.md",
     "Homepage.md",
-    "Blog/posts/20261017.md",
-    "Blog/posts/20261019.md",
-    "Blog/posts/20260113.md",
-    "Blog/posts/Invalid date.md",
-    "Blog/posts/20261001.md",
-    "Blog/posts/20261018.md",
-    "Blog/posts/test1.md",
-    "Blog/posts/test2.md",
-    "Blog/posts/test3.md",
-    "Blog/posts/20260414.md",
-    "temp.md",
-    "Weekly-Mindware-Update/issues/2026/2026w42.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_18.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_17.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_16.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_15.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_11.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_12.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_13.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_14.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_20.md",
     "Daily-Bullet-Journal/journals/2026/10-October/2026_10_19.md",
-    "Scripts/Templater/datePicker.js",
     "Slash/about.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Today-I-Learned/posts/how-to-put-a-live-counter-in-a-markdown-page.md",
+    "Blog/posts/20251114.md",
+    "Evergreen-Notes/Permanent-Notes/embrace-the-beauty-of-enoughness.md",
+    "Blog/posts/20260828.md",
+    "AdaptX/posts/30-things-i-wish-i-knew-in-20s.md",
+    "Enoughness/posts/enoughness-3.md",
+    "Enoughness/posts/enoughness-46.md",
+    "Enoughness/posts/enoughness-15.md",
+    "Enoughness/posts/enoughness-5.md",
+    "Evergreen-Notes/Permanent-Notes/the-one-percent-rule.md",
+    "Blog/posts/20251113.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_24.md",
+    "AdaptX/posts/30-things-ive-learned-in-30-years.md",
+    "Evergreen-Notes/Permanent-Notes/this-too-shall-pass.md",
+    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20261020090840.png",
+    "Evergreen-Notes/Permanent-Notes/_attachments",
+    "Scripts/Templater/datePicker.js",
     "Slash/_attachments/Pasted image 20261019151655.png",
     "Slash/_attachments",
-    "Brainfoodie/posts/walking.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_18.md",
-    "Enoughness/posts/enoughness-32.md",
-    "Enoughness/README.md",
-    "Blog/posts/20260523.md",
-    "Blog/posts/20260109.md",
-    "Enoughness/posts/enoughness-4.md",
-    "Blog/posts/20251107.md",
     "Blog/posts/_attachments/Pasted image 20261019113116.png",
     "Blog/posts/_attachments",
     "Blog/posts/_attachments/Pasted image 20261018145532.png",
-    "Visuals/Personal Growth/1efabbc2d82c4ed6c8bbd572b3a0f3b5.webp",
-    "Daily-Bullet-Journal/journals/2026/10-October/_attachments/Pasted image 20261017192155.png",
+    "Visuals/Personal Growth/ab23c9d59fef059bb4dc4e724737fd3c.webp",
+    "Daily-Bullet-Journal/journals/2026/10-October/_attachments/8b91d003b77c61c77c3e08075f5bffde.png",
     "Daily-Bullet-Journal/journals/2024/10-October/_attachments/ac2f7ca6fac0154a1ecbf52e06d75883.png",
     "Daily-Bullet-Journal/journals/2024/10-October/_attachments/3efd87e942622314a85ecf20afaa3408.png",
     "Daily-Bullet-Journal/journals/2024/10-October/_attachments/b86ab4d3116b5e147d89bbe39e0f6ee4.png",
     "Daily-Bullet-Journal/journals/2026/09-September/_attachments/2804e878288f505838064faa5b684063.png",
     "Scripts/__pycache__/upload-to-r2.cpython-312.pyc",
     "Scripts/__pycache__",
-    "iCloud/_attachments/Pasted image 20261013213312.png",
     "Blog/posts/_attachments/IMG_6355.mov",
     "Blog/posts/_attachments/IMG_6356.mov",
     "Blog/posts/_attachments/IMG_6374.mov",
-    "Blog/_attachments",
-    "Blog/untitled folder"
+    "Blog/_attachments"
   ]
 }
