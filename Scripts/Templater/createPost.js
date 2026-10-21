@@ -1,14 +1,8 @@
 async function createPost(tp) {
     const collection = tp.config.template_file.basename.replace("T_", "");
 
-    const posts = collection === "Enoughness"
-        ? app.vault.getFiles().filter(
-            (f) => f.path.startsWith("Enoughness/posts/") && f.extension === "md"
-        )
-        : [];
-
     let title = '';
-    if (collection !== "Enoughness" && collection !== "Microblog") {
+    if (collection !== "Microblog") {
         const userInput = await tp.system.prompt(`✏️ Title? (${collection})`);
         if (!userInput) return;
 
@@ -30,8 +24,6 @@ async function createPost(tp) {
     const containsChinese = tp.user.containsChinese(title);
     if (collection === "Blog") {
         fileName = tp.date.now("YYYYMMDD");
-    } else if (collection === "Enoughness") {
-        fileName = `enoughness-${posts.length + 1}`;
     } else if (collection === "Microblog") {
         fileName = tp.date.now("YYYY-MM-DD");
     } else if (collection === "Drafts") {
@@ -85,20 +77,9 @@ async function createPost(tp) {
     tp.user.setViewMode("source");
     await tp.file.move(folder + fileName);
 
-    let created = pickedDate
+    const created = pickedDate
         ? moment(pickedDate, "YYYY-MM-DD")
         : tp.date.now();
-    if (collection === "Enoughness") {
-        const dates = [];
-        for (const f of posts) {
-            const content = await app.vault.cachedRead(f);
-            const m = content.match(/^created:\s*(\d{4}-\d{2}-\d{2})/m);
-            if (m) dates.push(moment(m[1], "YYYY-MM-DD"));
-        }
-        const latest = moment.max(dates);
-        const upcomingFriday = tp.user.upcomingFriday();
-        created = moment.max(upcomingFriday, latest.add(7, "days"));
-    }
 
     return {
         title,
