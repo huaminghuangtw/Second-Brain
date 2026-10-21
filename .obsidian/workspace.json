@@ -4,25 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "6a5cb602857c876d",
+        "id": "40d3ccf29ffb1987",
         "type": "tabs",
         "children": [
           {
-            "id": "0c763b63ae5c2ac6",
+            "id": "dacede8fe005d9d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2026_10_21"
+            }
+          },
+          {
+            "id": "41380d74e01a05d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/pain-is-inevitable-suffering-is-optional.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "pain-is-inevitable-suffering-is-optional"
+            }
+          },
+          {
+            "id": "599b8624c9d80fc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/posts/20261021.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "20261021"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -56,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "為了錢",
+                "query": "痛是難免",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +120,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Blog/posts/20261021.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -215,53 +246,53 @@
       "similar-notes:Open Similar Notes": false
     }
   },
-  "active": "0c763b63ae5c2ac6",
+  "active": "599b8624c9d80fc6",
   "lastOpenFiles": [
-    "Weekly-Mindware-Update/issues/2025/2025w43.md",
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_18.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_17.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_16.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_15.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_11.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_12.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_13.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_14.md",
+    "Evergreen-Notes/Permanent-Notes/pain-is-inevitable-suffering-is-optional.md",
+    "Blog/posts/20261021.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_21.md",
     "Daily-Bullet-Journal/journals/2026/10-October/2026_10_20.md",
     "Daily-Bullet-Journal/journals/2026/10-October/2026_10_19.md",
+    "Homepage.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_18.md",
     "Slash/about.md",
-    "Blog/posts/20251114.md",
-    "Evergreen-Notes/Permanent-Notes/embrace-the-beauty-of-enoughness.md",
-    "Blog/posts/20260828.md",
-    "AdaptX/posts/30-things-i-wish-i-knew-in-20s.md",
-    "Enoughness/posts/enoughness-3.md",
-    "Enoughness/posts/enoughness-46.md",
-    "Enoughness/posts/enoughness-15.md",
-    "Enoughness/posts/enoughness-5.md",
-    "Evergreen-Notes/Permanent-Notes/the-one-percent-rule.md",
+    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_17.md",
+    "Blog/posts/_attachments/Pasted image 20261021160917.png",
+    "Blog/posts/_attachments",
+    "Slash/why-i-run-and-write.md",
+    "Blog/posts/20251120.md",
+    "Drafts/_why-i-write-and-run.raw.md",
+    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
     "Blog/posts/20251113.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_24.md",
-    "AdaptX/posts/30-things-ive-learned-in-30-years.md",
-    "Evergreen-Notes/Permanent-Notes/this-too-shall-pass.md",
+    "Blog/posts/20260123.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_07.md",
+    "Blog/posts/20251121.md",
+    "Enoughness/posts/enoughness-6.md",
+    "Blog/posts/20260703.md",
+    "Enoughness/posts/enoughness-38.md",
+    "AdaptX/posts/the-monkey-and-pedestal-mindset.md",
+    "Brainfoodie/posts/collection-jensen-huang.md",
+    "Blog/posts/20260808.md",
+    "Blog/posts/20260227.md",
+    "Evergreen-Notes/Permanent-Notes/long-term-thinking.md",
+    "Evergreen-Notes/Permanent-Notes/hope-for-the-best-prepare-for-the-worst.md",
+    "Scripts/Templater/_test-createNewsletter.js",
+    "Scripts/Templater/createNewsletter.js",
     "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20261020090840.png",
     "Evergreen-Notes/Permanent-Notes/_attachments",
     "Scripts/Templater/datePicker.js",
     "Slash/_attachments/Pasted image 20261019151655.png",
     "Slash/_attachments",
     "Blog/posts/_attachments/Pasted image 20261019113116.png",
-    "Blog/posts/_attachments",
     "Blog/posts/_attachments/Pasted image 20261018145532.png",
     "Visuals/Personal Growth/ab23c9d59fef059bb4dc4e724737fd3c.webp",
     "Daily-Bullet-Journal/journals/2026/10-October/_attachments/8b91d003b77c61c77c3e08075f5bffde.png",
     "Daily-Bullet-Journal/journals/2024/10-October/_attachments/ac2f7ca6fac0154a1ecbf52e06d75883.png",
     "Daily-Bullet-Journal/journals/2024/10-October/_attachments/3efd87e942622314a85ecf20afaa3408.png",
     "Daily-Bullet-Journal/journals/2024/10-October/_attachments/b86ab4d3116b5e147d89bbe39e0f6ee4.png",
-    "Daily-Bullet-Journal/journals/2026/09-September/_attachments/2804e878288f505838064faa5b684063.png",
     "Scripts/__pycache__/upload-to-r2.cpython-312.pyc",
     "Scripts/__pycache__",
     "Blog/posts/_attachments/IMG_6355.mov",
-    "Blog/posts/_attachments/IMG_6356.mov",
-    "Blog/posts/_attachments/IMG_6374.mov",
-    "Blog/_attachments"
+    "Blog/posts/_attachments/IMG_6356.mov"
   ]
 }
