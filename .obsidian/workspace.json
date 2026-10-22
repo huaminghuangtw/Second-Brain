@@ -4,48 +4,138 @@
     "type": "split",
     "children": [
       {
-        "id": "40d3ccf29ffb1987",
+        "id": "5e4bd7f2a0c75119",
         "type": "tabs",
         "children": [
           {
-            "id": "dacede8fe005d9d8",
+            "id": "d7af9d33af309e92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_21.md",
+                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_22.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_10_21"
+              "title": "2026_10_22"
             }
           },
           {
-            "id": "41380d74e01a05d2",
+            "id": "44d54eb15a97894e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/pain-is-inevitable-suffering-is-optional.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "pain-is-inevitable-suffering-is-optional"
+              "title": "Homepage"
             }
           },
           {
-            "id": "599b8624c9d80fc6",
+            "id": "92ad3ecfd4d31329",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "0691550ab476f803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brainfoodie/posts/the-little-prince.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "the-little-prince"
+            }
+          },
+          {
+            "id": "ec06d3deac4a9330",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "83cdde322042bfe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_27.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025_09_27"
+            }
+          },
+          {
+            "id": "457235341c61030b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/posts/20251113.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "20251113"
+            }
+          },
+          {
+            "id": "98ff6292e96ea7b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026_10_22"
+            }
+          },
+          {
+            "id": "1d9371ca7002650f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Blog/posts/20261021.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -53,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -87,7 +177,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "痛是難免",
+                "query": "健康的身體",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,24 +293,12 @@
             }
           },
           {
-            "id": "5b0c7a1dc8365b4f",
-            "type": "leaf",
-            "state": {
-              "type": "footnotes",
-              "state": {
-                "file": "Homepage.md"
-              },
-              "icon": "lucide-file-signature",
-              "title": "Footnotes"
-            }
-          },
-          {
             "id": "1aa67ce1d6af52b7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_21.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -246,36 +324,36 @@
       "similar-notes:Open Similar Notes": false
     }
   },
-  "active": "599b8624c9d80fc6",
+  "active": "1d9371ca7002650f",
   "lastOpenFiles": [
-    "Evergreen-Notes/Permanent-Notes/pain-is-inevitable-suffering-is-optional.md",
-    "Blog/posts/20261021.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_21.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_20.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_19.md",
     "Homepage.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_18.md",
+    "Dear-Today-Me/index.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_22.md",
+    "Blog/posts/20261021.md",
+    "Blog/posts/20251113.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_27.md",
+    "Enoughness/posts/enoughness-27.md",
+    "Brainfoodie/posts/the-little-prince.md",
+    "Brainfoodie/posts/collection-andy-li-an-ho.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_15.md",
     "Slash/about.md",
-    "Daily-Bullet-Journal/journals/2024/07-July/2024_07_17.md",
+    "Evergreen-Notes/Permanent-Notes/creativity-is-just-connecting-things.md",
+    "Evergreen-Notes/Permanent-Notes/writing-principles.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_21.md",
+    "Evergreen-Notes/Permanent-Notes/how-to-be-a-better-runner.md",
+    "Evergreen-Notes/Permanent-Notes/pain-is-inevitable-suffering-is-optional.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_28.md",
+    "Brainfoodie/posts/what-i-talk-about-when-i-talk-about-running.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_22.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_21.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_22.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_23.md",
+    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_23.md",
+    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_22.md",
+    "Daily-Bullet-Journal/journals/2022/10-October/2022_10_22.md",
+    "Daily-Bullet-Journal/journals/2020/10-October/2020_10_22.md",
     "Blog/posts/_attachments/Pasted image 20261021160917.png",
     "Blog/posts/_attachments",
-    "Slash/why-i-run-and-write.md",
-    "Blog/posts/20251120.md",
-    "Drafts/_why-i-write-and-run.raw.md",
-    "Evergreen-Notes/Permanent-Notes/a-true-transformation-begins-with-a-mental-shift.md",
-    "Blog/posts/20251113.md",
-    "Blog/posts/20260123.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_07.md",
-    "Blog/posts/20251121.md",
-    "Enoughness/posts/enoughness-6.md",
-    "Blog/posts/20260703.md",
-    "Enoughness/posts/enoughness-38.md",
-    "AdaptX/posts/the-monkey-and-pedestal-mindset.md",
-    "Brainfoodie/posts/collection-jensen-huang.md",
-    "Blog/posts/20260808.md",
-    "Blog/posts/20260227.md",
-    "Evergreen-Notes/Permanent-Notes/long-term-thinking.md",
-    "Evergreen-Notes/Permanent-Notes/hope-for-the-best-prepare-for-the-worst.md",
     "Scripts/Templater/_test-createNewsletter.js",
     "Scripts/Templater/createNewsletter.js",
     "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20261020090840.png",

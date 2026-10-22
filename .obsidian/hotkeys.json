@@ -1039,5 +1039,14 @@
       ],
       "key": "C"
     }
+  ],
+  "obsidian-shellcommands:shell-command-r7jn3kw9dx": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "J"
+    }
   ]
 }
