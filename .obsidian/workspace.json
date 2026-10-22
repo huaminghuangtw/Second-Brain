@@ -4,26 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5e4bd7f2a0c75119",
+        "id": "a4b0d25200d2a020",
         "type": "tabs",
         "children": [
           {
-            "id": "d7af9d33af309e92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_22.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026_10_22"
-            }
-          },
-          {
-            "id": "44d54eb15a97894e",
+            "id": "53845dccf357aba4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,115 +20,9 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
-            }
-          },
-          {
-            "id": "92ad3ecfd4d31329",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "0691550ab476f803",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brainfoodie/posts/the-little-prince.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "the-little-prince"
-            }
-          },
-          {
-            "id": "ec06d3deac4a9330",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homepage.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "83cdde322042bfe8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2025/09-September/2025_09_27.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025_09_27"
-            }
-          },
-          {
-            "id": "457235341c61030b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/posts/20251113.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "20251113"
-            }
-          },
-          {
-            "id": "98ff6292e96ea7b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_22.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026_10_22"
-            }
-          },
-          {
-            "id": "1d9371ca7002650f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/posts/20261021.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "20261021"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "健康的身體",
+                "query": "蒸餾",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,7 +89,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Blog/posts/20261021.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -324,12 +203,29 @@
       "similar-notes:Open Similar Notes": false
     }
   },
-  "active": "1d9371ca7002650f",
+  "active": "53845dccf357aba4",
   "lastOpenFiles": [
     "Homepage.md",
-    "Dear-Today-Me/index.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_22.md",
+    "Blog/posts/20261022.md",
+    "Microblog/posts/2026-10-22.md",
+    "Enoughness/posts/enoughness-7.md",
+    "Blog/posts/20251126.md",
+    "Blog/posts/20251129.md",
+    "Blog/posts/20251127.md",
+    "Evergreen-Notes/Permanent-Notes/never-complain-about-anything.md",
     "Blog/posts/20261021.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_22.md",
+    "Evergreen-Notes/Permanent-Notes/writing-principles.md",
+    "Evergreen-Notes/Permanent-Notes/_attachments/01f8032908d60ee1210b515fce626da5.png",
+    "Life-Notes/_attachments/f979af7a22c9c817b5488a777f224e7a.png",
+    "Life-Notes/_attachments/8609560777b3fbc0f9958ed5da70468a.png",
+    "Life-Notes/_attachments/6c499136cdcb39db6c510dbe24b11d67.png",
+    "Life-Notes/_attachments/e9eea70164906e26d189fbbb0be038c8.png",
+    "Life-Notes/_attachments/7843c1ab62be7c7fb54a0a30ab4f6314.png",
+    "Evergreen-Notes/Permanent-Notes/_attachments/06b7b6b8fde84d2fc280a31b4ecc278e.jpg",
+    "Evergreen-Notes/Permanent-Notes/_attachments",
+    "Evergreen-Notes/Permanent-Notes/untitled folder",
+    "Dear-Today-Me/index.md",
     "Blog/posts/20251113.md",
     "Daily-Bullet-Journal/journals/2025/09-September/2025_09_27.md",
     "Enoughness/posts/enoughness-27.md",
@@ -338,39 +234,22 @@
     "Daily-Bullet-Journal/journals/2025/12-December/2025_12_15.md",
     "Slash/about.md",
     "Evergreen-Notes/Permanent-Notes/creativity-is-just-connecting-things.md",
-    "Evergreen-Notes/Permanent-Notes/writing-principles.md",
     "Daily-Bullet-Journal/journals/2026/10-October/2026_10_21.md",
     "Evergreen-Notes/Permanent-Notes/how-to-be-a-better-runner.md",
     "Evergreen-Notes/Permanent-Notes/pain-is-inevitable-suffering-is-optional.md",
     "Daily-Bullet-Journal/journals/2025/05-May/2025_05_28.md",
     "Brainfoodie/posts/what-i-talk-about-when-i-talk-about-running.md",
     "Daily-Bullet-Journal/journals/2024/10-October/2024_10_22.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_21.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_22.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_23.md",
-    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_23.md",
-    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_22.md",
-    "Daily-Bullet-Journal/journals/2022/10-October/2022_10_22.md",
-    "Daily-Bullet-Journal/journals/2020/10-October/2020_10_22.md",
     "Blog/posts/_attachments/Pasted image 20261021160917.png",
     "Blog/posts/_attachments",
     "Scripts/Templater/_test-createNewsletter.js",
     "Scripts/Templater/createNewsletter.js",
     "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20261020090840.png",
-    "Evergreen-Notes/Permanent-Notes/_attachments",
     "Scripts/Templater/datePicker.js",
     "Slash/_attachments/Pasted image 20261019151655.png",
     "Slash/_attachments",
-    "Blog/posts/_attachments/Pasted image 20261019113116.png",
-    "Blog/posts/_attachments/Pasted image 20261018145532.png",
-    "Visuals/Personal Growth/ab23c9d59fef059bb4dc4e724737fd3c.webp",
-    "Daily-Bullet-Journal/journals/2026/10-October/_attachments/8b91d003b77c61c77c3e08075f5bffde.png",
-    "Daily-Bullet-Journal/journals/2024/10-October/_attachments/ac2f7ca6fac0154a1ecbf52e06d75883.png",
-    "Daily-Bullet-Journal/journals/2024/10-October/_attachments/3efd87e942622314a85ecf20afaa3408.png",
-    "Daily-Bullet-Journal/journals/2024/10-October/_attachments/b86ab4d3116b5e147d89bbe39e0f6ee4.png",
     "Scripts/__pycache__/upload-to-r2.cpython-312.pyc",
     "Scripts/__pycache__",
-    "Blog/posts/_attachments/IMG_6355.mov",
-    "Blog/posts/_attachments/IMG_6356.mov"
+    "Blog/posts/_attachments/IMG_6355.mov"
   ]
 }
