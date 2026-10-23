@@ -221,7 +221,22 @@ function formatMonthTitle(month) {
     return `${month.year()} 年 ${month.month() + 1} 月`;
 }
 
-function buildDigest({ monthTitle, created, days }) {
+async function readSelfIntro() {
+    const path = "Enoughness/.scripts/self_intro.md";
+    const file = app.vault.getAbstractFileByPath(path);
+
+    if (file && file.extension === "md") {
+        return await app.vault.read(file);
+    }
+
+    try {
+        return await app.vault.adapter.read(path);
+    } catch {
+        return "";
+    }
+}
+
+function buildDigest({ monthTitle, created, days, selfIntro }) {
     const chunks = [
         [
             "---",
@@ -232,6 +247,10 @@ function buildDigest({ monthTitle, created, days }) {
             "",
         ].join("\n"),
     ];
+
+    if (selfIntro && selfIntro.trim()) {
+        chunks.push(`${selfIntro.trim()}\n\n---\n`);
+    }
 
     let entryCount = 0;
 
@@ -346,14 +365,31 @@ async function createNewsletter(tp) {
         return;
     }
 
+    const selfIntro = await readSelfIntro();
+    if (!selfIntro.trim()) {
+        new Notice(
+            "⚠️ Self-intro not found at Enoughness/.scripts/self_intro.md."
+        );
+    }
+
     const { content, entryCount } = buildDigest({
         monthTitle: formatMonthTitle(month),
         created: month.clone().startOf("month").format("YYYY-MM-DD"),
         days,
+        selfIntro,
     });
     const fileName = `${year}m${monthNumber}`;
     const targetPath = `Enoughness/posts/${fileName}.md`;
     const existing = app.vault.getAbstractFileByPath(targetPath);
+    const scratch =
+        (tp.config && tp.config.target_file) ||
+        tp.file.find_tfile(tp.file.path(true)) ||
+        app.workspace.getActiveFile();
+
+    if (!scratch) {
+        new Notice("❌ Could not resolve the current note.");
+        return;
+    }
 
     if (existing) {
         const overwrite = await tp.system.suggester(
@@ -366,22 +402,22 @@ async function createNewsletter(tp) {
             await app.workspace.getLeaf("tab").openFile(existing);
             return;
         }
-        await app.vault.trash(existing, true);
+
+        if (existing.path !== scratch.path) {
+            await app.vault.trash(existing, true);
+        }
     }
 
-    const scratch = tp.file.find_tfile(tp.file.path());
-    if (!scratch) {
-        new Notice("❌ Could not resolve the current note.");
-        return;
+    if (scratch.path !== targetPath) {
+        await tp.file.move(`Enoughness/posts/${fileName}`, scratch);
     }
-
-    await app.vault.modify(scratch, content);
-    await tp.file.move(`Enoughness/posts/${fileName}`);
 
     tp.user.setViewMode("live");
     new Notice(
         `📦 ${fileName}.md created — ${days.length} days scanned, ${entryCount} section entries.`
     );
+
+    return { content };
 }
 
 module.exports = createNewsletter;
