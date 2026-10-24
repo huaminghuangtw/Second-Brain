@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "131368e6398c6626",
+        "id": "2c9854261f3c33d2",
         "type": "tabs",
         "children": [
           {
-            "id": "1adf7ea6389cd768",
+            "id": "6cd7280228682f49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2026_10_24"
             }
           }
         ]
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "e2E",
+                "query": "留白",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,11 +67,12 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 523.9690551757812,
+    "width": 307.34307861328125,
     "collapsed": true
   },
   "right": {
@@ -88,7 +89,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_24.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -197,12 +198,12 @@
               "title": "Footnotes"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 388.4659423828125
+    "width": 388.4659423828125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,34 +215,40 @@
       "similar-notes:Open Similar Notes": false
     }
   },
-  "active": "1adf7ea6389cd768",
+  "active": "6cd7280228682f49",
   "lastOpenFiles": [
-    "Enoughness/posts/2026m9.md",
     "Homepage.md",
+    "Enoughness/posts/enoughness-21.md",
+    "Slash/about.md",
+    "Evergreen-Notes/Permanent-Notes/frameworks-to-structure-your-day.md",
+    "Blog/posts/20260422.md",
+    "Blog/posts/20251018.md",
+    "Daily-Bullet-Journal/journals/2024/04-April/2024_04_09.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_07.md",
+    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_01.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_16.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_09.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_24.md",
+    "Blog/posts/20260306.md",
+    "Daily-Bullet-Journal/journals/2015/10-October/2015_10_24.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_24.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/_attachments/Pasted image 20261024165621.png",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_23.md",
+    "Weekly-Mindware-Update/issues/2026/2026w39.md",
+    "Weekly-Mindware-Update/issues/2026/2026w38.md",
+    "Weekly-Mindware-Update/issues/2026/2026w41.md",
+    "Weekly-Mindware-Update/issues/2026/2026w40.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_01.md",
+    "Enoughness/posts/enoughness-11.md",
+    "Blog/posts/20261021.md",
+    "Blog/posts/20260806.md",
+    "Blog/posts/20260821.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_24.md",
+    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20261024094007.png",
+    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20261024094002.png",
+    "Evergreen-Notes/Permanent-Notes/_attachments",
     "Scripts/Templater/_check.js",
     "Scripts/Templater/_test-intro.js",
-    "Drafts/Untitled.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_10.md",
-    "Evergreen-Notes/Permanent-Notes/programming-best-practices.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_23.md",
-    "Brainfoodie/posts/tao-te-ching.md",
-    "Life-Notes/Business/Implementations & Strategies.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_31.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_06.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_18.md",
-    "Daily-Bullet-Journal/journals/2024/09-September/2024_09_16.md",
-    "Daily-Bullet-Journal/journals/2025/07-July/2025_07_25.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_22.md",
-    "Blog/posts/20261021.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_21.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_20.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_23.md",
-    "Evergreen-Notes/Permanent-Notes/attention.md",
-    "Brainfoodie/posts/commencement-address-by-jonathan-haidt-at-new-york-university.md",
-    "Blog/posts/20260821.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_23.md",
-    "Evergreen-Notes/Permanent-Notes/love.md",
-    "Blog/posts/20260425.md",
     "Evergreen-Notes/Permanent-Notes/_attachments/01f8032908d60ee1210b515fce626da5.png",
     "Life-Notes/_attachments/f979af7a22c9c817b5488a777f224e7a.png",
     "Life-Notes/_attachments/8609560777b3fbc0f9958ed5da70468a.png",
@@ -249,15 +256,11 @@
     "Life-Notes/_attachments/e9eea70164906e26d189fbbb0be038c8.png",
     "Life-Notes/_attachments/7843c1ab62be7c7fb54a0a30ab4f6314.png",
     "Evergreen-Notes/Permanent-Notes/_attachments/06b7b6b8fde84d2fc280a31b4ecc278e.jpg",
-    "Evergreen-Notes/Permanent-Notes/_attachments",
     "Evergreen-Notes/Permanent-Notes/untitled folder",
-    "Blog/posts/_attachments/Pasted image 20261021160917.png",
     "Blog/posts/_attachments",
     "Scripts/Templater/_test-createNewsletter.js",
     "Scripts/Templater/createNewsletter.js",
-    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20261020090840.png",
     "Scripts/Templater/datePicker.js",
-    "Slash/_attachments/Pasted image 20261019151655.png",
     "Slash/_attachments",
     "Scripts/__pycache__/upload-to-r2.cpython-312.pyc"
   ]
