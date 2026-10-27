@@ -4,25 +4,176 @@
     "type": "split",
     "children": [
       {
-        "id": "c5dbdd4f89c3f7dd",
+        "id": "657644ed8f5de541",
         "type": "tabs",
         "children": [
           {
-            "id": "7087c389a084dce8",
+            "id": "789a30f4f039c4f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_25.md",
+                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_10_25"
+              "title": "2026_10_27"
+            }
+          },
+          {
+            "id": "c92fc7ac7242a4e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/posts/20251018.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "20251018"
+            }
+          },
+          {
+            "id": "4e45594027514494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/posts/20260416.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "20260416"
+            }
+          },
+          {
+            "id": "065d1710cfe3b70d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/posts/20251205.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "20251205"
+            }
+          },
+          {
+            "id": "181ecceac66f0740",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enoughness/posts/enoughness-12.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "enoughness-12"
+            }
+          },
+          {
+            "id": "8dea9f1c57d9fe60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/posts/20260102.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "20260102"
+            }
+          },
+          {
+            "id": "baea8cceb4ca7d63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/posts/20260417.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "20260417"
+            }
+          },
+          {
+            "id": "322cf04d89105432",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/posts/20251205.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "20251205"
+            }
+          },
+          {
+            "id": "d3c2c12806880d95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/posts/20260417.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "20260417"
+            }
+          },
+          {
+            "id": "7e430dd834dc0265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen-Notes/Permanent-Notes/walk.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "walk"
+            }
+          },
+          {
+            "id": "a1fe596f72259e7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enoughness/posts/enoughness-27.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "enoughness-27"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -56,7 +207,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "苦楝樹綠色隧道",
+                "query": "焦慮工具",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +240,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Slash/about.md"
+                "file": "Blog/posts/20251205.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -190,8 +341,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.4659423828125,
-    "collapsed": true
+    "width": 388.4659423828125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,93 +353,53 @@
       "similar-notes:Open Similar Notes": false
     }
   },
-  "floating": {
-    "id": "9e6386b8cdffae69",
-    "type": "floating",
-    "children": [
-      {
-        "id": "24b6ffcd5c4e122d",
-        "type": "window",
-        "children": [
-          {
-            "id": "1924f827c44f027d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "653d5c509875076c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_26.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2026_10_26"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 343,
-        "y": 137,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 2
-      }
-    ]
-  },
-  "active": "7087c389a084dce8",
+  "active": "065d1710cfe3b70d",
   "lastOpenFiles": [
-    "Homepage.md",
-    "Slash/about.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_26.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_25.md",
-    "Evergreen-Notes/Permanent-Notes/decision-making.md",
+    "Evergreen-Notes/Permanent-Notes/walk.md",
     "Blog/posts/20251205.md",
-    "Today-I-Learned/posts/restoring-a-deinitialized-git-submodule.md",
+    "Slash/about.md",
+    "Blog/posts/20260417.md",
+    "Blog/posts/20260416.md",
+    "Blog/posts/20260415.md",
+    "Enoughness/posts/enoughness-27.md",
+    "Blog/posts/20261022.md",
+    "Blog/posts/20261021.md",
+    "Blog/posts/20260102.md",
+    "Blog/posts/_attachments/Pasted image 20261027165444.png",
+    "Blog/posts/_attachments",
+    "Enoughness/posts/enoughness-12.md",
+    "Enoughness/posts/enoughness-47.md",
+    "Enoughness/posts/enoughness-15.md",
+    "Blog/posts/20260123.md",
+    "Blog/posts/20251018.md",
+    "Enoughness/posts/enoughness-1.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_27.md",
+    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20261027162323.png",
+    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20261027162153.png",
+    "Evergreen-Notes/Permanent-Notes/_attachments",
+    "Homepage.md",
+    "Today-I-Learned/posts/pagefind-exact-search-with-double-quotes.md",
+    "Enoughness/posts/enoughness-39.md",
+    "Blog/posts/20260708.md",
+    "Blog/posts/20260403.md",
+    "Enoughness/posts/enoughness-20.md",
+    "Blog/posts/20260227.md",
+    "Blog/posts/20260422.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_17.md",
+    "Bookmarks/youtube-video.json",
+    "Bookmarks/podcast.json",
+    "Bookmarks/movie-and-tv.json",
+    "Bookmarks/essay.json",
+    "Bookmarks/book.json",
+    "Bookmarks",
     "Subscriptions/Subscriptions-YouTube.opml",
     "Subscriptions/Subscriptions-Reddit.opml",
-    "Subscriptions/Subscriptions-Blog.opml",
-    "Subscriptions",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_24.md",
-    "Blog/posts/20251105.md",
-    "Blog/posts/20251031.md",
     "Blog/posts/_attachments/Pasted image 20261026115414.png",
-    "Evergreen-Notes/Permanent-Notes/love.md",
-    "Blog/posts/20251029.md",
-    "Blog/posts/20251024.md",
-    "Blog/posts/20251023.md",
-    "Blog/posts/20251018.md",
-    "Blog/posts/20251017.md",
-    "Blog/posts/20251011.md",
-    "Blog/posts/20250905.md",
     "Blog/posts/_attachments/Pasted image 20261026114350.png",
-    "Blog/posts/20250520.md",
-    "Blog/posts/20251204.md",
-    "Enoughness/posts/enoughness-8.md",
-    "Blog/posts/20251227.md",
-    "Blog/posts/20251226.md",
     "Blog/posts/_attachments/Pasted image 20261026113753.png",
     "Blog/posts/_attachments/Pasted image 20261026113042.png",
-    "Blog/posts/_attachments",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_12.md",
-    "Evergreen-Notes/Permanent-Notes/when-in-doubt-zoom-out.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_04.md",
     "Daily-Bullet-Journal/journals/2026/10-October/_attachments/3830e0c6b529da9db7731bfd1852c5e5.png",
     "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20261024094007.png",
-    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20261024094002.png",
-    "Evergreen-Notes/Permanent-Notes/_attachments",
-    "Scripts/Templater/_check.js",
-    "Scripts/Templater/_test-intro.js",
-    "Evergreen-Notes/Permanent-Notes/_attachments/01f8032908d60ee1210b515fce626da5.png",
-    "Life-Notes/_attachments/f979af7a22c9c817b5488a777f224e7a.png",
-    "Life-Notes/_attachments/8609560777b3fbc0f9958ed5da70468a.png",
-    "Evergreen-Notes/Permanent-Notes/untitled folder",
-    "Scripts/Templater/_test-createNewsletter.js"
+    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20261024094002.png"
   ]
 }
