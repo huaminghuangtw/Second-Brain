@@ -144,17 +144,48 @@ dv.table(
 
 ---
 
-> [!example]- Writing
+> [!example]- Drafts
 >
 > ```dataviewjs
+> const title = (p) => p.title ?? p.file.name;
+>
 > const drafts = dv.pages()
->     .where(p => p.draft === true)
->     .sort(p => p.file.name)
+>     .where(p => p.draft === true && p.file.folder !== "Templates")
+>     .sort(p => title(p))
 >     .groupBy(p => p.file.folder.split("/")[0]);
 >
 > for (const { key, rows } of drafts.sort(g => g.key)) {
 >     dv.header(4, `❥ ${key}`);
->     dv.list(rows.map(p => p.file.link));
+>     dv.list(rows.map(p => dv.fileLink(p.file.path, false, title(p))));
+> }
+> ```
+
+> [!example]- Published
+>
+> ```dataviewjs
+> const title = (p) => p.title ?? p.file.name;
+> const asDate = (value) => value == null ? null : dv.date(value.toString());
+>
+> const today = dv.date("today");
+> const since = today.minus({ days: 7 });
+>
+> const daysAgo = (date) => {
+>     const days = today.startOf("day").diff(date.startOf("day"), "days").days;
+>     return days === 0 ? "today" : `${days} day${days === 1 ? "" : "s"} ago`;
+> };
+>
+> const published = dv.pages()
+>     .where(p => p.draft !== true && p.file.folder !== "Templates")
+>     .where(p => {
+>         const created = asDate(p.created);
+>         return created && created >= since && created <= today;
+>     })
+>     .sort(p => asDate(p.created), "desc")
+>     .groupBy(p => asDate(p.created).toISODate());
+>
+> for (const { key, rows } of published.sort(g => g.key, "desc")) {
+>     dv.header(4, `❥ ${daysAgo(asDate(key))}`);
+>     dv.list(rows.map(p => dv.fileLink(p.file.path, false, title(p))));
 > }
 > ```
 
