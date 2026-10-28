@@ -171,7 +171,7 @@ dv.table(
 >
 > const daysAgo = (date) => {
 >     const days = today.startOf("day").diff(date.startOf("day"), "days").days;
->     return days === 0 ? "today" : `${days} day${days === 1 ? "" : "s"} ago`;
+>     return days === 0 ? "Today" : `${days} day${days === 1 ? "" : "s"} ago`;
 > };
 >
 > const published = dv.pages()
