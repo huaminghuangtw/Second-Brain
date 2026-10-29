@@ -4,25 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "cef389044482c50b",
+        "id": "df6bf9ce2de9ffb4",
         "type": "tabs",
         "children": [
           {
-            "id": "da08bf53445958cc",
+            "id": "be8faf69ebcf69b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2026_10_29"
+            }
+          },
+          {
+            "id": "8093a70f59aeec0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slash/about.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "about"
+            }
+          },
+          {
+            "id": "4b4b3025eb27e0a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slash/now.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "now"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "臺灣大學畢業典禮",
+                "query": "line:(釋放 時間)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +98,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,7 +120,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_24.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -176,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_25.md",
+                "file": "Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,12 +216,46 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "3e7662499b611a7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Blog/posts/20260618.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "96439ec58a8c8dad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 388.4659423828125
+    "width": 388.4659423828125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,34 +267,37 @@
       "similar-notes:Open Similar Notes": false
     }
   },
-  "active": "da08bf53445958cc",
+  "active": "8093a70f59aeec0a",
   "lastOpenFiles": [
-    "Today-I-Learned/posts/astro-spread-props-cannot-override-explicit-attributes.md",
+    "Slash/now.md",
+    "Drafts/().md",
+    "Slash/about.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_29.md",
+    "Today-I-Learned/posts/choose-grid-columns-from-the-container-width.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_06.md",
+    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_31.md",
+    "Daily-Bullet-Journal/journals/2026/05-May/2026_05_09.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_10.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_11.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_16.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_24.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_28.md",
     "Homepage.md",
-    "Blog/posts/20251219.md",
-    "Blog/posts/20261028.md",
-    "Enoughness/posts/enoughness-10.md",
-    "Blog/posts/20251218.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_28.md",
-    "AdaptX/posts/the-monkey-and-pedestal-mindset.md",
-    "Brainfoodie/posts/jason-fried-your-only-competition-is-your-costs.md",
-    "Evergreen-Notes/Permanent-Notes/emotion-control.md",
-    "Evergreen-Notes/Permanent-Notes/dont-panic.md",
-    "Weekly-Mindware-Update/issues/2024/2024w1.md",
-    "Brainfoodie/posts/collection-jensen-huang.md",
-    "Evergreen-Notes/Permanent-Notes/always-keep-going.md",
-    "Evergreen-Notes/Permanent-Notes/resilience.md",
-    "Blog/posts/20250905.md",
-    "Blog/posts/20260123.md",
-    "Blog/posts/20260618.md",
-    "Blog/posts/20260617.md",
-    "Blog/posts/20260523.md",
-    "Blog/posts/20260522.md",
-    "Blog/posts/20260517.md",
     "Blog/posts/20261021.md",
-    "Evergreen-Notes/Permanent-Notes/slow-productivity.md",
+    "Blog/posts/20251114.md",
+    "Blog/posts/20251024.md",
+    "Blog/posts/20251219.md",
+    "Subscriptions/subscriptions.json",
+    "Brainfoodie/posts/ramen-profitable.md",
+    "Blog/posts/20260821.md",
+    "Evergreen-Notes/Permanent-Notes/walk.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_14.md",
+    "Daily-Bullet-Journal/journals/2025/02-February/2025_02_02.md",
+    "Microblog/posts/2025-02-02.md",
     "Blog/posts/20251205.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_27.md",
+    "Evergreen-Notes/Permanent-Notes/negative-thoughts-and-emotions.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/_attachments/Pasted image 20261028211229.png",
+    "Daily-Bullet-Journal/journals/2026/10-October/_attachments/Pasted image 20261028205018.png",
     "Blog/posts/_attachments/Pasted image 20261027165444.png",
     "Blog/posts/_attachments",
     "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20261027162323.png",
@@ -241,13 +310,10 @@
     "Bookmarks/book.json",
     "Bookmarks",
     "Subscriptions/Subscriptions-YouTube.opml",
-    "Subscriptions/Subscriptions-Reddit.opml",
     "Blog/posts/_attachments/Pasted image 20261026115414.png",
     "Blog/posts/_attachments/Pasted image 20261026114350.png",
     "Blog/posts/_attachments/Pasted image 20261026113753.png",
     "Blog/posts/_attachments/Pasted image 20261026113042.png",
-    "Daily-Bullet-Journal/journals/2026/10-October/_attachments/3830e0c6b529da9db7731bfd1852c5e5.png",
-    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20261024094007.png",
-    "Evergreen-Notes/Permanent-Notes/_attachments/Pasted image 20261024094002.png"
+    "Daily-Bullet-Journal/journals/2026/10-October/_attachments/3830e0c6b529da9db7731bfd1852c5e5.png"
   ]
 }

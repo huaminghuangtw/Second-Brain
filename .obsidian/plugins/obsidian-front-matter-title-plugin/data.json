@@ -54,7 +54,7 @@
       }
     },
     "graph": {
-      "enabled": false,
+      "enabled": true,
       "templates": {
         "main": "",
         "fallback": ""
@@ -96,7 +96,7 @@
       }
     },
     "backlink": {
-      "enabled": false,
+      "enabled": true,
       "templates": {
         "main": "",
         "fallback": ""
