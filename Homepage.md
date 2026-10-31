@@ -50,39 +50,22 @@ WHERE date
 <!-- https://huam.ing/deep-work-machine -->
 
 ```dataviewjs
-const { Utils } = await cJS();
 const { readFile } = require('fs').promises;
 
 const today = dv.date("today");
+const todayKey = new RegExp(`"${today.toISODate()}"\\s*:`);
 
 const flowsPath = '/Users/huaminghuang/Library/Mobile Documents/com~apple~CloudDocs/Documents/JSONFiles/number-of-flows.json';
 const wordsPath = `${app.vault.configDir}/vault-stats.json`;
 
-const [flowsData, wordsData] = await Promise.all([
-    readFile(flowsPath, 'utf-8').then(JSON.parse),
-    app.vault.adapter.read(wordsPath).then(s => JSON.parse(s).history)
+const [flowsText, wordsText] = await Promise.all([
+    readFile(flowsPath, 'utf-8'),
+    app.vault.adapter.read(wordsPath)
 ]);
 
 const METRICS = {
-    "Number of Flows": { path: flowsPath, data: flowsData },
-    "Number of Words": { path: wordsPath, data: wordsData }
-};
-
-const valueExtractors = {
-    "Number of Words": s => s.words,
-    "Number of Flows": v => Array.isArray(v) ? v.length : 1
-};
-
-const getAverage = (data, valueLabel, start, end) => {
-    const getValue = valueExtractors[valueLabel];
-    const dayCount = end.startOf("day").diff(start.startOf("day"), "days").days + 1;
-    const total = Object.entries(data)
-        .filter(([dateKey]) => {
-            const date = dv.date(dateKey);
-            return date >= start && date <= end;
-        })
-        .reduce((sum, [, value]) => sum + getValue(value), 0);
-    return dayCount ? Math.round(total / dayCount) : 0;
+    "Number of Flows": { label: "🍅", path: flowsPath, text: flowsText, data: JSON.parse(flowsText), count: v => Array.isArray(v) ? v.length : 1 },
+    "Number of Words": { label: "✍️", path: wordsPath, text: wordsText, data: JSON.parse(wordsText).history, count: v => v.words }
 };
 
 const periods = [
@@ -92,53 +75,31 @@ const periods = [
     ["Today", today, today]
 ];
 
-const results = Object.fromEntries(
-    Object.entries(METRICS).map(([metric, { data }]) => [
-        metric,
-        periods.map(([, start, end]) => getAverage(data, metric, start, end))
-    ])
-);
-
-const findLineNumber = async (path) => {
-    const content = await (path.startsWith('/') && !path.startsWith(app.vault.adapter.basePath)
-        ? readFile(path, 'utf-8')
-        : app.vault.adapter.read(path));
-    const lines = content.split("\n");
-    const todayLine = lines.findIndex(l => l.includes(`"${today.toISODate()}"`));
-    return todayLine + 1;
+const getAverage = ({ data, count }, start, end) => {
+    const dayCount = end.startOf("day").diff(start.startOf("day"), "days").days + 1;
+    const total = Object.entries(data)
+        .filter(([dateKey]) => {
+            const date = dv.date(dateKey);
+            return date >= start && date <= end;
+        })
+        .reduce((sum, [, value]) => sum + count(value), 0);
+    return dayCount ? Math.round(total / dayCount) : 0;
 };
 
-const lineNumbers = Object.fromEntries(
-    await Promise.all(
-        Object.entries(METRICS).map(async ([metric, { path }]) => [
-            metric,
-            await findLineNumber(path)
-        ])
-    )
-);
-
-const ROW_CONFIG = [
-    { metric: "Number of Flows", label: "🍅" },
-    { metric: "Number of Words", label: "✍️" }
-];
-
-const buildVsCodeLink = (path, lineNumber) => {
+const buildDateLink = ({ label, path, text }) => {
+    const index = text.search(todayKey);
+    if (index === -1) return label;
+    const before = text.slice(0, index).split("\n");
     const absPath = path.startsWith('/') ? path : `${app.vault.adapter.basePath}/${path}`;
-    return encodeURI(`vscode://file${absPath}:${lineNumber}`);
+    return `[${label}](${encodeURI(`vscode://file${absPath}:${before.length}:${before[before.length - 1].length + 1}`)})`;
 };
 
 dv.table(
-    ["", "Last Week", "This Week", "Yesterday", "Today"],
-    ROW_CONFIG.map(({ metric, label }) => {
-        const values = results[metric];
-        const link = buildVsCodeLink(METRICS[metric].path, lineNumbers[metric]);
-        return [
-            `[${label}](${link})`,
-            `${values[0]}`,
-            ...values.slice(1, 3),
-            values[3]
-        ];
-    })
+    ["", ...periods.map(([label]) => label)],
+    Object.entries(METRICS).map(([, metric]) => [
+        buildDateLink(metric),
+        ...periods.map(([, start, end]) => getAverage(metric, start, end))
+    ])
 );
 ```
 
@@ -148,11 +109,17 @@ dv.table(
 >
 > ```dataviewjs
 > const title = (p) => p.title ?? p.file.name;
+> const rootFolder = (p) => p.file.folder.split("/")[0];
+> const created = (p) => {
+>     const date = dv.date(p.created?.toString());
+>     return date?.isValid ? date : null;
+> };
+> const isDraft = (p) => rootFolder(p) === "Drafts" || (p.draft === true && Boolean(created(p)));
 >
 > const drafts = dv.pages()
->     .where(p => p.draft === true && p.file.folder !== "Templates")
+>     .where(isDraft)
 >     .sort(p => title(p))
->     .groupBy(p => p.file.folder.split("/")[0]);
+>     .groupBy(rootFolder);
 >
 > for (const { key, rows } of drafts.sort(g => g.key)) {
 >     dv.header(4, `❥ ${key}`);
@@ -164,7 +131,10 @@ dv.table(
 >
 > ```dataviewjs
 > const title = (p) => p.title ?? p.file.name;
-> const asDate = (value) => value == null ? null : dv.date(value.toString());
+> const created = (p) => {
+>     const date = dv.date(p.created?.toString());
+>     return date?.isValid ? date : null;
+> };
 >
 > const today = dv.date("today");
 > const since = today.minus({ days: 7 });
@@ -175,16 +145,16 @@ dv.table(
 > };
 >
 > const published = dv.pages()
->     .where(p => p.draft !== true && p.file.folder !== "Templates")
+>     .where(p => p.draft !== true)
 >     .where(p => {
->         const created = asDate(p.created);
->         return created && created >= since && created <= today;
+>         const date = created(p);
+>         return date && date >= since && date <= today;
 >     })
->     .sort(p => asDate(p.created), "desc")
->     .groupBy(p => asDate(p.created).toISODate());
+>     .sort(p => created(p), "desc")
+>     .groupBy(p => created(p).toISODate());
 >
 > for (const { key, rows } of published.sort(g => g.key, "desc")) {
->     dv.header(4, `❥ ${daysAgo(asDate(key))}`);
+>     dv.header(4, `❥ ${daysAgo(dv.date(key))}`);
 >     dv.list(rows.map(p => dv.fileLink(p.file.path, false, title(p))));
 > }
 > ```
