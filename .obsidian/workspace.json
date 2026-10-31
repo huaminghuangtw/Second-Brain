@@ -4,131 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "f10b6b0016a4b9d0",
+        "id": "945365b450e358d3",
         "type": "tabs",
         "children": [
           {
-            "id": "07cacdc9b12e8fe5",
+            "id": "c264aa8b87eb9431",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/the-long-path-is-the-shortcut.md",
+                "file": "Drafts/_about.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "the-long-path-is-the-shortcut"
+              "title": "_about"
             }
           },
           {
-            "id": "57e020043934d56b",
+            "id": "76adb307d0c7b3cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slash/mission.md",
+                "file": "Life-Notes/Business/🏰 My Biz Empire.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "mission"
-            }
-          },
-          {
-            "id": "1d0ab586e27ba538",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Slash/beliefs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "beliefs"
-            }
-          },
-          {
-            "id": "54b6ac74f0f81869",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Slash/colophon.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "colophon"
-            }
-          },
-          {
-            "id": "c641d2f03ad473e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Slash/uses.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "uses"
-            }
-          },
-          {
-            "id": "d716a9daba166c09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life-Notes/Alignment/🎯 Life Vision Board.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "🎯 Life Vision Board"
-            }
-          },
-          {
-            "id": "11a4b25acd6bd8d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/work-hard.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "work-hard"
-            }
-          },
-          {
-            "id": "1ae150575f3a7799",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/posts/20261021.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "20261021"
+              "title": "🏰 My Biz Empire"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "勞動",
+                "query": "考試不會考",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,7 +104,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Slash/uses.md"
+                "file": "Drafts/_about.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -329,7 +238,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.4659423828125
+    "width": 388.4659423828125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -341,36 +251,36 @@
       "similar-notes:Open Similar Notes": false
     }
   },
-  "active": "c641d2f03ad473e2",
+  "active": "c264aa8b87eb9431",
   "lastOpenFiles": [
-    "Slash/colophon.md",
-    "Slash/beliefs.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Life-Notes/Alignment/_attachments/9d5e43235d28859e5f836dd8fd84c65c.png",
-    "Blog/posts/20261021.md",
-    "Evergreen-Notes/Permanent-Notes/work-hard.md",
-    "Microblog/posts/2026-10-30.md",
-    "Slash/mission.md",
-    "Evergreen-Notes/Permanent-Notes/the-long-path-is-the-shortcut.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_30.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_05.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/_attachments/Pasted image 20261030153815.png",
+    "Life-Notes/Business/🏰 My Biz Empire.md",
+    "Drafts/_about.md",
     "Homepage.md",
-    "Blog/posts/20260523.md",
+    "Blog/posts/20261028.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_31.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_31.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_31.md",
+    "Weekly-Mindware-Update/issues/2024/2024w3.md",
+    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_01.md",
+    "Blog/posts/20260116.md",
+    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_31.md",
+    "Daily-Bullet-Journal/journals/2023/11-November/2023_11_11.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_31.md",
+    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_04.md",
+    "Daily-Bullet-Journal/journals/2021/10-October/2021_10_31.md",
+    "Daily-Bullet-Journal/journals/2015/10-October/2015_10_31.md",
     "Slash/about.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_29.md",
-    "Evergreen-Notes/Permanent-Notes/be-patient-with-results-but-inpatient-with-actions.md",
-    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_30.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_30.md",
-    "Evergreen-Notes/Permanent-Notes/long-term-thinking.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_29.md",
-    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_30.md",
-    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_29.md",
-    "Daily-Bullet-Journal/journals/2022/10-October/2022_10_30.md",
-    "Daily-Bullet-Journal/journals/2018/10-October/2018_10_30.md",
-    "temp.md",
-    "Evergreen-Notes/Permanent-Notes/you-are-the-average-of-the-five-people-you-associate-with-most.md",
-    "Blog/posts/20260618.md",
+    "Evergreen-Notes/Permanent-Notes/be-ware-of-blind-consistency.md",
+    "Drafts/_shortcutomation-business-plan.md",
+    "Evergreen-Notes/Permanent-Notes/the-locksmith-paradox.md",
+    "Evergreen-Notes/Fleeting-Notes.md",
+    "Evergreen-Notes/Permanent-Notes/psychology.md",
+    "Evergreen-Notes/Permanent-Notes/startups.md",
+    "Brainfoodie/posts/walden.md",
+    "Enoughness/posts/enoughness-1.md",
+    "Blog/posts/20251018.md",
+    "Life-Notes/Alignment/_attachments/9d5e43235d28859e5f836dd8fd84c65c.png",
+    "Daily-Bullet-Journal/journals/2026/10-October/_attachments/Pasted image 20261030153815.png",
     "Subscriptions/subscriptions.json",
     "Daily-Bullet-Journal/journals/2026/10-October/_attachments/Pasted image 20261028211229.png",
     "Daily-Bullet-Journal/journals/2026/10-October/_attachments/Pasted image 20261028205018.png",

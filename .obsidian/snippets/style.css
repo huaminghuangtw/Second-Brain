@@ -57,10 +57,6 @@ body {
   color: var(--text-faint);
 }
 
-.cm-hmd-frontmatter.cm-meta {
-  color: var(---text-muted);
-}
-
 .cm-hmd-frontmatter.cm-atom {
   color: deeppink;
 }
@@ -84,8 +80,6 @@ body {
 .cm-quote {
   font-style: italic;
 }
-
-/* Blockquote: rounded ends on the left border */
 
 blockquote {
   border-radius: 4px;
@@ -142,7 +136,7 @@ div[data-path$='.pdf']{
   display: none;
 }
 
-.is-live-preview .cm-comment {
+.is-live-preview .cm-line:not(.HyperMD-codeblock) .cm-comment {
   display: none;
 }
 

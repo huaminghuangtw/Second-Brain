@@ -8003,6 +8003,12 @@ trillion
 tanks
 tyrants
 tUyQ
+trimmed
+totals
+templated
+toString
+targetPath
+totalMinutes
 Escape
 Everything
 Earl
@@ -15933,6 +15939,7 @@ Endorphins
 EuaKdch
 EPzB
 Edelstahl
+Exempt
 competition
 created
 concerned
@@ -25133,6 +25140,9 @@ cBpp
 credence
 clobbered
 collision
+committable
+contextualize
+computed
 authenticity
 and
 avoids
@@ -33529,6 +33539,8 @@ ahXT
 aZDw
 aggCf
 anthropomorphize
+apocryphal
+admirer
 modified
 means
 mind
@@ -41872,6 +41884,8 @@ maturation
 morale
 merges
 mugwort
+messes
+metadataCache
 popular
 pause
 prisons
@@ -50644,6 +50658,8 @@ prevailed
 pAIW
 pFgv
 pCxW
+paginated
+pathWithinRepo
 is
 it
 in
@@ -59088,6 +59104,11 @@ incentivized
 implying
 ilJHa
 iMkYYQq
+inert
+isValidLink
+isListExport
+isDraft
+isValid
 wrong
 world
 with
@@ -66565,6 +66586,7 @@ wPa
 wpYg
 wBeq
 waIc
+weekdayLong
 Oscar
 Only
 Once
@@ -82167,6 +82189,7 @@ WASTE
 WHYe
 WLaB
 WjWn
+WEIGHTS
 To
 The
 Tzu
@@ -90325,6 +90348,7 @@ Transporter
 TKGHg
 Txgxg
 TLDR
+Tooltip
 escape
 eyes
 everyone
@@ -106704,6 +106728,11 @@ fdja
 fumM
 fundraising
 finalized
+funcionality
+fileLink
+forEach
+flatMap
+findOrphanedNotes
 one
 opinions
 of
@@ -114355,6 +114384,7 @@ oGy
 ojEU
 okww
 ovice
+overemphasize
 not
 no
 needed
@@ -121371,6 +121401,7 @@ nfck
 nhKk
 nGLsRvc
 natured
+nownownow
 quarters
 quote
 quick
@@ -129415,6 +129446,7 @@ dnJ
 dmb
 dKb
 dSt
+dataviewjs
 vscode
 values
 value
@@ -133068,6 +133100,9 @@ vakF
 vAYY
 vQK
 viM
+vars
+vegan
+visionOS
 lineNumber
 link
 location
@@ -137021,6 +137056,10 @@ lWgp
 lDkW
 lSh
 lXx
+lifted
+locksmith
+linkedPaths
+linkResults
 Health
 Highlights
 Holistic
@@ -140905,6 +140944,8 @@ HLS
 Hfi
 HXYI
 Hoo
+Handles
+HRMS
 hours
 held
 habits
@@ -144911,6 +144952,8 @@ hdVF
 hRP
 hJJv
 hTUG
+hyping
+headset
 CONFIG
 City
 Chiayi
@@ -149242,6 +149285,14 @@ CkX
 CKZ
 CHh
 CzI
+Credentials
+Caught
+Chronicle
+Confession
+Conformity
+Centipede
+Chamber
+Conversions
 sleepTime
 startTheDayAt
 speed
@@ -154340,6 +154391,18 @@ sdwv
 sVc
 sKZ
 sTi
+scoped
+squares
+spelling
+sahilbloom
+stares
+startOf
+sortFn
+startsWith
+sourcePath
+salutation
+selectedParagraphs
+sectionContent
 Search
 Stay
 Saturday
@@ -158919,6 +158982,10 @@ SNn
 SZH
 SgKW
 SXDK
+SAHILBLOOM
+Survivorship
+Shiny
+Seminaris
 Reminders
 Run
 Right
@@ -162966,6 +163033,7 @@ RVI
 RufR
 RjAY
 RfQK
+Rough
 randomReminder
 randomBulletPoint
 run
@@ -167400,6 +167468,13 @@ rTPL
 rtAw
 rJe
 rkPK
+retraces
+resolvedLinks
+randomParagraph
+renderEditLink
+reminderWithSubtasks
+randomSubtask
+rootFolder
 Friday
 For
 Founder
@@ -171320,6 +171395,9 @@ Fprx
 FKw
 FWy
 FaZ
+Forwarded
+FRIEND
+Fuse
 bedTime
 but
 befc
@@ -175578,6 +175656,11 @@ bRxv
 bgIo
 bgJC
 bzqfu
+blankly
+badLinks
+badEmbeds
+buildDeepLinks
+buildObsidianOpenFileURI
 July
 Jacky
 Jerry
@@ -183110,6 +183193,8 @@ DfwQ
 DEXQ
 DBhu
 DzpBXY
+Diderot
+DATA
 BuJo
 BrainFood
 Base
@@ -187122,6 +187207,8 @@ BZS
 BdAQ
 BXK
 BJiA
+Blind
+Blown
 Grateful
 Garmin
 Goal
@@ -190918,6 +191005,7 @@ GYL
 GIoV
 GNa
 Gears
+Gaming
 Achieved
 Adventure
 Airbnb
@@ -194918,6 +195006,9 @@ ARfP
 AYPe
 ALs
 Akd
+Ariely
+Adaptive
+Array
 NewPost
 Novelty
 NOTE
@@ -202547,6 +202638,8 @@ IBb
 IjDf
 IaL
 IQze
+Illusory
+Inlinks
 gradually
 gives
 generating
@@ -206371,6 +206464,19 @@ gPn
 gOaT
 gkZi
 gwnr
+geofence
+getAverage
+groupBy
+getWordCountPagePath
+getFileCache
+getAbstractFileByPath
+getLinkedPaths
+getFiles
+getMarkdownFiles
+getFirstLinkpathDest
+getJournalsURLs
+getRandomItem
+getRandomFile
 just
 jpg
 jpeg
@@ -209969,6 +210075,7 @@ juZP
 jdjr
 jhAN
 jUTG
+joyous
 Live
 LifeChangingMoment
 Lactate
@@ -213847,6 +213954,7 @@ LVlQ
 LoqF
 LCc
 LSQmlm
+LifeLesson
 Podcast
 ProTip
 Personalized
@@ -218006,6 +218114,9 @@ Por
 PRR
 PHAV
 Pbh
+Pronunciation
+Phonetic
+Pyrrhic
 Meraki
 MERAKI
 MeTime
@@ -222044,6 +222155,11 @@ MOlH
 MPbh
 MHG
 MkWVv
+Matic
+Mindless
+Myopia
+Magnet
+METRICS
 QualityDecision
 Quality
 Quotes
@@ -229447,6 +229563,7 @@ uFf
 uCv
 uvynWK
 uvHf
+unimpeachable
 your
 you
 yourself
@@ -246985,6 +247102,7 @@ ZHT
 ZYrg
 ZNb
 ZCYa
+Zebra
 zone
 zoom
 zooming
@@ -254126,6 +254244,7 @@ UCv
 UBECR
 UjKF
 Upu
+Utils
 Kudu
 King
 Kevin
@@ -257778,6 +257897,7 @@ Kdu
 KBLG
 KVb
 KilU
+KLAWD
 Xuucw
 Xso
 XyV
