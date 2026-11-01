@@ -4,40 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "945365b450e358d3",
+        "id": "52b57a912c23bcd6",
         "type": "tabs",
         "children": [
           {
-            "id": "c264aa8b87eb9431",
+            "id": "8976c47cd883b451",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drafts/_about.md",
+                "file": "Daily-Bullet-Journal/journals/2026/10-October/2026_10_31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "_about"
+              "title": "2026_10_31"
             }
           },
           {
-            "id": "76adb307d0c7b3cb",
+            "id": "f3fd4ef5fd699be5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life-Notes/Business/🏰 My Biz Empire.md",
+                "file": "Microblog/posts/2026-10-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏰 My Biz Empire"
+              "title": "2026-10-30"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "考試不會考",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +105,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Drafts/_about.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -251,34 +252,37 @@
       "similar-notes:Open Similar Notes": false
     }
   },
-  "active": "c264aa8b87eb9431",
+  "active": "f3fd4ef5fd699be5",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_31.md",
+    "Microblog/posts/2026-10-30.md",
+    "Homepage.md",
+    "Slash/mission.md",
+    "Slash/about.md",
+    "Slash/beliefs.md",
+    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_01.md",
+    "Daily-Bullet-Journal/journals/2019/11-November/2019_11_01.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_01.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_01.md",
+    "Daily-Bullet-Journal/journals/2023/11-November/2023_11_01.md",
+    "Evergreen-Notes/Permanent-Notes/discipline-equals-freedom.md",
+    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_31.md",
+    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_30.md",
+    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_29.md",
+    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_28.md",
+    "Daily-Bullet-Journal/journals/2016/11-November/2016_11_01.md",
+    "Daily-Bullet-Journal/journals/2019/11-November",
+    "Daily-Bullet-Journal/journals/2016/11-November",
     "Life-Notes/Business/🏰 My Biz Empire.md",
     "Drafts/_about.md",
-    "Homepage.md",
-    "Blog/posts/20261028.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_31.md",
+    "Daily-Bullet-Journal/journals/2026/07-July/2026_07_26.md",
+    "Evergreen-Notes/Permanent-Notes/frameworks-to-structure-your-day.md",
+    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_16.md",
+    "Daily-Bullet-Journal/journals/2025/04-April/2025_04_12.md",
+    "Daily-Bullet-Journal/journals/2024/10-October/2024_10_18.md",
     "Daily-Bullet-Journal/journals/2024/10-October/2024_10_31.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_31.md",
-    "Weekly-Mindware-Update/issues/2024/2024w3.md",
-    "Daily-Bullet-Journal/journals/2025/01-January/2025_01_01.md",
-    "Blog/posts/20260116.md",
-    "Daily-Bullet-Journal/journals/2023/10-October/2023_10_31.md",
-    "Daily-Bullet-Journal/journals/2023/11-November/2023_11_11.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_31.md",
-    "Daily-Bullet-Journal/journals/2025/05-May/2025_05_04.md",
-    "Daily-Bullet-Journal/journals/2021/10-October/2021_10_31.md",
-    "Daily-Bullet-Journal/journals/2015/10-October/2015_10_31.md",
-    "Slash/about.md",
-    "Evergreen-Notes/Permanent-Notes/be-ware-of-blind-consistency.md",
-    "Drafts/_shortcutomation-business-plan.md",
-    "Evergreen-Notes/Permanent-Notes/the-locksmith-paradox.md",
-    "Evergreen-Notes/Fleeting-Notes.md",
-    "Evergreen-Notes/Permanent-Notes/psychology.md",
-    "Evergreen-Notes/Permanent-Notes/startups.md",
-    "Brainfoodie/posts/walden.md",
-    "Enoughness/posts/enoughness-1.md",
-    "Blog/posts/20251018.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_26.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/_attachments/Pasted image 20261101001100.png",
     "Life-Notes/Alignment/_attachments/9d5e43235d28859e5f836dd8fd84c65c.png",
     "Daily-Bullet-Journal/journals/2026/10-October/_attachments/Pasted image 20261030153815.png",
     "Subscriptions/subscriptions.json",
@@ -294,10 +298,7 @@
     "Bookmarks/movie-and-tv.json",
     "Bookmarks/essay.json",
     "Bookmarks/book.json",
-    "Bookmarks",
-    "Subscriptions/Subscriptions-YouTube.opml",
     "Blog/posts/_attachments/Pasted image 20261026115414.png",
-    "Blog/posts/_attachments/Pasted image 20261026114350.png",
-    "Blog/posts/_attachments/Pasted image 20261026113753.png"
+    "Blog/posts/_attachments/Pasted image 20261026114350.png"
   ]
 }
