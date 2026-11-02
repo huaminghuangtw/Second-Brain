@@ -409,7 +409,6 @@ let editURI = await Utils.buildObsidianOpenFileURI(
     lineNumber
 );
 
-dv.header(2, "🧘‍♂️ Life Philosophy");
 dv.paragraph(`> ${randomParagraph}`);
 Utils.renderEditLink(dv, editURI);
 
@@ -456,17 +455,14 @@ const file = Utils.getRandomFile(
 const filePath = file.path;
 const fileContent = await dv.io.load(filePath);
 
-let titles = [
-    "🧠 Wisdom I Pondered This Week",
-    "🧠 Things I Learned This Week"
-];
+const CHUNK_SIZE = 5;
 
-for (const [index, title] of titles.entries()) {
-    let sectionContent = fileContent.split("\n")
-                            .filter(line => line.startsWith("*"))
-                            .map(line => line.slice(1).trim());
+const bullets = fileContent.split("\n")
+                        .filter(line => line.startsWith("*"))
+                        .map(line => line.slice(1).trim());
 
-    sectionContent = (index === 0) ? sectionContent.slice(0, 5) : sectionContent.slice(5, 10);
+for (const start of [0, CHUNK_SIZE]) {
+    const sectionContent = bullets.slice(start, start + CHUNK_SIZE);
 
     let randomBulletPoint = Utils.getRandomItem(sectionContent);
 
@@ -479,7 +475,6 @@ for (const [index, title] of titles.entries()) {
         lineNumber
     );
 
-    dv.header(2, `${title}`);
     dv.paragraph(`> ${randomBulletPoint}`);
     Utils.renderEditLink(dv, editURI3);
 }
