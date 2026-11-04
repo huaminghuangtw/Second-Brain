@@ -379,12 +379,6 @@ dv.table(
 > );
 > ```
 
-> [!example]- Highlights
->
-> ```query
-> /(?<=<mark>).+?(?=<\/mark>)/ --path:"Brainfoodie"
-> ```
-
 ---
 
 ```dataviewjs
