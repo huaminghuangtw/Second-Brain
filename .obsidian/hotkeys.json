@@ -925,16 +925,6 @@
       "key": "D"
     }
   ],
-  "obsidian-shellcommands:shell-command-0djiknrkgh": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod",
-        "Shift"
-      ],
-      "key": "S"
-    }
-  ],
   "unique-attachments:rename-all-attachments": [
     {
       "modifiers": [
@@ -1047,6 +1037,16 @@
         "Shift"
       ],
       "key": "J"
+    }
+  ],
+  "obsidian-shellcommands:shell-command-mk7x2pw9qz": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
     }
   ]
 }
