@@ -7,85 +7,101 @@ NC='\033[0m' # No Color
 
 [ $# -lt 1 ] && echo -e "${YELLOW}Usage: $0 <directory_path_1> [<directory_path_2> <directory_path_3> ...]${NC}" && exit 1
 
-total_dir_num=$#
+push_branch() {
+    local branch
+    branch=$(git symbolic-ref --quiet --short HEAD || echo main)
+    git push origin "$branch" && return 0
+    git pull --rebase --autostash origin "$branch" || {
+        git rebase --abort > /dev/null 2>&1
+        return 1
+    }
+    git push origin "$branch"
+}
 
-for ((i=1; i<=total_dir_num; i++)); do
-    idx="${!i}"
-    TARGET_DIR="${idx/#\~/$HOME}"
-    
-    if [ $total_dir_num -gt 1 ]; then
-        echo -e "${YELLOW}🔄 (${i} / ${total_dir_num}) Backup: $(basename "$TARGET_DIR")...${NC}"
-    else
-        echo -e "${YELLOW}🔄 Backup: $(basename "$TARGET_DIR")...${NC}"
-    fi
+fail=0
+index=0
+
+for target in "$@"; do
+    index=$((index + 1))
+    TARGET_DIR="${target/#\~/$HOME}"
+
+    echo -e "${YELLOW}🔄 (${index} / $#) Backup: $(basename "$TARGET_DIR")...${NC}"
 
     if [ ! -d "$TARGET_DIR" ]; then
         echo -e "${RED}❌ Error: Directory '$TARGET_DIR' does not exist${NC}"
+        fail=1
         continue
     fi
 
     cd "$TARGET_DIR" 2>/dev/null || {
         echo -e "${RED}❌ Error: Cannot cd to '$TARGET_DIR'${NC}"
+        fail=1
         continue
     }
 
     if [ ! -d ".git" ]; then
         echo -e "${RED}❌ Error: '$TARGET_DIR' is not a git repository${NC}"
-        cd - > /dev/null 2>&1
+        fail=1
         continue
     fi
-    
-    git status --porcelain | grep -E '\.(md|json|js|sh|py)("?)$' | while IFS= read -r status_line; do
-        [ -z "$status_line" ] && continue
 
-        status_code="${status_line:0:2}"
-        
-        file_path="${status_line:3}"
-        # Remove surrounding quotes if present
-        file_path="${file_path%\"}"
-        file_path="${file_path#\"}"
-        # Convert octal-escaped sequences to actual UTF-8 characters
-        file_path=$(printf "%b" "$file_path")
+    obsidian=0
+    stats=""
 
-        [ ! -f "$file_path" ] && continue
-        
-        # Handle Obsidian configuration files separately
-        [[ "$file_path" =~ ^\.obsidian(-mobile)?/ ]] && continue
-        
-        # Handle Deep Work Machine files separately
-        [[ "$file_path" =~ ^Number\ of\ (Flows|Words)/ ]] && continue
-        
-        git add "$file_path"
-        
-        [[ "$status_code" =~ ^(\?\?|A) ]] && git commit -m "Add: $(basename "$file_path")" || git commit -m "Update: $(basename "$file_path")"
-        
+    git rev-parse --verify HEAD > /dev/null 2>&1 && git reset -q
+
+    while IFS= read -r -d '' entry; do
+        status_code="${entry:0:2}"
+        file_path="${entry:3}"
+        [[ "$status_code" == *[RC]* ]] && IFS= read -r -d '' _
+
+        # Committed as one block below instead of one commit per file
+        case "$file_path" in
+            .obsidian/*|.obsidian-mobile/*) obsidian=1; continue ;;
+            "Number of Flows/"*|"Number of Words/"*) [ -z "$stats" ] && stats="$file_path"; continue ;;
+        esac
+
+        git add -A -- "$file_path"
+        git diff --cached --quiet && continue
+
+        case "$status_code" in
+            *[RC]*) action="Rename" ;;
+            *D*) action="Delete" ;;
+            "??"*|A*) action="Add" ;;
+            *) action="Update" ;;
+        esac
+
+        git commit -m "$action: $file_path"
+
         # Ensure the staging area is clean after each commit
         git reset > /dev/null 2>&1
-    done
+    done < <(git status --porcelain -z)
 
-    git status --porcelain | grep -qE "\.obsidian(-mobile)?/" && {
-        [ -d ".obsidian" ] && git add .obsidian/
-        [ -d ".obsidian-mobile" ] && git add .obsidian-mobile/
-        git commit -m "Update Obsidian configuration"
-    }
+    if [ "$obsidian" = 1 ]; then
+        [ -d ".obsidian" ] && git add -A -- .obsidian
+        [ -d ".obsidian-mobile" ] && git add -A -- .obsidian-mobile
+        git diff --cached --quiet || git commit -m "Update Obsidian configuration"
+    fi
 
-    git status --porcelain | grep -qE "Number of (Flows|Words)/" && {
-        [ -d "Number of Flows" ] && git add "Number of Flows/"
-        [ -d "Number of Words" ] && git add "Number of Words/"
-        filepath=$(git status --porcelain | grep -E "Number of (Flows|Words)/" | head -1 | cut -c4-)
-        year=$(echo "$filepath" | cut -d'/' -f2)
-        month=$(echo "$filepath" | cut -d'/' -f3 | cut -d'-' -f2)
-        git commit -m "Add stats for $year $month"
-    }
+    if [ -n "$stats" ]; then
+        [ -d "Number of Flows" ] && git add -A -- "Number of Flows"
+        [ -d "Number of Words" ] && git add -A -- "Number of Words"
+        year=$(echo "$stats" | cut -d'/' -f2)
+        month=$(echo "$stats" | cut -d'/' -f3 | cut -d'-' -f2)
+        git diff --cached --quiet || git commit -m "Add stats for $year $month"
+    fi
 
     git add -A
-    git commit -m "Backup"
-    
-    git push origin main && {
+    git diff --cached --quiet || git commit -m "Backup"
+
+    if push_branch; then
         echo -e "${GREEN}✅ $(basename "$TARGET_DIR")${NC}"
-    } || {
+    else
         echo -e "${RED}❌ $(basename "$TARGET_DIR")${NC}"
-    }
+        fail=1
+    fi
 
     echo
 done
+
+exit $fail
