@@ -2,7 +2,7 @@
 modified: 2026-10-05
 ---
 <!-- four-quarters-in-a-day -->
-
+v
 ```dataviewjs
 const CONFIG = {
     startTime: { hours: 4, minutes: 30 },
