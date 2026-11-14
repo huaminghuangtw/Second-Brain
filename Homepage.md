@@ -1,8 +1,9 @@
 ---
-modified: 2026-10-05
+modified: 2026-11-14
 ---
+
 <!-- four-quarters-in-a-day -->
-v
+
 ```dataviewjs
 const CONFIG = {
     startTime: { hours: 4, minutes: 30 },
@@ -159,41 +160,6 @@ dv.table(
 > }
 > ```
 
-> [!example]- Notes
->
-> ```dataviewjs
-> const notes = dv.pages('"Evergreen-Notes/Permanent-Notes"');
-> const bwc = app.plugins.plugins["better-word-count"].api;
->
-> await Promise.all(notes.map(async (p) => {
->     p._wordCount = await bwc.getWordCountPagePath(p.file.path);
->     const cache  = app.metadataCache.getFileCache(app.vault.getAbstractFileByPath(p.file.path));
->     p._headings  = cache?.headings?.length ?? 0;
->     p._inlinks   = p.file.inlinks.length;
-> }));
->
-> const WEIGHTS = { inlinks: 3, words: 1, headings: 2 };
-> notes.forEach(p => {
->     p._score = WEIGHTS.inlinks   * p._inlinks
->              + WEIGHTS.words     * Math.log1p(p._wordCount)
->              + WEIGHTS.headings  * p._headings;
-> });
->
-> const top3 = (sortFn) => [...notes].sort(sortFn).slice(0, 3);
->
-> dv.header(4, "❥ Composite Score");
-> dv.list(top3((a, b) => b._score - a._score).map(p => `${p.file.link} (${p._score.toFixed(1)})`));
->
-> dv.header(4, "❥ Most Words");
-> dv.list(top3((a, b) => b._wordCount - a._wordCount).map(p => `${p.file.link} (${p._wordCount} words)`));
->
-> dv.header(4, "❥ Most Inlinks");
-> dv.list(top3((a, b) => b._inlinks - a._inlinks).map(p => `${p.file.link} (${p._inlinks} inlinks)`));
->
-> dv.header(4, "❥ Most Structured");
-> dv.list(top3((a, b) => b._headings - a._headings).map(p => `${p.file.link} (${p._headings} headings)`));
-> ```
-
 > [!example]- Vault
 >
 > ```dataviewjs
@@ -301,6 +267,41 @@ dv.table(
 >
 > ```
 
+> [!example]- Notes
+>
+> ```dataviewjs
+> const notes = dv.pages('"Evergreen-Notes/Permanent-Notes"');
+> const bwc = app.plugins.plugins["better-word-count"].api;
+>
+> await Promise.all(notes.map(async (p) => {
+>     p._wordCount = await bwc.getWordCountPagePath(p.file.path);
+>     const cache  = app.metadataCache.getFileCache(app.vault.getAbstractFileByPath(p.file.path));
+>     p._headings  = cache?.headings?.length ?? 0;
+>     p._inlinks   = p.file.inlinks.length;
+> }));
+>
+> const WEIGHTS = { inlinks: 3, words: 1, headings: 2 };
+> notes.forEach(p => {
+>     p._score = WEIGHTS.inlinks   * p._inlinks
+>              + WEIGHTS.words     * Math.log1p(p._wordCount)
+>              + WEIGHTS.headings  * p._headings;
+> });
+>
+> const top3 = (sortFn) => [...notes].sort(sortFn).slice(0, 3);
+>
+> dv.header(4, "❥ Composite Score");
+> dv.list(top3((a, b) => b._score - a._score).map(p => `${p.file.link} (${p._score.toFixed(1)})`));
+>
+> dv.header(4, "❥ Most Words");
+> dv.list(top3((a, b) => b._wordCount - a._wordCount).map(p => `${p.file.link} (${p._wordCount} words)`));
+>
+> dv.header(4, "❥ Most Inlinks");
+> dv.list(top3((a, b) => b._inlinks - a._inlinks).map(p => `${p.file.link} (${p._inlinks} inlinks)`));
+>
+> dv.header(4, "❥ Most Structured");
+> dv.list(top3((a, b) => b._headings - a._headings).map(p => `${p.file.link} (${p._headings} headings)`));
+> ```
+
 > [!example]- Retrospection
 >
 > ```dataviewjs
@@ -406,6 +407,8 @@ let editURI = await Utils.buildObsidianOpenFileURI(
 dv.paragraph(`> ${randomParagraph}`);
 Utils.renderEditLink(dv, editURI);
 
+dv.el("hr", "");
+
 // https://huam.ing/lists
 
 const isListExport = ({ basename }, pathWithinRepo) =>
@@ -436,40 +439,4 @@ if (randomSubtask.notes) {
 }
 
 Utils.renderEditLink(dv, editURI2);
-
-// https://huam.ing/wmu
-
-const weekNumber = dv.date("today").weekNumber;
-
-const file = Utils.getRandomFile(
-    "Weekly-Mindware-Update",
-    ({ name }) => name.endsWith(`w${weekNumber}.md`)
-);
-
-const filePath = file.path;
-const fileContent = await dv.io.load(filePath);
-
-const CHUNK_SIZE = 5;
-
-const bullets = fileContent.split("\n")
-                        .filter(line => line.startsWith("*"))
-                        .map(line => line.slice(1).trim());
-
-for (const start of [0, CHUNK_SIZE]) {
-    const sectionContent = bullets.slice(start, start + CHUNK_SIZE);
-
-    let randomBulletPoint = Utils.getRandomItem(sectionContent);
-
-    let lineNumber = fileContent.split("\n")
-                        .findIndex(line => line.includes(randomBulletPoint))
-                        + 1;
-
-    let editURI3 = await Utils.buildObsidianOpenFileURI(
-        filePath,
-        lineNumber
-    );
-
-    dv.paragraph(`> ${randomBulletPoint}`);
-    Utils.renderEditLink(dv, editURI3);
-}
 ```
