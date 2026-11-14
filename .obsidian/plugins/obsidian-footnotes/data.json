@@ -2,7 +2,7 @@
   "settingsVersion": 2,
   "insertAtEndOfWord": true,
   "expandSelectionToWholeWords": true,
-  "enablePopupEditor": true,
+  "enablePopupEditor": false,
   "enableFootnotePrefix": false,
   "enableFootnoteSectionHeading": false,
   "footnoteSectionHeading": "# Footnotes",

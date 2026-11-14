@@ -4,116 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "a64d15e21e0b2544",
+        "id": "96bf1c9e90258633",
         "type": "tabs",
         "children": [
           {
-            "id": "b8b8dcac2d23993c",
+            "id": "93189be8b8122c80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2026/11-November/2026_11_14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "46af1f63224468f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Slash/about.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "about"
-            }
-          },
-          {
-            "id": "b52083651a89e830",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Slash/values.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "values"
-            }
-          },
-          {
-            "id": "fe2ce9ee8d21aebb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brainfoodie/posts/what-is-success.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "what-is-success"
-            }
-          },
-          {
-            "id": "a7988f6992c095ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Slash/beliefs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "beliefs"
-            }
-          },
-          {
-            "id": "a4e26ca37e54a928",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen-Notes/Permanent-Notes/wu-wei.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "wu-wei"
-            }
-          },
-          {
-            "id": "a82976492bef821c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brainfoodie/posts/how-will-you-measure-your-life.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "how-will-you-measure-your-life"
+              "title": "2026_11_14"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"To laugh often and much\"",
+                "query": "YearMonthNav",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -304,7 +213,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Slash/about.md"
+                "file": "Daily-Bullet-Journal/journals/2026/11-November/2026_11_14.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -328,34 +237,35 @@
       "similar-notes:Open Similar Notes": false
     }
   },
-  "active": "46af1f63224468f3",
+  "active": "93189be8b8122c80",
   "lastOpenFiles": [
-    "Slash/beliefs.md",
-    "Evergreen-Notes/Permanent-Notes/wu-wei.md",
-    "Evergreen-Notes/Permanent-Notes/what-success-means-to-me.md",
-    "Slash/values.md",
-    "Brainfoodie/posts/what-is-success.md",
-    "Brainfoodie/posts/how-will-you-measure-your-life.md",
-    "Slash/about.md",
-    "AdaptX/posts/30-things-ive-learned-in-30-years.md",
-    "Evergreen-Lists/keyboard-hotkey/keyboard-hotkey.md",
-    "Evergreen-Notes/Permanent-Notes/do-hard-things.md",
-    "Newsletter/posts/enoughness-27.md",
-    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_31.md",
-    "Daily-Bullet-Journal/journals/2026/04-April/2026_04_01.md",
-    "Slash/sites.md",
-    "Evergreen-Notes/Permanent-Notes/busyness.md",
-    "Evergreen-Notes/Permanent-Notes/99-percent-of-effort-is-wasted.md",
-    "Evergreen-Notes/Permanent-Notes/work-hard.md",
     "Homepage.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_14.md",
+    "Slash/values.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/_attachments/cc40f74f8adec888b3b4d0c34c5a5bd7.png",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_14.md",
+    "Slash/beliefs.md",
+    "Microblog/posts/2026-11-14.md",
+    "Daily-Bullet-Journal/journals/2023/11-November/2023_11_14.md",
+    "Today-I-Learned/posts/a-tables-filters-belong-in-the-url.md",
+    "Daily-Bullet-Journal/journals/2021/11-November/2021_11_14.md",
+    "Daily-Bullet-Journal/journals/2020/11-November/2020_11_14.md",
+    "Daily-Bullet-Journal/journals/2015/11-November/2015_11_14.md",
     "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md",
-    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_08.md",
-    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_01.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_31.md",
-    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_03.md",
-    "Life-Notes/Alignment/🎯 Life Vision Board.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_28.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_10.md",
+    "Evergreen-Notes/Permanent-Notes/how-to-be-a-better-runner.md",
+    "Evergreen-Notes/Permanent-Notes/how-to-be-a-better-writer.md",
+    "Evergreen-Notes/Permanent-Notes/the-mountain-and-the-pebbles.md",
+    "Weekly-Mindware-Update/issues/2024/2024w43.md",
+    "Weekly-Mindware-Update/issues/2026/2026w43.md",
+    "Evergreen-Notes/Permanent-Notes/wealth-creation.md",
+    "Evergreen-Notes/Permanent-Notes/money.md",
+    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_06.md",
+    "Blog/posts/20261021.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_19.md",
+    "Today-I-Learned/posts/a-static-page-freezes-today-at-build-time.md",
+    "Weekly-Mindware-Update/issues/2024/2024w45.md",
+    "Blog/posts/20260618.md",
+    "Daily-Bullet-Journal/journals/2026/11-November/_attachments/Pasted image 20261113204046.png",
     "Daily-Bullet-Journal/journals/2026/11-November/_attachments/faf92f23521dceb2000756b735f4f194.png",
     "Daily-Bullet-Journal/journals/2026/11-November/_attachments/Pasted image 20261112073421.png",
     "Daily-Bullet-Journal/journals/2026/11-November/_attachments/3de33eff54ff67f5fb34a757e0f22def.png",
@@ -373,8 +283,6 @@
     "Evergreen-Lists/life-pro-tip/life-pro-tip.pdf",
     "Deep-Work-Machine/Number of Words/2026/10-October/number-of-words_2026-10.json",
     "Deep-Work-Machine/Number of Words/2026/10-October/number-of-words_2026-10.csv",
-    "Deep-Work-Machine/Number of Words/2026/10-October/number-of-words_2026-10.png",
-    "Deep-Work-Machine/Number of Words/2026/10-October",
-    "Deep-Work-Machine/Number of Flows/2026/10-October/number-of-flows_2026-10.png"
+    "Deep-Work-Machine/Number of Words/2026/10-October"
   ]
 }
