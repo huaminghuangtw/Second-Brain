@@ -48,6 +48,28 @@ WHERE date
 
 ---
 
+<!-- https://huam.ing/embed/death-clock -->
+
+```dataviewjs
+if (navigator.onLine) {
+    const frame = dv.el("iframe", "", {
+        attr: {
+            src: "https://huam.ing/embed/death-clock",
+            title: "Death Clock",
+            loading: "lazy"
+        }
+    });
+
+    Object.assign(frame.style, {
+        width: "100%",
+        height: "90px",
+        border: "0"
+    });
+}
+```
+
+---
+
 <!-- https://huam.ing/deep-work-machine -->
 
 ```dataviewjs
