@@ -141,7 +141,7 @@ dv.table(
 >
 > const drafts = dv.pages()
 >     .where(isDraft)
->     .sort(p => title(p))
+>     .sort(p => created(p), "desc")
 >     .groupBy(rootFolder);
 >
 > for (const { key, rows } of drafts.sort(g => g.key)) {
