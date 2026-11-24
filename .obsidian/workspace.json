@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "472692971e170145",
+        "id": "a8ae20d8bc0650d5",
         "type": "tabs",
         "children": [
           {
-            "id": "b0a1908703496f83",
+            "id": "d1fcaec78add1c00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/11-November/2026_11_23.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_11_23"
-            }
-          },
-          {
-            "id": "c3074d06cff13826",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Slash/about.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "about"
+              "title": "Homepage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "雙寶",
+                "query": "\"Zero expectations\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -253,35 +237,35 @@
       "similar-notes:Open Similar Notes": false
     }
   },
-  "active": "c3074d06cff13826",
+  "active": "d1fcaec78add1c00",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_23.md",
-    "Daily-Bullet-Journal/journals/2025/09-September/2025_09_05.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_10.md",
-    "Daily-Bullet-Journal/journals/2026/03-March/2026_03_10.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_14.md",
-    "Blog/posts/20261021.md",
-    "Homepage.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_23.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_18.md",
-    "iCloud/Coffee.md",
-    "Daily-Bullet-Journal/journals/2022/11-November/2022_11_23.md",
-    "Daily-Bullet-Journal/journals/2022/11-November/2022_11_22.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_23.md",
-    "Microblog/posts/2025-11-23.md",
-    "Daily-Bullet-Journal/journals/2023/11-November/2023_11_23.md",
-    "Daily-Bullet-Journal/journals/2019/11-November/2019_11_23.md",
-    "temp.md",
-    "Evergreen-Notes/Permanent-Notes/you-are-the-average-of-the-five-people-you-associate-with-most.md",
-    "Slash/dont.md",
-    "Slash/about.md",
     "Daily-Bullet-Journal/journals/2026/11-November/2026_11_22.md",
-    "Daily-Bullet-Journal/journals/2015/11-November/2015_11_22.md",
-    "Evergreen-Notes/Permanent-Notes/peace-from-mind.md",
     "Daily-Bullet-Journal/journals/2026/11-November/2026_11_21.md",
-    "Daily-Bullet-Journal/journals/2026/11-November/_attachments/972e987d2fb53d9f5712a131f948afaa.jpeg",
-    "Slash/values.md",
+    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_20.md",
+    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_19.md",
+    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_23.md",
+    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_18.md",
+    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_17.md",
+    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_16.md",
+    "Homepage.md",
+    "Drafts/_finland.md",
+    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_11.md",
+    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_24.md",
+    "Life-Notes/Finance/Investment 101.md",
+    "Life-Notes/Coding/React.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_16.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_06.md",
+    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_12.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_20.md",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_28.md",
+    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_07.md",
+    "Evergreen-Notes/Permanent-Notes/make-fast-decisions.md",
+    "Evergreen-Notes/Permanent-Notes/busyness.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_12.md",
     "Slash/beliefs.md",
+    "Slash/values.md",
+    "Slash/about.md",
+    "Daily-Bullet-Journal/journals/2026/11-November/_attachments/972e987d2fb53d9f5712a131f948afaa.jpeg",
     "Daily-Bullet-Journal/journals/2026/11-November/_attachments/a22c20ca17280f1c17595996e293764f.jpeg",
     "Daily-Bullet-Journal/journals/2024/10-October/_attachments/912c2a7778dbc7529ef31e871234183d.jpeg",
     "Bookmarks/youtube-videos.json",
