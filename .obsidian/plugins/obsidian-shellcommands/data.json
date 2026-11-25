@@ -62,7 +62,7 @@
     {
       "id": "a4mqepg0uf",
       "platform_specific_commands": {
-        "default": "query=$(printf \"%s\" {{selection}} | tr -s '[:space:]' '+' | sed 's/&/%26/g')\n\nif [ {{_link_type}} = \"Google Search\" ]; then\n  printf \"[%s](https://www.google.com/search?q=%s)\" {{selection}} \"$query\"\nelif [ {{_link_type}} = \"Google Maps\" ]; then\n  printf \"[%s](https://www.google.com/maps?q=%s)\" {{selection}} \"$query\"\nelse\n  printf \"%s\" \"$sel\"\nfi"
+        "default": "query=$(printf \"%s\" {{selection}} | tr -s '[:space:]' '+' | sed 's/&/%26/g')\n\nif [ {{_link_type}} = \"Search\" ]; then\n  printf \"[%s](https://www.google.com/search?q=%s)\" {{selection}} \"$query\"\nelif [ {{_link_type}} = \"Maps\" ]; then\n  printf \"[%s](https://www.google.com/maps?q=%s)\" {{selection}} \"$query\"\nelse\n  printf \"%s\" \"$sel\"\nfi"
       },
       "shells": {},
       "alias": "GLink",
@@ -423,8 +423,8 @@
           "target_variable_id": "b9zm6dwcb2",
           "required": true,
           "choices": [
-            "Google Search",
-            "Google Maps"
+            "Search",
+            "Maps"
           ]
         }
       ],

@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "a8ae20d8bc0650d5",
+        "id": "77333502706e7f9d",
         "type": "tabs",
         "children": [
           {
-            "id": "d1fcaec78add1c00",
+            "id": "6a93764471a617dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Daily-Bullet-Journal/journals/2026/11-November/2026_11_25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2026_11_25"
+            }
+          },
+          {
+            "id": "3039d842b0a8b23e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/posts/20260213.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "20260213"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Zero expectations\"",
+                "query": "20261125170139",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +83,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,7 +228,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "Blog/posts/20260213.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -237,34 +252,39 @@
       "similar-notes:Open Similar Notes": false
     }
   },
-  "active": "d1fcaec78add1c00",
+  "active": "3039d842b0a8b23e",
   "lastOpenFiles": [
-    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_22.md",
-    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_21.md",
-    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_20.md",
-    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_19.md",
-    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_23.md",
-    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_18.md",
-    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_17.md",
-    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_16.md",
+    "Blog/posts/_attachments/Pasted image 20261125170139.png",
+    "Blog/posts/20260213.md",
+    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_25.md",
+    "Newsletter/posts/enoughness-26.md",
+    "Blog/posts/_attachments/Pasted image 20261125171429.png",
+    "Newsletter/posts/enoughness-15.md",
+    "Blog/posts/20260122.md",
+    "Newsletter/posts/enoughness-22.md",
+    "Blog/posts/20260314.md",
+    "Newsletter/posts/enoughness-13.md",
+    "Blog/posts/20260109.md",
+    "Newsletter/posts/enoughness-12.md",
+    "Blog/posts/20260102.md",
+    "Blog/posts/_attachments/Pasted image 20261125170142.png",
+    "Drafts/_shortcutomation-business-plan.md",
     "Homepage.md",
-    "Drafts/_finland.md",
-    "Daily-Bullet-Journal/journals/2025/03-March/2025_03_11.md",
-    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_24.md",
-    "Life-Notes/Finance/Investment 101.md",
-    "Life-Notes/Coding/React.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_16.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_06.md",
-    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_12.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_20.md",
-    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_28.md",
-    "Daily-Bullet-Journal/journals/2025/10-October/2025_10_07.md",
-    "Evergreen-Notes/Permanent-Notes/make-fast-decisions.md",
-    "Evergreen-Notes/Permanent-Notes/busyness.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_12.md",
-    "Slash/beliefs.md",
-    "Slash/values.md",
+    "Slash/dont.md",
+    "Slash/mission.md",
     "Slash/about.md",
+    "Blog/posts/20260212.md",
+    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_07.md",
+    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_31.md",
+    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_08.md",
+    "Today-I-Learned/posts/how-to-write-good-git-commit-messages.md",
+    "iCloud/Books.md",
+    "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md",
+    "Evergreen-Notes/Permanent-Notes/the-map-is-not-the-territory.md",
+    "Evergreen-Notes/Fleeting-Notes.md",
+    "Daily-Bullet-Journal/journals/2026/11-November/_attachments/Pasted image 20261125134747.png",
+    "Blog/posts/_attachments/Pasted image 20261125081229.png",
+    "Blog/posts/_attachments",
     "Daily-Bullet-Journal/journals/2026/11-November/_attachments/972e987d2fb53d9f5712a131f948afaa.jpeg",
     "Daily-Bullet-Journal/journals/2026/11-November/_attachments/a22c20ca17280f1c17595996e293764f.jpeg",
     "Daily-Bullet-Journal/journals/2024/10-October/_attachments/912c2a7778dbc7529ef31e871234183d.jpeg",
@@ -277,13 +297,7 @@
     "Subscriptions/Subscriptions.opml",
     "Subscriptions/Blogs.opml",
     "Daily-Bullet-Journal/journals/2026/11-November/_attachments/3045ef1005a68bb5dae32977b246593f.png",
-    "Daily-Bullet-Journal/journals/2026/11-November/_attachments/Gmail - Re A thought about the record attempt 1.jpg",
-    "Daily-Bullet-Journal/journals/2026/11-November/_attachments/Gmail - Re A thought about the record attempt 2.jpg",
-    "Daily-Bullet-Journal/journals/2026/11-November/_attachments/2390733eecb2a7d7adb9d7dc566c1bde.jpg",
-    "Daily-Bullet-Journal/journals/2026/11-November/_attachments/9976cc506413fa4b5a34f9932b2bb5c1.jpg",
-    "Daily-Bullet-Journal/journals/2026/11-November/_attachments/b493f125821ebcfaf3060c532a3df73a.png",
     "Brainfoodie/posts/_attachments",
-    "Scripts/backup-all-shortcuts.sh",
-    "Daily-Bullet-Journal/journals/2017/11-November"
+    "Scripts/backup-all-shortcuts.sh"
   ]
 }
