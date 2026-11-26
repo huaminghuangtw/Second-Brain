@@ -1048,5 +1048,14 @@
       ],
       "key": "C"
     }
+  ],
+  "obsidian-shellcommands:shell-command-fltnotelst": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "F"
+    }
   ]
 }

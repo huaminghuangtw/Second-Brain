@@ -4,37 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "77333502706e7f9d",
+        "id": "22c53472d3a324f2",
         "type": "tabs",
         "children": [
           {
-            "id": "6a93764471a617dd",
+            "id": "2ca03ca79d5f66fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/11-November/2026_11_25.md",
+                "file": "Daily-Bullet-Journal/journals/2026/11-November/2026_11_22.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_11_25"
+              "title": "2026_11_22"
             }
           },
           {
-            "id": "3039d842b0a8b23e",
+            "id": "d5b433007edb0cea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/posts/20260213.md",
+                "file": "Brainfoodie/posts/business-weekly-2001.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "20260213"
+              "title": "business-weekly-2001"
             }
           }
         ],
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "20261125170139",
+                "query": "商業週刊",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -228,7 +229,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Blog/posts/20260213.md"
+                "file": "Brainfoodie/posts/business-weekly-2001.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -252,40 +253,42 @@
       "similar-notes:Open Similar Notes": false
     }
   },
-  "active": "3039d842b0a8b23e",
+  "active": "d5b433007edb0cea",
   "lastOpenFiles": [
-    "Blog/posts/_attachments/Pasted image 20261125170139.png",
-    "Blog/posts/20260213.md",
+    "Brainfoodie/posts/_attachments/972e987d2fb53d9f5712a131f948afaa.jpeg",
+    "Brainfoodie/posts/_attachments",
+    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_22.md",
+    "Brainfoodie/posts/business-weekly-2001.md",
+    "Daily-Bullet-Journal/journals/2026/11-November/_attachments/972e987d2fb53d9f5712a131f948afaa.jpeg",
+    "Daily-Bullet-Journal/journals/2026/09-September/2026_09_13.md",
     "Daily-Bullet-Journal/journals/2026/11-November/2026_11_25.md",
-    "Newsletter/posts/enoughness-26.md",
-    "Blog/posts/_attachments/Pasted image 20261125171429.png",
-    "Newsletter/posts/enoughness-15.md",
-    "Blog/posts/20260122.md",
-    "Newsletter/posts/enoughness-22.md",
-    "Blog/posts/20260314.md",
-    "Newsletter/posts/enoughness-13.md",
-    "Blog/posts/20260109.md",
-    "Newsletter/posts/enoughness-12.md",
-    "Blog/posts/20260102.md",
-    "Blog/posts/_attachments/Pasted image 20261125170142.png",
-    "Drafts/_shortcutomation-business-plan.md",
+    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_26.md",
     "Homepage.md",
-    "Slash/dont.md",
+    "Evergreen-Notes/Permanent-Notes/life-is-cyclic.md",
+    "Blog/posts/20261021.md",
+    "Evergreen-Notes/Permanent-Notes/change-yourself-to-change-the-world.md",
     "Slash/mission.md",
+    "Slash/values.md",
+    "Blog/posts/20260410.md",
+    "Slash/dont.md",
+    "Newsletter/posts/enoughness-12.md",
+    "Newsletter/posts/enoughness-26.md",
+    "Newsletter/posts/enoughness-46.md",
+    "Blog/posts/20260828.md",
+    "Life-Notes/Running/2026-marathon-training.md",
+    "Blog/posts/20260101.md",
+    "Blog/posts/20260213.md",
+    "Evergreen-Notes/Permanent-Notes/push-your-limits.md",
+    "Evergreen-Notes/Permanent-Notes/abandon-your-ego.md",
+    "Life-Notes/Alignment/🎯 Life Vision Board.md",
     "Slash/about.md",
-    "Blog/posts/20260212.md",
-    "Daily-Bullet-Journal/journals/2026/08-August/2026_08_07.md",
-    "Daily-Bullet-Journal/journals/2026/10-October/2026_10_31.md",
-    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_08.md",
-    "Today-I-Learned/posts/how-to-write-good-git-commit-messages.md",
-    "iCloud/Books.md",
-    "Evergreen-Notes/Permanent-Notes/how-to-prepare-for-a-marathon.md",
-    "Evergreen-Notes/Permanent-Notes/the-map-is-not-the-territory.md",
-    "Evergreen-Notes/Fleeting-Notes.md",
-    "Daily-Bullet-Journal/journals/2026/11-November/_attachments/Pasted image 20261125134747.png",
+    "Evergreen-Notes/Permanent-Notes/sleep.md",
+    "Blog/posts/_attachments/Pasted image 20261125170139.png",
+    "Blog/posts/_attachments/Pasted image 20261125171429.png",
+    "Blog/posts/_attachments/Pasted image 20261125170142.png",
+    "Daily-Bullet-Journal/journals/2026/11-November/_attachments/eaa15011bbaf0783a36c50cfca67da22.png",
     "Blog/posts/_attachments/Pasted image 20261125081229.png",
     "Blog/posts/_attachments",
-    "Daily-Bullet-Journal/journals/2026/11-November/_attachments/972e987d2fb53d9f5712a131f948afaa.jpeg",
     "Daily-Bullet-Journal/journals/2026/11-November/_attachments/a22c20ca17280f1c17595996e293764f.jpeg",
     "Daily-Bullet-Journal/journals/2024/10-October/_attachments/912c2a7778dbc7529ef31e871234183d.jpeg",
     "Bookmarks/youtube-videos.json",
@@ -297,7 +300,6 @@
     "Subscriptions/Subscriptions.opml",
     "Subscriptions/Blogs.opml",
     "Daily-Bullet-Journal/journals/2026/11-November/_attachments/3045ef1005a68bb5dae32977b246593f.png",
-    "Brainfoodie/posts/_attachments",
     "Scripts/backup-all-shortcuts.sh"
   ]
 }
