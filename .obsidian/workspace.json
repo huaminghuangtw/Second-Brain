@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fc3bf34b08329df8",
+        "id": "db7b14525a4080a6",
         "type": "tabs",
         "children": [
           {
-            "id": "2941ab578562d1da",
+            "id": "8445c584041b83e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/11-November/2026_11_27.md",
+                "file": "Daily-Bullet-Journal/journals/2026/05-May/2026_05_09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026_11_27"
+              "title": "2026_05_09"
             }
           }
         ]
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flexoki",
+                "query": "tag:#BuJo/🤖AI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,14 +213,13 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily-Bullet-Journal/journals/2026/11-November/2026_11_27.md"
+                "file": "Daily-Bullet-Journal/journals/2026/11-November/2026_11_28.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -236,34 +235,34 @@
       "similar-notes:Open Similar Notes": false
     }
   },
-  "active": "2941ab578562d1da",
+  "active": "8445c584041b83e2",
   "lastOpenFiles": [
+    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_28.md",
+    "Evergreen-Notes/Permanent-Notes/long-term-thinking.md",
+    "Homepage.md",
+    "Evergreen-Notes/Permanent-Notes/life-is-cyclic.md",
+    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_24.md",
+    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_25.md",
     "Daily-Bullet-Journal/journals/2026/11-November/2026_11_26.md",
     "Daily-Bullet-Journal/journals/2026/11-November/2026_11_27.md",
-    "Daily-Bullet-Journal/journals/2026/02-February/2026_02_11.md",
-    "Life-Notes/Writing/🛠️ Tools for writing.md",
-    "iCloud/🛠️ Tools for writing.md",
-    "Life-Notes/Writing/Obsidian Plugins.md",
-    "Evergreen-Notes/Permanent-Notes/foursight.md",
-    "iCloud/Obsidian Plugins.md",
-    "Evergreen-Notes/Permanent-Notes/mental-models.md",
-    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_27.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_27.md",
-    "Evergreen-Notes/Permanent-Notes/adaptability.md",
-    "Evergreen-Notes/Permanent-Notes/courage-is-knowing-what-not-to-fear.md",
-    "Evergreen-Notes/Permanent-Notes/life-is-chaotic.md",
-    "Daily-Bullet-Journal/journals/2022/11-November/2022_11_27.md",
-    "Daily-Bullet-Journal/journals/2023/11-November/2023_11_27.md",
-    "Homepage.md",
-    "temp.md",
-    "Evergreen-Notes/Permanent-Notes/you-are-the-average-of-the-five-people-you-associate-with-most.md",
-    "Slash/sites.md",
-    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_12.md",
-    "Evergreen-Notes/Permanent-Notes/apple-shortcuts.md",
-    "Drafts/URL_Schemes.md",
-    "Daily-Bullet-Journal/journals/2024/12-December/2024_12_08.md",
-    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_15.md",
-    "Slash/uses.md",
+    "Daily-Bullet-Journal/journals/2025/12-December/2025_12_20.md",
+    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_22.md",
+    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_17.md",
+    "Daily-Bullet-Journal/journals/2026/01-January/2026_01_15.md",
+    "Slash/values.md",
+    "Daily-Bullet-Journal/journals/2026/11-November/2026_11_06.md",
+    "Today-I-Learned/posts/llmstxt-is-a-map-for-reading-not-a-rule-for-crawling.md",
+    "Today-I-Learned/posts/px-is-for-the-screen-rem-is-for-the-reader.md",
+    "Evergreen-Notes/Permanent-Notes/lateral-thinking.md",
+    "Drafts/_cold-hands.md",
+    "Evergreen-Notes/Permanent-Notes/money.md",
+    "Today-I-Learned/posts/llms-txt-a-map-for-reading-not-a-rule-for-crawling.md",
+    "Blog/posts/20261021.md",
+    "Drafts/bvalue.md",
+    "Slash/beliefs.md",
+    "Evergreen-Notes/Permanent-Notes/you-are-what-you-eat.md",
+    "Daily-Bullet-Journal/journals/2025/11-November/2025_11_28.md",
+    "Daily-Bullet-Journal/journals/2024/11-November/2024_11_28.md",
     "Brainfoodie/posts/_attachments/972e987d2fb53d9f5712a131f948afaa.jpeg",
     "Brainfoodie/posts/_attachments",
     "Daily-Bullet-Journal/journals/2026/11-November/_attachments/972e987d2fb53d9f5712a131f948afaa.jpeg",
