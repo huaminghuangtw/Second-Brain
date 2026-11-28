@@ -1,7 +1,7 @@
 <%*
 const result = await tp.user.createPost(tp);
 if (!result) return;
-const { filename } = result
+$Use$const { title } = result;
 -%>
 ---
 title: _<% title %>
